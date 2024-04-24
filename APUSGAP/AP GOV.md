@@ -1,3 +1,7 @@
 [[Nexus]]
 
-## [[The Constitution]]
+
+
+# [[Foundational Documents]]
+
+# [[Supreme Court Cases]]

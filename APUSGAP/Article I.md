@@ -28,3 +28,16 @@ We make the legislative branch, the house, and the senate.
 - The Vice President is the electoral tiebreaker in the senate.
 - The longest sitting member of the majority party of the senate becomes President pro-tempore, 4th in line to the presidency, behind VP and speaker. They will act as speaker if the VP is not present.
 - The Senate is the jury of all impeachments. Chief Justice is the judge
+
+
+
+## **Establishment Clause**
+
+* Prohibits the government from establishing an official religion or favoring one religion over another.
+* Protects the free exercise of religion for all individuals.
+
+## **Commerce Clause**
+
+* Gives Congress the power to regulate interstate and foreign commerce.
+* Allows the federal government to regulate activities that substantially affect interstate commerce, even if they are not explicitly mentioned in the Constitution.
+* Protects businesses from state laws that discriminate against interstate commerce.
