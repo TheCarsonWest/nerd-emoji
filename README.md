@@ -1,4 +1,4 @@
-# My 25-26 Notes
+# My 24-25 Notes
 
 ### Come and take them i dont care
 By June 2025 there will be a full obsidian vault for:
