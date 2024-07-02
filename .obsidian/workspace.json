@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bc7a60a38b3b0377",
+        "id": "ec5e795bdfd8040e",
         "type": "tabs",
         "children": [
           {
-            "id": "30a837674b8dda10",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "f1e4887f66cf6f26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14ef0ef9ed8570cd",
+            "id": "2627b1dda912433d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APES/LL/Locations and Legislation.md",
+                "file": "Northeastern tribes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "719a8f43739edf1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APES/LL/Locations and Legislation.md",
-                "collapseAll": false,
+                "file": "Untitled.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APES/LL/Locations and Legislation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APES/LL/Locations and Legislation.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -151,63 +150,65 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "14ef0ef9ed8570cd",
+  "active": "719a8f43739edf1b",
   "lastOpenFiles": [
+    "Northeastern tribes.md",
+    "Untitled.md",
+    "Native American Societies Before European Contact.md",
+    "Southeastern Tribes.md",
+    "Pasted image 20240620210101.png",
+    "Pasted image 20240620205732.png",
+    "Thing.md",
+    "APUSH Home.md",
+    "().md",
+    "Pasted image 20240620205555.png",
+    "Great plains tribes.md",
+    "**Native American Societies Before European Contact**.md",
+    "Whats up.md",
+    "Apes Final review.md",
+    "APUSGAP/Marbury v. Madison (1803).md",
+    "APUSGAP/Federalist 78.md",
+    "APUSGAP/Foundational Documents.md",
+    "APUSGAP/Federalist 70.md",
+    "APUSGAP/Brutus 1.md",
+    "APUSGAP/Federalist 51.md",
+    "Best Relays.md",
+    "APCSA/Declaration of Independence.md",
+    "APUSGAP/7th Amendment.md",
     "Tornado Alley.md",
-    "APES/LL/Locations and Legislation.md",
-    "Hoover Dam  Lake Mead.md",
     "Appalachian Mountains (coalconvergent).md",
-    "APES/LL/Andes Mountains (convergent CO).md",
-    "Antarctic Ocean.md",
-    "APES/LL/Yosemite National Park.md",
-    "APES/LL/Yellowstone National Park (hot spot).md",
-    "APES/LL/United States.md",
-    "APES/LL/Tropic of Capricorn.md",
-    "APES/LL/Tropic of Cancer (draw).md",
-    "APES/LL/Three Mile Island, Pennsylvania.md",
-    "APES/LL/Three Gorges Dam.md",
-    "APES/LL/Southern hemisphere.md",
-    "APES/LL/South America.md",
-    "APES/LL/Serengeti National Park.md",
-    "APES/LL/Saudi Arabia.md",
-    "APES/LL/San Andreas Fault (transform) (draw on map).md",
-    "APES/LL/Sahara Desert.md",
-    "APES/LL/Safe Drinking Water Act (SWDA).md",
-    "APES/LL/Russia’s Boreal Forest.md",
-    "APES/LL/Rocky Mountains.md",
-    "APES/LL/Ring of Fire (draw on map).md",
-    "APES/LL/Resource Conservation and Recovery Act (RCRA).md",
-    "APES/LL/Prince William Sound (Exxon Valdez spill).md",
-    "APES/LL/Pacific Ocean.md",
+    "Hoover Dam  Lake Mead.md",
+    "APES/u7/7.1 Air pollution.md",
+    "APUSGAP/12th Amendment.md",
+    "APUSGAP/Article V.md",
+    "APES/hi.py",
+    "APES/restructuremd.py",
+    "APES/LL/c",
     "APES/LL",
     "APES/Locations",
     "Hoover Dam ",
     "Alaska’s Northern Slope (ANWR - oil deposit ",
     "Appalachian Mountains (coal",
     "APCSA",
-    "APUSGAP",
-    "APES/u7",
-    "APES/u8",
-    "APES/u9"
+    "APUSGAP"
   ]
 }
