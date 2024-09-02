@@ -5,4 +5,4 @@
 # [[Northeastern tribes]]
 # [[Southeastern Tribes]]
 
-# [[Great Plains tribes]]
+# [[Great plains tribes]]

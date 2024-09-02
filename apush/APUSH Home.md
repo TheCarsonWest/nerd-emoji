@@ -1,3 +1,7 @@
+# [[Home]]
+
+# [[ID Home]]
+
 ### [[Unit 1: Period 1 (1491-1607) - Pre-Columbian to Early Colonization]]
 
 1. **[[Native American Societies Before European Contact]]**
@@ -5,7 +9,7 @@
     - Social structures and economies
 2. **[[European Exploration and Conquest]]**
     - Motivations: God, Gold, and Glory
-    - Major explorers and their contributions
+    - Major explorers and their contributions                                                                           
 3. **[[Columbian Exchange]]**
     - Impact on Europe, Africa, and the Americas
     - Exchange of goods, ideas, diseases
@@ -14,7 +18,7 @@
     - Differences in colonial models
 
 ### [[Unit 2: Period 2 (1607-1754) - Colonial America]]
-
+[[IDs unit 2]]
 1. **[[English Colonization]]**
     - Jamestown, Plymouth, and Massachusetts Bay
     - Economic and social structures
