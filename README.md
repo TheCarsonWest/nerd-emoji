@@ -12,4 +12,3 @@ By June 2025 there will be a full obsidian vault for:
 Once I'm done with the year I'll post the grades I got on everything(and AP Test Sores once those come out)
 
 past scores in different classes:
-![[Screenshot 2024-09-02 at 10.45.46 AM.png]]
