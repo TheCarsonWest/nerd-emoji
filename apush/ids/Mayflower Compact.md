@@ -1,3 +1,6 @@
+---
+location: 42.3788774,-72.032366
+---
 **ID:** Mayflower Compact
 
 **When:** November 11, 1620

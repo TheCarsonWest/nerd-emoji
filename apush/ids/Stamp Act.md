@@ -1,3 +1,6 @@
+---
+location: 51.5074456,-0.1277653
+---
 **ID:** Stamp Act
 **When:** March 22, 1765
 **Who:** George Grenville (British Prime Minister), American colonists

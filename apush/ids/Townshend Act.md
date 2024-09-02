@@ -1,3 +1,6 @@
+---
+location: 51.5074456,-0.1277653
+---
 **ID: Townshend Act**
 **When:** June 29, 1767
 **Who:** Charles Townshend (Chancellor of the Exchequer)

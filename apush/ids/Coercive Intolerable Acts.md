@@ -1,3 +1,6 @@
+---
+location: 51.5074456,-0.1277653
+---
 **Topic:** Coercive Intolerable Acts
 
 **When:** March-June 1774

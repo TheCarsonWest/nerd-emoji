@@ -1,3 +1,6 @@
+---
+location: 40.2253569,-82.6881395
+---
 **ID:** French and Indian War
 
 **When:** 1754-1763

@@ -1,3 +1,6 @@
+---
+location: 51.5156177,-0.0919983
+---
 **Proclamation of 1763**
 
 **When:** October 7, 1763

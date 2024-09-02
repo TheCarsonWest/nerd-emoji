@@ -1,3 +1,6 @@
+---
+location: 42.3554334,-71.060511
+---
 **ID:** Boston Massacre
 
 **When:** March 5, 1770

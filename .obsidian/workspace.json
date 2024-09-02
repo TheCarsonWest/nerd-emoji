@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d0e72c7ca505f9",
+        "id": "1f89a4b4bb891220",
         "type": "tabs",
-        "dimension": 39.29133858267716,
+        "dimension": 37.08661417322834,
         "children": [
           {
-            "id": "ac163569ce82011e",
+            "id": "e58bfcf98c89ce55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apush/ids/Treaty of Paris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "088a1c9c36b379ba",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,20 +34,23 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "6dec22bcbc43f79f",
+        "id": "3607e34d32d37cfc",
         "type": "tabs",
-        "dimension": 60.70866141732284,
+        "dimension": 62.91338582677165,
         "children": [
           {
-            "id": "0dca2b9e02b8aa96",
+            "id": "070a45f657414386",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "past-test-scores.png"
+                "file": "apush/ids/Sugar Act.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0aed38cd9deef8c9",
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "past-test-scores.png",
+                "file": "apush/ids/Sugar Act.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "past-test-scores.png",
+                "file": "apush/ids/Sugar Act.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "past-test-scores.png"
+                "file": "apush/ids/Sugar Act.md"
               }
             }
           },
@@ -177,36 +193,39 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0dca2b9e02b8aa96",
+  "active": "070a45f657414386",
   "lastOpenFiles": [
-    "README.md",
+    "apush/IDs unit 2.md",
+    "apush/ids/Salutary Neglect.md",
+    "apush/ids/Treaty of Paris.md",
+    "apush/ids/Proclamation of 1763.md",
+    "apush/ids/Headright System.md",
+    "apush/ids/Battle of Bunker Hill.md",
+    "apush/ids/Albany Plan of Union.md",
+    "APHG/Map Projections.md",
+    "APHG/APHG Home.md",
+    "quick/amelia.md",
+    "quick/ella.md",
+    "quick/tripp.md",
+    "quick/chloi.md",
+    "quick/josephine.md",
+    "quick/asher.md",
+    "quick/grace.md",
+    "quick/Untitled",
+    "quick/Carson.md",
+    "quick/Peninsula.md",
+    "apush/ids/French and Indian War.md",
+    "quick",
+    "apush/ids/Mayflower Compact.md",
+    "apush/ids/Puritans.md",
+    "apush/ids/First Continental Congress.md",
+    "apush/ids/Coercive Intolerable Acts.md",
+    "apush/ids/Tea Act.md",
+    "apush/ids/Boston Tea Party.md",
+    "apush/ids/Boston Massacre.md",
     "past-test-scores.png",
     "Screenshot 2024-09-02 at 10.45.46 AM.png",
     "Screenshot 2024-09-02 at 10.44.21 AM.png",
-    "apush/ids/Puritans.md",
-    "apush/IDs unit 2.md",
-    "apush/ids/Indentured Servitude.md",
-    "apush/ids/Headright System.md",
-    "apush/ids/Stono Rebellion.md",
-    "apush/ids/Treaty of Paris.md",
-    "apush/ids/Coercive or Intolerable Acts.md",
-    "ids/Treaty of Paris.md",
-    "ids/Battle of Saratoga.md",
-    "ids/Albany Plan of Union.md",
-    "ids/Triangular Trade.md",
-    "ids/Battle of Yorktown.md",
-    "ids/The Wealth of Nations.md",
-    "ids/Valley Forge.md",
-    "ids/Letters from a Farmer in Pennsylvania.md",
-    "ids/Battle of Bunker Hill.md",
-    "ids/Lee’s Resolution.md",
-    "ids/Common Sense.md",
-    "ids/Second Continental Congress.md",
-    "ids/Olive Branch Petition.md",
-    "ids/First Continental Congress.md",
-    "ids/Coercive or Intolerable Acts.md",
-    "ids/Boston Tea Party.md",
-    "ids/Tea Act.md",
     "ids/filemaker.py",
     "ids",
     "Untitled.canvas",
@@ -222,8 +241,6 @@
     "check.py",
     "filemaker.py",
     "apush/Pasted image 20240620205732.png",
-    "Pasted image 20240620205555.png",
-    "APES/hi.py",
-    "APES/restructuremd.py"
+    "Pasted image 20240620205555.png"
   ]
 }

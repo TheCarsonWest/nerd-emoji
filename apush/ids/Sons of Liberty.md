@@ -1,3 +1,6 @@
+---
+location: 44.2057083,-70.75378387447887
+---
 **ID:** Sons of Liberty
 **When:** 1765
 **Who:** Samuel Adams, John Hancock, John Dickinson

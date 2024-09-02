@@ -1,3 +1,6 @@
+---
+location: 40.9699889,-77.7278831
+---
 **ID:** "Letters from a Farmer in Pennsylvania"
 
 **When:** 1767-1768

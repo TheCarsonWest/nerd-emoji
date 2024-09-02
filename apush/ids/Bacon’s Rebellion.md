@@ -1,3 +1,6 @@
+---
+location: 37.1232245,-78.4927721
+---
 **ID:** Bacon's Rebellion
 
 **When:** 1676

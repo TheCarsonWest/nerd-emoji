@@ -1,3 +1,6 @@
+---
+location: 51.5074456,-0.1277653
+---
 **Notecard Summary: Tea Act**
 
 **When:** May 10, 1773
