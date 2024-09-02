@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/ids/Puritans.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0aed38cd9deef8c9",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/ids/Puritans.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/ids/Puritans.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/ids/Puritans.md"
+                "file": "README.md"
               }
             }
           },
@@ -182,6 +181,7 @@
   },
   "active": "0dca2b9e02b8aa96",
   "lastOpenFiles": [
+    "apush/ids/Puritans.md",
     "apush/IDs unit 2.md",
     "apush/ids/Indentured Servitude.md",
     "apush/ids/Headright System.md",
@@ -207,7 +207,6 @@
     "ids/Tea Act.md",
     "ids/Boston Massacre.md",
     "ids/Committees of Correspondence.md",
-    "ids/“Letters from a Farmer in Pennsylvania”.md",
     "ids/filemaker.py",
     "ids",
     "Untitled.canvas",
