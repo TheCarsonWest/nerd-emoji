@@ -9,5 +9,7 @@ By June 2025 there will be a full obsidian vault for:
 - AP English Lanaguage and Composition
 
 
-Once I'm done with school I'll post the grades I got on everything(and AP Test Sores once those come out)
+Once I'm done with the year I'll post the grades I got on everything(and AP Test Sores once those come out)
 
+past scores in different classes:
+![[Screenshot 2024-09-02 at 10.45.46 AM.png]]
