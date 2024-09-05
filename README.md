@@ -1,12 +1,12 @@
 # My 24-25 Notes
 
-### Come and take them i dont care
-By June 2025 there will be a full obsidian vault for:
+## anyone can use these idc
+By June 2025 there will be a [full obsidian vault](https://obsidian.md/) for:
 - AP US History
 - AP Chemistry
 - AP Calculus AB
 - AP Human Geography
-- AP English Lanaguage and Composition
+- AP English Language and Composition
 
 By the looks of things it might just be APUSH, APHG, and maybe chem tho
 

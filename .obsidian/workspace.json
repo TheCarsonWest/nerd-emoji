@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "070a45f657414386",
   "lastOpenFiles": [
+    "Home.md",
     "APHG/Pasted image 20240905082254.png",
     "README.md",
     "py/append.py",
     "py/api.txt",
     "APHG/Map Projections.md",
     "past-test-scores.png",
-    "Home.md",
     "py/1725541579.5955698.md",
     "py/1725541425.661966.md",
     "py/text.md",
