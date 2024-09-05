@@ -11,8 +11,12 @@
             "id": "070a45f657414386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -151,16 +159,17 @@
   },
   "active": "070a45f657414386",
   "lastOpenFiles": [
+    "APHG/Map Projections.md",
+    "past-test-scores.png",
+    "Home.md",
     "py/1725541579.5955698.md",
     "py/api.txt",
     "py/1725541425.661966.md",
     "py/text.md",
     "py/vid2.md",
     "py/vid3.md",
-    "APHG/Map Projections.md",
     "APHG/Map Distortions.md",
     "py/vid1.md",
-    "Home.md",
     "Pasted image 20240905082254.png",
     "APHG/The nature of geography 1.1.md",
     "py/yt2gpt.py",
@@ -181,10 +190,8 @@
     "APHG/Reality of our world.md",
     "apush/ids/Stamp Act.md",
     "apush/ids/Sugar Act.md",
-    "apush/ids/Salutary Neglect.md",
     "quick/Untitled",
     "quick",
-    "past-test-scores.png",
     "Screenshot 2024-09-02 at 10.45.46 AM.png",
     "Screenshot 2024-09-02 at 10.44.21 AM.png",
     "py/filemaker.py",
