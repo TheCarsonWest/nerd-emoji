@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "070a45f657414386",
   "lastOpenFiles": [
+    "APHG/Pasted image 20240905082254.png",
+    "README.md",
     "py/append.py",
     "py/api.txt",
     "APHG/Map Projections.md",
@@ -171,7 +173,6 @@
     "py/vid3.md",
     "APHG/Map Distortions.md",
     "py/vid1.md",
-    "Pasted image 20240905082254.png",
     "APHG/The nature of geography 1.1.md",
     "py/yt2gpt.py",
     "APHG/APHG Home.md",
@@ -190,7 +191,6 @@
     "apush/ids/Albany Plan of Union.md",
     "APHG/Reality of our world.md",
     "apush/ids/Stamp Act.md",
-    "apush/ids/Sugar Act.md",
     "quick/Untitled",
     "quick",
     "Screenshot 2024-09-02 at 10.45.46 AM.png",
@@ -204,7 +204,6 @@
     "APHG/Pasted image 20240829080206.png",
     "APHG/Pasted image 20240829075856.png",
     "apush/Pasted image 20240620210101.png",
-    "apush",
-    "apush/ids/filemaker.py"
+    "apush"
   ]
 }
