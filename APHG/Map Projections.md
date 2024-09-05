@@ -1,6 +1,8 @@
 # [[APHG Home]]
 
-There are 4 common map projections.
+There are 4 common map projections. they are all distorted
+## [[Map Distortions]]
+
 ## Robinson 
 ![[Pasted image 20240829075856.png]]
 - Pros
@@ -8,9 +10,10 @@ There are 4 common map projections.
 	- not too distorted
 - Cons
 	- round
+	- Latitudes are parabolic
 	- more distorted by the poles
 ## Mercator
- 
+ ![[Pasted image 20240905082254.png]]
 - Pros
 	- Everyone likes it
 	- Rectangular
@@ -43,5 +46,6 @@ Pros:
 Cons:
 - it looks funny
 - distances between whitespaces are confusing
+
 ### summary
 Theres a lot of ways we can view the world, and different maps will be used for different applications. Whichever one gets the point across best should be the one you use. Also, most of them distort africa.

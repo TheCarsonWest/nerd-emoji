@@ -21,6 +21,7 @@
 	- you get the point
 - **Cartographers** make maps 
 	- They look through lots of data to do this
+	- they want to show patterns
 ### Projections
 The earth is round. Maps are flat. you cant fully represent a 3d object in 2d space, so:
 **Every type of map will have some form of distortion no matter what**
