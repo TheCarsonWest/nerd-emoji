@@ -2,7 +2,7 @@ import os
 from time import sleep
 import google.generativeai as genai
 
-genai.configure(api_key='AIzaSyA3l1_jbgsLdQ8dJ4HzRYKXUSlsGSmtqRk')
+genai.configure(api_key=open('api.txt','r').readline())
 model = genai.GenerativeModel("gemini-pro")
 
 def ai_text(p):

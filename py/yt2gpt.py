@@ -29,7 +29,7 @@ def get_transcript_without_timestamps(video_id):
 
   return text_transcript
 
-genai.configure(api_key='AIzaSyA3l1_jbgsLdQ8dJ4HzRYKXUSlsGSmtqRk')
+genai.configure(api_key=open('api.txt','r').readline())
 model = genai.GenerativeModel("gemini-pro")
 
 
