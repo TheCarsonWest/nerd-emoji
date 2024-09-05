@@ -4,43 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "1f89a4b4bb891220",
-        "type": "tabs",
-        "dimension": 37.08661417322834,
-        "children": [
-          {
-            "id": "e58bfcf98c89ce55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/ids/Treaty of Paris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "088a1c9c36b379ba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/IDs unit 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "3607e34d32d37cfc",
         "type": "tabs",
-        "dimension": 62.91338582677165,
         "children": [
           {
             "id": "070a45f657414386",
@@ -48,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/ids/Sugar Act.md",
+                "file": "APHG/The nature of geography 1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0aed38cd9deef8c9",
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/ids/Sugar Act.md",
+                "file": "APHG/The nature of geography 1.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/ids/Sugar Act.md",
+                "file": "APHG/The nature of geography 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/ids/Sugar Act.md"
+                "file": "APHG/The nature of geography 1.1.md"
               }
             }
           },
@@ -195,34 +159,36 @@
   },
   "active": "070a45f657414386",
   "lastOpenFiles": [
+    "APHG/APHG Home.md",
+    "APHG/Cengage home.md",
+    "APHG/Map Projections.md",
+    "apush/APUSH Home.md",
+    "APHG/Data collection.md",
+    "APHG/The nature of geography 1.1.md",
+    "APHG/Pasted image 20240905072920.png",
+    "apush/ids/Bacon’s Rebellion.md",
     "apush/IDs unit 2.md",
+    "apush/ID Home.md",
+    "apush/Native American Societies Before European Contact.md",
+    "apush/Southeastern Tribes.md",
+    "apush/Northeastern tribes.md",
+    "apush/ids/Sons of Liberty.md",
+    "APCHEM",
+    "Home.md",
+    "apush/ids/Albany Plan of Union.md",
+    "APHG/Reality of our world.md",
+    "apush/ids/Stamp Act.md",
+    "apush/ids/Sugar Act.md",
     "apush/ids/Salutary Neglect.md",
     "apush/ids/Treaty of Paris.md",
     "apush/ids/Proclamation of 1763.md",
     "apush/ids/Headright System.md",
     "apush/ids/Battle of Bunker Hill.md",
-    "apush/ids/Albany Plan of Union.md",
-    "APHG/Map Projections.md",
-    "APHG/APHG Home.md",
     "quick/amelia.md",
     "quick/ella.md",
     "quick/tripp.md",
-    "quick/chloi.md",
-    "quick/josephine.md",
-    "quick/asher.md",
-    "quick/grace.md",
     "quick/Untitled",
-    "quick/Carson.md",
-    "quick/Peninsula.md",
-    "apush/ids/French and Indian War.md",
     "quick",
-    "apush/ids/Mayflower Compact.md",
-    "apush/ids/Puritans.md",
-    "apush/ids/First Continental Congress.md",
-    "apush/ids/Coercive Intolerable Acts.md",
-    "apush/ids/Tea Act.md",
-    "apush/ids/Boston Tea Party.md",
-    "apush/ids/Boston Massacre.md",
     "past-test-scores.png",
     "Screenshot 2024-09-02 at 10.45.46 AM.png",
     "Screenshot 2024-09-02 at 10.44.21 AM.png",
@@ -239,8 +205,6 @@
     "apush/ids/filemaker.py",
     "apush/ids",
     "check.py",
-    "filemaker.py",
-    "apush/Pasted image 20240620205732.png",
-    "Pasted image 20240620205555.png"
+    "apush/Pasted image 20240620205732.png"
   ]
 }

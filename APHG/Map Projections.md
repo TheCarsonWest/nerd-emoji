@@ -1,7 +1,7 @@
 # [[APHG Home]]
 
 There are 4 common map projections.
-## Robinson
+## Robinson 
 ![[Pasted image 20240829075856.png]]
 - Pros
 	- Globe like
@@ -10,7 +10,7 @@ There are 4 common map projections.
 	- round
 	- more distorted by the poles
 ## Mercator
-![[Pasted image 20240829080206.png]]
+ 
 - Pros
 	- Everyone likes it
 	- Rectangular
@@ -35,3 +35,13 @@ There are 4 common map projections.
 	- Only one half of the world
 	- really distorted on the outside
 	- We arent used to the angles
+# GOODE-HOMOLOSINE
+**![TCL_12e_Figure_01_13a_L](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcbREeFOuITedzPdVbsV2lYrHx4_alai2N9gaOhtlpQAwNj5tCf5RFZganp7UWqUAaHdYGQRS8KOCB260zhEuOTYFi7foY2Cemnops-RT4Wq4VbXufj_IwcGd2DuPUIqkCsktLgz03sKcd5GJDUYUH__eAPQ6uvV9UyL5o=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
+Pros:
+- an actually undistorted image
+- fits a 3d object on a 2d surface
+Cons:
+- it looks funny
+- distances between whitespaces are confusing
+### summary
+Theres a lot of ways we can view the world, and different maps will be used for different applications. Whichever one gets the point across best should be the one you use. Also, most of them distort africa.
