@@ -197,8 +197,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4a30cfd78a84bee1",
+  "active": "4e913aff4047e6fc",
   "lastOpenFiles": [
     "APCHEM/Speed of light.md",
     "APCHEM/Constants.md",
