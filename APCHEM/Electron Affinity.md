@@ -1,6 +1,6 @@
 # [[Periodic Trends]]
 ![[Screenshot 2024-09-09 at 10.29.59 AM.png]]
-- The energy change from when an atom gains an electron to form a megative ion
+- The energy change from when an atom gains an electron to form a negative ion
 - Can be **Exothermic or endothermic**
 	- Metals
 		- Easier to lose than gain

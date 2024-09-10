@@ -6,7 +6,13 @@ genai.configure(api_key=open('api.txt','r').readline())
 model = genai.GenerativeModel("gemini-pro")
 
 def ai_text(p):
-    return model.generate_content(p).text
+    try:
+        return model.generate_content(p).text
+    except:
+        sleep(5)
+        print('eror, waiting')
+        return ai_text(p)
+
 def create_files(file_names, file_extension):
     for name in file_names:
         # Construct the file name with the given extension
@@ -14,19 +20,12 @@ def create_files(file_names, file_extension):
 
         # Generate the prompt with clear instructions and context
         prompt = f"""
-        **Prompt:** Create a concise notecard summary on the topic of "{name}". Include the following information:
-
-        * **When:** (exact date if possible, otherwise narrow it down to a specific time period)
-        * **Who:** (key individuals BY NAME IF POSSIBLE involved or affected)
-        * **What:** (main events, actions, or concepts)
-        * **Impact:** (significance, short term and long-term consequences)
-
-        **Example:**
-ID: Headright System
-When: 1618
-Who: Sir Edwin Sandys of the Virginia Company (Virginia, Carolinas, Maryland, Georgia)
-What: A legal practice in the Americas during European colonization that granted land to settlers in exchange for helping to populate the colonies
-Impact: The system led to the expansion of population in the 13 Colonies but also increased indentured servitude as well as a wealthy planter society and continued conflicts with Native Americans over land
+        Create a detailed and structured notes page on the topic of Python {name}. Include:
+    - An explanation of what it is
+    - Various parameters is may have
+    - Code exmaples of how to use it
+    - other python concepts that link back to this one
+        
         """
         
         # Generate the text using the prompt
@@ -38,47 +37,39 @@ Impact: The system led to the expansion of population in the 13 Colonies but als
             print('created '+file_name)
         sleep(1)
 
-""" 
-              "Headright System",
-"House of Burgesses",
-"Indentured Servitude",
-"Puritans",
-"Mayflower Compact",
-"Pequot War",
-"King Philip’s War",
-"Bacon’s Rebellion",
-"Enlightenment",
-"Great Awakening",
-"French and Indian War",
-"Proclamation of 1763",
-"Salutary Neglect",
-"Sugar Act",
-"Stamp Act",
-"Sons of Liberty",
-"Townshend Act",
-"Letters from a Farmer in Pennsylvania",
-"Committees of Correspondence",
-"Boston Massacre",
-"Tea Act",      
-"Boston Tea Party",
-"Coercive or Intolerable Acts",
-"First Continental Congress",
-"Olive Branch Petition",
-"Second Continental Congress",
-"Common Sense",
-"Lee’s Resolution",
-"Battle of Bunker Hill",
-"Valley Forge",
-"The Wealth of Nations",
-"Battle of Yorktown",
-"Stono Rebellion",
-
-              """
 file_names = [
-"Triangular Trade",
-"Albany Plan of Union",
-"Battle of Saratoga",
-"Treaty of Paris"]
+    "Variables_and_Data_Types",
+    "Operators",
+    "Control_Flow_If_Statements",
+    "For_Loops",
+    "While_Loops",
+    "Functions",
+    "Function_Parameters",
+    "Return_Values",
+    "Default_Parameters",
+    "Recursion",
+    "Lambda_Functions",
+    "Lists",
+    "Tuples",
+    "Dictionaries",
+    "Sets",
+    "List_Comprehension",
+    "File_Handling",
+    "Exception_Handling",
+    "Classes_and_Objects",
+    "Inheritance",
+    "Polymorphism",
+    "Encapsulation",
+    "Modules_and_Packages",
+    "Importing_Modules",
+    "Generators",
+    "Decorators",
+    "Context_Managers",
+    "Regular_Expressions",
+    "Libraries_like_NumPy",
+    "Libraries_like_Pandas",
+    "Libraries_like_Matplotlib"
+]
 file_extension = "md"  # Change to your desired file type
 
 create_files(file_names, file_extension)

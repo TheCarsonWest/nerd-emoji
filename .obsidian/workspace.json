@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Coulombs Law.md",
+                "file": "APCHEM/Magnetic Constant.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "APCHEM/Coulombs Law.md",
+                "file": "APCHEM/Magnetic Constant.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/Coulombs Law.md",
+                "file": "APCHEM/Magnetic Constant.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APCHEM/Coulombs Law.md",
+                "file": "APCHEM/Magnetic Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCHEM/Coulombs Law.md"
+                "file": "APCHEM/Magnetic Constant.md"
               }
             }
           },
@@ -217,37 +217,39 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a79610409fb50147",
+  "active": "4a30cfd78a84bee1",
   "lastOpenFiles": [
-    "APCHEM/Laws.md",
+    "APCHEM/Speed of light.md",
+    "APCHEM/Constants.md",
     "APCHEM/APCHEM Home.md",
+    "py/Return_Values.md",
+    "py/List_Comprehension.md",
+    "py/Sets.md",
+    "py/Dictionaries.md",
+    "py/Recursion.md",
+    "py/Tuples.md",
+    "py/Operators.md",
+    "py/Lists.md",
+    "py/Control_Flow_If_Statements.md",
+    "py/Lambda_Functions.md",
+    "py/Default_Parameters.md",
+    "py/Variables_and_Data_Types.md",
+    "py/Function_Parameters.md",
+    "py/Functions.md",
+    "py/While_Loops.md",
+    "py/For_Loops.md",
+    "APCHEM/Electron Affinity.md",
+    "py/prompts.md",
+    "Python I home.md",
+    "Python I",
     "APCHEM/Periodic Trends.md",
+    "APCHEM/Laws.md",
+    "APCHEM/Coulombs Law.md",
     "APCHEM/Aufbau Principle.md",
     "update.command",
-    "Home.md",
-    "apush/APUSH Home.md",
-    "apush/ID Home.md",
-    "apush/IDs unit 2.md",
-    "apush/ids/Olive Branch Petition.md",
-    "apush/ids/Coercive Intolerable Acts.md",
-    "apush/ids/First Continental Congress.md",
-    "apush/ids/Boston Tea Party.md",
-    "apush/ids/Tea Act.md",
-    "apush/ids/Boston Massacre.md",
-    "apush/ids/Committees of Correspondence.md",
-    "apush/ids/Letters from a Farmer in Pennsylvania.md",
-    "APCHEM/Electronegativity.md",
     "Pasted image 20240909103243.png",
-    "APCHEM/Electron Affinity.md",
     "Screenshot 2024-09-09 at 10.29.59 AM.png",
     "Screenshot 2024-09-09 at 10.27.16 AM.png",
-    "APCHEM/Ionization Energy.md",
-    "APCHEM/Atomic Radius.md",
-    "Nucleus.md",
-    "Neon Atom/2p3.md",
-    "Neon Atom/2p4.md",
-    "Neon Atom/2s2.md",
-    "Neon Atom/1s2.md",
     "Screenshot 2024-09-09 at 10.16.06 AM.png",
     "Neon Atom",
     "APCHEM/Pasted image 20240909095757.png",
@@ -263,7 +265,6 @@
     "quick/Untitled",
     "quick",
     "py/filemaker.py",
-    "py",
     "Untitled.canvas"
   ]
 }
