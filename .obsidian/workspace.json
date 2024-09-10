@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Aufbau Principle.md",
+                "file": "APCHEM/Coulombs Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "APCHEM/Aufbau Principle.md",
+                "file": "APCHEM/Coulombs Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/Aufbau Principle.md",
+                "file": "APCHEM/Coulombs Law.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APCHEM/Aufbau Principle.md",
+                "file": "APCHEM/Coulombs Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCHEM/Aufbau Principle.md"
+                "file": "APCHEM/Coulombs Law.md"
               }
             }
           },
@@ -219,9 +219,11 @@
   },
   "active": "a79610409fb50147",
   "lastOpenFiles": [
-    "update.command",
     "APCHEM/Laws.md",
     "APCHEM/APCHEM Home.md",
+    "APCHEM/Periodic Trends.md",
+    "APCHEM/Aufbau Principle.md",
+    "update.command",
     "Home.md",
     "apush/APUSH Home.md",
     "apush/ID Home.md",
@@ -234,7 +236,6 @@
     "apush/ids/Boston Massacre.md",
     "apush/ids/Committees of Correspondence.md",
     "apush/ids/Letters from a Farmer in Pennsylvania.md",
-    "APCHEM/Periodic Trends.md",
     "APCHEM/Electronegativity.md",
     "Pasted image 20240909103243.png",
     "APCHEM/Electron Affinity.md",
@@ -242,7 +243,6 @@
     "Screenshot 2024-09-09 at 10.27.16 AM.png",
     "APCHEM/Ionization Energy.md",
     "APCHEM/Atomic Radius.md",
-    "APCHEM/Aufbau Principle.md",
     "Nucleus.md",
     "Neon Atom/2p3.md",
     "Neon Atom/2p4.md",
@@ -264,7 +264,6 @@
     "quick",
     "py/filemaker.py",
     "py",
-    "Untitled.canvas",
-    "APHG"
+    "Untitled.canvas"
   ]
 }
