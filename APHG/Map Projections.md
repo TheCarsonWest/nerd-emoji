@@ -33,6 +33,7 @@ There are 4 common map projections. they are all distorted
 ![[Pasted image 20240829080607.png]]
 - Pros
 	- Perfectly un-distorted poles
+	- Gives new perspective
 	- good for cold war maps
 - Cons
 	- Only one half of the world
