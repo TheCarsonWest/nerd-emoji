@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Magnetic Constant.md",
+                "file": "APHG/Reality of our world.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,14 +96,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "APCHEM/Magnetic Constant.md",
+                "file": "APHG/Reality of our world.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/Magnetic Constant.md",
+                "file": "APHG/Reality of our world.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APCHEM/Magnetic Constant.md",
+                "file": "APHG/Reality of our world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCHEM/Magnetic Constant.md"
+                "file": "APHG/Reality of our world.md"
               }
             }
           },
@@ -216,54 +216,53 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4e913aff4047e6fc",
+  "active": "a79610409fb50147",
   "lastOpenFiles": [
-    "APCHEM/Speed of light.md",
-    "APCHEM/Constants.md",
-    "APCHEM/APCHEM Home.md",
-    "py/Return_Values.md",
-    "py/List_Comprehension.md",
-    "py/Sets.md",
-    "py/Dictionaries.md",
-    "py/Recursion.md",
-    "py/Tuples.md",
-    "py/Operators.md",
-    "py/Lists.md",
-    "py/Control_Flow_If_Statements.md",
-    "py/Lambda_Functions.md",
-    "py/Default_Parameters.md",
-    "py/Variables_and_Data_Types.md",
-    "py/Function_Parameters.md",
-    "py/Functions.md",
-    "py/While_Loops.md",
-    "py/For_Loops.md",
-    "APCHEM/Electron Affinity.md",
-    "py/prompts.md",
-    "Python I home.md",
-    "Python I",
-    "APCHEM/Periodic Trends.md",
-    "APCHEM/Laws.md",
-    "APCHEM/Coulombs Law.md",
-    "APCHEM/Aufbau Principle.md",
-    "update.command",
-    "Pasted image 20240909103243.png",
-    "Screenshot 2024-09-09 at 10.29.59 AM.png",
-    "Screenshot 2024-09-09 at 10.27.16 AM.png",
-    "Screenshot 2024-09-09 at 10.16.06 AM.png",
-    "Neon Atom",
-    "APCHEM/Pasted image 20240909095757.png",
-    "APCHEM/Pasted image 20240909095201.png",
-    "APCHEM/Pasted image 20240909095108.png",
-    "APCHEM/Screenshot 2024-09-09 at 9.34.02 AM.png",
-    "APCHEM/Pasted image 20240909094606.png",
-    "APCHEM/Screenshot 2024-09-06 at 10.19.57 AM.png",
+    "APHG/APHG Unit 1.md",
+    "APHG/Types of Regions.md",
+    "APHG/APHG Home.md",
+    "APHG/Cengage home.md",
+    "APHG/Pasted image 20240911075621.png",
+    "APHG/Pasted image 20240905082254.png",
+    "APHG/Pasted image 20240905072920.png",
+    "APHG/Pasted image 20240829080607.png",
+    "APHG/Pasted image 20240829080349.png",
+    "APHG/Pasted image 20240829080206.png",
+    "APHG/Pasted image 20240829075856.png",
+    "APHG/Map Types.md",
+    "1.d.md",
+    "Home.md",
+    "APCHEM/Screenshot 2024-09-09 at 10.16.06 AM.png",
+    "APCHEM/Screenshot 2024-09-09 at 10.29.59 AM.png",
+    "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png",
+    "APHG/The nature of geography 1.1.md",
+    "scripts/linker.py",
+    "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.md",
+    "APHG/Geospatial Data.md",
+    "APHG/Map Projections.md",
+    "APHG/Reality of our world.md",
+    "Geospatial Data.md",
+    "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.txt",
+    "python1/Python 1 Home.md",
+    "scripts/yt2gpt.py",
+    "scripts/filemaker.py",
+    "scripts/append.py",
+    "scripts/api.txt",
+    "scripts",
     "py/append.py",
-    "py/api.txt",
-    "py/yt2gpt.py",
-    "APCHEM",
-    "quick/Untitled",
-    "quick",
-    "py/filemaker.py",
+    "python1/append.py",
+    "python1/Polymorphism.md",
+    "Python I home.md",
+    "python1/Dictionaries.md",
+    "python1/Classes_and_Objects.md",
+    "python1/Lambda_Functions.md",
+    "python1/While_Loops.md",
+    "python1/Variables_and_Data_Types.md",
+    "python1/Tuples.md",
+    "python1/Sets.md",
+    "python1/Return_Values.md",
+    "python1/Regular_Expressions.md",
+    "python1",
     "Untitled.canvas"
   ]
 }

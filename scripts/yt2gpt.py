@@ -45,7 +45,7 @@ transcript = get_transcript_without_timestamps(video_id)
 
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + "\n\n Turn this transcript into a readable article"
+  prompt = transcript + "\n\n Turn this transcript into a readable article using markdown formatting"
 
   # Generate text using your chosen library (replace `ai_text` if needed)
   article_text = ai_text(prompt)
@@ -53,7 +53,7 @@ if transcript:
   # Write the generated article to a file (modify filename if needed)
   if article_text:
       with open(f"{time.time()}.md", 'w') as f:
-          f.write(article_text)
+          f.write(f"https://www.youtube.com/watch?v={video_id}\n\n"+article_text)
           print("Article written")
   else:
       print("Text generation failed.")

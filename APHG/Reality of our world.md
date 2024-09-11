@@ -42,14 +42,12 @@ heres some cities that are in africa
 Less Developed Country
 - Most of africa
 - India
-
 ## EDC
 Emerging Developing Country
 - MENA
 - SEA
 - Eastern Europe
 - South America
-
 ## MDC
 More Developed Country
 - Europe
