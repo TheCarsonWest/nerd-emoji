@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/ids/Albany Plan of Union.md",
+                "file": "apush/ids/Stono Rebellion.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,11 +96,9 @@
           {
             "id": "d1961da0331887a4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
@@ -110,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/ids/Albany Plan of Union.md",
+                "file": "apush/ids/Stono Rebellion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,17 +135,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "229833ba2cf36b17",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "03752f9e506457c7",
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/ids/Albany Plan of Union.md",
+                "file": "apush/ids/Stono Rebellion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/ids/Albany Plan of Union.md",
+                "file": "apush/ids/Stono Rebellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/ids/Albany Plan of Union.md"
+                "file": "apush/ids/Stono Rebellion.md"
               }
             }
           },
@@ -243,28 +231,34 @@
   },
   "active": "2cf73e6fb26dd349",
   "lastOpenFiles": [
-    "scripts/append.py",
-    "APHG/Geospatial Data.md",
-    "apush/ids/Albany Plan of Union.md",
-    "apush/ids/Indentured Servitude.md",
     "apush/IDs unit 2.md",
+    "apush/ids/Treaty of Paris 1776.md",
+    "scripts/1726157269.093583.md",
+    "scripts/1726155495.370811.md",
+    "scripts/1726156705.8905752.md",
+    "scripts/1726156557.615872.md",
+    "scripts/1726156501.001622.md",
+    "scripts/1726156352.2835479.md",
+    "apush/ids/Battle of Saratoga.md",
+    "apush/ids/Albany Plan of Union.md",
+    "apush/ids/Triangular Trade.md",
+    "apush/ids/Stono Rebellion.md",
+    "apush/ids/Battle of Yorktown.md",
+    "apush/ids/The Wealth of Nations.md",
+    "apush/ids/Valley Forge.md",
+    "apush/ids/Battle of Bunker Hill.md",
+    "apush/ids/Lee’s Resolution.md",
+    "apush/ids/Common Sense.md",
+    "apush/ids/Second Continental Congress.md",
     "apush/ids/Headright System.md",
     "apush/ids/House of Burgesses.md",
+    "apush/ids/Boston Tea Party.md",
+    "1.d.md",
+    "scripts/append.py",
+    "APHG/Geospatial Data.md",
+    "apush/ids/Indentured Servitude.md",
     "Arabic/Module 1.md",
-    "Home.md",
-    "Arabic/M1L1 Grammar.md",
     "Arabic",
-    "Arabic/The Arab Market.md",
-    "Arabic/Arabic Home.md",
-    "APHG/APHG Unit 1.md",
-    "APHG/Reality of our world.md",
-    "APHG/APHG Home.md",
-    "apush/APUSH Home.md",
-    "apush/ID Home.md",
-    "apush/ids/Common Sense.md",
-    "apush/ids/Olive Branch Petition.md",
-    "APHG/Types of Regions.md",
-    "APHG/Cengage home.md",
     "APHG/Pasted image 20240911075621.png",
     "APHG/Pasted image 20240905082254.png",
     "APHG/Pasted image 20240905072920.png",
@@ -272,15 +266,10 @@
     "APHG/Pasted image 20240829080349.png",
     "APHG/Pasted image 20240829080206.png",
     "APHG/Pasted image 20240829075856.png",
-    "APHG/Map Types.md",
-    "1.d.md",
     "APCHEM/Screenshot 2024-09-09 at 10.16.06 AM.png",
     "APCHEM/Screenshot 2024-09-09 at 10.29.59 AM.png",
     "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png",
-    "APHG/The nature of geography 1.1.md",
     "scripts/linker.py",
-    "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.md",
-    "APHG/Map Projections.md",
     "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.txt",
     "scripts/yt2gpt.py",
     "scripts/filemaker.py",

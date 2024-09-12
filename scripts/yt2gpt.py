@@ -45,7 +45,7 @@ transcript = get_transcript_without_timestamps(video_id)
 
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + "\n\n Turn this transcript into a readable article using markdown formatting"
+  prompt = transcript + "\n\n Turn this ENTIRE transcript into a readable article using markdown formatting."
 
   # Generate text using your chosen library (replace `ai_text` if needed)
   article_text = ai_text(prompt)

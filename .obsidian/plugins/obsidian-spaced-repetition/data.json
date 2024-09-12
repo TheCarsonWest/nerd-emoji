@@ -6,7 +6,7 @@
     "flashcardTags": [
       "#ids"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
