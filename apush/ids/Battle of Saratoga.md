@@ -18,3 +18,4 @@
 * Paved the way for the French alliance in 1778
 * Boosted American morale and strengthened the Continental Army
 * Weakened British control over the colonies and contributed to their eventual defeat in the war
+#ids

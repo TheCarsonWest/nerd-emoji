@@ -8,3 +8,5 @@ location: 51.5074456,-0.1277653
 **Impact:**
 * Short-term: Sparked protests and boycotts in the colonies, leading to increased tensions with Great Britain.
 * Long-term: Contributed to the growing resentment and calls for independence, ultimately playing a role in the outbreak of the American Revolution
+
+#ids

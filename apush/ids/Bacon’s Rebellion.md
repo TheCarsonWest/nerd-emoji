@@ -20,3 +20,4 @@ location: 37.1232245,-78.4927721
     * Weakened the authority of the Virginia governor.
     * Led to greater restrictions on frontier settlements and indigenous peoples.
     * Contributed to the American Revolution by demonstrating the willingness of colonists to challenge British authority.
+#ids

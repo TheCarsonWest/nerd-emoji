@@ -16,3 +16,4 @@ location: 44.2057083,-70.75378387447887
         * Weakened Native American resistance in the region
         * Led to increased colonial expansion and land acquisition
         * Exacerbated tensions between colonists and indigenous communities
+#ids

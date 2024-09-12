@@ -9,3 +9,4 @@ location: 51.5074456,-0.1277653
 
 * **Short-term:** Colonial protests and boycotts; increased tensions between American colonists and British authorities.
 * **Long-term:** Contributing factor to the American Revolution; laid the foundation for American self-governance.
+#ids
