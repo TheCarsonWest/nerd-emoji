@@ -27,7 +27,7 @@
    - or (logical OR)
    - not (logical NOT)
 
-**4. Assignment Operators:** Used to assign values to [[Variables_and_Data_Types]].
+**4. Assignment Operators:** Used to assign values to [[Variables and Data Types]].
    - = (assignment)
    - += (addition assignment)
    - -= (subtraction assignment)
@@ -82,8 +82,8 @@ x -= 3  # Equivalent to x = x - 3
 
 **Other Related [[Python Concepts]]**
 
-* [[Variables_and_Data_Types]]: Used to store values and refer to them in code.
-* Expressions: Combinations of [[Variables]], [[Operators]], and values that evaluate to a single value.
+* [[Variables and Data Types]]: Used to store values and refer to them in code.
+* Expressions: Combinations of [[Variables]], [[Python Operators]], and values that evaluate to a single value.
 * Boolean Logic: The concept of true and false values used in comparison and logical operations.
 [[Python 1 Home]]**Task:** recreate the this markdown file exactly, but whenever one of these topics is mentioned, put two brackets around it, and make sure it matches one of the list of the other topics in the folder. Here are the list of topics in the folder:
 Dictionaries.md

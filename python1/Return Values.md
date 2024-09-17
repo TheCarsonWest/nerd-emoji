@@ -3,13 +3,13 @@
 **Explanation:**
 
 * A Return_Values statement in Python allows a [[Functions]] to send back a value to the calling code.
-* The Return_Values can be of any [[Variables_and_Data_Types]], including None.
+* The Return_Values can be of any [[Variables and Data Types]], including None.
 * If a Return_Values statement is not used, the function automatically Return_Values None.
 
 **Parameters:**
 
 * The Return_Values statement takes an optional expression as a parameter.
-* This expression can be any valid Python expression, such as a [[Variables]], [[Variables_and_Data_Types]], or [[Functions]] call.
+* This expression can be any valid Python expression, such as a [[Variables]], [[Variables and Data Types]], or [[Functions]] call.
 
 **Code Examples:**
 
@@ -40,7 +40,7 @@ print(maximum)  # Output: 7
 
 * [[Functions Definitions]]: [[Functions]] that Return_Values values are defined using the `def` keyword.
 * [[Variables]]: The Return_Values can be stored in a [[Variables]] using the assignment operator (=).
-* [[Variables_and_Data_Types]]: The Return_Values can be of any valid Python [[Variables_and_Data_Types]].
+* [[Variables and Data Types]]: The Return_Values can be of any valid Python [[Variables and Data Types]].
 * [[None]]: If no Return_Values statement is used, the function automatically Return_Values [[None]].
-* [[Lambda_Functions]]: [[Lambda_Functions]] can be used to create anonymous [[Functions]] that Return_Values values.
+* [[Lambda Functions]]: [[Lambda Functions]] can be used to create anonymous [[Functions]] that Return_Values values.
 * [[Generators]]: [[Generators]] can be used to Return_Values a sequence of values one at a time.

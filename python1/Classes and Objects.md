@@ -1,4 +1,4 @@
-**Python [[Classes_and_Objects]]**
+**Python [[Classes and Objects]]**
 
 **Introduction**
 

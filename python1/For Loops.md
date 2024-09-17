@@ -1,8 +1,8 @@
-**Python For_Loops**
+**Python For Loops**
 
 **Explanation:**
 
-A [[For_Loops]] is a [[Control_Flow_If_Statements]] statement used in Python to iterate over a [[Sequence]] ([[Lists]], [[Tuples]], [[Strings]], etc.) and execute a set of statements for each element in the [[Sequence]].
+A [[For Loops]] is a [[Control Flow If Statements]] statement used in Python to iterate over a [[Sequence]] ([[Lists]], [[Tuples]], [[Strings]], etc.) and execute a set of statements for each element in the [[Sequence]].
 
 **Parameters:**
 
@@ -61,6 +61,6 @@ else:
 **Other Python Concepts Linked to For_Loops:**
 
 * **[[Iterables]]:** Objects that can be iterated over, such as [[Lists]], [[Tuples]], [[Strings]], and [[Ranges]].
-* **[[Control_Flow_If_Statements]]:** Statements that control the flow of execution, such as [[If-Else Statements]] and [[While_Loops]].
+* **[[Control Flow If Statements]]:** Statements that control the flow of execution, such as [[If-Else Statements]] and [[While Loops]].
 * **[[Ranges]]:** Objects that generate consecutive numbers, used to iterate over a specific range.
-* **[[List_Comprehension]]:** A compact way to create new [[Lists]] by iterating over an [[Iterable]].
+* **[[List Comprehension]]:** A compact way to create new [[Lists]] by iterating over an [[Iterable]].

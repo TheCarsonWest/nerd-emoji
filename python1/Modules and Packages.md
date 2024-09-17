@@ -1,4 +1,4 @@
-## [[Modules]] and [[Packages]]
+## [[Modules and Packages]]
 
 ### Definition
 A [[Module]] in Python is a file consisting of Python code containing [[Functions]], [[Classes]], or [[Variables]] defined in it. [[Packages]], on the other hand, are a collection of related [[Modules]] organized into a hierarchal structure.

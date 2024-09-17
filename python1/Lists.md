@@ -55,4 +55,4 @@ print(my_list)  # Output: 0, 1, 5, 4, 6
 * [[Tuples]]: Immutable sequences of elements.
 * [[Sets]]: Unordered collections of unique elements.
 * [[Dictionaries]]: Unordered collections of key-value pairs.
-* [[Iterations]]: Using `for` loops or [[List_Comprehension]] to iterate through [[Lists]].
+* [[Iterations]]: Using `for` loops or [[List Comprehension]] to iterate through [[Lists]].

@@ -1,8 +1,8 @@
-**Python [[Exception_Handling]]**
+**Python [[Exception Handling]]**
 
 **Explanation:**
 
-* [[Exception_Handling]] is a mechanism in Python to handle errors and exceptions that occur during the execution of a program.
+* [[Exception Handling]] is a mechanism in Python to handle errors and exceptions that occur during the execution of a program.
 * Exceptions are events that interrupt the normal flow of execution, such as errors, invalid inputs, or system failures.
 
 **Parameters:**
@@ -30,13 +30,13 @@ finally:
 
 **Error Handling:** Python provides a rich set of error classes that represent different types of exceptions that can occur. This allows for specific handling of different error types.
 
-**Input Validation:** [[Exception_Handling]] can be used to validate user input and handle invalid or unexpected values gracefully.
+**Input Validation:** [[Exception Handling]] can be used to validate user input and handle invalid or unexpected values gracefully.
 
 **Logging:** Exceptions can be logged to provide detailed information about the error to aid in debugging and troubleshooting.
 
-**Code Flow:** [[Exception_Handling]] provides a structured way to handle interruptions in the normal flow of execution, ensuring that the program recovers gracefully or takes corrective actions.
+**Code Flow:** [[Exception Handling]] provides a structured way to handle interruptions in the normal flow of execution, ensuring that the program recovers gracefully or takes corrective actions.
 
-**Other [[Exception_Handling]] Mechanisms:**
+**Other [[Exception Handling]] Mechanisms:**
 
 * **raise:** Explicitly raises an exception.
 * **assert:** Used for debugging purposes to check if a condition is true, and raises an exception if it is false.

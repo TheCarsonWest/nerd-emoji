@@ -1,8 +1,8 @@
-**Python [[File_Handling]]**
+**Python [[File Handling]]**
 
-**What is [[File_Handling]]?**
+**What is [[File Handling]]?**
 
-[[File_Handling]] refers to the process of creating, reading, writing, and modifying files in a computer system using a programming language. In Python, [[File_Handling]] capabilities are provided through the open() function.
+[[File Handling]] refers to the process of creating, reading, writing, and modifying files in a computer system using a programming language. In Python, [[File Handling]] capabilities are provided through the open() function.
 
 **Parameters for open() Function:**
 
@@ -54,9 +54,9 @@ with open('myfile.txt', 'a') as file:
 
 It is important to close a file after performing operations on it to release system resources. The preferred method is to use the 'with' statement, which automatically closes the file when the block exits.
 
-**Other Python Concepts Linked to [[File_Handling]]:**
+**Other Python Concepts Linked to [[File Handling]]:**
 
 * [[File_Objects]]: Files opened using the 'open()' function are represented as file objects, which provide methods for reading, writing, and manipulating the file.
-* [[Context_Managers]]: The 'with' statement acts as a [[Context_Managers]], ensuring that the file is automatically closed even in case of exceptions.
-* [[Exception_Handling]]: When working with files, it is important to handle exceptions such as FileNotFoundError, PermissionError, and IOError.
-* [[File_I/O_Operations]]: [[File_Handling]] operations in Python are non-blocking, which means that they do not block the main thread while performing tasks.**
+* [[Context Managers]]: The 'with' statement acts as a [[Context Managers]], ensuring that the file is automatically closed even in case of exceptions.
+* [[Exception Handling]]: When working with files, it is important to handle exceptions such as FileNotFoundError, PermissionError, and IOError.
+* [[File_I/O_Operations]]: [[File Handling]] operations in Python are non-blocking, which means that they do not block the main thread while performing tasks.**

@@ -2,7 +2,7 @@
 
 ### Overview
 
-A [[While_Loops]] is a control flow statement that repeatedly executes a block of code as long as a specified condition remains True.
+A [[While Loops]] is a control flow statement that repeatedly executes a block of code as long as a specified condition remains True.
 
 ### Parameters
 
@@ -35,7 +35,7 @@ while True:
 
 ### Related [[Python]] Concepts
 
-* **[[For_Loops]]:** [[For_Loops]] iterate over a sequence of elements, while [[While_Loops]] execute based on a condition.
-* **Conditional Statements:** [[While_Loops]] use a conditional statement (the `while` condition) to determine whether to execute the loop body.
+* **[[For Loops]]:** [[For Loops]] iterate over a sequence of elements, while [[While Loops]] execute based on a condition.
+* **Conditional Statements:** [[While Loops]] use a conditional statement (the `while` condition) to determine whether to execute the loop body.
 * **Iterators:** Iterators provide a way to iterate over elements in a loop.
-* **Generators:** Generators can be used to create sequences of values on-the-fly, which can be iterated over in a [[While_Loops]].
+* **Generators:** Generators can be used to create sequences of values on-the-fly, which can be iterated over in a [[While Loops]].

@@ -1,8 +1,8 @@
-**[[Libraries_like_Pandas]] Library**
+**[[Libraries like Pandas]] Library**
 
 **Explanation:**
 
-[[Libraries_like_NumPy]] is an open-source, Python data manipulation and analysis library. It provides high-performance data structures and operations for working with structured data, such as tabular data.
+[[Libraries like NumPy]] is an open-source, Python data manipulation and analysis library. It provides high-performance data structures and operations for working with structured data, such as tabular data.
 
 **Parameters:**
 
@@ -49,8 +49,8 @@ df.plot.scatter(x='age', y='name') # Create a scatter plot of age vs. name
 
 **Related Python Concepts:**
 
-* [[Libraries_like_NumPy]]: Provides numerical operations and data structures for scientific computing.
-* [[Libraries_like_Matplotlib]]: Provides functions for creating static and interactive visualizations.
+* [[Libraries like NumPy]]: Provides numerical operations and data structures for scientific computing.
+* [[Libraries like Matplotlib]]: Provides functions for creating static and interactive visualizations.
 * Seaborn: A high-level interface for statistical graphics.
 * Data Cleaning: Cleaning and preparing data for analysis.
 * Exploratory Data Analysis (EDA): Exploring and analyzing data to gain insights.
