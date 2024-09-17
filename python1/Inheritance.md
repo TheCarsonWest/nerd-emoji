@@ -1,22 +1,22 @@
-**Python Inheritance**
+**[[Python_1_Home]] Inheritance**
 
 **Concept:**
 
-Inheritance is a fundamental object-oriented programming (OOP) mechanism that allows classes to inherit properties and behavior from other classes. It enables code reusability and facilitates code organization by establishing hierarchical relationships between classes.
+[[Inheritance]] is a fundamental [[Object-Oriented_Programming]] mechanism that allows classes to inherit properties and behavior from other classes. It enables code reusability and facilitates code organization by establishing hierarchical relationships between classes.
 
 **Parameters:**
 
-* **Superclass (Parent Class):** The class from which the subclass inherits.
-* **Subclass (Child Class):** The class that inherits from the superclass.
-* **Inheritance Type:** Defines the scope of inheritance. Python supports four types:
-    * Single inheritance: A subclass inherits from a single superclass.
-    * Multiple inheritance: A subclass inherits from multiple superclasses.
-* **Method Overriding:** Occurs when a method with the same name is defined in both the superclass and the subclass. The subclass method overrides the superclass method.
-* **Method Overloading:** Occurs when a method with the same name is defined in a subclass with different parameters.
+* **Superclass ([[Parent_Class]]):** The class from which the subclass inherits.
+* **Subclass ([[Child_Class]]):** The class that inherits from the superclass.
+* **[[Inheritance_Type]]:** Defines the scope of Inheritance. Python supports four types:
+    * Single [[Inheritance]]: A subclass inherits from a single superclass.
+    * Multiple [[Inheritance]]: A subclass inherits from multiple superclasses.
+* **Method [[Overriding]]:** Occurs when a method with the same name is defined in both the superclass and the subclass. The subclass method overrides the superclass method.
+* **Method [[Overloading]]:** Occurs when a method with the same name is defined in a subclass with different parameters.
 
 **Code Examples:**
 
-**Single Inheritance:**
+**Single [[Inheritance]]:**
 
 ```python
 class Animal:
@@ -35,7 +35,7 @@ print(dog.breed)  # German Shepherd
 
 In this example, `Dog` inherits from the `Animal` class. `Dog` has its own `__init__` method that extends the `__init__` method of `Animal`.
 
-**Multiple Inheritance:**
+**Multiple [[Inheritance]]:**
 
 ```python
 class Animal:
@@ -58,7 +58,7 @@ print(bird.speed)  # 100
 
 In this example, `Bird` inherits from both `Animal` and `CanFly`. `Bird` has its own `__init__` method that calls the `__init__` methods of both superclasses.
 
-**Method Overriding:**
+**Method [[Overriding]]:**
 
 ```python
 class Animal:
@@ -77,8 +77,8 @@ In this example, the `eat` method is overridden in the `Dog` class. When `eat()`
 
 **Other Related Concepts:**
 
-* **Polymorphism:** Ability of objects of different subclasses to be treated as objects of the superclass.
-* **Abstract Classes:** Classes that cannot be instantiated directly and serve as base classes for other classes.
-* **Encapsulation:** Restricting access to data and methods of an object.
-* **Composition:** Alternative to inheritance where objects contain other objects to achieve the desired functionality.
-[[Python 1 Home]]
+* [[Polymorphism]]: Ability of objects of different subclasses to be treated as objects of the superclass.
+* [[Abstract_Classes]]: Classes that cannot be instantiated directly and serve as base classes for other classes.
+* [[Encapsulation]]: Restricting access to data and methods of an object.
+* [[Composition]]: Alternative to Inheritance where objects contain other objects to achieve the desired functionality.
+[[Python_1_Home]] Here is a list of the other topics in this course:

@@ -1,5 +1,7 @@
 [[The nature of geography 1.1]]
 [[APHG Unit 1]]
+
+### Different people map different maps
 **![pamap1](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUco6pCH7EZngSvDYtf6SXlBYA3G9FrVsBouWGgihu9byUt3YE7eYdaFv6FD6TQhdtk6pO6kvfPkPxXEXzFw0NFO8HV3KOxPUF1jyO6fQVLQnmvnoeILka7ONCjXgvmhzX_DGShw0UV5gpAXYE2ZItE8aRR_l7Q=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)
 Palestinian map(Ahamadullallah the Islamic Emirate of Hamas is finally realized)
 ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUekN7C-HJm2Dl8LlZlmeAYmdAq3aBaePDp35I0WoeQKhDfh8KA6lr1OGGMhz9eKPwtQ3NFPd6P0J6zxmXRRBVlUm03az3TG96qpa8rjZG1budfuorHIgHhuy-b5Nxoz6JXQ5izvlRg2AvduaBeLiYJNsqZ7FzfC=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)

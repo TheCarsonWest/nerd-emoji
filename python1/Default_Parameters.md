@@ -1,13 +1,13 @@
-**Python Default Parameters**
+**Python [[Default_Parameters]]**
 
 **Explanation:**
 
-Default parameters allow you to assign a default value to function arguments. This means that if an argument is not passed when calling the function, it will automatically use the default value provided.
+[[Default_Parameters]] allow you to assign a default value to [[Function_Parameters]]. This means that if an argument is not passed when calling the function, it will automatically use the default value provided.
 
 **Parameters:**
 
 * **Positional Parameters:** These parameters are passed in order, and if a default value is provided, it must be assigned to the last positional argument.
-* **Keyword Parameters:** These parameters are passed using keyword arguments, and they can be assigned a default value even if they are not the last argument.
+* **Keyword Parameters:** These parameters are passed using [[Keyword_Parameters]], and they can be assigned a default value even if they are not the last argument.
 * **Default Value:** This is the value assigned to the parameter if no value is passed.
 
 **Code Examples:**
@@ -33,9 +33,9 @@ area = calculate_area(5)  # Output: 10
 
 **Linked Python Concepts:**
 
-* **Function Definitions:** Default parameters are used in function definitions to specify default values for arguments.
-* **Call-by-value:** When a default parameter is used, a copy of the default value is passed to the function.
-* **Optional Arguments:** Default parameters can be used to make arguments optional, as shown in the above examples.
-* **Decorators:** Decorators can be used to automatically add default values to function arguments, simplifying code.
-* **Typing:** Default parameters can be annotated with types, providing type hints for the function's signature.
-[[Python 1 Home]]
+* **[[Function_Definitions]]:** [[Default_Parameters]] are used in function definitions
+* **[[Call-by-Value]]:** When a [[Default_Parameter]] is used, a copy of the default value is passed to the function.
+* **[[Optional_Arguments]]:** [[Default_Parameters]] can be used to make arguments optional, as shown in the above examples.
+* **[[Decorators]]:** [[Decorators]] can be used to automatically add default values to [[Function_Parameters]], simplifying code.
+* **[[Typing]]:** [[Default_Parameters]] can be annotated with types, providing type hints for the function's signature.
+Python 1 Home

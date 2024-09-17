@@ -1,8 +1,8 @@
-## Python While Loops
+## [[Python While_Loops]]
 
 ### Overview
 
-A while loop is a control flow statement that repeatedly executes a block of code as long as a specified condition remains True.
+A [[While_Loops]] is a control flow statement that repeatedly executes a block of code as long as a specified condition remains True.
 
 ### Parameters
 
@@ -33,10 +33,9 @@ while True:
 * **Body:** The code within the loop body executes as long as the condition remains True.
 * **Loop Control:** Use statements like `break` and `continue` to control the flow within the loop. `break` exits the loop, and `continue` skips the remaining code in the current iteration.
 
-### Related Python Concepts
+### Related [[Python]] Concepts
 
-* **For Loops:** For loops iterate over a sequence of elements, while while loops execute based on a condition.
-* **Conditional Statements:** While loops use a conditional statement (the `while` condition) to determine whether to execute the loop body.
+* **[[For_Loops]]:** [[For_Loops]] iterate over a sequence of elements, while [[While_Loops]] execute based on a condition.
+* **Conditional Statements:** [[While_Loops]] use a conditional statement (the `while` condition) to determine whether to execute the loop body.
 * **Iterators:** Iterators provide a way to iterate over elements in a loop.
-* **Generators:** Generators can be used to create sequences of values on-the-fly, which can be iterated over in a while loop.
-[[Python 1 Home]]
+* **Generators:** Generators can be used to create sequences of values on-the-fly, which can be iterated over in a [[While_Loops]].

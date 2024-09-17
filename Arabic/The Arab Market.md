@@ -86,7 +86,7 @@
 | حوالي               | Around/approximately                   |
 | اثنان و ستون ٦٢     | Sixty-two 62                           |
 | يا رجل              | Oh man                                 |
-| هذا كثير            | That is too much                       |
+| هذا كثير            | That is نtoo much                      |
 | هل تقبل؟            | Do you accept it?                      |
 | خمسة و خمسون ٥٥     | Fifty-five 55                          |
 | طيب                 | Okay...                                |

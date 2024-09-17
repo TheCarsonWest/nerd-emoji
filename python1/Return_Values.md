@@ -1,47 +1,46 @@
-**Python Return Values**
+**Python Return_Values**
 
 **Explanation:**
 
-* A return statement in Python allows a function to send back a value to the calling code.
-* The return value can be of any data type, including None.
-* If a return statement is not used, the function automatically returns None.
+* A Return_Values statement in Python allows a [[Functions]] to send back a value to the calling code.
+* The Return_Values can be of any [[Variables_and_Data_Types]], including None.
+* If a Return_Values statement is not used, the function automatically Return_Values None.
 
 **Parameters:**
 
-* The return statement takes an optional expression as a parameter.
-* This expression can be any valid Python expression, such as a variable, literal, or function call.
+* The Return_Values statement takes an optional expression as a parameter.
+* This expression can be any valid Python expression, such as a [[Variables]], [[Variables_and_Data_Types]], or [[Functions]] call.
 
 **Code Examples:**
 
 ```python
-# Function to return the square of a number
+# [[Functions]] to Return_Values the square of a number
 def square(x):
-    return x * x
+    Return_Values x * x
 
-# Call the function and store the return value in a variable
+# Call the [[Functions]] and store the Return_Values in a [[Variables]]
 result = square(5)
 print(result)  # Output: 25
 ```
 
 ```python
-# Function to return the maximum of two numbers
+# [[Functions]] to Return_Values the maximum of two numbers
 def max(a, b):
     if a > b:
-        return a
+        Return_Values a
     else:
-        return b
+        Return_Values b
 
-# Call the function with two arguments
+# Call the [[Functions]] with two arguments
 maximum = max(3, 7)
 print(maximum)  # Output: 7
 ```
 
 **Linked Python Concepts:**
 
-* **Function Definitions:** Functions that return values are defined using the `def` keyword.
-* **Variables:** The return value can be stored in a variable using the assignment operator (=).
-* **Data Types:** The return value can be of any valid Python data type.
-* **None:** If no return statement is used, the function automatically returns None.
-* **Lambdas:** Lambdas can be used to create anonymous functions that return values.
-* **Generators:** Generators can be used to return a sequence of values one at a time.
-[[Python 1 Home]]
+* [[Functions Definitions]]: [[Functions]] that Return_Values values are defined using the `def` keyword.
+* [[Variables]]: The Return_Values can be stored in a [[Variables]] using the assignment operator (=).
+* [[Variables_and_Data_Types]]: The Return_Values can be of any valid Python [[Variables_and_Data_Types]].
+* [[None]]: If no Return_Values statement is used, the function automatically Return_Values [[None]].
+* [[Lambda_Functions]]: [[Lambda_Functions]] can be used to create anonymous [[Functions]] that Return_Values values.
+* [[Generators]]: [[Generators]] can be used to Return_Values a sequence of values one at a time.

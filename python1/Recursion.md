@@ -2,13 +2,13 @@
 
 **What is Recursion?**
 
-Recursion occurs when a function calls itself within its own code. It is a powerful technique used to solve problems with recursive structure, such as binary trees, linked lists, and solving complex mathematical puzzles.
+Recursion occurs when a function calls itself within its own code. It is a powerful technique used to solve problems with recursive structure, such as [[Binary Trees]], [[Linked Lists]], and solving complex mathematical puzzles.
 
 **Parameters**
 
 A recursive function typically has one or more parameters that control its behavior:
 
-* **Base Case:** A condition that stops the recursion and returns a result.
+* **Base Case:** A condition that stops the Recursion and returns a result.
 * **Recursive Case:** The part of the function that calls itself with modified parameters.
 * **Parameter Modification:** The way in which the parameters change with each recursive call.
 
@@ -44,8 +44,7 @@ def fibonacci(n):
 
 **Other Python Concepts Related to Recursion**
 
-* **Recursion Limit:** Python has a default recursion limit of 1000. This can be increased using the `sys.setrecursionlimit()` function.
+* **Recursion Limit:** Python has a default Recursion limit of 1000. This can be increased using the `sys.setrecursionlimit()` function.
 * **Stack Overflow:** Recursion can lead to a stack overflow error if the function calls itself too many times without reaching a base case.
 * **Memoization:** A technique used to store the results of recursive calls to avoid redundant calculations.
-* **Dynamic Programming:** Another technique that uses recursion to solve problems by breaking them down into smaller subproblems and storing their solutions.
-[[Python 1 Home]]
+* **Dynamic Programming:** Another technique that uses Recursion to solve problems by breaking them down into smaller subproblems and storing their solutions.

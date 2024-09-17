@@ -1,17 +1,17 @@
-**Python Regular Expressions (Regex)**
+**Python [[Regular_Expressions]] (Regex)**
 
-**What is Regex?**
+**What is [[Regular_Expressions]]?**
 
-Regular expressions are a sequence of characters used to describe a pattern to be matched in a string. They provide a powerful way to search, modify, and validate strings based on complex patterns.
+[[Regular_Expressions]] are a sequence of characters used to describe a pattern to be matched in a string. They provide a powerful way to search, modify, and validate strings based on complex patterns.
 
 **Parameters**
 
-* **Pattern:** The regular expression pattern to be matched.
-* **Flags:** Optional flags that modify the behavior of the regex. Common flags include:
+* Pattern: The [[Regular_Expressions]] pattern to be matched.
+* Flags: Optional flags that modify the behavior of the [[Regular_Expressions]]. Common flags include:
     * `re.IGNORECASE`: Ignore case
     * `re.MULTILINE`: Consider line breaks as boundaries
     * `re.DOTALL`: Match any character, including newlines
-* **Target String:** The string to be searched or modified.
+* Target String: The string to be searched or modified.
 
 **Code Examples**
 
@@ -37,7 +37,7 @@ pattern = "a"
 string = "This is a sample string."
 result = re.findall(pattern, string)
 
-print(result)  # ['a', 'a', 'a']
+print(result)  # 'a', 'a', 'a'
 ```
 
 **Substituting Patterns:**
@@ -51,10 +51,9 @@ result = re.sub(pattern, "x", string)
 print(result)  # The number is xxxxxx.
 ```
 
-**Python Concepts Related to Regex**
+**Python Concepts Related to [[Regular_Expressions]]**
 
-* **String Methods:** Regular expressions can be used with string methods like `str.find()`, `str.replace()`, and `str.split()`.
-* **re Module:** Python provides the `re` module for working with regular expressions.
-* **Pattern Matching Objects:** Regex matching operations return pattern matching objects that provide information about the matched patterns.
-* **Backreferences:** Regular expressions allow for backreferences, which refer to previously matched patterns.
-[[Python 1 Home]]
+* **String Methods:** [[Regular_Expressions]] can be used with string methods like `str.find()`, `str.replace()`, and `str.split()`.
+* re Module: Python provides the `re` module for working with [[Regular_Expressions]].
+* **Pattern Matching Objects:** [[Regular_Expressions]] matching operations return pattern matching objects that provide information about the matched patterns.
+* **Backreferences:** [[Regular_Expressions]] allow for backreferences, which refer to previously matched patterns.

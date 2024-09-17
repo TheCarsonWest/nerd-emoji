@@ -9,10 +9,10 @@ In geography, scale refers to the distance on a map in relation to the Earth's s
 
 ### Types of Scale
 
-- **Global scale:** Considers the entire world.
-- **National scale:** Focuses on a single country.
-- **Regional scale:** Examines a group of neighboring countries or a specific region.
-- **Local scale:** Analyzes a small area such as a city, neighborhood, or zip code.
+- ==**Global scale:** Considers the entire world.==
+- ==**National scale:** Focuses on a single country.==
+- ==**Regional scale:** Examines a group of neighboring countries or a specific region.==
+- ==**Local scale:** Analyzes a small area such as a city, neighborhood, or zip code.==
 
 ### Scale of Analysis
 
@@ -32,13 +32,3 @@ For example:
 - When deciding where to build a cancer treatment center, a global scale would provide limited information.
 - A national scale would narrow down the options to specific states with high cancer rates.
 - A local scale would pinpoint the ideal location within a city.
-
-### Practice Questions
-
-Identify the scale and scale of analysis for the following maps:
-
-1. [Map 1]
-2. [Map 2]
-3. [Map 3]
-
-Answers will be provided in the comment section of the video.

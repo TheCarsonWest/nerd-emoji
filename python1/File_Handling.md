@@ -1,8 +1,8 @@
-**Python File Handling**
+**Python [[File_Handling]]**
 
-**What is File Handling?**
+**What is [[File_Handling]]?**
 
-File handling refers to the process of creating, reading, writing, and modifying files in a computer system using a programming language. In Python, file handling capabilities are provided through the "open()" function.
+[[File_Handling]] refers to the process of creating, reading, writing, and modifying files in a computer system using a programming language. In Python, [[File_Handling]] capabilities are provided through the open() function.
 
 **Parameters for open() Function:**
 
@@ -54,10 +54,9 @@ with open('myfile.txt', 'a') as file:
 
 It is important to close a file after performing operations on it to release system resources. The preferred method is to use the 'with' statement, which automatically closes the file when the block exits.
 
-**Other Python Concepts Linked to File Handling:**
+**Other Python Concepts Linked to [[File_Handling]]:**
 
-* **File Objects:** Files opened using the 'open()' function are represented as file objects, which provide methods for reading, writing, and manipulating the file.
-* **Context Managers:** The 'with' statement acts as a context manager, ensuring that the file is automatically closed even in case of exceptions.
-* **Exception Handling:** When working with files, it is important to handle exceptions such as FileNotFoundError, PermissionError, and IOError.
-* **File I/O Operations:** File handling operations in Python are non-blocking, which means that they do not block the main thread while performing tasks.
-[[Python 1 Home]]
+* [[File_Objects]]: Files opened using the 'open()' function are represented as file objects, which provide methods for reading, writing, and manipulating the file.
+* [[Context_Managers]]: The 'with' statement acts as a [[Context_Managers]], ensuring that the file is automatically closed even in case of exceptions.
+* [[Exception_Handling]]: When working with files, it is important to handle exceptions such as FileNotFoundError, PermissionError, and IOError.
+* [[File_I/O_Operations]]: [[File_Handling]] operations in Python are non-blocking, which means that they do not block the main thread while performing tasks.**

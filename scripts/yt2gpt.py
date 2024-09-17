@@ -42,7 +42,6 @@ video_id = input("Enter the YouTube video ID: ")
 
 # Retrieve transcript without timestamps
 transcript = get_transcript_without_timestamps(video_id)
-
 if transcript:
   # Prepare the prompt for text generation
   prompt = transcript + "\n\n Turn this ENTIRE transcript into a readable article using markdown formatting."

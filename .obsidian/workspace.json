@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5959c08231e41588",
+        "id": "28fc5489775bfdce",
         "type": "tabs",
         "children": [
           {
-            "id": "a79610409fb50147",
+            "id": "ea10e7f70bd4540c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APHG/Geospatial Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cf73e6fb26dd349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/ids/Stono Rebellion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,25 +72,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e2b80e0dd0940da",
+        "id": "e6003c7a6d91ff6e",
         "type": "tabs",
-        "dimension": 40.38929440389295,
         "children": [
           {
-            "id": "d1961da0331887a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a30cfd78a84bee1",
+            "id": "cb6c4fd3cfc8d900",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/ids/Stono Rebellion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -118,22 +91,30 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.34971984118149,
-                  "lineSizeMultiplier": 2.79009981817507,
-                  "collapse-forces": false,
+                  "nodeSizeMultiplier": 2.9535604289584,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 4.9152102118817,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8596012986979618,
+                  "scale": 0.9786400821771288,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "cdcc20b9a9523e00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ]
@@ -141,7 +122,6 @@
       {
         "id": "03752f9e506457c7",
         "type": "tabs",
-        "dimension": 59.61070559610706,
         "children": [
           {
             "id": "4e913aff4047e6fc",
@@ -149,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/ids/Stono Rebellion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/ids/Stono Rebellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +166,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cf73e6fb26dd349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "apush/ids/Stono Rebellion.md"
+                "file": "python1/Recursion.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -208,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,39 +213,40 @@
       "obsidian-map-view:Open map view": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2cf73e6fb26dd349",
+  "active": "ea10e7f70bd4540c",
   "lastOpenFiles": [
-    "apush/IDs unit 2.md",
-    "apush/ids/Treaty of Paris 1776.md",
-    "scripts/1726157269.093583.md",
-    "scripts/1726155495.370811.md",
-    "scripts/1726156705.8905752.md",
-    "scripts/1726156557.615872.md",
-    "scripts/1726156501.001622.md",
-    "scripts/1726156352.2835479.md",
-    "apush/ids/Battle of Saratoga.md",
-    "apush/ids/Albany Plan of Union.md",
-    "apush/ids/Triangular Trade.md",
-    "apush/ids/Stono Rebellion.md",
-    "apush/ids/Battle of Yorktown.md",
-    "apush/ids/The Wealth of Nations.md",
-    "apush/ids/Valley Forge.md",
-    "apush/ids/Battle of Bunker Hill.md",
-    "apush/ids/Lee’s Resolution.md",
-    "apush/ids/Common Sense.md",
-    "apush/ids/Second Continental Congress.md",
-    "apush/ids/Headright System.md",
-    "apush/ids/House of Burgesses.md",
-    "apush/ids/Boston Tea Party.md",
-    "1.d.md",
+    "scripts/replace.py",
+    "scripts/linker.py",
+    "scripts/brackets.py",
+    "python1/File_Handling.md",
+    "python1/Context_Managers.md",
+    "python1/Encapsulation.md",
+    "python1/Dictionaries.md",
+    "python1/Exception_Handling.md",
+    "python1/Variables_and_Data_Types.md",
+    "Python 1 Home.md",
+    "python1/Sets.md",
+    "python1/Decorators.md",
+    "python1/Control_Flow_If_Statements.md",
+    "python1/Classes_and_Objects.md",
+    "APHG/Geographic Scale.md",
+    "APHG/APHG Unit 1.md",
+    "APHG/APHG Home.md",
+    "python1/Regular_Expressions.md",
+    "Functions ([[Functions.md",
+    "python1/Python 1 Home.md",
+    "python1/Inheritance.md",
+    "Home.md",
+    "python1/Generators.md",
+    "python1/Libraries_like_Pandas.md",
+    "python1/Polymorphism.md",
+    "APCHEM/APCHEM Home.md",
+    "apush/APUSH Home.md",
+    "apush/ID Home.md",
     "scripts/append.py",
-    "APHG/Geospatial Data.md",
-    "apush/ids/Indentured Servitude.md",
-    "Arabic/Module 1.md",
     "Arabic",
     "APHG/Pasted image 20240911075621.png",
     "APHG/Pasted image 20240905082254.png",
@@ -269,14 +258,12 @@
     "APCHEM/Screenshot 2024-09-09 at 10.16.06 AM.png",
     "APCHEM/Screenshot 2024-09-09 at 10.29.59 AM.png",
     "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png",
-    "scripts/linker.py",
     "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.txt",
     "scripts/yt2gpt.py",
     "scripts/filemaker.py",
     "scripts/api.txt",
     "scripts",
     "py/append.py",
-    "python1/append.py",
     "Untitled.canvas"
   ]
 }

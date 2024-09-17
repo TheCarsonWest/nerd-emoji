@@ -1,10 +1,10 @@
-**Python Polymorphism**
+**[[Python]] Polymorphism**
 
-**Definition:**
+**[[Definition]]:**
 
-Polymorphism allows different objects to respond to the same operation in different ways. It's a fundamental concept in object-oriented programming (OOP) that enables code reusability, flexibility, and maintainability.
+[[Polymorphism]] allows different objects to respond to the same operation in different ways. It's a fundamental concept in [[OOP]] that enables code reusability, flexibility, and maintainability.
 
-**Parameters:**
+**[[Parameters]]:**
 
 * **Method Overloading:** Defining multiple methods with the same name but different parameters.
 * **Method Overriding:** Redefining methods in subclasses to provide different functionality.
@@ -43,10 +43,9 @@ def get_area(object):
         return object.area()
 ```
 
-**Other Python Concepts Related to Polymorphism:**
+**Other [[Python]] Concepts Related to [[Polymorphism]]:**
 
-* **Inheritance:** Polymorphism is built upon inheritance, which allows subclasses to inherit methods and attributes from parent classes.
-* **Abstraction:** Polymorphism enables the creation of abstract classes and interfaces that define common method signatures, allowing subclasses to implement their own specific behavior.
-* **Data Encapsulation:** Polymorphism supports data encapsulation by providing a consistent interface for accessing and manipulating data, regardless of the underlying implementation.
-* **Design Patterns:** Polymorphism plays a crucial role in design patterns such as Strategy and Visitor, which provide flexible and extensible solutions to common programming problems.
-[[Python 1 Home]]
+* [[Inheritance]]: [[Polymorphism]] is built upon [[Inheritance]], which allows subclasses to inherit methods and attributes from parent classes.
+* [[Abstraction]]: [[Polymorphism]] enables the creation of abstract classes and interfaces that define common method signatures, allowing subclasses to implement their own specific behavior.
+* [[Data Encapsulation]]: [[Polymorphism]] supports [[Data Encapsulation]] by providing a consistent interface for accessing and manipulating data, regardless of the underlying implementation.
+* [[Design Patterns]]: [[Polymorphism]] plays a crucial role in design patterns such as Strategy and Visitor, which provide flexible and extensible solutions to common programming problems.****

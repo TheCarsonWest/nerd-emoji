@@ -1,18 +1,18 @@
-## Python Functions
+## (Python Functions)(Functions.md)
 
-**What is a Function?**
+**What is a (Function)(Functions.md)?**
 
 * A block of code that performs a specific task.
 * It can be reused multiple times without rewriting the code.
 
-**Parameters**
+**(Parameters)(Function_Parameters.md)**
 
-* Parameters are values that are passed to a function.
-* They act as input to the function.
+* (Parameters)(Function_Parameters.md) are values that are passed to a (Function)(Functions.md).
+* They act as input to the (Function)(Functions.md).
 
 **Code Examples**
 
-**Creating a Function:**
+**Creating a (Function)(Functions.md):**
 
 ```python
 def greet(name):
@@ -20,7 +20,7 @@ def greet(name):
     print(f"Hello, {name}!")
 ```
 
-**Calling a Function:**
+**Calling a (Function)(Functions.md):**
 
 ```python
 greet("John")
@@ -34,11 +34,10 @@ def sum(a, b):
     return a + b
 ```
 
-**Other Python Concepts Linked to Functions**
+**Other Python Concepts Linked to (Functions)(Functions.md)**
 
-* **Scope:** Variables defined inside a function are local to that function and cannot be accessed outside of it.
-* **Arguments:** Actual values passed to a function when it is called.
-* **Keywords:** Used to pass named arguments to a function.
-* **Lambda Functions:** Anonymous functions that can be used as inline expressions.
-* **Function Annotations:** Type hints that indicate the expected input and output types of a function.
-[[Python 1 Home]]
+* **Scope:** Variables defined inside a (Function)(Functions.md) are local to that (Function)(Functions.md) and cannot be accessed outside of it.
+* **Arguments:** Actual Values passed to a (Function)(Functions.md) when it is called.
+* **Keywords:** Used to pass named Arguments to a (Function)(Functions.md).
+* **(Lambda Functions)(Lambda_Functions.md):** Anonymous (Functions)(Functions.md) that can be used as inline expressions.
+* **(Function Annotations)(Return_Values.md):** Type hints that indicate the expected input and output types of a (Function)(Functions.md).

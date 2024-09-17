@@ -2,7 +2,7 @@
 
 There are 4 common map projections. they are all distorted
 ## [[Map Distortions]]
-
+# [[Map Types]]
 ## Robinson 
 ![[Pasted image 20240829075856.png]]
 - Pros

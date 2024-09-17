@@ -1,15 +1,15 @@
-**Pandas Library**
+**[[Libraries_like_Pandas]] Library**
 
 **Explanation:**
 
-Pandas is an open-source, Python data manipulation and analysis library. It provides high-performance data structures and operations for working with structured data, such as tabular data.
+[[Libraries_like_NumPy]] is an open-source, Python data manipulation and analysis library. It provides high-performance data structures and operations for working with structured data, such as tabular data.
 
 **Parameters:**
 
-* **DataFrame:** A two-dimensional table of data with named columns.
-* **Series:** A one-dimensional array of data.
-* **Index:** A sequence of labels used to identify rows or columns.
-* **dtype:** The data type of a column or Series.
+* **[[DataFrame]]:** A two-dimensional table of data with named columns.
+* **[[Series]]:** A one-dimensional array of data.
+* **[[Index]]:** A sequence of labels used to identify rows or columns.
+* **dtype:** The data type of a column or [[Series]].
 * **axis:** The axis along which to perform operations (0 for rows, 1 for columns).
 * **inplace:** Whether to modify the original data or create a new copy.
 
@@ -18,9 +18,9 @@ Pandas is an open-source, Python data manipulation and analysis library. It prov
 **Data Input:**
 
 ```python
-import pandas as pd
+import [[Libraries_like_Pandas]] as pd
 
-data = {'name': ['Alice', 'Bob', 'Carol'], 'age': [20, 25, 30]}
+data = {'name': 'Alice', 'Bob', 'Carol', 'age': 20, 25, 30}
 df = pd.DataFrame(data)
 ```
 
@@ -28,8 +28,8 @@ df = pd.DataFrame(data)
 
 * **Selection:**
 ```python
-df['age'] # Select the 'age' column
-df[df['age'] > 25] # Select rows where age is greater than 25
+df'age' # Select the 'age' column
+dfdf'age' > 25 # Select rows where age is greater than 25
 ```
 * **Filtering:**
 ```python
@@ -49,9 +49,8 @@ df.plot.scatter(x='age', y='name') # Create a scatter plot of age vs. name
 
 **Related Python Concepts:**
 
-* **NumPy:** Provides numerical operations and data structures for scientific computing.
-* **Matplotlib:** Provides functions for creating static and interactive visualizations.
-* **Seaborn:** A high-level interface for statistical graphics.
-* **Data Cleaning:** Cleaning and preparing data for analysis.
-* **Exploratory Data Analysis (EDA):** Exploring and analyzing data to gain insights.
-[[Python 1 Home]]
+* [[Libraries_like_NumPy]]: Provides numerical operations and data structures for scientific computing.
+* [[Libraries_like_Matplotlib]]: Provides functions for creating static and interactive visualizations.
+* Seaborn: A high-level interface for statistical graphics.
+* Data Cleaning: Cleaning and preparing data for analysis.
+* Exploratory Data Analysis (EDA): Exploring and analyzing data to gain insights.
