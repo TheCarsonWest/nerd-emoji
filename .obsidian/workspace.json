@@ -11,15 +11,20 @@
             "id": "ea10e7f70bd4540c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python1/While Loops.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "54d1bb9a9c03eb53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "python1/While Loops.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9786400821771288,
+                  "scale": 0.8391955814665114,
                   "close": true
                 }
               }
@@ -134,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python1/While Loops.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python1/While Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,21 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "python1/While Loops.md"
-              }
-            }
-          },
-          {
-            "id": "2cf73e6fb26dd349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python1/Recursion.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {}
             }
           },
           {
@@ -204,12 +192,11 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,34 +212,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea10e7f70bd4540c",
+  "active": "54d1bb9a9c03eb53",
   "lastOpenFiles": [
-    "python1/Variables and Data Types.md",
-    "python1/Return Values.md",
-    "python1/Recursion.md",
-    "python1/Python Operators.md",
-    "python1/Modules and Packages.md",
-    "python1/Lists.md",
-    "python1/List Comprehension.md",
-    "python1/Libraries like Pandas.md",
-    "python1/Libraries like NumPy.md",
-    "python1/Libraries like Matplotlib.md",
-    "python1/Lambda Functions.md",
-    "python1/Inheritance.md",
-    "python1/Importing Modules.md",
-    "python1/Functions.md",
-    "python1/Function Parameters.md",
-    "python1/For Loops.md",
-    "python1/File Handling.md",
-    "python1/Exception Handling.md",
-    "python1/Encapsulation.md",
-    "python1/Dictionaries.md",
-    "python1/Default Parameters.md",
-    "python1/Decorators.md",
-    "python1/Control Flow If Statements.md",
-    "python1/Context Managers.md",
-    "python1/Classes and Objects.md",
-    "Python 1 Home.md",
+    "Untitled.canvas",
+    "scripts/result/Modules and Packages.md",
+    "scripts/result/Python Package Index (PyPI) Publishing.md",
+    "scripts/result/Building and Distributing Python Packages.md",
+    "scripts/result/Dynamic Importing.md",
+    "scripts/result/Functions.md",
+    "scripts/result/Building APIs with Flask or Django.md",
+    "scripts/result/Web Development with Django.md",
+    "scripts/result/Continuous Integration or Continuous Deployment (CI or CD) with Python.md",
+    "scripts/result/Network Programming (Sockets).md",
+    "scripts/result/Security and Cryptography (PyCryptodome).md",
+    "scripts/result/Working with Big Data using PySpark.md",
+    "scripts/result/Time Series Analysis.md",
+    "scripts/result/Data Visualization with Seaborn.md",
+    "scripts/result/Natural Language Processing with NLTK or Spacy.md",
+    "scripts/result/Deep Learning with TensorFlow or Keras.md",
+    "scripts/result/Building Machine Learning Models with Scikit-learn.md",
+    "scripts/result/Handling Large Datasets with Dask.md",
+    "scripts/result/Automating Tasks with Selenium.md",
+    "scripts/result/REST APIs with FastAPI.md",
+    "scripts/result/Data Serialization (JSON, XML, Pickle).md",
+    "scripts/result/Context Managers.md",
+    "scripts/result/Handling APIs with Requests Library.md",
+    "scripts/result/List Comprehension.md",
+    "scripts/result/Map, Filter, and Reduce.md",
+    "scripts/result/Higher-Order Functions.md",
+    "scripts/prompts.txt",
+    "python1",
+    "scripts/result",
     "scripts/replace.py",
     "scripts/linker.py",
     "scripts/brackets.py",
@@ -269,10 +259,6 @@
     "APCHEM/Screenshot 2024-09-09 at 10.29.59 AM.png",
     "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png",
     "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.txt",
-    "scripts/yt2gpt.py",
-    "scripts/filemaker.py",
-    "scripts/api.txt",
-    "scripts",
-    "Untitled.canvas"
+    "scripts/yt2gpt.py"
   ]
 }
