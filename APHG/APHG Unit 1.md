@@ -6,3 +6,4 @@
 [[Map Types]]
 [[Geospatial Data]]
 [[Types of Regions]]
+[[Place Names]]

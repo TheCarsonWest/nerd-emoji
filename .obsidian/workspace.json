@@ -14,17 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "54d1bb9a9c03eb53",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ids",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,11 +183,13 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,34 +205,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54d1bb9a9c03eb53",
+  "active": "ea10e7f70bd4540c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "scripts/result/Modules and Packages.md",
-    "scripts/result/Python Package Index (PyPI) Publishing.md",
-    "scripts/result/Building and Distributing Python Packages.md",
-    "scripts/result/Dynamic Importing.md",
-    "scripts/result/Functions.md",
-    "scripts/result/Building APIs with Flask or Django.md",
-    "scripts/result/Web Development with Django.md",
-    "scripts/result/Continuous Integration or Continuous Deployment (CI or CD) with Python.md",
-    "scripts/result/Network Programming (Sockets).md",
-    "scripts/result/Security and Cryptography (PyCryptodome).md",
-    "scripts/result/Working with Big Data using PySpark.md",
-    "scripts/result/Time Series Analysis.md",
-    "scripts/result/Data Visualization with Seaborn.md",
-    "scripts/result/Natural Language Processing with NLTK or Spacy.md",
-    "scripts/result/Deep Learning with TensorFlow or Keras.md",
-    "scripts/result/Building Machine Learning Models with Scikit-learn.md",
-    "scripts/result/Handling Large Datasets with Dask.md",
-    "scripts/result/Automating Tasks with Selenium.md",
-    "scripts/result/REST APIs with FastAPI.md",
-    "scripts/result/Data Serialization (JSON, XML, Pickle).md",
-    "scripts/result/Context Managers.md",
-    "scripts/result/Handling APIs with Requests Library.md",
-    "scripts/result/List Comprehension.md",
-    "scripts/result/Map, Filter, and Reduce.md",
+    "APCHEM/Magnetic Constant.md",
+    "APCHEM/Electrical constant.md",
+    "APCHEM/Constants.md",
+    "APCHEM/Speed of light.md",
+    "APCHEM/APCHEM Home.md",
+    "scripts/result/Lambda Functions.md",
     "scripts/result/Higher-Order Functions.md",
+    "scripts/result/Functions.md",
+    "scripts/result/Modules and Packages.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "apush/ids/French and Indian War.md",
+    "apush/IDs unit 2.md",
+    "Place Names.md",
+    "APHG/APHG Unit 1.md",
+    "APHG/APHG Home.md",
+    "APHG/Cengage home.md",
+    "Globalization and Sustainability.md",
+    "Home.md",
+    "Python 1 Home.md",
+    "README.md",
+    "scripts/result/Async Generators.md",
+    "scripts/result/Abstract Classes.md",
+    "scripts/result/Asynchronous Programming.md",
+    "scripts/result/File IO Modes.md",
+    "scripts/result/NumPy Broadcasting.md",
+    "scripts/result/Python Package Index (PyPI) Publishing.md",
     "scripts/prompts.txt",
     "python1",
     "scripts/result",
