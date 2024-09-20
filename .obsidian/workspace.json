@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7b83985cd170f22d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDS Unit 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "IDS Unit 3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IDS Unit 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IDS Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IDS Unit 3.md"
+              }
             }
           },
           {
@@ -205,43 +223,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea10e7f70bd4540c",
+  "active": "7b83985cd170f22d",
   "lastOpenFiles": [
-    "APCHEM/Magnetic Constant.md",
-    "APCHEM/Electrical constant.md",
-    "APCHEM/Constants.md",
-    "APCHEM/Speed of light.md",
-    "APCHEM/APCHEM Home.md",
-    "scripts/result/Lambda Functions.md",
-    "scripts/result/Higher-Order Functions.md",
-    "scripts/result/Functions.md",
-    "scripts/result/Modules and Packages.md",
-    "Untitled.md",
+    "scripts/result/Report on the Public Credit.md",
+    "apush/ids/u3/XYZ Affair.md",
+    "apush/ids/u3/Whiskey Rebellion.md",
+    "apush/ids/u3/VA and KY Resolutions.md",
+    "apush/ids/u3/Treaty of Greenville.md",
+    "apush/ids/u3/Treaty of Ghent.md",
+    "apush/ids/u3/The American System.md",
+    "apush/ids/u3/Report on the Public Credit.md",
+    "apush/ids/u3/Report on Manufactures.md",
+    "apush/ids/u3/Proclamation of Neutrality.md",
+    "apush/ids/u3/Panic of 1819.md",
+    "apush/ids/u3/Naturalization, Alien, and Sedition Acts.md",
+    "apush/ids/u3/Monroe Doctrine.md",
+    "apush/ids/u3/McCulloch v. Maryland.md",
+    "apush/ids/u3/Marbury vs. Madison.md",
+    "apush/ids/u3/Louisiana Purchase.md",
+    "apush/ids/u3/Judiciary Act.md",
+    "apush/ids/u3/Jay’s Treaty.md",
+    "apush/ids/u3/Great Compromise.md",
+    "apush/ids/u3/George Washington’s Farewell Address.md",
+    "apush/ids/u3/Era of Good Feelings.md",
+    "apush/ids/u3/Embargo Act of 1807.md",
+    "apush/ids/u3/Election of 1800.md",
+    "apush/ids/u3/Constitutional Convention.md",
+    "apush/ids/u3/Capital Compromise.md",
+    "apush/ids/u3/Bill of Rights.md",
+    "apush/ids/u3",
+    "apush/ids/u2/filemaker.py",
+    "apush/ids/u2",
+    "scripts/prompts.py",
+    "Swimming nonsense",
     "Untitled.canvas",
-    "apush/ids/French and Indian War.md",
-    "apush/IDs unit 2.md",
-    "Place Names.md",
-    "APHG/APHG Unit 1.md",
-    "APHG/APHG Home.md",
-    "APHG/Cengage home.md",
-    "Globalization and Sustainability.md",
-    "Home.md",
-    "Python 1 Home.md",
-    "README.md",
-    "scripts/result/Async Generators.md",
-    "scripts/result/Abstract Classes.md",
-    "scripts/result/Asynchronous Programming.md",
-    "scripts/result/File IO Modes.md",
-    "scripts/result/NumPy Broadcasting.md",
-    "scripts/result/Python Package Index (PyPI) Publishing.md",
     "scripts/prompts.txt",
     "python1",
     "scripts/result",
     "scripts/replace.py",
     "scripts/linker.py",
-    "scripts/brackets.py",
-    "scripts/append.py",
-    "Arabic",
     "APHG/Pasted image 20240911075621.png",
     "APHG/Pasted image 20240905082254.png",
     "APHG/Pasted image 20240905072920.png",
@@ -251,8 +271,6 @@
     "APHG/Pasted image 20240829075856.png",
     "APCHEM/Screenshot 2024-09-09 at 10.16.06 AM.png",
     "APCHEM/Screenshot 2024-09-09 at 10.29.59 AM.png",
-    "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png",
-    "APHG/Unit 1 - GEOGRAPHY – ITS NATURE AND PERSPECTIVES.txt",
-    "scripts/yt2gpt.py"
+    "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png"
   ]
 }
