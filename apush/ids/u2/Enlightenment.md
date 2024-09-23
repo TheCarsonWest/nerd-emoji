@@ -1,4 +1,4 @@
-**Notecard Summary: Enlightenment**
+**Notecard Summary: [[Enlightenment]]**
 
 **When:** 17th and 18th centuries
 

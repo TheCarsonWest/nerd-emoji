@@ -1,7 +1,7 @@
-## Map, Filter, and Reduce
+## [[Map, Filter, and Reduce]]
 
 ### Explanation
-Map, Filter, and Reduce are higher-order functions that operate on sequences and return a new sequence. They are widely used for functional programming in Python.
+[[Map, Filter, and Reduce]] are higher-order functions that operate on sequences and return a new sequence. They are widely used for functional programming in Python.
 
 ### How to Use
 
@@ -61,8 +61,8 @@ print(product)  # Output: 120
 
 ### Related Python Concepts
 
-- [[Higher-Order Functions]]: Map, Filter, and Reduce are higher-order functions.
-- [[Lambda Functions]]: Lambda functions are commonly used as arguments to Map and Filter.
-- [[List Comprehension]]: Map, Filter, and Reduce are alternatives to using list comprehensions for functional programming.
+- [[Higher-Order [[Functions]]: [[Map, Filter, and Reduce]] are higher-order functions.
+- [[Lambda [[Functions]]: Lambda functions are commonly used as arguments to Map and Filter.
+- [[List Comprehension]]: [[Map, Filter, and Reduce]] are alternatives to using list comprehensions for functional programming.
 - [[Generators]]: Map and Filter can be used to create generators.
-- [[Functional Programming]]: Map, Filter, and Reduce are core concepts in functional programming.
+- [[Functional Programming]]: [[Map, Filter, and Reduce]] are core concepts in functional programming.

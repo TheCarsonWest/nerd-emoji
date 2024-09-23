@@ -1,4 +1,4 @@
-**Notecard: VA and KY Resolutions**
+**Notecard: [[VA and KY Resolutions]]**
 
 **WHEN:** December 1825 - February 1833
 

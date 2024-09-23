@@ -1,6 +1,6 @@
-## Variables and Data Types
+## [[Variables and Data Types]]
 
-### What are Variables and Data Types?
+### What are [[Variables and Data Types]]?
 Variables in Python are containers that store data. Each variable is associated with a data type, which defines the type of data it can hold (e.g., integer, float, string, list, etc.).
 
 ### How to Use Variables
@@ -33,8 +33,8 @@ print(f"Name: {name}")  # output: Name: Mary
 
 ### Related Python Concepts
 
-- [[Operators]]: Operators can be used to perform operations on variables of different data types.
+- [[Operators]]: [[Operators]] can be used to perform operations on variables of different data types.
 - [[Control Flow If Statements]]: Variables and data types influence the flow of control in if statements based on the values stored in the variables.
-- [[Functions]]: Functions can take arguments of specific data types and return values of specific types.
-- [[Lists]]: Lists are mutable collections that can store a variety of data types.
-- [[Dictionaries]]: Dictionaries are mutable collections that store key-value pairs, where the keys and values can be of different data types.
+- [[Functions]]: [[Functions]] can take arguments of specific data types and return values of specific types.
+- [[Lists]]: [[Lists]] are mutable collections that can store a variety of data types.
+- [[Dictionaries]]: [[Dictionaries]] are mutable collections that store key-value pairs, where the keys and values can be of different data types.

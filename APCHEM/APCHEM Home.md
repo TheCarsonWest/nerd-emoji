@@ -1,4 +1,4 @@
-# [[Home]]
+# Home]]
 
 # [[Constants]]
 # [[Periodic Trends]]

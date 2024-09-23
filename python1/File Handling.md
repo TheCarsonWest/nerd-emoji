@@ -1,9 +1,9 @@
-## File Handling
+## [[File Handling]]
 
 ### Explanation
 File handling in Python refers to the process of reading, writing, updating, and managing files on the computer system. It enables programs to perform operations like creating, deleting, opening, closing, and manipulating files.
 
-### How to Use File Handling
+### How to Use [[File Handling]]
 To perform file operations, you need to open a file using the `open()` function. The `open()` function takes two parameters:
 
 - `filename`: The name of the file to be opened.

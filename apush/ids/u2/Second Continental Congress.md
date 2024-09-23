@@ -1,4 +1,4 @@
-**ID:** Second Continental Congress
+**ID:** [[Second Continental Congress]]
 
 **When:** May 10 - July 8, 1775
 

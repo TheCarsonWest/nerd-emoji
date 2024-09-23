@@ -1,6 +1,6 @@
-## Global and Nonlocal Variables
+## [[Global and Nonlocal Variables]]
 
-### What are Global and Nonlocal Variables?
+### What are [[Global and Nonlocal Variables]]?
 Global variables are declared outside of any function and are accessible throughout the program. 
 Nonlocal variables are declared within a nested function and can access and modify variables in the enclosing scope, but not in the global scope.
 

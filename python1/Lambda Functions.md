@@ -1,9 +1,9 @@
-## Lambda Functions
+## Lambda [[Functions]]
 
 ### Explanation
 Lambda functions in Python are small, anonymous functions that can be defined without using the `def` keyword. They are often used as inline functions when passing a function as an argument to another function or as a way to quickly define a simple function.
 
-### How to Use Lambda Functions
+### How to Use Lambda [[Functions]]
 Lambda functions take the following format:
 
 ```python
@@ -32,6 +32,6 @@ print(numbers)  # Output: [2, 4, 1, 3, 5]
 ### Related Python Concepts
 - [[Functions]]: Lambda functions are essentially simplified versions of regular functions.
 - [[Function Parameters]]: Lambda functions can receive arguments just like regular functions.
-- [[Higher-Order Functions]]: Lambda functions are often used as arguments to higher-order functions.
+- [[Higher-Order [[Functions]]: Lambda functions are often used as arguments to higher-order functions.
 - [[Closures]]: Lambda functions can access variables from the enclosing scope, creating closures.
 - [[Map, Filter, and Reduce]]: Lambda functions commonly appear in these built-in functions.

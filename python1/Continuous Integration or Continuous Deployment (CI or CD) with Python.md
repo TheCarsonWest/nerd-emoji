@@ -12,8 +12,8 @@ CI or CD in Python refers to practices that automate the software development li
     * Create pipelines that define tasks to be executed automatically.
     * Tasks typically include:
         * Code analysis (e.g., [![Lint](Lint.md)](Lint.md))
-        * Unit testing (e.g., [![Unit Testing](Unit Testing and Test-Driven Development.md)](Unit Testing and Test-Driven Development.md))
-        * Integration testing (e.g., [![Selenium](Automating Tasks with Selenium.md)](Automating Tasks with Selenium.md))
+        * Unit testing (e.g., [![Unit Testing]([[Unit Testing and Test-Driven Development]].md)]([[Unit Testing and Test-Driven Development]].md))
+        * Integration testing (e.g., [![Selenium]([[Automating Tasks with Selenium]].md)]([[Automating Tasks with Selenium]].md))
     * Trigger pipelines automatically on code changes or at scheduled intervals.
 
 **CD (Continuous Deployment)**
@@ -22,9 +22,9 @@ CI or CD in Python refers to practices that automate the software development li
 * **Process:**
     * Extend the CI pipeline to include deployment tasks.
     * Tasks typically include:
-        * Building the application (e.g., [![Creating GUI Applications with Tkinter or PyQt](Creating GUI Applications with Tkinter or PyQt.md)](Creating GUI Applications with Tkinter or PyQt.md))
+        * Building the application (e.g., [![[[Creating GUI Applications with Tkinter or PyQt]]]([[Creating GUI Applications with Tkinter or PyQt]].md)]([[Creating GUI Applications with Tkinter or PyQt]].md))
         * Deploying to staging environments (e.g., [![AWS CodePipeline](AWS CodePipeline.md)](AWS CodePipeline.md))
-        * Monitoring live deployments (e.g., [![Profiling and Optimization](Profiling and Optimization.md)](Profiling and Optimization.md))
+        * Monitoring live deployments (e.g., [![[[Profiling and Optimization]]]([[Profiling and Optimization]].md)]([[Profiling and Optimization]].md))
     * Automatically deploy changes to live environments once they pass all CI checks.
 
 ### Code Examples

@@ -104,4 +104,4 @@ with open('data.pickle', 'wb') as pickle_file:
 - [[Objects and Classes]]: Complex objects can be serialized using Pickle.
 - [[Modules and Packages]]: JSON and XML use modules to provide serialization capabilities.
 - [[Functions]]: Serialization is typically done using functions like `json.dumps` and `pickle.dump`.
-- [[Decorators]]: Decorators can be used to enhance serialization functionality.
+- [[Decorators]]: [[Decorators]] can be used to enhance serialization functionality.

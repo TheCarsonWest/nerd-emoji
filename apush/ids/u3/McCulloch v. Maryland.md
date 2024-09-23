@@ -1,4 +1,4 @@
-**Topic: McCulloch v. Maryland**
+**Topic: [[McCulloch v]]. Maryland**
 
 **WHEN:** March 6, 1819
 

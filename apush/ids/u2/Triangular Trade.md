@@ -1,4 +1,4 @@
-**ID:** Triangular Trade
+**ID:** [[Triangular Trade]]
 **When:** 16th-19th centuries
 **Who:** European powers (Portugal, Spain, England, France), African slave traders, enslaved Africans, American colonists
 **What:**

@@ -1,4 +1,4 @@
-**Lee’s Resolution**
+**[[Lee’s Resolution]]**
 
 * **When:** July 2, 1776
 * **Who:** Richard Henry Lee, John Adams

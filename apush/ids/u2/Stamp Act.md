@@ -1,7 +1,7 @@
 ---
 location: 51.5074456,-0.1277653
 ---
-**ID:** Stamp Act
+**ID:** [[Stamp Act]]
 **When:** March 22, 1765
 **Who:** George Grenville (British Prime Minister), American colonists
 **What:** British law requiring legal documents, newspapers, and other printed materials to be stamped and taxed.

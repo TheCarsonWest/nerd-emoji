@@ -1,9 +1,9 @@
-## Exception Handling
+## [[Exception Handling]]
 
-### What is Exception Handling?
+### What is [[Exception Handling]]?
 Exception handling is a crucial mechanism in Python that allows programmers to gracefully handle errors and exceptions that may occur during program execution. It enables the detection and handling of unexpected or exceptional conditions, preventing the program from crashing or terminating abruptly.
 
-### How to Use Exception Handling
+### How to Use [[Exception Handling]]
 Exception handling is typically achieved using `try` and `except` blocks. The `try` block contains the code that may potentially raise exceptions, while the `except` block is responsible for catching and handling those exceptions. The syntax for exception handling is:
 
 ```python

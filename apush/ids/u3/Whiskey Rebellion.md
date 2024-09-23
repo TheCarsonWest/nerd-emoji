@@ -1,4 +1,4 @@
-**Topic: Whiskey Rebellion**
+**Topic: [[Whiskey Rebellion]]**
 
 **WHEN:** July 1794 - May 1795
 
@@ -18,6 +18,6 @@
 
 * **Strengthening of Federal Authority:** The successful suppression of the rebellion demonstrated the federal government's ability to enforce its laws.
 * **Expansion of Presidential Power:** Washington's action to raise an army and lead it into the field extended the presidential role as commander-in-chief.
-* **Political Divide:** The Whiskey Rebellion exposed deep divisions within the United States over the issue of federal taxation and the scope of government power.
+* **Political Divide:** The [[Whiskey Rebellion]] exposed deep divisions within the United States over the issue of federal taxation and the scope of government power.
 * **Rise of Anti-Federalist Sentiment:** The rebellion further alienated Western states from the federal government, strengthening Anti-Federalist opposition.
 # [[IDS Unit 3]]

@@ -1,9 +1,9 @@
-## Thread Safety
+## [[Thread Safety]]
 
-### What is Thread Safety?
+### What is [[Thread Safety]]?
 Thread safety refers to the ability of a code block or object to be safely executed by multiple threads simultaneously without causing unpredictable behavior or data corruption. In other words, thread-safe code ensures that the outcome of a computation is the same regardless of how many threads are accessing it.
 
-### How to Use Thread Safety
+### How to Use [[Thread Safety]]
 Thread safety can be achieved in Python using various approaches:
 
 **1. Locks:** Locks are synchronization primitives that allow only one thread to access a critical section of code at a time. This prevents other threads from interfering with the execution of the critical section.
@@ -80,6 +80,6 @@ thread_local = threading.local()
 
 - [[Concurrency and Multithreading]]: Thread safety is a key concern in multithreaded programming.
 - [[Locks]]: Locks are essential for achieving thread safety by controlling access to critical sections.
-- [[Multiprocessing]]: Multiprocessing offers an alternative to threads for parallel execution, but thread safety considerations still apply.
+- [[Multiprocessing]]: [[Multiprocessing]] offers an alternative to threads for parallel execution, but thread safety considerations still apply.
 - [[Synchronization]]: Thread safety requires proper synchronization mechanisms to ensure that multiple threads can access shared resources without conflict.
 - [[Asynchronous Programming]]: Asynchronous programming techniques can help avoid thread safety issues by leveraging event-based execution models.

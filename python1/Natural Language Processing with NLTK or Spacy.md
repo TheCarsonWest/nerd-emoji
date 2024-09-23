@@ -1,4 +1,4 @@
-## Natural Language Processing with NLTK or Spacy
+## [[Natural Language Processing with NLTK or Spacy]]
 
 ### What is NLP with NLTK or Spacy?
 Natural Language Processing (NLP) involves enabling computers to understand and process human language. NLTK and Spacy are popular Python libraries for NLP tasks, providing tools for tasks such as:

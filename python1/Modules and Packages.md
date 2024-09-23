@@ -1,6 +1,6 @@
-## Modules and Packages
+## [[Modules and Packages]]
 
-### What are Modules and Packages?
+### What are [[Modules and Packages]]?
 
 **Modules:**
 - Self-contained Python code stored in a file (`*.py`).
@@ -12,9 +12,9 @@
 - Packages provide a way to group and distribute modules logically.
 - Can contain subpackages and modules within subdirectories.
 
-### How to Use Modules and Packages
+### How to Use [[Modules and Packages]]
 
-**Importing Modules:**
+**[[Importing Modules]]:**
 ```python
 import module_name
 ```

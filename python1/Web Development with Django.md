@@ -1,4 +1,4 @@
-## Web Development with Django
+## [[Web Development with Django]]
 
 ### What is Django?
 Django is a high-level Python web framework that simplifies the development of complex, database-driven websites. It provides a wide range of features, including:

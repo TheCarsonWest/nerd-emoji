@@ -1,14 +1,14 @@
-# Python Function Overloading
+# Python [[Function Overloading]]
 
-## What is Function Overloading?
+## What is [[Function Overloading]]?
 
 Function overloading is a feature that allows multiple functions with the same name to exist in the same scope, but with different parameters. It enables the use of a single function name for different sets of input arguments, with each function performing a specific task based on the types and number of arguments passed.
 
-## How to Use Function Overloading
+## How to Use [[Function Overloading]]
 
 Python does not directly support function overloading. However, there are ways to mimic its behavior:
 
-- **Default Parameters**: Using default parameters allows for variation in the number of input arguments.
+- **[[Default Parameters]]**: Using default parameters allows for variation in the number of input arguments.
   - Example:
     ```python
     def calculate_area(length, width=1):

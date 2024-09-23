@@ -5,7 +5,7 @@ location: 37.2089184,-76.7783003
 **Notecard**
 #id
 
-**ID:** House of Burgesses
+**ID:** [[House of Burgesses]]
 
 **When:** July 30, 1619
 

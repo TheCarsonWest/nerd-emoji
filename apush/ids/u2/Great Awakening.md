@@ -1,4 +1,4 @@
-**ID:** Great Awakening
+**ID:** [[Great Awakening]]
 **When:** 1730s-1750s
 **Who:** Jonathan Edwards, George Whitefield, Gilbert Tennent
 **What:** A religious revival movement that emphasized emotionalism, personal salvation, and a direct relationship with God

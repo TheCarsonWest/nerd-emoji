@@ -1,7 +1,7 @@
 ---
 location: 51.5074456,-0.1277653
 ---
-**ID:** Sugar Act
+**ID:** [[Sugar Act]]
 
 **When:** April 5, 1764
 

@@ -1,4 +1,4 @@
-**Judiciary Act of 1789**
+**[[Judiciary Act]] of 1789**
 
 **WHEN:** September 24, 1789
 

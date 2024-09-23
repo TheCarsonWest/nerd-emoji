@@ -1,7 +1,7 @@
 ---
 location: 51.5074456,-0.1277653
 ---
-**Notecard Summary: Tea Act**
+**Notecard Summary: [[Tea Act]]**
 
 **When:** May 10, 1773
 
@@ -15,6 +15,6 @@ location: 51.5074456,-0.1277653
 * Removed any tariffs on British tea, allowing them to undercut local smugglers
 
 **Impact:**
-* Short-term: Triggered widespread protests and boycotts in the American colonies, leading to the Boston Tea Party
+* Short-term: Triggered widespread protests and boycotts in the American colonies, leading to the [[Boston Tea Party]]
 * Long-term: Exacerbated tensions between Great Britain and the colonies, contributing to the American Revolution
 #ids

@@ -1,4 +1,4 @@
-## Pathlib and OS Module
+## [[Pathlib and OS Module]]
 
 ### Overview
 Pathlib and OS are two important modules in Python that provide extensive capabilities for interacting with the file system and operating system. Pathlib offers a modern, object-oriented approach to working with files and directories, while the OS module offers a comprehensive set of functions for performing system-level tasks.
@@ -76,6 +76,6 @@ os.remove('temp_file.txt')
 
 - [[File Handling]]: Pathlib and OS are essential for working with files and directories.
 - [[Variables and Data Types]]: Variables are used to store paths and other information related to files and directories.
-- [[Operators]]: Operators are used in Pathlib and OS functions for comparisons and other operations.
+- [[Operators]]: [[Operators]] are used in Pathlib and OS functions for comparisons and other operations.
 - [[Control Flow If Statements]]: If statements are used to check conditions related to files and directories.
 - [[For Loops]]: For loops are used to iterate over files and directories.

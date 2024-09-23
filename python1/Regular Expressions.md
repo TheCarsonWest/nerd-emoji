@@ -1,6 +1,6 @@
-## Regular Expressions
+## [[Regular Expressions]]
 
-### What are Regular Expressions?
+### What are [[Regular Expressions]]?
 Regular expressions (regex) are a powerful tool for matching and manipulating strings in Python. They provide a concise and expressive way to search for patterns, validate input, and perform complex string transformations.
 
 ### How to Use Regex

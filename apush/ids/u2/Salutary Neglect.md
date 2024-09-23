@@ -1,4 +1,4 @@
-**ID:** Salutary Neglect
+**ID:** [[Salutary Neglect]]
 
 **When:** c. 1720s - 1760s
 

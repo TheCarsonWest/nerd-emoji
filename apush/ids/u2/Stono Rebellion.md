@@ -1,4 +1,4 @@
-**Topic:** Stono Rebellion
+**Topic:** [[Stono Rebellion]]
 
 **When:** September 9, 1739
 

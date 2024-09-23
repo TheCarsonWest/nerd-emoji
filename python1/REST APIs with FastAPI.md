@@ -1,4 +1,4 @@
-## REST APIs with FastAPI
+## [[REST APIs with FastAPI]]
 
 ### What are FastAPI REST APIs?
 FastAPI is a modern, high-performance web framework for building RESTful APIs in Python. It offers features such as automatic type hinting, dependency injection, and support for asynchronous programming. REST APIs are web services that follow the Representational State Transfer (REST) architectural style, using a set of request methods (e.g., GET, POST, PUT) to interact with data.

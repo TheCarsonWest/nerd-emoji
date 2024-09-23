@@ -1,4 +1,4 @@
-**Era of Good Feelings**
+**[[Era of Good Feelings]]**
 
 **WHEN:** 1815-1823
 

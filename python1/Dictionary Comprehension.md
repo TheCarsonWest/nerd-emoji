@@ -1,9 +1,9 @@
-## Python Dictionary Comprehension
+## Python [[Dictionary Comprehension]]
 
-### What is Dictionary Comprehension?
+### What is [[Dictionary Comprehension]]?
 Dictionary comprehension is a concise syntax in Python that allows for the creation of dictionaries from iterable sequences. It provides a convenient way to generate dictionaries where the keys and values are derived from the input iterables.
 
-### How to Use Dictionary Comprehension
+### How to Use [[Dictionary Comprehension]]
 Dictionary comprehension is expressed in the following format:
 
 ```python

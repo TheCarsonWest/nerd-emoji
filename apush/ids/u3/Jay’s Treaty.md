@@ -1,4 +1,4 @@
-**Jay’s Treaty**
+**[[Jay’s Treaty]]**
 
 **WHEN:** November 19, 1794
 

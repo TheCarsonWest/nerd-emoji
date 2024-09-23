@@ -1,4 +1,4 @@
-**Notecard: Great Compromise**
+**Notecard: [[Great Compromise]]**
 
 **WHEN:**
 
@@ -12,7 +12,7 @@
 
 **WHAT:**
 
-* A compromise between large and small states at the Constitutional Convention
+* A compromise between large and small states at the [[Constitutional Convention]]
 * Created a bicameral legislature:
     * House of Representatives: Representation based on population
     * Senate: Each state would have equal representation (two senators)

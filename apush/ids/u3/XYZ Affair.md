@@ -1,4 +1,4 @@
-**Notecard: XYZ Affair**
+**Notecard: [[XYZ Affair]]**
 
 **WHEN:** 1797-1798
 

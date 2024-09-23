@@ -1,4 +1,4 @@
-**ID: Indentured Servitude**
+**ID: [[Indentured Servitude]]**
 
 **When:** 1619+ (first recorded African captives to America)
 

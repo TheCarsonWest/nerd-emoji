@@ -1,4 +1,4 @@
-## File IO Modes
+## [[File IO Modes]]
 
 ### Overview
 Python provides file handling modes to specify how the file is opened and how data is accessed. The mode specifies the usage of the file, such as reading, writing, or appending.
@@ -14,7 +14,7 @@ Python provides file handling modes to specify how the file is opened and how da
 | `'a+'` | Opens a file for both appending and reading. Data is written to the end of the file without overwriting the existing content. If the file doesn't exist, a new file will be created. |
 | `'x'` | Opens a file for exclusive creation and writing. If the file already exists, an `OSError` will be raised. |
 
-### How to Use File IO Modes
+### How to Use [[File IO Modes]]
 When opening a file using the `open()` function, the mode is specified as the second parameter:
 
 ```python

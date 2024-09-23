@@ -1,9 +1,9 @@
-## Multiple Inheritance in Python
+## [[Multiple [[Inheritance]] in Python
 
-### What is Multiple Inheritance?
+### What is [[Multiple [[Inheritance]]?
 Multiple inheritance is a feature in Python that allows a class to inherit from multiple parent classes, inheriting their attributes and functionalities. It provides a way to combine functionalities from different classes into a single class.
 
-### How to Use Multiple Inheritance
+### How to Use [[Multiple [[Inheritance]]
 To implement multiple inheritance, use the following syntax:
 
 ```python

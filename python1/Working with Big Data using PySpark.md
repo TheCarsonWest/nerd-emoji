@@ -1,4 +1,4 @@
-## Working with Big Data using PySpark
+## [[Working with Big Data using PySpark]]
 
 ### Overview
 PySpark is a Python API for Apache Spark, a popular framework for processing large-scale data efficiently. It provides high-level APIs that enable Python developers to access and manipulate distributed datasets in a convenient and efficient manner.
@@ -62,5 +62,5 @@ df = spark.createDataFrame(data, ["name", "age"])
 - [[Libraries like Pandas]]: PySpark is similar to Pandas but designed for handling larger datasets.
 - [[Big Data]]: PySpark is specifically designed for working with large datasets.
 - [[Map, Filter, and Reduce]]: PySpark transformations can be implemented using these higher-order functions.
-- [[Lambda Functions]]: Lambda functions can be used to define anonymous functions for PySpark transformations.
+- [[Lambda [[Functions]]: Lambda functions can be used to define anonymous functions for PySpark transformations.
 - [[Concurrency and Multithreading]]: PySpark leverages multithreading and distributed computing for efficient data processing.

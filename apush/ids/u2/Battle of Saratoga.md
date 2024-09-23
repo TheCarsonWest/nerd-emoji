@@ -1,4 +1,4 @@
-**Battle of Saratoga**
+**[[Battle of Saratoga]]**
 
 **When:** September 19, 1777 (First Saratoga) and October 7, 1777 (Second Saratoga)
 

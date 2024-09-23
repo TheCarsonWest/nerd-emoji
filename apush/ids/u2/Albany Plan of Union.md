@@ -1,4 +1,4 @@
-**Notecard: Albany Plan of Union**
+**Notecard: [[Albany Plan of Union]]**
 
 * **When:** June 24, 1754
 * **Who:** Benjamin Franklin, Thomas Hutchinson, James De Lancey

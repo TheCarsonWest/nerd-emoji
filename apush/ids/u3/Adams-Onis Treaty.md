@@ -9,7 +9,7 @@
 **IMPACT:** Significant for the following reasons:
 
 * Extended the US border to the Gulf of Mexico
-* Prevented potential conflicts over the Louisiana Purchase
+* Prevented potential conflicts over the [[Louisiana Purchase]]
 * Strengthened US control over the Gulf Coast
 * Set the stage for the eventual annexation of Texas
 # [[IDS Unit 3]]

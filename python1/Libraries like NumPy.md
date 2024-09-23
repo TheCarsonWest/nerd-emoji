@@ -1,4 +1,4 @@
-## Libraries like NumPy
+## [[Libraries like NumPy]]
 
 ### What is NumPy?
 NumPy (Numerical Python) is a powerful Python library for scientific computing that provides a comprehensive collection of functions and data structures for numerical operations and linear algebra. It enables efficient handling of multidimensional arrays and offers a wide range of mathematical functions for numerical computations.
@@ -25,7 +25,7 @@ Once imported, you can access the functions and classes provided by NumPy.
 - `arr * arr2`: Element-wise multiplication of two arrays.
 - `np.sum(arr)`: Computes the sum of all elements in an array.
 
-**Mathematical Functions:**
+**Mathematical [[Functions]]:**
 - `np.sin(x)`: Computes the sine of x.
 - `np.cos(x)`: Computes the cosine of x.
 - `np.log(x)`: Computes the natural logarithm of x.

@@ -1,4 +1,4 @@
-## Handling APIs with Requests Library
+## [[Handling APIs with Requests Library]]
 
 ### What is the Requests Library?
 The Requests library is a widely used Python package that simplifies the process of making HTTP requests and handling API responses. It provides a comprehensive set of features to interact with web services and retrieve data over the internet.

@@ -1,4 +1,4 @@
-**ID:** Puritans
+**ID:** [[Puritans]]
 
 **When:**
 

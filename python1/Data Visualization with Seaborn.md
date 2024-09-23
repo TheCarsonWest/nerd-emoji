@@ -1,4 +1,4 @@
-## Data Visualization with Seaborn
+## [[Data Visualization with Seaborn]]
 
 ### Introduction
 Seaborn is a Python library for data visualization based on Matplotlib that provides a high-level interface for creating statistical graphics. It simplifies the process of generating visually appealing and informative charts and plots.
@@ -14,7 +14,7 @@ import seaborn as sns
 4. Use the appropriate Seaborn function to create the plot. (See below for specific functions and parameters.)
 5. Customize the plot as needed (e.g., add labels, set colors).
 
-### Functions and Parameters
+### [[Functions]] and Parameters
 Seaborn provides various functions for different types of plots, each with its own set of parameters. Some commonly used functions include:
 
 - **relplot()**: Create scatter plots, line plots, and bar plots with customizable relationships (e.g., hue, size).

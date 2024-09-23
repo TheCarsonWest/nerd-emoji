@@ -1,6 +1,6 @@
-## Concurrency and Multithreading
+## [[Concurrency and Multithreading]]
 
-### What is Concurrency and Multithreading?
+### What is [[Concurrency and Multithreading]]?
 Concurrency and multithreading in Python refer to the ability to execute multiple tasks simultaneously within a single Python program. This allows for improved performance and efficiency by utilizing multiple cores or processors available on a computing system.
 
 ### How to Use Multithreading
@@ -29,5 +29,5 @@ thread.join()
 - [[Functions]]: Multithreading involves creating and executing functions in separate threads.
 - [[Modules and Packages]]: The `threading` module is a pre-built module in Python that provides functions and classes for multithreading.
 - [[Concurrency and Multithreading]]: This topic is directly related to concurrency and multithreading in Python.
-- [[Multiprocessing]]: Multiprocessing is another approach for parallel execution, involving the creation of separate processes instead of threads.
+- [[Multiprocessing]]: [[Multiprocessing]] is another approach for parallel execution, involving the creation of separate processes instead of threads.
 - [[Asynchronous Programming]]: Asynchronous programming allows for non-blocking I/O operations, which can be useful for concurrency.

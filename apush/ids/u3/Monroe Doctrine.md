@@ -1,4 +1,4 @@
-**Monroe Doctrine**
+**[[Monroe Doctrine]]**
 
 **WHEN:** December 2, 1823
 

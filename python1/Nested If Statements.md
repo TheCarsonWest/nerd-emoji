@@ -1,9 +1,9 @@
-## Nested If Statements
+## [[Nested If Statements]]
 
-### What are Nested If Statements?
+### What are [[Nested If Statements]]?
 Nested if statements involve embedding one or more if statements within another if statement. They enable complex decision-making scenarios and allow for specific code blocks to be executed based on multiple conditions.
 
-### How to Use Nested If Statements
+### How to Use [[Nested If Statements]]
 The syntax of nested if statements is:
 
 ```python

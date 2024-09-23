@@ -1,9 +1,9 @@
-## Time Series Analysis
+## [[Time Series Analysis]]
 
-### What is Time Series Analysis?
+### What is [[Time Series Analysis]]?
 Time series analysis involves analyzing data collected at regular time intervals, known as time series data. The goal is to uncover patterns, trends, and dependencies within the data over time. It helps identify seasonality, detect outliers, forecast future values, and extract meaningful insights.
 
-### How to Use Time Series Analysis
+### How to Use [[Time Series Analysis]]
 Python provides various libraries for time series analysis. The most popular are:
 - Pandas: A data manipulation and analysis library with dedicated time series functions.
 - Statsmodels: A statistical modeling library with time series-specific modules.

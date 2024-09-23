@@ -1,9 +1,9 @@
-## Default Parameters
+## [[Default Parameters]]
 
-### What are Default Parameters?
+### What are [[Default Parameters]]?
 Default parameters are a way to give a value to a function parameter if no argument is passed when calling the function. This helps in providing more flexibility and simplifying the function call.
 
-### How to Use Default Parameters
+### How to Use [[Default Parameters]]
 To define a default parameter in a function, assign a value to the parameter in the function definition. For example:
 
 ```python

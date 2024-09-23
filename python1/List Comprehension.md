@@ -1,9 +1,9 @@
-## List Comprehension
+## [[List Comprehension]]
 
-### What is List Comprehension?
+### What is [[List Comprehension]]?
 List comprehension is a concise and readable syntax in Python that allows you to create a new list based on the elements of an existing list. It combines a for loop and a conditional statement into a single line of code.
 
-### How to Use List Comprehension
+### How to Use [[List Comprehension]]
 The syntax of a list comprehension is:
 
 ```python

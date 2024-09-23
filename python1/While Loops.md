@@ -1,9 +1,9 @@
-## While Loops
+## [[While Loops]]
 
-### What are While Loops?
+### What are [[While Loops]]?
 While loops are a control flow construct that allows the execution of a code block repeatedly as long as a specified condition remains True. They provide a way to iterate through a sequence of operations or execute a block of code an indefinite number of times.
 
-### How to Use While Loops
+### How to Use [[While Loops]]
 The syntax of a while loop in Python is:
 
 ```python
@@ -30,7 +30,7 @@ while True:
         break
 ```
 
-### Other Python Concepts Related to While Loops
+### Other Python Concepts Related to [[While Loops]]
 
 - [[Variables and Data Types]]: Variables are used to store and manipulate data within while loops.
 - [[Operators]]: Comparison operators like `>` and `==` are used to create conditions in while loops.

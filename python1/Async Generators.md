@@ -1,10 +1,10 @@
-## Async Generators
+## Async [[Generators]]
 
 ### Definition
 
 Async generators are special types of generators that can be used to lazily generate a sequence of values asynchronously. They allow for the creation of asynchronous iterators, making it possible to handle data asynchronously while maintaining the ability to iterate over the generated sequence.
 
-### How to Use Async Generators
+### How to Use Async [[Generators]]
 
 Async generators are defined using the `async def` syntax, similar to regular generators. They have a `yield` statement to produce each value in the sequence. However, they use the `async for` syntax to be iterated over asynchronously.
 
@@ -42,7 +42,7 @@ async def main():
 
 ### Related Python Concepts
 
-- [[Async Generators]]: Async generators use async iterators to produce values asynchronously.
+- [[Async [[Generators]]: Async generators use async iterators to produce values asynchronously.
 - [[Coroutines]]: Async generators are closely related to coroutines, as they allow for asynchronous iteration over a sequence of values.
 - [[Generators]]: Async generators extend the concept of generators by allowing for asynchronous iteration.
 - [[Asyncio]]: Async generators are typically used in conjunction with the asyncio library for asynchronous I/O.

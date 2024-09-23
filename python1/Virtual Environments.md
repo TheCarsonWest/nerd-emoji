@@ -1,9 +1,9 @@
-## Python Virtual Environments
+## Python [[Virtual Environments]]
 
 ### What is a Virtual Environment?
 A Python virtual environment is an isolated and self-contained environment for running Python projects. It allows you to manage different versions of Python installations, install and manage different packages, and avoid conflicts with the system-wide Python installation.
 
-### How to Use Virtual Environments
+### How to Use [[Virtual Environments]]
 To create a virtual environment, use the following command:
 
 ```bash

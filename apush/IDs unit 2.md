@@ -1,5 +1,4 @@
-# [[ID Home]]
-### [[APUSH Home]]
+# [[ID  Home]]
 
 1. [[Headright System]] 
 2. [[House of Burgesses]] 

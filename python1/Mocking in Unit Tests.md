@@ -1,4 +1,4 @@
-## Mocking in Unit Tests
+## [[Mocking in Unit Tests]]
 
 ### What is Mocking?
 Mocking is a technique in unit testing where a specific class or function is replaced with a substitute (or mock) object that simulates its behavior. The substitute object can be controlled and programmed to provide predictable responses, allowing you to test the code that relies on it without the actual implementation.

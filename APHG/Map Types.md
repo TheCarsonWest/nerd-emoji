@@ -1,4 +1,4 @@
-[[The nature of geography 1.1]]
+[[The nature of geography 1]].1]]
 [[APHG Unit 1]]
 
 ### Different people map different maps
@@ -21,7 +21,7 @@ Shows data in a color scale
 ### Chloropleths are bad
 - Outliers will turn an entire state dark
 	- Ex Atlanta's black neighborhoods make the whole state of georgia dark on a chloropleth scale
-## Dot distribution
+## [[Dot distribution]]
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeFfDwgIRkaCVMbulO3D8PL7qnuXfbi-vh3lXGUzO-pN5IxJdgJH-COJJdMsAc4dqB1A4BNRISl0T5OPFYHq-TjbvWRFVq3eBeIrL4ryaqRG8krv3Gpg5vfSWXX3rBufgnlreBFQg3uK2o_Pr8IDV1Vog5enid2qClIxA=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
 - Shows the distribution of things
 - One dot represents something
@@ -30,11 +30,11 @@ Shows data in a color scale
 	- Doesn't show everything
 		- You can't see the asian populations
 		- There isnt even a color for MENA immigrants(should be visibile in NYC and Detroit)
-## Graduated Symbols
+## [[Graduated Symbols]]
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfjWY5Cq3GH2zRhLy3RK1Cve4xcykkp6ajlNL2N-ZlypVBn8dTCId2Bxy30UIdZTsc70XTICEOKuN0QIyOtB1OrTL8S8ginemJO8MAQrNsz_QLkh9-V121kwNjSwuMWm11XiPiBlxcuv_T2rAoAwT-DffHwQ6pwR2JYuQ=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
 - They are ugly
 - Pretty similar to chloropleth
-- Not a dot distribution
+- Not a [[dot distribution]]
 	- Big circles
 	- not small circles
 ## Isoline

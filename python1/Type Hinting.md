@@ -1,12 +1,12 @@
-## Type Hinting
+## [[Type Hinting]]
 
-### What is Type Hinting?
+### What is [[Type Hinting]]?
 Type hinting is a feature of Python that allows developers to include type annotations in their code to specify the expected data types of variables, function parameters, and return values. It is a non-enforced form of type checking that helps improve code readability, consistency, and the potential to detect errors early on.
 
-### How to Use Type Hinting
+### How to Use [[Type Hinting]]
 Type hints are added using type annotations, which are special comments written with a colon (:) at the end of a line of code.
 
-#### Functions
+#### [[Functions]]
 **Parameters:**
 ```python
 def add_numbers(a: int, b: int) -> int:
@@ -23,7 +23,7 @@ def add_numbers(a: int, b: int) -> int:
     return a + b
 ```
 
-**Return Values:**
+**[[Return Values]]:**
 ```python
 def get_max(a: int, b: int) -> int:
     """

@@ -1,4 +1,4 @@
-## Creating GUI Applications with Tkinter or PyQt
+## [[Creating GUI Applications with Tkinter or PyQt]]
 
 ### Explanation
 
@@ -120,4 +120,4 @@ app.exec_()
 - [[Functions]]: GUI elements can be created using functions that encapsulate the necessary setup and initialization code.
 - [[Object-Oriented Programming]]: Tkinter and PyQt utilize object-oriented programming principles for representing and interacting with GUI components.
 - [[Event Handling]]: GUIs handle user interactions through events such as button clicks and mouse movements.
-- [[Threading and Multiprocessing]]: GUIs often employ threading or multiprocessing to manage multiple tasks concurrently.
+- [[Threading and [[Multiprocessing]]: GUIs often employ threading or multiprocessing to manage multiple tasks concurrently.

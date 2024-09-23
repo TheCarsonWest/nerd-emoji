@@ -1,4 +1,4 @@
-**Notecard on the Treaty of Ghent**
+**Notecard on the [[Treaty of Ghent]]**
 
 **WHEN:** December 24, 1814
 

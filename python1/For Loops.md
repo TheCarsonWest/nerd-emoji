@@ -1,9 +1,9 @@
-# Python For Loops
+# Python [[For Loops]]
 
-## What are For Loops?
+## What are [[For Loops]]?
 For loops are a control flow statement used to iterate over a sequence of items, such as a list, tuple, or string. They allow the execution of a code block for each element in the sequence.
 
-## How to Use For Loops
+## How to Use [[For Loops]]
 The syntax of a for loop in Python is:
 
 ```python

@@ -1,10 +1,10 @@
-## Abstract Classes
+## [[Abstract Classes]]
 
-### What are Abstract Classes?
+### What are [[Abstract Classes]]?
 
 Abstract classes are blueprints for creating other classes. They contain methods that must be implemented (overridden) by the derived classes. Abstract classes cannot be instantiated directly; they are meant to be inherited and extended.
 
-### How to Use Abstract Classes
+### How to Use [[Abstract Classes]]
 
 To create an abstract class, use the `abc` module:
 

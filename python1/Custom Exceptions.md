@@ -1,9 +1,9 @@
-## Custom Exceptions
+## [[Custom Exceptions]]
 
-### What are Custom Exceptions?
+### What are [[Custom Exceptions]]?
 Custom exceptions are classes designed to handle specific errors or exceptional conditions encountered during program execution. They extend the built-in `Exception` class and allow developers to create specialized exceptions that can provide more context and tailored handling.
 
-### How to Use Custom Exceptions
+### How to Use [[Custom Exceptions]]
 To create a custom exception, define a class that inherits from the `Exception` class and optionally provides additional attributes for storing error information. Typically, a custom exception class is defined as follows:
 
 ```python

@@ -1,16 +1,16 @@
-## Python Lists
+## Python [[Lists]]
 
-### What are Lists?
-Lists are one of the most versatile data structures in Python. They are ordered collections of elements that can be accessed and modified by index. Lists are mutable, which means their contents can be changed during program execution.
+### What are [[Lists]]?
+[[Lists]] are one of the most versatile data structures in Python. They are ordered collections of elements that can be accessed and modified by index. [[Lists]] are mutable, which means their contents can be changed during program execution.
 
-### How to Use Lists
-Lists can be created using square brackets `[]`. The elements of a list are separated by commas.
+### How to Use [[Lists]]
+[[Lists]] can be created using square brackets `[]`. The elements of a list are separated by commas.
 
 ```python
 my_list = [1, 2, 3, 4, 5]
 ```
 
-Lists can also be created from other iterables, such as tuples and strings.
+[[Lists]] can also be created from other iterables, such as tuples and strings.
 
 ```python
 my_list = list((1, 2, 3, 4, 5))
@@ -48,8 +48,8 @@ numbers.sort()
 ```
 
 ### Related Python Concepts
-- [[Variables and Data Types]]: Lists are a type of data structure that can store multiple values.
-- [[Mutable vs Immutable Types]]: Lists are mutable, meaning their contents can be modified.
+- [[Variables and Data Types]]: [[Lists]] are a type of data structure that can store multiple values.
+- [[Mutable vs Immutable Types]]: [[Lists]] are mutable, meaning their contents can be modified.
 - [[For Loops]]: For loops can be used to iterate over the elements of a list.
 - [[List Comprehension]]: List comprehensions provide a concise way to create new lists based on existing lists.
-- [[Multidimensional Lists]]: Lists can be nested to create multidimensional data structures.
+- [[Multidimensional [[Lists]]]]: [[Lists]] can be nested to create multidimensional data structures.

@@ -1,9 +1,9 @@
-## Nested Loops
+## [[Nested Loops]]
 
-### What are Nested Loops?
+### What are [[Nested Loops]]?
 Nested loops are a sequence of loops, where one or more loops are contained within another loop. They enable the execution of a nested block of code a specified number of times, depending on the conditions of the outer and inner loops.
 
-### How to Use Nested Loops
+### How to Use [[Nested Loops]]
 To create nested loops, use one or more for loops (or while loops) nested within another for loop (or while loop). The syntax is as follows:
 
 ```python

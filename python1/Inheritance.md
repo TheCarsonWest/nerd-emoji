@@ -1,9 +1,9 @@
-## Inheritance in Python
+## [[Inheritance]] in Python
 
-### What is Inheritance?
-Inheritance is a fundamental concept in object-oriented programming that allows a new class (child class) to inherit properties and methods from an existing class (parent class). It enhances code reusability, reduces redundancy, and promotes the principles of "has-a" and "is-a" relationships between objects.
+### What is [[Inheritance]]?
+[[Inheritance]] is a fundamental concept in object-oriented programming that allows a new class (child class) to inherit properties and methods from an existing class (parent class). It enhances code reusability, reduces redundancy, and promotes the principles of "has-a" and "is-a" relationships between objects.
 
-### How to Use Inheritance
+### How to Use [[Inheritance]]
 To create a child class that inherits from a parent class, use the following syntax:
 
 ```python
@@ -45,8 +45,8 @@ my_dog.bark()  # Output: Woof!
 
 ### Related Python Concepts
 
-- [[Classes and Objects]]: Inheritance extends the functionality of existing classes by creating subclasses.
+- [[Classes and Objects]]: [[Inheritance]] extends the functionality of existing classes by creating subclasses.
 - [[Polymorphism]]: Child classes can override methods from the parent class, allowing different behaviors for objects of the same type.
-- [[Encapsulation]]: Inheritance enables the reuse of protected and public attributes and methods, providing a level of abstraction and data hiding.
-- [[Modules and Packages]]: Inheritance can be used to organize and structure code modules by creating hierarchies of related classes.
+- [[Encapsulation]]: [[Inheritance]] enables the reuse of protected and public attributes and methods, providing a level of abstraction and data hiding.
+- [[Modules and Packages]]: [[Inheritance]] can be used to organize and structure code modules by creating hierarchies of related classes.
 - [[Abstract Classes]]: Abstract classes can be used as parent classes to define common interfaces that child classes must implement.

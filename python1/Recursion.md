@@ -1,9 +1,9 @@
-## Recursion
+## [[Recursion]]
 
 ### Explanation
-Recursion is a programming technique where a function calls itself inside its own body. It is used to break down a problem into smaller subproblems, each of which is a simpler instance of the original problem.
+[[Recursion]] is a programming technique where a function calls itself inside its own body. It is used to break down a problem into smaller subproblems, each of which is a simpler instance of the original problem.
 
-### How to use Recursion
+### How to use [[Recursion]]
 When implementing recursion, it is important to:
 
 - Define a base case: This is the stopping condition that prevents the function from recursing indefinitely.
@@ -36,8 +36,8 @@ def fibonacci(n):
 
 ### Related Python Concepts
 
-- [[Functions]]: Recursion is a special case of function calls where the function calls itself.
+- [[Functions]]: [[Recursion]] is a special case of function calls where the function calls itself.
 - [[Function Parameters]]: Recursive functions often use parameters to pass smaller subproblems to the recursive calls.
 - [[Return Values]]: Recursive functions return values that are used to calculate the final result.
-- [[Memoization in Recursion]]: Memoization techniques can optimize recursive functions by caching previously calculated results.
-- [[Higher-Order Functions]]: Recursion can be used to implement higher-order functions that accept and return other functions.
+- [[Memoization in [[Recursion]]]]: Memoization techniques can optimize recursive functions by caching previously calculated results.
+- [[Higher-Order [[Functions]]: [[Recursion]] can be used to implement higher-order functions that accept and return other functions.

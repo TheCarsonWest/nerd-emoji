@@ -1,7 +1,7 @@
 ---
 location: 44.2057083,-70.75378387447887
 ---
-**ID:** Pequot War
+**ID:** [[Pequot War]]
 **When:** 1636-1638
 **Who:**
     * **English Colonists:** John Winthrop, Roger Williams

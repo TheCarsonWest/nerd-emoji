@@ -10,7 +10,7 @@
 **WHAT:**
 
 * Marbury sued Madison to force him to deliver a judicial commission that had been signed by President John Adams but not delivered before Adams left office.
-* The Supreme Court ruled that Marbury was entitled to the commission but that the Court lacked the authority to order Madison to deliver it because the Judiciary Act of 1789 was unconstitutional.
+* The Supreme Court ruled that Marbury was entitled to the commission but that the Court lacked the authority to order Madison to deliver it because the [[Judiciary Act]] of 1789 was unconstitutional.
 
 **IMPACT:**
 

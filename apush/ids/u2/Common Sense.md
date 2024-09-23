@@ -1,4 +1,4 @@
-**Notecard Summary: Common Sense**
+**Notecard Summary: [[Common Sense]]**
 
 **When:** January 10, 1776
 

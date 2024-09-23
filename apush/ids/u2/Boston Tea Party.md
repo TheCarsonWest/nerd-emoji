@@ -1,7 +1,7 @@
 ---
 location: 42.3554334,-71.060511
 ---
-**ID: Boston Tea Party**
+**ID: [[Boston Tea Party]]**
 
 **When:** December 16, 1773
 

@@ -1,10 +1,10 @@
-## Importing Modules
+## [[Importing Modules]]
 
-### What is Importing Modules?
+### What is [[Importing Modules]]?
 
 Importing modules in Python allows you to access and reuse code written in other files. Modules are individual Python files with a `.py` extension that contain defined functions, classes, and variables. Importing modules enables code reusability, modularity, and organization in larger projects.
 
-### How to Use Importing Modules
+### How to Use [[Importing Modules]]
 
 To import a module, use the `import` statement followed by the module name:
 

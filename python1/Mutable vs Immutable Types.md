@@ -1,4 +1,4 @@
-## Mutable vs Immutable Types
+## [[Mutable vs Immutable Types]]
 
 ### Explanation
 In Python, data types can be categorized as either mutable or immutable. Mutability refers to whether the value of a variable can be changed once it is created.
@@ -22,7 +22,7 @@ my_string = "Hello"
 
 ### Related Python Concepts
 - [[Variables and Data Types]]: Mutable and immutable types are fundamental data types in Python.
-- [[Lists]]: Lists are mutable sequences that can be modified in place.
-- [[Tuples]]: Tuples are immutable sequences that cannot be modified.
-- [[Dictionaries]]: Dictionaries are mutable mappings that can be modified in place.
-- [[Sets]]: Sets are mutable collections that can be modified in place.
+- [[Lists]]: [[Lists]] are mutable sequences that can be modified in place.
+- [[Tuples]]: [[Tuples]] are immutable sequences that cannot be modified.
+- [[Dictionaries]]: [[Dictionaries]] are mutable mappings that can be modified in place.
+- [[Sets]]: [[Sets]] are mutable collections that can be modified in place.

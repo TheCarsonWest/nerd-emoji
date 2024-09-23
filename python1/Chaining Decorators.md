@@ -1,9 +1,9 @@
-# Chaining Decorators
+# Chaining [[Decorators]]
 
-## What are Chaining Decorators?
+## What are Chaining [[Decorators]]?
 Chaining decorators is a technique in Python that allows multiple decorators to be applied to a single function or class. By chaining decorators, you can combine the functionalities of different decorators in a sequential manner, allowing you to enhance the behavior of the decorated function or class in a more modular and flexible way.
 
-## How to Use Chaining Decorators
+## How to Use Chaining [[Decorators]]
 To chain decorators, simply use the `@` symbol before each decorator function you want to apply, in the order you wish to apply them. The syntax is as follows:
 
 ```python
@@ -86,7 +86,7 @@ def update_user(self, new_data):
 
 ## Related Python Concepts
 - [[Decorators]]: Chaining decorators is an advanced technique that builds upon the concept of decorators.
-- [[Functions]]: Decorators are applied to functions to modify their behavior.
-- [[Higher-Order Functions]]: Decorators are higher-order functions that take a function as an argument and return a new function.
-- [[Closures]]: Decorators create closures that remember and have access to the variables defined in their scope.
+- [[Functions]]: [[Decorators]] are applied to functions to modify their behavior.
+- [[Higher-Order [[Functions]]: [[Decorators]] are higher-order functions that take a function as an argument and return a new function.
+- [[Closures]]: [[Decorators]] create closures that remember and have access to the variables defined in their scope.
 - [[Metaclasses]]: Chaining decorators can be used to create custom metaclasses that modify the behavior of classes and their instances.

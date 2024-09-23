@@ -1,4 +1,4 @@
-**Notecard: The Wealth of Nations**
+**Notecard: [[The Wealth of Nations]]**
 
 **When:** 1776
 

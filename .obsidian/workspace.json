@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "28fc5489775bfdce",
+        "id": "1e13bb73ee476c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea10e7f70bd4540c",
+            "id": "5099e17af6614c97",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "7b83985cd170f22d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDS Unit 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IDS Unit 3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8391955814665114,
+                  "scale": 0.93486347563011,
                   "close": true
                 }
               }
@@ -143,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDS Unit 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDS Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,32 +166,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IDS Unit 3.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "13a00c75331f1c03",
+            "id": "7b83985cd170f22d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/IDs unit 2.md",
+                "file": "scripts/IDS Unit 3.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,34 +203,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7b83985cd170f22d",
+  "active": "5099e17af6614c97",
   "lastOpenFiles": [
-    "scripts/result/Report on the Public Credit.md",
-    "apush/ids/u3/XYZ Affair.md",
-    "apush/ids/u3/Whiskey Rebellion.md",
-    "apush/ids/u3/VA and KY Resolutions.md",
-    "apush/ids/u3/Treaty of Greenville.md",
-    "apush/ids/u3/Treaty of Ghent.md",
-    "apush/ids/u3/The American System.md",
-    "apush/ids/u3/Report on the Public Credit.md",
-    "apush/ids/u3/Report on Manufactures.md",
-    "apush/ids/u3/Proclamation of Neutrality.md",
-    "apush/ids/u3/Panic of 1819.md",
-    "apush/ids/u3/Naturalization, Alien, and Sedition Acts.md",
-    "apush/ids/u3/Monroe Doctrine.md",
-    "apush/ids/u3/McCulloch v. Maryland.md",
-    "apush/ids/u3/Marbury vs. Madison.md",
-    "apush/ids/u3/Louisiana Purchase.md",
-    "apush/ids/u3/Judiciary Act.md",
-    "apush/ids/u3/Jay’s Treaty.md",
-    "apush/ids/u3/Great Compromise.md",
-    "apush/ids/u3/George Washington’s Farewell Address.md",
-    "apush/ids/u3/Era of Good Feelings.md",
-    "apush/ids/u3/Embargo Act of 1807.md",
-    "apush/ids/u3/Election of 1800.md",
-    "apush/ids/u3/Constitutional Convention.md",
-    "apush/ids/u3/Capital Compromise.md",
-    "apush/ids/u3/Bill of Rights.md",
+    "past-test-scores.png",
+    "nexus.md",
+    "APHG/Glossary.md",
+    "APHG/APHG Home.md",
+    "APHG/Cengage home.md",
+    "APHG/Map Projections.md",
+    "APHG/Map Distortions.md",
+    "apush/IDs unit 2.md",
+    "apush/ids/u2/Enlightenment.md",
+    "scripts/IDS Unit 3.md",
+    "ID [[Home.md",
+    "apush/ID Home.md",
+    "[VA and KY Resolutions.md",
+    "APHG/Cartogram.md",
+    "Python 1 Home.md",
+    "python1/Python 1 Home.md",
+    "APHG/Place Names.md",
+    "APHG/Vernacular Region.md",
+    "APHG/Regional scale.md",
+    "APHG/National scale.md",
+    "APHG/Local scale.md",
+    "Functional Region.md",
+    "APHG/Graduated Symbols.md",
+    "APHG/Globalization and Sustainability.md",
+    "APHG/Global scale.md",
+    "APHG/Functional Region.md",
+    "scripts/replace.py",
+    "scripts/autolinker.py",
     "apush/ids/u3",
     "apush/ids/u2/filemaker.py",
     "apush/ids/u2",
@@ -260,8 +242,6 @@
     "scripts/prompts.txt",
     "python1",
     "scripts/result",
-    "scripts/replace.py",
-    "scripts/linker.py",
     "APHG/Pasted image 20240911075621.png",
     "APHG/Pasted image 20240905082254.png",
     "APHG/Pasted image 20240905072920.png",

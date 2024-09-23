@@ -1,4 +1,4 @@
-## DataFrames in Pandas
+## [[DataFrames in Pandas]]
 
 ### What are DataFrames?
 DataFrames are a data structure in the Pandas library that represents tabular data with rows and columns. They are a powerful tool for manipulating and analyzing structured data, similar to tables in relational databases.

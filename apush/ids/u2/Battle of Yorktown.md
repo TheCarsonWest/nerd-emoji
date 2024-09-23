@@ -1,4 +1,4 @@
-**Battle of Yorktown**
+**[[Battle of Yorktown]]**
 
 **When:** October 19, 1781
 

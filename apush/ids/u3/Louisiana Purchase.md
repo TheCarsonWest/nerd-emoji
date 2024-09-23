@@ -1,4 +1,4 @@
-**Notecard: Louisiana Purchase**
+**Notecard: [[Louisiana Purchase]]**
 
 **WHEN:** April 30, 1803
 
