@@ -2,7 +2,7 @@
 
 **WHEN:** December 5, 1810
 
-**WHO:** Alexander Hamilton
+**WHO:** [[Alexander Hamilton]]
 
 **WHAT:** Prepared a "[[Report on Manufactures]]" for Congress
 

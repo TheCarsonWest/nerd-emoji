@@ -3,7 +3,7 @@
 **When:** October 19, 1781
 
 **Who:**
-* George Washington (Continental Army)
+* [[George Washington]] (Continental Army)
 * Comte de Rochambeau (French Army)
 * Comte de Grasse (French Navy)
 * Lord Cornwallis (British Army)

@@ -12,7 +12,7 @@
 
 - **Opened British West Indian Ports to American Ships:** The treaty allowed American ships access to British ports in the West Indies, which boosted the American economy.
 
-- **Strengthened Federalist Party:** The treaty's success strengthened the Federalist Party, which supported President George Washington's foreign policy.
+- **Strengthened Federalist Party:** The treaty's success strengthened the Federalist Party, which supported President [[George Washington]]'s foreign policy.
 
-- **Opposition from Democratic-Republicans:** Many Democratic-Republicans, led by Thomas Jefferson, opposed the treaty, arguing that it was too favorable to Great Britain.
+- **Opposition from Democratic-Republicans:** Many Democratic-Republicans, led by [[Thomas Jefferson]], opposed the treaty, arguing that it was too favorable to Great Britain.
 # [[IDS Unit 3]]

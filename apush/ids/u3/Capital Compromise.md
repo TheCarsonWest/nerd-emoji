@@ -1,6 +1,6 @@
 **WHEN:** September 26, 1789
 
-**WHO:** Alexander Hamilton (Secretary of the Treasury), James Madison (House of Representatives), House of Representatives
+**WHO:** [[Alexander Hamilton]] (Secretary of the Treasury), [[James Madison]] (House of Representatives), House of Representatives
 
 **WHAT:** Southern states agreed to support a national bank in exchange for locating the national capital in the South.
 

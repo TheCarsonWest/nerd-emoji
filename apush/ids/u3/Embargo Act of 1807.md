@@ -2,7 +2,7 @@
 
 **WHEN:** December 22, 1807
 
-**WHO:** President Thomas Jefferson, U.S. Congress
+**WHO:** President [[Thomas Jefferson]], U.S. Congress
 
 **WHAT:** The [[Embargo Act of 1807]] prohibited the export of all goods from the United States to foreign countries. It was an attempt by Jefferson to pressure Great Britain and France to respect American neutrality during the Napoleonic Wars.
 

@@ -4,7 +4,7 @@
 
 **WHO:**
 
-* **Virginia Assembly:** Led by James Madison
+* **Virginia Assembly:** Led by [[James Madison]]
 * **Kentucky Legislature:** Led by Henry Clay
 
 **WHAT:**

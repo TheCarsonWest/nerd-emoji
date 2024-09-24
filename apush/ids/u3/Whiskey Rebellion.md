@@ -5,8 +5,8 @@
 **WHO:**
 
 * **Farmers in western Pennsylvania:** Resisted the federal tax on whiskey, which they made and sold as a major source of income.
-* **Alexander Hamilton:** Treasury Secretary who supported the tax and called for its enforcement.
-* **George Washington:** President who led the military force that suppressed the rebellion.
+* **[[Alexander Hamilton]]:** Treasury Secretary who supported the tax and called for its enforcement.
+* **[[George Washington]]:** President who led the military force that suppressed the rebellion.
 
 **WHAT:**
 

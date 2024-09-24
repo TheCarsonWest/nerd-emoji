@@ -2,7 +2,7 @@
 
 **WHEN:** December 14, 1790
 
-**WHO:** Alexander Hamilton, Secretary of the Treasury
+**WHO:** [[Alexander Hamilton]], Secretary of the Treasury
 
 **WHAT:** Issued a report to Congress outlining the financial situation of the newly formed United States government
 

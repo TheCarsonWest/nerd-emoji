@@ -6,7 +6,7 @@
 
 **WHO:**
 
-* James Madison (Virginia)
+* [[James Madison]] (Virginia)
 * Roger Sherman (Connecticut)
 * William Paterson (New Jersey)
 

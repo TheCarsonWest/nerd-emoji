@@ -3,7 +3,7 @@
 **WHEN:** 1797-1798
 
 **WHO:**
-* John Adams, President of the United States
+* [[John Adams]], [[President of the United States]]
 * Charles Maurice de Talleyrand-Périgord, French Foreign Minister
 
 **WHAT:**

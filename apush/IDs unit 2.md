@@ -22,7 +22,7 @@
 20. [[Boston Massacre]]
 21. [[Tea Act]]
 22. [[Boston Tea Party]]
-23. [[Coercive Intolerable Acts]]
+23. [[Intolerable Acts]]
 24. [[First Continental Congress]]
 25. [[Olive Branch Petition]]
 26. [[Second Continental Congress]]

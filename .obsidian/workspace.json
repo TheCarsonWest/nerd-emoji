@@ -11,11 +11,40 @@
             "id": "5099e17af6614c97",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "apush/Samuel Adams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed3c8953fbfed565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apush/John Hancock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e8e806416209f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apush/James Madison.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "apush/James Madison.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "apush/James Madison.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "apush/James Madison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "apush/James Madison.md"
+              }
             }
           },
           {
@@ -176,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scripts/IDS Unit 3.md",
+                "file": "apush/IDS Unit 3.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,36 +237,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5099e17af6614c97",
+  "active": "e1e3c5b0f16240e6",
   "lastOpenFiles": [
-    "past-test-scores.png",
-    "nexus.md",
-    "APHG/Glossary.md",
-    "APHG/APHG Home.md",
-    "APHG/Cengage home.md",
-    "APHG/Map Projections.md",
-    "APHG/Map Distortions.md",
-    "apush/IDs unit 2.md",
-    "apush/ids/u2/Enlightenment.md",
-    "scripts/IDS Unit 3.md",
-    "ID [[Home.md",
-    "apush/ID Home.md",
-    "[VA and KY Resolutions.md",
-    "APHG/Cartogram.md",
-    "Python 1 Home.md",
-    "python1/Python 1 Home.md",
+    "apush/John Hancock.md",
+    "apush/Samuel Adams.md",
+    "Sam Adams.md",
+    "apush/ids/u2/Intolerable Acts.md",
+    "apush/ids/u2/Boston Tea Party.md",
+    "apush/ids/u2/Sons of Liberty.md",
+    "apush/Benjamin Franklin.md",
+    "Constitution of the United States.md",
+    "Federalist Papers.md",
+    "apush/Alexander Hamilton.md",
+    "apush/James Madison.md",
+    "apush/ids/u3/Great Compromise.md",
+    "apush/IDS Unit 3.md",
+    "apush/ids/u3/Constitutional Convention.md",
     "APHG/Place Names.md",
-    "APHG/Vernacular Region.md",
-    "APHG/Regional scale.md",
-    "APHG/National scale.md",
-    "APHG/Local scale.md",
-    "Functional Region.md",
-    "APHG/Graduated Symbols.md",
-    "APHG/Globalization and Sustainability.md",
-    "APHG/Global scale.md",
-    "APHG/Functional Region.md",
+    "apush/APUSH Home.md",
+    "APUSH  Home.md",
+    "apush/ID Home.md",
+    "apush/IDs unit 2.md",
+    "apush/ids/u2/French and Indian War.md",
+    "apush/John Adams.md",
+    "apush/ids/u3/Adams-Onis Treaty.md",
+    "apush/President of the United States.md",
+    "apush/ids/u3/XYZ Affair.md",
+    "apush/George Washington.md",
+    "apush/ids/u3/George Washington’s Farewell Address.md",
+    "Pasted image 20240923101101.png",
+    "apush/Pasted image 20240620205732.png",
+    "apush/Pasted image 20240620210101.png",
+    "scripts/word-frequencies.csv",
     "scripts/replace.py",
+    "scripts/frequency.py",
     "scripts/autolinker.py",
+    "past-test-scores.png",
     "apush/ids/u3",
     "apush/ids/u2/filemaker.py",
     "apush/ids/u2",
@@ -240,17 +280,11 @@
     "Swimming nonsense",
     "Untitled.canvas",
     "scripts/prompts.txt",
-    "python1",
-    "scripts/result",
     "APHG/Pasted image 20240911075621.png",
     "APHG/Pasted image 20240905082254.png",
     "APHG/Pasted image 20240905072920.png",
     "APHG/Pasted image 20240829080607.png",
     "APHG/Pasted image 20240829080349.png",
-    "APHG/Pasted image 20240829080206.png",
-    "APHG/Pasted image 20240829075856.png",
-    "APCHEM/Screenshot 2024-09-09 at 10.16.06 AM.png",
-    "APCHEM/Screenshot 2024-09-09 at 10.29.59 AM.png",
-    "APCHEM/Screenshot 2024-09-09 at 10.27.16 AM.png"
+    "APHG/Pasted image 20240829080206.png"
   ]
 }

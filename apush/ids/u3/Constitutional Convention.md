@@ -4,10 +4,10 @@
 
 **WHO:** 55 delegates from 12 states (Rhode Island did not send delegates)
 - Prominent delegates included:
-    - George Washington (Presiding Officer)
-    - James Madison
-    - Alexander Hamilton
-    - Benjamin Franklin
+    - [[George Washington]] (Presiding Officer)
+    - [[James Madison]]
+    - [[Alexander Hamilton]]
+    - [[Benjamin Franklin]]
 
 **WHAT:**
 - Convention held in Philadelphia, Pennsylvania

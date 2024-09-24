@@ -2,8 +2,8 @@
 
 **WHO:**
 
-* Thomas Jefferson (Democratic-Republican)
-* John Adams (Federalist)
+* [[Thomas Jefferson]] (Democratic-Republican)
+* [[John Adams]] (Federalist)
 * Aaron Burr (Democratic-Republican)
 
 **WHAT:**

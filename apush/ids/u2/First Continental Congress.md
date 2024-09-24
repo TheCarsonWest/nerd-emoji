@@ -1,8 +1,8 @@
 **ID:** [[First Continental Congress]]
 **When:** September 5–October 26, 1774
 **Who:**
-   * George Washington (Virginia)
-   * John Adams (Massachusetts)
+   * [[George Washington]] (Virginia)
+   * [[John Adams]] (Massachusetts)
    * Patrick Henry (Virginia)
 **What:**
    * Key representatives from 12 colonies (Georgia declined)

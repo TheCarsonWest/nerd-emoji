@@ -7,7 +7,7 @@
 * Thomas Cushing
 * James Warren
 * Joseph Warren
-* John Hancock
+* [[John Hancock]]
 
 **What:**
 * Networks of committees formed in British North America to coordinate opposition to British policies

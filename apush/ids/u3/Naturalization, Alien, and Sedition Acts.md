@@ -1,6 +1,6 @@
 **WHEN:** July 14-16, 1798
 
-**WHO:** President John Adams, Congress
+**WHO:** President [[John Adams]], Congress
 
 **WHAT:**
 

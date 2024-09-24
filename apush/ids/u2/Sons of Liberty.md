@@ -3,7 +3,7 @@ location: 44.2057083,-70.75378387447887
 ---
 **ID:** [[Sons of Liberty]]
 **When:** 1765
-**Who:** Samuel Adams, John Hancock, John Dickinson
+**Who:** [[Samuel Adams]], [[John Hancock]], John Dickinson
 **What:**
 * Secret society formed in response to the [[Stamp Act]]
 * Protested British policies, including taxation without representation

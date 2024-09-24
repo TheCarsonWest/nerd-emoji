@@ -1,6 +1,6 @@
 **WHEN**: April 22, 1793
 
-**WHO**: President George Washington
+**WHO**: President [[George Washington]]
 
 **WHAT**: Declared the United States neutral in the war between France and Great Britain, following the outbreak of the French Revolution
 
