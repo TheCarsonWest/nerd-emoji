@@ -66,3 +66,11 @@ Who: 55 delegates, including James Madison, George W, and Alexander Hamilton (or
 What: Meeting held in Philadelphia Pennsylvania, to revise and fix the Articles of Confederation after weaknesses were exposed by Shays Rebellion
 Impact? Why Significant?: Decided to set aside the AOC due to its many weaknesses and create a new US Constitution
 """
+
+prompt = f"""
+Create an AP United States History rundown on {name}. Include events they were associated with, important legislation they signed, groups they were a part of, and their impact on the country
+"""        
+
+prompt = f"""
+Create an AP United States History rundown on the state of {name}. Includ a timeline of events they were associated with, important legislation they signed, important court cases  they may have been a part of, their major industry, and their impact on the rest of the country
+"""

@@ -2,7 +2,7 @@
 
 **WHO**: President [[George Washington]]
 
-**WHAT**: Declared the United States neutral in the war between France and Great Britain, following the outbreak of the French Revolution
+**WHAT**: Declared the United States neutral in the war between [[France]] and [[Great Britain]], following the outbreak of the French Revolution
 
 **IMPACT**:
 * Avoided involvement in a major European conflict and preserved American neutrality

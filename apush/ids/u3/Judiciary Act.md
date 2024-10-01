@@ -6,7 +6,7 @@
 
 **WHAT:** Established the first federal court system in the United States, consisting of:
 
-* Supreme Court (with 6 justices)
+* [[Supreme Court]] (with 6 justices)
 * 13 district courts
 * 3 circuit courts
 

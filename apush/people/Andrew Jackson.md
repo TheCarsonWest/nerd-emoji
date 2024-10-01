@@ -4,7 +4,7 @@
 
 * War of 1812 (Battle of New Orleans)
 * Seminole Wars
-* Indian Removal Act
+* [[Indian Removal Act]]
 * Bank War
 * Nullification Crisis
 * Texas Revolution
@@ -17,7 +17,7 @@
 
 **Groups Associated With:**
 
-* Democratic-Republican Party
+* [[Democratic-Republican]] Party
 * National Republicans
 * Nullifier Party
 

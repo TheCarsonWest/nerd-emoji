@@ -4,7 +4,7 @@
 
 **WHO:** John Jay (U.S. Envoy to England), Lord Grenville (British Foreign Secretary)
 
-**WHAT:** A treaty negotiated between the United States and Great Britain that resolved outstanding issues from the Revolutionary War.
+**WHAT:** A treaty negotiated between the United States and [[Great Britain]] that resolved outstanding issues from the Revolutionary War.
 
 **IMPACT:** Significance: 
 
