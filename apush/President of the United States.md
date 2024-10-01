@@ -1,7 +1,4 @@
 # Presidents
-make a numbered list of all 46 US presidents in order
-
-Here is a clean, bulleted list of all U.S. Presidents in order:
 
 - [[George Washington]] (1789–1797)
 - [[John Adams]] (1797–1801)
