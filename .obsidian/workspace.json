@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/apush thing.md",
+                "file": "templates/apush event.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/apush place.md",
+                "file": "apush/ids/u3/Bill of Rights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77a5af35c0e79a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "States.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templates/apush place.md",
+                "file": "States.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/apush place.md",
+                "file": "States.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/apush place.md",
+                "file": "States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/apush place.md"
+                "file": "States.md"
               }
             }
           },
@@ -294,36 +306,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d459b54f13fd2b2d",
+  "active": "77a5af35c0e79a3a",
   "lastOpenFiles": [
-    "scripts/result/California.md",
-    "scripts/result/Arkansas.md",
-    "scripts/result/Arizona.md",
-    "scripts/result/Alaska.md",
-    "scripts/result/Alabama.md",
-    "templates/apush thing.md",
-    "templates/apush place.md",
-    "templates/apush person.md",
-    "templates/apush event.md",
-    "Articles of Confederation.md",
-    "templates",
-    "apush/people/James Madison.md",
-    "apush/ids/u3/Capital Compromise.md",
-    "apush/IDS Unit 3.md",
-    "apush/ids/u3/Proclamation of Neutrality.md",
-    "apush/ids/u3/Report on Manufactures.md",
-    "apush/ids/u3/Report on the Public Credit.md",
-    "apush/ids/u3/Bill of Rights.md",
-    "apush/ids/u3/Judiciary Act.md",
-    "apush/ids/u3/Jay’s Treaty.md",
-    "apush/ids/u3/Great Compromise.md",
-    "apush/ids/u3/Constitutional Convention.md",
-    "apush/ids/u3/Louisiana Purchase.md",
-    "apush/President of the United States.md",
     "scripts/brackets.py",
-    "apush/people/Andrew Jackson.md",
-    "APCHEM/Titration.md",
-    "apush/John Hancock.md",
+    "apush/states/Wyoming.md",
+    "apush/states/Wisconsin.md",
+    "apush/states/West Virginia.md",
+    "apush/states/Washington.md",
+    "apush/states/Virginia.md",
+    "apush/states/Vermont.md",
+    "apush/states/Utah.md",
+    "apush/states/Texas.md",
+    "apush/states/Tennessee.md",
+    "apush/states/South Dakota.md",
+    "apush/states/South Carolina.md",
+    "apush/states/Rhode Island.md",
+    "apush/states/Pennsylvania.md",
+    "apush/states/Oregon.md",
+    "apush/states/Oklahoma.md",
+    "apush/states/Ohio.md",
+    "apush/states/North Dakota.md",
+    "apush/states/North Carolina.md",
+    "apush/states/New York.md",
+    "apush/states/New Mexico.md",
+    "apush/states/New Jersey.md",
+    "apush/states/New Hampshire.md",
+    "apush/states/Nevada.md",
+    "apush/states/Nebraska.md",
+    "apush/states/Montana.md",
+    "apush/states",
+    "templates",
     "apush/people",
     "apush/presidents",
     "images/Pasted image 20240829075856.png",
@@ -338,7 +350,6 @@
     "scripts/frequency.py",
     "scripts/autolinker.py",
     "past-test-scores.png",
-    "apush/ids/u3",
     "Untitled.canvas",
     "images/Pasted image 20240911075621.png",
     "images/Pasted image 20240905082254.png",
