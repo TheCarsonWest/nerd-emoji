@@ -2,7 +2,7 @@
 
 **When:** 1618
 
-**Who:** Virginia Company (operated in Virginia, Carolinas, Maryland, Georgia)
+**Who:** [[Virginia]] Company (operated in Virginia, Carolinas, [[Maryland]], [[Georgia]])
 
 **What:**
 * Legal practice that granted land to settlers for helping populate colonies

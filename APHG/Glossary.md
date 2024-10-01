@@ -9,3 +9,6 @@
 [[Dot distribution]]
 [[Graduated Symbols]]
 [[Cartogram]]
+## Stats 
+[[Population Density]]
+[[Ecumene]]
