@@ -1,4 +1,4 @@
-- # [[nexus]]
+# [[nexus]]
 
 - # [[Cengage home]]
 
