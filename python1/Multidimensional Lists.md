@@ -12,10 +12,10 @@ Multidimensional lists are created using nested square brackets `[]`. Each dimen
 my_list = [[1, 2, 3], [4, 5, 6]]
 
 # Access an element from the first dimension
-print(my_list[0][1])  # Output: 2
+print(my_list[0][1]) # Output: 2
 
 # Access an element from the second dimension
-print(my_list[1][2])  # Output: 6
+print(my_list[1][2]) # Output: 6
 ```
 
 ### Related Python Concepts

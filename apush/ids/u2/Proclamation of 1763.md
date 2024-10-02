@@ -1,7 +1,7 @@
 ---
 location: 51.5156177,-0.0919983
 ---
-**[[Proclamation of 1763]]**
+** [[Proclamation of 1763]]**
 
 **When:** October 7, 1763
 
@@ -18,9 +18,9 @@ location: 51.5156177,-0.0919983
 **Impact:**
 
 * **Short-term consequences:**
-    * Angered colonists who resented restrictions on westward expansion
-    * Led to increased tensions with Native Americans along the frontier
+ * Angered colonists who resented restrictions on westward expansion
+ * Led to increased tensions with Native Americans along the frontier
 * **Long-term consequences:**
-    * Contributed to American resentment towards British rule
-    * Fueled the movement for independence and the American Revolution
+ * Contributed to American resentment towards British rule
+ * Fueled the movement for independence and the American Revolution
 #ids

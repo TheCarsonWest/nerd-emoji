@@ -9,9 +9,9 @@ To perform file operations, you need to open a file using the `open()` function.
 - `filename`: The name of the file to be opened.
 - `mode`: The mode in which the file should be opened. Common modes include:
 
-  - 'r' - Read only
-  - 'w' - Write only (overwrites existing file)
-  - 'a' - Append only (adds to the end of existing file)
+ - 'r' - Read only
+ - 'w' - Write only (overwrites existing file)
+ - 'a' - Append only (adds to the end of existing file)
 
 Once the file is opened, you can use methods like `read()`, `write()`, and `close()` to perform various operations on the file.
 

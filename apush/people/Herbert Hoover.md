@@ -1,11 +1,11 @@
-**Herbert Hoover (1929-1933)**
+**[[Herbert Hoover]] (1929-1933)**
 
 **Background:**
 
-* Born in West Branch, Iowa, in 1874.
+* Born in West Branch, [[Iowa]], in 1874.
 * Graduated from Stanford University in engineering.
 * Worked as a mining engineer and businessman.
-* Served as Secretary of Commerce under Warren Harding and Calvin Coolidge.
+* Served as Secretary of Commerce under Warren Harding and [[Calvin Coolidge]].
 
 **Presidency:**
 
@@ -32,4 +32,4 @@
 
 * **Great Depression:** Hoover's presidency is synonymous with the Great Depression, the worst economic crisis in U.S. history.
 * **Legacy:** Hoover's administration is widely criticized for failing to adequately address the Depression. His policies were seen as ineffective and insensitive to the suffering of Americans.
-* **New Deal:** Hoover's successor, Franklin D. Roosevelt, implemented the New Deal, a set of economic and social programs that ultimately helped pull the country out of the Depression.
+* **New Deal:** Hoover's successor, [[Franklin D]]. Roosevelt, implemented the New Deal, a set of economic and social programs that ultimately helped pull the country out of the Depression.

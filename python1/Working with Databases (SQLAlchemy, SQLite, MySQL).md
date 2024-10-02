@@ -23,9 +23,9 @@ engine = create_engine('sqlite:///database.sqlite')
 Base = declarative_base()
 
 class User(Base):
-    __tablename__ = 'users'
-    id = Column(Integer, primary_key=True)
-    name = Column(String)
+ __tablename__ = 'users'
+ id = Column(Integer, primary_key=True)
+ name = Column(String)
 ```
 5. **Create Tables:** Create the database tables using the engine.
 ```python

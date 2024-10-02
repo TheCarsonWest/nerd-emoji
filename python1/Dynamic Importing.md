@@ -16,19 +16,19 @@ import importlib
 math_module = importlib.import_module('math')
 
 # Use the imported module
-print(math_module.sqrt(16))  # Output: 4.0
+print(math_module.sqrt(16)) # Output: 4.0
 ```
 
 ```python
 # Dynamically import the 'json' module and reload it
 import importlib
 json_module = importlib.import_module('json')
-json_module = importlib.reload(json_module)  # Reload the module
+json_module = importlib.reload(json_module) # Reload the module
 
 # Use the reloaded module
 json_str = '{"name": "John"}'
-json_data = json_module.loads(json_str)  # Load JSON string
-print(json_data['name'])  # Output: John
+json_data = json_module.loads(json_str) # Load JSON string
+print(json_data['name']) # Output: John
 ```
 
 ### Related Python Concepts

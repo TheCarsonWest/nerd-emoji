@@ -19,12 +19,12 @@
 
 * Democratic Party
 * American Legion
-* Navy Secretary under Woodrow Wilson
+* Navy Secretary under [[Woodrow Wilson]]
 
 **Impact on the Country:**
 
 * **New Deal Programs:** Implemented numerous programs designed to combat the Great Depression, providing relief, recovery, and reform.
 * **Economic Recovery:** Stimulated the economy through government spending, infrastructure projects, and labor reforms.
 * **Social Welfare:** Expanded the role of the federal government in providing social welfare programs, including Social Security.
-* **World War II Leadership:** Led the United States through the Second World War, forging alliances, mobilizing industry, and coordinating Allied forces.
+* **World War II Leadership:** Led the [[United States]] through the Second World War, forging alliances, mobilizing industry, and coordinating Allied forces.
 * **Legacy:** Regarded as one of the most transformative presidents in US history, shaping the nation's economic, social, and political landscape.

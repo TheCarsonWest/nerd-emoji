@@ -8,7 +8,7 @@ A context manager is defined using the `with` statement. The resource to be mana
 
 ```python
 with context_manager as resource:
-    # code using the resource
+ # code using the resource
 ```
 
 The `__enter__()` method is called before the code block is executed and returns the resource that should be used within the block. The `__exit__()` method is called after the code block is executed, regardless of whether any exceptions occur.
@@ -17,7 +17,7 @@ The `__enter__()` method is called before the code block is executed and returns
 ```python
 # open a file for writing
 with open("myfile.txt", "w") as file:
-    file.write("Hello world!")
+ file.write("Hello world!")
 ```
 
 ```python
@@ -25,8 +25,8 @@ with open("myfile.txt", "w") as file:
 from tempfile import TemporaryDirectory
 
 with TemporaryDirectory() as tmp_dir:
-    # do something with the temporary directory
-    pass
+ # do something with the temporary directory
+ pass
 ```
 
 ### Related Python Concepts
@@ -35,4 +35,4 @@ with TemporaryDirectory() as tmp_dir:
 - [[Exception Handling]]: Context managers can be used to handle exceptions within a specific scope.
 - [[Generators]]: Context managers can be implemented using generators.
 - [[Decorators]]: Context managers can be implemented using decorators.
-- [[Custom [[Context Managers]]]]: You can create your own custom context managers to manage your resources.
+- [[Custom [[Context Managers]]: You can create your own custom context managers to manage your resources.

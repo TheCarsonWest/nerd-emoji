@@ -1,15 +1,15 @@
-**George W. Bush**
+**[[George W]]. Bush**
 
 **Background:**
 
-* Born July 6, 1946, in New Haven, Connecticut
-* Son of former President George H. W. Bush
-* Graduated from Yale University and Harvard Business School
+* Born July 6, 1946, in New Haven, [[Connecticut]]
+* Son of former President [[George H]]. W. Bush
+* Graduated from Yale University and [[Harvard]] Business School
 
 **Political Career:**
 
-* Elected Governor of Texas in 1994 and reelected in 1998
-* Elected President of the United States in 2000 after a close and controversial election
+* Elected Governor of [[Texas]] in 1994 and reelected in 1998
+* Elected President of the [[United States]] in 2000 after a close and controversial election
 * Reelected in 2004
 
 **Major Events:**
@@ -36,7 +36,7 @@
 * Republican Party
 * Council on Foreign Relations
 * Yale University
-* Harvard Business School
+* [[Harvard]] Business School
 
 **Impact:**
 

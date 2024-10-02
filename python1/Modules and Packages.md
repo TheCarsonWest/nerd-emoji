@@ -14,7 +14,7 @@
 
 ### How to Use [[Modules and Packages]]
 
-**[[Importing Modules]]:**
+** [[Importing Modules]]:**
 ```python
 import module_name
 ```
@@ -62,7 +62,7 @@ subpackage.my_function()
 - [[Importing Modules]]: The import statement is used to import modules and packages.
 - [[Libraries like NumPy]]: NumPy is a package that provides scientific computing capabilities.
 - [[Libraries like Pandas]]: Pandas is a package that provides data analysis and manipulation tools.
-- [[Libraries like Matplotlib]]: Matplotlib is a package that provides data visualization capabilities.[[Dynamic Importing]]
+- [[Libraries like Matplotlib]]: Matplotlib is a package that provides data visualization capabilities. [[Dynamic Importing]]
 - [[Functions]]
 - [[Python Package Index (PyPI) Publishing]]
 - [[Virtual Environments]]

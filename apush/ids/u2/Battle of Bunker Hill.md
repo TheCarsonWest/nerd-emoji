@@ -1,4 +1,4 @@
-[[Massachusetts]]
+ [[Massachusetts]]
 ID: [[Battle of Bunker Hill]]
 When: June 17, 1775
 Who:

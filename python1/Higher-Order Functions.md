@@ -14,30 +14,30 @@ When using HOFs, there are two main scenarios:
 
 ```python
 def apply_operation(numbers, operation):
-    return [operation(num) for num in numbers]
+ return [operation(num) for num in numbers]
 
 def square(num):
-    return num ** 2
+ return num ** 2
 
 # apply the square operation to a list of numbers
 result = apply_operation([1, 2, 3], square)
-print(result)  # [1, 4, 9]
+print(result) # [1, 4, 9]
 ```
 
 **Returning a function as a result:**
 
 ```python
 def create_adder(value):
-    def adder(arg):
-        return arg + value
-    return adder
+ def adder(arg):
+ return arg + value
+ return adder
 
 # create an adder function that adds 5
 adder = create_adder(5)
 
 # use the adder function to add 10
 result = adder(10)
-print(result)  # 15
+print(result) # 15
 ```
 
 ### Related Python Concepts

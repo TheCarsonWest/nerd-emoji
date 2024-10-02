@@ -11,21 +11,21 @@ Python's unit testing framework, `unittest`, provides a comprehensive set of too
 import unittest
 
 class MyTestCase(unittest.TestCase):
-    # Define unit tests in methods like `test_function`
+ # Define unit tests in methods like `test_function`
 ```
 
 **2. Define Unit Tests:**
 Unit tests should follow a specific naming convention: `test_function` for testing a function named `function`.
 ```python
-    def test_function(self):
-        # Perform unit test
-        # Assert the expected results using assert methods
+ def test_function(self):
+ # Perform unit test
+ # Assert the expected results using assert methods
 ```
 
 **3. Run the Tests:**
 ```python
 if __name__ == '__main__':
-    unittest.main()
+ unittest.main()
 ```
 
 ### How to Use Test-Driven Development with Unit Testing

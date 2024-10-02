@@ -37,7 +37,7 @@ parent_dir = cwd.parent
 
 # list all files and directories in the cwd
 for item in cwd.iterdir():
-    print(item)
+ print(item)
 ```
 
 ### OS Module
@@ -60,7 +60,7 @@ import os
 
 # check if a file exists
 if os.path.isfile('my_file.txt'):
-    print("File exists")
+ print("File exists")
 
 # create a directory
 os.mkdir('new_dir')

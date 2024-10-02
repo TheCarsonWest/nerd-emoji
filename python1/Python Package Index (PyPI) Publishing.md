@@ -21,13 +21,13 @@ from setuptools import setup
 
 # Define the package metadata
 setup(
-    name="my_package",
-    version="1.0",
-    author="Your Name",
-    author_email="your@email.com",
-    description="A short description of your package",
-    packages=["my_package"],  # List of modules in the package
-    install_requires=["dependency1", "dependency2"],  # List of dependencies
+ name="my_package",
+ version="1.0",
+ author="Your Name",
+ author_email="your@email.com",
+ description="A short description of your package",
+ packages=["my_package"], # List of modules in the package
+ install_requires=["dependency1", "dependency2"], # List of dependencies
 )
 ```
 

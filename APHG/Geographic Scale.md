@@ -9,10 +9,10 @@ In geography, scale refers to the distance on a map in relation to the Earth's s
 
 ### Types of Scale
 
-- ==**[[Global scale]]:** Considers the entire world.==
-- ==**[[National scale]]:** Focuses on a single country.==
-- ==**[[Regional scale]]:** Examines a group of neighboring countries or a specific region.==
-- ==**[[Local scale]]:** Analyzes a small area such as a city, neighborhood, or zip code.==
+- ==** [[Global scale]]:** Considers the entire world.==
+- ==** [[National scale]]:** Focuses on a single country.==
+- ==** [[Regional scale]]:** Examines a group of neighboring countries or a specific region.==
+- ==** [[Local scale]]:** Analyzes a small area such as a city, neighborhood, or zip code.==
 
 ### Scale of Analysis
 

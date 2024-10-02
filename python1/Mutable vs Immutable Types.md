@@ -17,7 +17,7 @@ my_list[0] = 4
 
 # Immutable: string value cannot be modified
 my_string = "Hello"
-# my_string[0] = 'W'  # TypeError: 'str' object does not support item assignment
+# my_string[0] = 'W' # TypeError: 'str' object does not support item assignment
 ```
 
 ### Related Python Concepts

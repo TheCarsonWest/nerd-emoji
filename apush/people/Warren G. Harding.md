@@ -1,10 +1,10 @@
-**Warren G. Harding**
+**[[Warren G]]. Harding**
 
 **Background:**
 
-* Born in 1865 in Ohio
+* Born in 1865 in [[Ohio]]
 * Republican
-* Senator from Ohio (1915-1921)
+* Senator from [[Ohio]] (1915-1921)
 
 **Election of 1920:**
 
@@ -21,7 +21,7 @@
 
 **Foreign Policy:**
 
-* **Washington Naval Conference (1921-1922):** Limited the size of naval fleets for the United States, Great Britain, Japan, France, and Italy
+* **[[Washington]] Naval Conference (1921-1922):** Limited the size of naval fleets for the [[United States]], Great Britain, Japan, [[France]], and Italy
 * **Four-Power Treaty (1922):** Guaranteed the territorial status of Pacific islands
 
 **Other Events:**
@@ -38,5 +38,5 @@
 * Harding's presidency was marked by economic prosperity and a desire to return to pre-war conditions.
 * His high tariffs led to economic protectionism and reduced international trade.
 * The Fordney-McCumber Tariff contributed to unemployment in export industries.
-* The Washington Naval Conference promoted disarmament and prevented an arms race.
+* The [[Washington]] Naval Conference promoted disarmament and prevented an arms race.
 * Harding's untimely death in 1923 cast a shadow on his legacy, as his successors were overshadowed by the Teapot Dome scandal.

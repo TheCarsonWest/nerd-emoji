@@ -1,7 +1,7 @@
 ## [[Multiprocessing]] in Python
 
 ### Explanation
-[[Multiprocessing]] provides a way to create multiple processes, each of which can run concurrently to perform different tasks. It is a more advanced form of parallelism than multithreading, which operates on a single processor. [[Multiprocessing]] allows different tasks to be executed in parallel on different CPUs, improving the overall speed of execution.
+ [[Multiprocessing]] provides a way to create multiple processes, each of which can run concurrently to perform different tasks. It is a more advanced form of parallelism than multithreading, which operates on a single processor. [[Multiprocessing]] allows different tasks to be executed in parallel on different CPUs, improving the overall speed of execution.
 
 ### How to Use [[Multiprocessing]]
 To use multiprocessing in Python, you need to create a `Process` object for each task, and then start the process by calling the `start()` method. The `Process` object has the following attributes and methods:
@@ -18,17 +18,17 @@ To use multiprocessing in Python, you need to create a `Process` object for each
 import multiprocessing
 
 def worker(num):
-    """thread worker function"""
-    print(f'Worker: {num}')
+ """thread worker function"""
+ print(f'Worker: {num}')
 
 if __name__ == '__main__':
-    jobs = []
-    for i in range(5):
-        p = multiprocessing.Process(target=worker, args=(i,))
-        jobs.append(p)
-        p.start()
-    for j in jobs:
-        j.join()
+ jobs = []
+ for i in range(5):
+ p = multiprocessing.Process(target=worker, args=(i,))
+ jobs.append(p)
+ p.start()
+ for j in jobs:
+ j.join()
 ```
 
 ### Related Python Concepts

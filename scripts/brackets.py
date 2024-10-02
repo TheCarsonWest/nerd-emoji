@@ -34,5 +34,5 @@ def process_folder(folder_path):
                 process_file(file_path)
 
 
-folder_path = './nerd-emoji/apush/states/'
+folder_path = './nerd-emoji/apush/'
 process_folder(folder_path)

@@ -11,8 +11,8 @@ Global variables are declared using the `global` keyword. To access a global var
 my_global_var = 10
 
 def my_function():
-    global my_global_var
-    my_global_var += 1
+ global my_global_var
+ my_global_var += 1
 ```
 
 ### How to Use Nonlocal Variables
@@ -20,11 +20,11 @@ Nonlocal variables are declared using the `nonlocal` keyword. To access a nonloc
 
 ```python
 def outer_function():
-    my_nonlocal_var = 10
+ my_nonlocal_var = 10
 
-    def inner_function():
-        nonlocal my_nonlocal_var
-        my_nonlocal_var += 1
+ def inner_function():
+ nonlocal my_nonlocal_var
+ my_nonlocal_var += 1
 ```
 
 ### Code Examples
@@ -34,25 +34,25 @@ global_var = 10
 
 # Define a function that modifies the global variable
 def my_function():
-    global global_var
-    global_var += 1
+ global global_var
+ global_var += 1
 
-print(global_var)  # Output: 10
+print(global_var) # Output: 10
 my_function()
-print(global_var)  # Output: 11
+print(global_var) # Output: 11
 ```
 
 ```python
 # Declare a nonlocal variable
 def outer_function():
-    nonlocal_var = 10
+ nonlocal_var = 10
 
-    def inner_function():
-        nonlocal nonlocal_var
-        nonlocal_var += 1
-    inner_function()
+ def inner_function():
+ nonlocal nonlocal_var
+ nonlocal_var += 1
+ inner_function()
 
-print(nonlocal_var)  # Output: 11
+print(nonlocal_var) # Output: 11
 ```
 
 ### Related Python Concepts

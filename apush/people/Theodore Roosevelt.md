@@ -1,13 +1,13 @@
-**Theodore Roosevelt (1858-1919)**
+**[[Theodore Roosevelt]] (1858-1919)**
 
 **Early Life and Career:**
-* Born into a wealthy New York family
-* Graduated from Harvard College and Columbia Law School
-* Served as New York State Assemblyman and Police Commissioner
+* Born into a wealthy [[New York]] family
+* Graduated from [[Harvard]] College and Columbia Law School
+* Served as [[New York]] State Assemblyman and Police Commissioner
 * Assistant Secretary of the Navy during the Spanish-American War
 
 **Presidency (1901-1909):**
-* Became president after the assassination of William McKinley
+* Became president after the assassination of [[William McKinley]]
 * Known as "The Trust Buster" for breaking up large corporations (Sherman Antitrust Act)
 * Promoted conservation through the creation of national parks and monuments (National Park Service)
 * Built the Panama Canal, connecting the Atlantic and Pacific Oceans (Panama Canal Treaty)
@@ -16,7 +16,7 @@
 
 **Foreign Policy:**
 * "Big Stick" Diplomacy: Used a combination of diplomacy and military force to protect American interests
-* Roosevelt Corollary to the Monroe Doctrine: Extended the United States' sphere of influence in Latin America
+* Roosevelt Corollary to the [[Monroe Doctrine]]: Extended the [[United States]]' sphere of influence in Latin America
 * Open Door Policy: Advocated for equal access to trade in China
 
 **Domestic Policy:**
@@ -27,7 +27,7 @@
 * Meat Inspection Act: Regulating the inspection of meat products
 * Hepburn Act: Strengthened the Interstate Commerce Commission and regulated railroad rates
 
-**Impact on the United States:**
+**Impact on the [[United States]]:**
 * Strengthened the role of the federal government in the economy and social welfare
 * Promoted conservation and environmental protection
 * Expanded American power and influence abroad

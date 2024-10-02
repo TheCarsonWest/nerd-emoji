@@ -13,114 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles of Confederation.md",
+                "file": "apush/people/Samuel Adams.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3426a9b73c21edef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/apush person.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6a4aeacaaf4b285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/apush event.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed6554166f2c7c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/apush person.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c0a61e2175cbb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/apush place.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d459b54f13fd2b2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/ids/u3/Bill of Rights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77a5af35c0e79a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "States.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "193ddace58645a5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d99d893d7d5bfd8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APHG/ESPN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "319dbceb134d0204",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -186,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "States.md",
+                "file": "apush/people/Samuel Adams.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "States.md",
+                "file": "apush/people/Samuel Adams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,9 +143,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "States.md",
+                "file": "apush/people/Samuel Adams.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -267,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "States.md"
+                "file": "apush/people/Samuel Adams.md"
               }
             }
           },
@@ -286,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -306,34 +205,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "77a5af35c0e79a3a",
+  "active": "5e8e806416209f86",
   "lastOpenFiles": [
-    "scripts/brackets.py",
-    "apush/states/Wyoming.md",
-    "apush/states/Wisconsin.md",
-    "apush/states/West Virginia.md",
+    "apush/states/Delaware.md",
+    "apush/IDS Unit 3.md",
+    "apush/President of the United States.md",
+    "APHG  Home.md",
+    "apush/Harvard.md",
+    "apush/states/Massachusetts.md",
+    "apush/Massachusetts.md",
+    "APHG/Place Names.md",
+    "apush/ids/u2/Battle of Yorktown.md",
     "apush/states/Washington.md",
-    "apush/states/Virginia.md",
-    "apush/states/Vermont.md",
-    "apush/states/Utah.md",
-    "apush/states/Texas.md",
-    "apush/states/Tennessee.md",
-    "apush/states/South Dakota.md",
-    "apush/states/South Carolina.md",
-    "apush/states/Rhode Island.md",
-    "apush/states/Pennsylvania.md",
+    "APHG/APHG Unit 1.md",
+    "APHG/Population Distribution.md",
+    "APHG/Vernacular Region.md",
+    "APHG/APHG Home.md",
+    "APHG/Globalization and Sustainability.md",
+    "APHG/ESPN.md",
+    "APHG/ESPN Example.md",
+    "apush/ID Home.md",
+    "apush/APUSH Home.md",
     "apush/states/Oregon.md",
-    "apush/states/Oklahoma.md",
-    "apush/states/Ohio.md",
-    "apush/states/North Dakota.md",
-    "apush/states/North Carolina.md",
-    "apush/states/New York.md",
-    "apush/states/New Mexico.md",
-    "apush/states/New Jersey.md",
-    "apush/states/New Hampshire.md",
-    "apush/states/Nevada.md",
-    "apush/states/Nebraska.md",
-    "apush/states/Montana.md",
+    "nexus.md",
+    "python1/Python 1 Home.md",
+    "Home.md",
+    "APCHEM/APCHEM Home.md",
+    "APCHEM/Laws.md",
+    "Arabic/Arabic Home.md",
+    "python1",
+    "scripts/brackets.py",
     "apush/states",
     "templates",
     "apush/people",
@@ -348,7 +249,6 @@
     "scripts/word-frequencies.csv",
     "scripts/replace.py",
     "scripts/frequency.py",
-    "scripts/autolinker.py",
     "past-test-scores.png",
     "Untitled.canvas",
     "images/Pasted image 20240911075621.png",

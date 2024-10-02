@@ -8,7 +8,7 @@ The syntax of a for loop in Python is:
 
 ```python
 for item in iterable:
-    # code block to be executed for each item in the iterable
+ # code block to be executed for each item in the iterable
 ```
 
 The `iterable` can be any sequence of items, such as a list, tuple, or string. The loop will execute the code block for each item in the iterable, assigning the value of the current item to the `item` variable.
@@ -18,13 +18,13 @@ The `iterable` can be any sequence of items, such as a list, tuple, or string. T
 # iterate over a list of names
 names = ["Alice", "Bob", "Charlie"]
 for name in names:
-    print(name)
+ print(name)
 ```
 
 ```python
 # iterate over a range of numbers
 for number in range(10):
-    print(number)
+ print(number)
 ```
 
 ## Related Python Concepts

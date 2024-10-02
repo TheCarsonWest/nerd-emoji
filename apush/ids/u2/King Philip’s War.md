@@ -19,8 +19,8 @@ location: 44.2057083,-70.75378387447887
 **Impact:**
 * **Short-term:** Devastating impact on New England's economy and demographics
 * **Long-term:**
-    * Weakening of Native American power in the region
-    * Expansion of English settlements and displacement of indigenous populations
-    * End of Metacomet's Confederacy
-    * Increased tensions and conflicts between English settlers and Native Americans
+ * Weakening of Native American power in the region
+ * Expansion of English settlements and displacement of indigenous populations
+ * End of Metacomet's Confederacy
+ * Increased tensions and conflicts between English settlers and Native Americans
 #ids

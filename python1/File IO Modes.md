@@ -19,7 +19,7 @@ When opening a file using the `open()` function, the mode is specified as the se
 
 ```python
 with open('filename.txt', mode='r') as file:
-    # reading operations
+ # reading operations
 ```
 
 ### Related Python Concepts

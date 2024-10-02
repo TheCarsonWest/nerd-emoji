@@ -17,17 +17,17 @@
 * Religious reformers within the Church of England
 * Believed in the concept of "predestination"
 * Sought to establish pure churches
-* Founded the Massachusetts Bay Colony
+* Founded the [[Massachusetts]] Bay Colony
 * Emphasized education and literacy
 
 **Impact:**
 
 * **Short-Term:**
-    * Established a Puritan society in North America
-    * Shaped colonial politics and religious life
-    * Conflicts with Native Americans
+ * Established a Puritan society in North America
+ * Shaped colonial politics and religious life
+ * Conflicts with Native Americans
 * **Long-Term:**
-    * Laid the foundation for American education and religious pluralism
-    * Influenced the development of American democracy and individualism
-    * Contributed to the intellectual and cultural heritage of the United States
+ * Laid the foundation for American education and religious pluralism
+ * Influenced the development of American democracy and individualism
+ * Contributed to the intellectual and cultural heritage of the [[United States]]
 #ids

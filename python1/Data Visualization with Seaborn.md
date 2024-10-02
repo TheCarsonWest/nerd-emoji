@@ -18,21 +18,21 @@ import seaborn as sns
 Seaborn provides various functions for different types of plots, each with its own set of parameters. Some commonly used functions include:
 
 - **relplot()**: Create scatter plots, line plots, and bar plots with customizable relationships (e.g., hue, size).
-  - `data`: The data to plot.
-  - `x`, `y`: The data columns to plot on the x and y axes.
-  - `hue`, `size`: Categorical variables to encode as color and size.
+ - `data`: The data to plot.
+ - `x`, `y`: The data columns to plot on the x and y axes.
+ - `hue`, `size`: Categorical variables to encode as color and size.
 - **histplot()**: Create histograms.
-  - `data`: The data to plot.
-  - `x`, `y`: The data columns to plot on the x and y axes.
-  - `hue`: Categorical variable to encode as color.
+ - `data`: The data to plot.
+ - `x`, `y`: The data columns to plot on the x and y axes.
+ - `hue`: Categorical variable to encode as color.
 - **scatterplot()**: Create scatter plots.
-  - `data`: The data to plot.
-  - `x`, `y`: The data columns to plot on the x and y axes.
-  - `hue`: Categorical variable to encode as color.
+ - `data`: The data to plot.
+ - `x`, `y`: The data columns to plot on the x and y axes.
+ - `hue`: Categorical variable to encode as color.
 - **lineplot()**: Create line plots.
-  - `data`: The data to plot.
-  - `x`, `y`: The data columns to plot on the x and y axes.
-  - `hue`: Categorical variable to encode as color.
+ - `data`: The data to plot.
+ - `x`, `y`: The data columns to plot on the x and y axes.
+ - `hue`: Categorical variable to encode as color.
 
 ### Code Examples
 ```python

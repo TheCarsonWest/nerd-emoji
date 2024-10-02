@@ -10,10 +10,10 @@ To make a member private, prefix it with two leading underscores (_). For exampl
 
 ```python
 class MyClass:
-    def __private_method(self):
-        ...
-    
-    def __private_attribute = ...
+ def __private_method(self):
+ ...
+ 
+ def __private_attribute = ...
 ```
 
 **Protected Members**
@@ -22,23 +22,23 @@ To make a member protected, prefix it with a single leading underscore (_). For 
 
 ```python
 class MyClass:
-    def _protected_method(self):
-        ...
-    
-    _protected_attribute = ...
+ def _protected_method(self):
+ ...
+ 
+ _protected_attribute = ...
 ```
 
 ### Code Examples
 ```python
 # Private method
 class MyClass:
-    def __private_method(self):
-        print("This is a private method")
+ def __private_method(self):
+ print("This is a private method")
 
 # Protected method
 class MyClass:
-    def _protected_method(self):
-        print("This is a protected method")
+ def _protected_method(self):
+ print("This is a protected method")
 ```
 
 ## Related Python Concepts

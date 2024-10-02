@@ -8,11 +8,11 @@ Exception handling is typically achieved using `try` and `except` blocks. The `t
 
 ```python
 try:
-    # code that may raise an exception
+ # code that may raise an exception
 except ExceptionType1 as e1:
-    # code to handle ExceptionType1
+ # code to handle ExceptionType1
 except ExceptionType2 as e2:
-    # code to handle ExceptionType2
+ # code to handle ExceptionType2
 ```
 - `try`: The `try` block contains the code that may raise an exception. If an exception occurs within this block, control is transferred to the corresponding `except` block.
 - `except`: The `except` block is used to handle the specific exceptions raised within the `try` block. You can specify multiple `except` blocks to handle different types of exceptions.
@@ -22,17 +22,17 @@ except ExceptionType2 as e2:
 ### Code Examples
 ```python
 try:
-    x = int(input("Enter a number: "))
+ x = int(input("Enter a number: "))
 except ValueError:
-    print("Invalid number entered.")
+ print("Invalid number entered.")
 ```
 
 ```python
 try:
-    with open("myfile.txt", "r") as f:
-        data = f.read()
+ with open("myfile.txt", "r") as f:
+ data = f.read()
 except FileNotFoundError:
-    print("File not found.")
+ print("File not found.")
 ```
 
 ### Related Python Concepts

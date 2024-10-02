@@ -2,16 +2,16 @@
 
 **WHEN:** May 25th - September 17th, 1787
 
-**WHO:** 55 delegates from 12 states ([[Rhode Island]] did not send delegates)
+**WHO:** 55 delegates from 12 states ( [[Rhode Island]] did not send delegates)
 - Prominent delegates included:
-    - [[George Washington]] (Presiding Officer)
-    - [[James Madison]]
-    - [[Alexander Hamilton]]
-    - [[Benjamin Franklin]]
+ - [[George Washington]] (Presiding Officer)
+ - [[James Madison]]
+ - [[Alexander Hamilton]]
+ - [[Benjamin Franklin]]
 
 **WHAT:**
 - Convention held in [[Philadelphia]], [[Pennsylvania]]
-- Original purpose was to revise the Articles of Confederation
+- Original purpose was to revise the [[Articles of Confederation]]
 - After debate and compromise, delegates decided to create a new Constitution
 
 **IMPACT:**

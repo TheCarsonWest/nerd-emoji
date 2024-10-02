@@ -1,16 +1,16 @@
-**Andrew Johnson (1808-1875)**
+**[[Andrew Johnson]] (1808-1875)**
 
 **Early Life and Career:**
 
-* Born in Raleigh, North Carolina to a poor family
+* Born in Raleigh, [[North Carolina]] to a poor family
 * Self-educated; became a successful tailor and politician
-* Served in the Tennessee legislature and U.S. House of Representatives
-* Governor of Tennessee during the Civil War
+* Served in the [[Tennessee]] legislature and U.S. House of Representatives
+* Governor of [[Tennessee]] during the Civil War
 
 **Civil War and Reconstruction:**
 
-* Military governor of Tennessee after its capture by Union forces
-* Vice president under Abraham Lincoln during his second term
+* Military governor of [[Tennessee]] after its capture by Union forces
+* Vice president under [[Abraham Lincoln]] during his second term
 * Became president after Lincoln's assassination in 1865
 * Implemented a lenient Reconstruction plan, known as "Presidential Reconstruction," which attempted to restore Southern states to the Union with minimal disruption
 
@@ -38,5 +38,5 @@
 
 **Later Life:**
 
-* Returned to Tennessee after his presidency
+* Returned to [[Tennessee]] after his presidency
 * Served in the U.S. Senate from 1875 until his death

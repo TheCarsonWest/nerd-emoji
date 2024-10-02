@@ -9,17 +9,17 @@ To create a closure, define a nested function inside another function. The inner
 ### Code Examples
 ```python
 def outer_function(x):
-    y = 10
-    def inner_function():
-        z = x + y
-        print(z)
-    return inner_function
+ y = 10
+ def inner_function():
+ z = x + y
+ print(z)
+ return inner_function
 
 # create a closure by returning the inner function
 closure = outer_function(5)
 
 # call the closure to access the variables from the enclosing scope
-closure()  # prints 15
+closure() # prints 15
 ```
 
 ### Related Python Concepts

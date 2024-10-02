@@ -1,8 +1,8 @@
-**Benjamin Harrison (23rd President of the United States)**
+**[[Benjamin Harrison]] (23rd President of the [[United States]])**
 
 **Political Career:**
-* Republican Senator from Indiana (1881-1887)
-* President of the United States (1889-1893)
+* Republican Senator from [[Indiana]] (1881-1887)
+* President of the [[United States]] (1889-1893)
 
 **Major Events:**
 * **Sherman Antitrust Act (1890):** Prohibited monopolies and cartels.

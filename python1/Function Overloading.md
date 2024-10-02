@@ -8,35 +8,35 @@ Function overloading is a feature that allows multiple functions with the same n
 
 Python does not directly support function overloading. However, there are ways to mimic its behavior:
 
-- **[[Default Parameters]]**: Using default parameters allows for variation in the number of input arguments.
-  - Example:
-    ```python
-    def calculate_area(length, width=1):
-        return length * width
-    ```
+- ** [[Default Parameters]]**: Using default parameters allows for variation in the number of input arguments.
+ - Example:
+ ```python
+ def calculate_area(length, width=1):
+ return length * width
+ ```
 
 - **Variable-Length Arguments**: The `*args` and `**kwargs` notation can be used to handle an arbitrary number of input arguments.
-  - Example:
-    ```python
-    def sum_numbers(*numbers):
-        return sum(numbers)
-    ```
+ - Example:
+ ```python
+ def sum_numbers(*numbers):
+ return sum(numbers)
+ ```
 
 ## Code Examples
 
 ```python
 # Using default parameters
 def greet(name, greeting="Hello"):
-    return f"{greeting}, {name}!"
+ return f"{greeting}, {name}!"
 
-print(greet("John"))  # Hello, John!
-print(greet("Mary", "Good morning"))  # Good morning, Mary!
+print(greet("John")) # Hello, John!
+print(greet("Mary", "Good morning")) # Good morning, Mary!
 
 # Using variable-length arguments
 def calculate_average(*numbers):
-    return sum(numbers) / len(numbers)
+ return sum(numbers) / len(numbers)
 
-print(calculate_average(10, 20, 30))  # 20.0
+print(calculate_average(10, 20, 30)) # 20.0
 ```
 
 ## Related Python Concepts

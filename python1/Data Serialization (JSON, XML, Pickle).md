@@ -26,10 +26,10 @@ data = json.loads(json_data)
 ```python
 data = {"name": "John Doe", "age": 30}
 with open('data.json', 'w') as json_file:
-    json.dump(data, json_file)
+ json.dump(data, json_file)
 
 with open('data.json', 'r') as json_file:
-    data = json.load(json_file)
+ data = json.load(json_file)
 ```
 
 ### XML (Extensible Markup Language)
@@ -46,11 +46,11 @@ child.text = "data"
 # Write XML to file
 xml_string = ET.tostring(root)
 with open('data.xml', 'w') as xml_file:
-    xml_file.write(xml_string)
+ xml_file.write(xml_string)
 
 # Parse XML from file
 with open('data.xml', 'r') as xml_file:
-    root = ET.parse(xml_file).getroot()
+ root = ET.parse(xml_file).getroot()
 ```
 
 **Parameters:**
@@ -62,11 +62,11 @@ with open('data.xml', 'r') as xml_file:
 data = {"name": "John Doe", "age": 30}
 root = ET.Element("root")
 for key, value in data.items():
-    ET.SubElement(root, "item", attrib={"key": key}).text = str(value)
+ ET.SubElement(root, "item", attrib={"key": key}).text = str(value)
 
 xml_string = ET.tostring(root)
 with open('data.xml', 'w') as xml_file:
-    xml_file.write(xml_string)
+ xml_file.write(xml_string)
 ```
 
 ### Pickle
@@ -80,11 +80,11 @@ data = {"name": "John Doe", "age": 30}
 
 # Pickle to file
 with open('data.pickle', 'wb') as pickle_file:
-    pickle.dump(data, pickle_file)
+ pickle.dump(data, pickle_file)
 
 # Unpickle from file
 with open('data.pickle', 'rb') as pickle_file:
-    data = pickle.load(pickle_file)
+ data = pickle.load(pickle_file)
 ```
 
 **Parameters:**
@@ -95,7 +95,7 @@ with open('data.pickle', 'rb') as pickle_file:
 ```python
 data = {"name": "John Doe", "age": 30}
 with open('data.pickle', 'wb') as pickle_file:
-    pickle.dump(data, pickle_file)
+ pickle.dump(data, pickle_file)
 ```
 
 ### Related Python Concepts

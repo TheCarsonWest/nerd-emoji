@@ -1,4 +1,4 @@
-[[APHG Unit 1]]
+ [[APHG Unit 1]]
 ### Population distribution is the pattern of human settlement – the spread of people across the earth.
 
 - [[Population density]] is a measure of the average population per square mile or kilometer of an area – how crowded a place is

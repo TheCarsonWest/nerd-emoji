@@ -8,7 +8,7 @@ The syntax of a while loop in Python is:
 
 ```python
 while condition:
-    # code block to be executed while condition is True
+ # code block to be executed while condition is True
 ```
 
 The `condition` is typically a comparison expression that evaluates to either True or False. As long as the condition remains True, the code block under the while loop will continue to execute. Once the condition becomes False, the execution will proceed to the next statement after the while loop.
@@ -18,16 +18,16 @@ The `condition` is typically a comparison expression that evaluates to either Tr
 # print numbers from 1 to 10
 i = 1
 while i <= 10:
-    print(i)
-    i += 1
+ print(i)
+ i += 1
 ```
 
 ```python
 # read input from the user until they enter "quit"
 while True:
-    user_input = input("Enter a command (or 'quit' to exit): ")
-    if user_input == "quit":
-        break
+ user_input = input("Enter a command (or 'quit' to exit): ")
+ if user_input == "quit":
+ break
 ```
 
 ### Other Python Concepts Related to [[While Loops]]

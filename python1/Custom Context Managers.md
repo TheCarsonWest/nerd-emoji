@@ -11,17 +11,17 @@ The __enter__ method should return an object that will be bound to the target va
 ### Code Examples
 ```python
 class MyContextManager:
-    def __enter__(self):
-        # do something before the operation
-        return obj
+ def __enter__(self):
+ # do something before the operation
+ return obj
 
-    def __exit__(self, exc_type, exc_value, exc_traceback):
-        # do something after the operation, even if an exception occurred
-        pass
+ def __exit__(self, exc_type, exc_value, exc_traceback):
+ # do something after the operation, even if an exception occurred
+ pass
 
 with MyContextManager() as obj:
-    # do something with obj
-    # __exit__ will be called automatically after this block
+ # do something with obj
+ # __exit__ will be called automatically after this block
 ```
 
 ### Related Python Concepts

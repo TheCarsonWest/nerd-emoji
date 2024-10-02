@@ -1,10 +1,10 @@
-**[[Jay’s Treaty]]**
+** [[Jay’s Treaty]]**
 
 **WHEN:** November 19, 1794
 
 **WHO:** John Jay (U.S. Envoy to England), Lord Grenville (British Foreign Secretary)
 
-**WHAT:** A treaty negotiated between the United States and [[Great Britain]] that resolved outstanding issues from the Revolutionary War.
+**WHAT:** A treaty negotiated between the [[United States]] and [[Great Britain]] that resolved outstanding issues from the Revolutionary War.
 
 **IMPACT:** Significance: 
 

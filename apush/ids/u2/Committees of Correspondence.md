@@ -3,7 +3,7 @@
 **When:** Fall of 1772
 
 **Who:**
-* Samuel Adams
+* [[Samuel Adams]]
 * Thomas Cushing
 * James Warren
 * Joseph Warren
@@ -17,5 +17,5 @@
 **Impact:**
 * Strengthened colonial solidarity and resistance to British authority
 * Played a key role in mobilizing support for the American Revolution
-* Provided a foundation for the future United States Congress
+* Provided a foundation for the future [[United States]] Congress
 #ids

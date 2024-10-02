@@ -8,26 +8,26 @@ To create nested loops, use one or more for loops (or while loops) nested within
 
 ```python
 for outer_variable in outer_sequence:
-    for inner_variable in inner_sequence:
-        # code block to be executed for each iteration of the inner loop
+ for inner_variable in inner_sequence:
+ # code block to be executed for each iteration of the inner loop
 ```
 
 ### Code Examples
 ```python
 # print a multiplication table for numbers from 1 to 5
 for i in range(1, 6):
-    for j in range(1, 6):
-        print(i * j, end=" ")
-    print()
+ for j in range(1, 6):
+ print(i * j, end=" ")
+ print()
 ```
 
 ```python
 # check if a number is prime
 for i in range(2, number):
-    if number % i == 0:
-        break
+ if number % i == 0:
+ break
 else:
-    print("Number is prime")
+ print("Number is prime")
 ```
 
 ### Related Python Concepts

@@ -10,36 +10,36 @@ Type hints are added using type annotations, which are special comments written 
 **Parameters:**
 ```python
 def add_numbers(a: int, b: int) -> int:
-    """
-    Adds two numbers and returns the result.
+ """
+ Adds two numbers and returns the result.
 
-    Args:
-        a (int): The first number to add.
-        b (int): The second number to add.
+ Args:
+ a (int): The first number to add.
+ b (int): The second number to add.
 
-    Returns:
-        int: The sum of the two numbers.
-    """
-    return a + b
+ Returns:
+ int: The sum of the two numbers.
+ """
+ return a + b
 ```
 
-**[[Return Values]]:**
+** [[Return Values]]:**
 ```python
 def get_max(a: int, b: int) -> int:
-    """
-    Returns the maximum of two numbers.
+ """
+ Returns the maximum of two numbers.
 
-    Args:
-        a (int): The first number.
-        b (int): The second number.
+ Args:
+ a (int): The first number.
+ b (int): The second number.
 
-    Returns:
-        int: The maximum of the two numbers.
-    """
-    if a > b:
-        return a
-    else:
-        return b
+ Returns:
+ int: The maximum of the two numbers.
+ """
+ if a > b:
+ return a
+ else:
+ return b
 ```
 
 #### Variables

@@ -12,7 +12,7 @@ To chain decorators, simply use the `@` symbol before each decorator function yo
 ...
 @decoratorN
 def function_name(parameters):
-    # function body
+ # function body
 ```
 
 Note that the decorators are applied from top to bottom, so the inner-most decorator is applied first, followed by the next-inner decorator, and so on.
@@ -24,64 +24,64 @@ from functools import wraps
 import time
 
 def cache(func):
-    @wraps(func)
-    def wrapper(*args, **kwargs):
-        key = str(args) + str(kwargs)
-        if key in wrapper.cache:
-            return wrapper.cache[key]
+ @wraps(func)
+ def wrapper(*args, **kwargs):
+ key = str(args) + str(kwargs)
+ if key in wrapper.cache:
+ return wrapper.cache[key]
 
-        result = func(*args, **kwargs)
-        wrapper.cache[key] = result
-        return result
-    wrapper.cache = {}
-    return wrapper
+ result = func(*args, **kwargs)
+ wrapper.cache[key] = result
+ return result
+ wrapper.cache = {}
+ return wrapper
 
 def timing(func):
-    @wraps(func)
-    def wrapper(*args, **kwargs):
-        start = time.time()
-        result = func(*args, **kwargs)
-        end = time.time()
-        print(f"Function {func.__name__} took {end - start} seconds to run")
-        return result
-    return wrapper
+ @wraps(func)
+ def wrapper(*args, **kwargs):
+ start = time.time()
+ result = func(*args, **kwargs)
+ end = time.time()
+ print(f"Function {func.__name__} took {end - start} seconds to run")
+ return result
+ return wrapper
 
 @cache
 @timing
 def factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n-1)
+ if n == 0:
+ return 1
+ else:
+ return n * factorial(n-1)
 
-print(factorial(10))  # prints the result and execution time
+print(factorial(10)) # prints the result and execution time
 ```
 
 ```python
 # Example 2: Chaining decorators to add multiple permissions checks to a method
 def permission_required(permission):
-    def decorator(func):
-        @wraps(func)
-        def wrapper(self, *args, **kwargs):
-            if self.has_permission(permission):
-                return func(self, *args, **kwargs)
-            else:
-                raise PermissionError("Permission Denied")
-        return wrapper
-    return decorator
+ def decorator(func):
+ @wraps(func)
+ def wrapper(self, *args, **kwargs):
+ if self.has_permission(permission):
+ return func(self, *args, **kwargs)
+ else:
+ raise PermissionError("Permission Denied")
+ return wrapper
+ return decorator
 
 class User:
-    def __init__(self, permissions):
-        self.permissions = permissions
+ def __init__(self, permissions):
+ self.permissions = permissions
 
-    def has_permission(self, permission):
-        return permission in self.permissions
+ def has_permission(self, permission):
+ return permission in self.permissions
 
 @permission_required("read")
 @permission_required("write")
 def update_user(self, new_data):
-    # update user data if permissions are granted
-    pass
+ # update user data if permissions are granted
+ pass
 ```
 
 ## Related Python Concepts

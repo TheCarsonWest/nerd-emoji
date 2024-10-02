@@ -13,23 +13,23 @@ from abc import ABC, abstractmethod
 ```
 
 1. **Define Abstract Methods**:
-   Define abstract methods using the `@abstractmethod` decorator:
+ Define abstract methods using the `@abstractmethod` decorator:
 
-   ```python
-   class AbstractClass(ABC):
-       @abstractmethod
-       def abstract_method(self):
-           pass
-   ```
+ ```python
+ class AbstractClass(ABC):
+ @abstractmethod
+ def abstract_method(self):
+ pass
+ ```
 2. **Override Abstract Methods**:
-   Derived classes must override the abstract methods of the abstract class:
+ Derived classes must override the abstract methods of the abstract class:
 
-   ```python
-   class DerivedClass(AbstractClass):
-       def abstract_method(self):
-           # Implement the method
-           pass
-   ```
+ ```python
+ class DerivedClass(AbstractClass):
+ def abstract_method(self):
+ # Implement the method
+ pass
+ ```
 
 ### Code Examples
 
@@ -37,16 +37,16 @@ from abc import ABC, abstractmethod
 from abc import ABC, abstractmethod
 
 class Shape(ABC):
-    @abstractmethod
-    def area(self):
-        pass
+ @abstractmethod
+ def area(self):
+ pass
 
 class Square(Shape):
-    def __init__(self, side):
-        self.side = side
+ def __init__(self, side):
+ self.side = side
 
-    def area(self):
-        return self.side ** 2
+ def area(self):
+ return self.side ** 2
 ```
 
 ### Related Python Concepts

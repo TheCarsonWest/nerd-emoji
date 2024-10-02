@@ -4,7 +4,7 @@
 
 **WHO:** [[Alexander Hamilton]]
 
-**WHAT:** Prepared a "[[Report on Manufactures]]" for Congress
+**WHAT:** Prepared a " [[Report on Manufactures]]" for Congress
 
 **IMPACT:**
 

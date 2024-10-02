@@ -1,18 +1,18 @@
-**Topic: [[McCulloch v]]. Maryland**
+**Topic: "[[McCulloch v. Maryland]]"**
 
 **WHEN:** March 6, 1819
 
 **WHO:**
 
 * Plaintiff: James McCulloch
-* Defendant: State of Maryland
+* Defendant: State of [[Maryland]]
 * Chief Justice: John Marshall
 
 **WHAT:**
 
-* The case involved the constitutionality of a Maryland law that taxed the Bank of the United States (BUS).
+* The case involved the constitutionality of a [[Maryland]] law that taxed the Bank of the [[United States]] (BUS).
 * McCulloch argued that the BUS was a necessary and proper means for the federal government to exercise its powers under the Constitution.
-* Maryland argued that the BUS was unconstitutional because it was not specifically authorized in the Constitution.
+* [[Maryland]] argued that the BUS was unconstitutional because it was not specifically authorized in the Constitution.
 
 **IMPACT:**
 

@@ -1,6 +1,6 @@
-[[APHG Unit 2]]
+ [[APHG Unit 2]]
 
-# ESPN: List of consequences
+# [[ESPN]]: List of consequences
 ## E   = Economics (money, currency, trading, etc.)
 
 ## S = Social (interactions, language, religion, culture, people, etc.)
@@ -9,4 +9,4 @@
 
 ## N   = Nature/ eNvironment (HEI, physical geography)
 
-# [[ESPN Example]]
+# [[ESPN]] Example]]

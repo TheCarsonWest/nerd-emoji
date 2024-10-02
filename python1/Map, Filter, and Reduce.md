@@ -1,7 +1,7 @@
 ## [[Map, Filter, and Reduce]]
 
 ### Explanation
-[[Map, Filter, and Reduce]] are higher-order functions that operate on sequences and return a new sequence. They are widely used for functional programming in Python.
+ [[Map, Filter, and Reduce]] are higher-order functions that operate on sequences and return a new sequence. They are widely used for functional programming in Python.
 
 ### How to Use
 
@@ -40,7 +40,7 @@ reduce(function, sequence, initial_value)
 # Square each number in a list
 numbers = [1, 2, 3, 4, 5]
 squared_numbers = list(map(lambda x: x**2, numbers))
-print(squared_numbers)  # Output: [1, 4, 9, 16, 25]
+print(squared_numbers) # Output: [1, 4, 9, 16, 25]
 ```
 
 **Filter:**
@@ -48,7 +48,7 @@ print(squared_numbers)  # Output: [1, 4, 9, 16, 25]
 # Find all even numbers in a list
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
-print(even_numbers)  # Output: [2, 4, 6, 8, 10]
+print(even_numbers) # Output: [2, 4, 6, 8, 10]
 ```
 
 **Reduce:**
@@ -56,7 +56,7 @@ print(even_numbers)  # Output: [2, 4, 6, 8, 10]
 # Find the product of all numbers in a list
 numbers = [1, 2, 3, 4, 5]
 product = reduce(lambda x, y: x * y, numbers)
-print(product)  # Output: 120
+print(product) # Output: 120
 ```
 
 ### Related Python Concepts

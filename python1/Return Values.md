@@ -4,24 +4,24 @@
 Return values are the output of a function or method. They allow functions to communicate back to the calling code and provide the result of their execution.
 
 ### How to Use [[Return Values]]
-[[Functions]] and methods can return values using the `return` statement. The `return` statement takes an expression or a variable as its argument, which represents the value to be returned.
+ [[Functions]] and methods can return values using the `return` statement. The `return` statement takes an expression or a variable as its argument, which represents the value to be returned.
 
 ### Code Examples
 ```python
 def sum_numbers(a, b):
-    return a + b
+ return a + b
 
 # call the function and store the return value in result
 result = sum_numbers(5, 10)
 
 # print the return value
-print(result)  # Output: 15
+print(result) # Output: 15
 ```
 
 ```python
 class Person:
-    def get_name(self):
-        return "John Doe"
+ def get_name(self):
+ return "John Doe"
 
 # create an instance of the Person class
 person = Person()
@@ -30,7 +30,7 @@ person = Person()
 name = person.get_name()
 
 # print the return value
-print(name)  # Output: John Doe
+print(name) # Output: John Doe
 ```
 
 ### Related Python Concepts

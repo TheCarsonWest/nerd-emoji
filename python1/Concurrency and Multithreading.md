@@ -17,7 +17,7 @@ Python's `threading` module provides functionality for multithreading. Here's ho
 import threading
 
 def print_hello():
-    print("Hello from a thread!")
+ print("Hello from a thread!")
 
 thread = threading.Thread(target=print_hello)
 thread.start()

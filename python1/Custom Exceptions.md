@@ -8,8 +8,8 @@ To create a custom exception, define a class that inherits from the `Exception` 
 
 ```python
 class CustomException(Exception):
-    def __init__(self, message):
-        super().__init__(message)
+ def __init__(self, message):
+ super().__init__(message)
 ```
 
 Where:
@@ -22,26 +22,26 @@ Where:
 ```python
 # define a custom exception for invalid input
 class InvalidInputException(Exception):
-    def __init__(self, message):
-        super().__init__(message)
+ def __init__(self, message):
+ super().__init__(message)
 
 # raise the custom exception when invalid input is encountered
 if input_value < 0:
-    raise InvalidInputException("Invalid input: Input value cannot be negative")
+ raise InvalidInputException("Invalid input: Input value cannot be negative")
 ```
 
 ```python
 # define a custom exception for file not found
 class FileNotFoundException(Exception):
-    def __init__(self, message):
-        super().__init__(message)
+ def __init__(self, message):
+ super().__init__(message)
 
 # raise the custom exception when trying to access a non-existent file
 try:
-    with open("non-existent-file.txt", "r") as f:
-        # code to read the file
+ with open("non-existent-file.txt", "r") as f:
+ # code to read the file
 except FileNotFoundException as e:
-    print(f"Error: File not found - {e}")
+ print(f"Error: File not found - {e}")
 ```
 
 ### Related Python Concepts

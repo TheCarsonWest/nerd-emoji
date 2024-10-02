@@ -1,10 +1,10 @@
 ## [[Descriptors]]
 
 ### What are [[Descriptors]]?
-[[Descriptors]] are a mechanism in Python that provide a way to define custom behavior for object attributes. They allow attributes to be accessed, set, and deleted in a controlled manner, providing more flexibility and control over object properties.
+ [[Descriptors]] are a mechanism in Python that provide a way to define custom behavior for object attributes. They allow attributes to be accessed, set, and deleted in a controlled manner, providing more flexibility and control over object properties.
 
 ### How to Use [[Descriptors]]
-[[Descriptors]] are defined as classes with special methods:
+ [[Descriptors]] are defined as classes with special methods:
 
 - **__get__(self, instance, owner)**: Invoked when the attribute is accessed.
 - **__set__(self, instance, value)**: Invoked when the attribute is assigned a new value.
@@ -16,21 +16,21 @@ The first parameter (`self`) represents the descriptor instance, the second (`in
 ```python
 # Descriptor to convert attribute access to uppercase
 class UppercaseDescriptor:
-    def __get__(self, instance, owner):
-        return instance._value.upper()
+ def __get__(self, instance, owner):
+ return instance._value.upper()
 
-    def __set__(self, instance, value):
-        instance._value = value
+ def __set__(self, instance, value):
+ instance._value = value
 
 # Example class using the descriptor
 class Example:
-    name = UppercaseDescriptor()
+ name = UppercaseDescriptor()
 
-    def __init__(self, name):
-        self._value = name
+ def __init__(self, name):
+ self._value = name
 
 e = Example("John Doe")
-print(e.name)  # Output: "JOHN DOE"
+print(e.name) # Output: "JOHN DOE"
 ```
 
 ### Other Python Concepts Closely Related to [[Descriptors]]

@@ -1,27 +1,27 @@
 ## [[Polymorphism]]
 
 ### What is [[Polymorphism]]?
-[[Polymorphism]] is a fundamental concept in object-oriented programming (OOP) that allows objects of different classes to be treated as the same type. It enables the code to interact with a common interface, regardless of the specific implementation or class of an object.
+ [[Polymorphism]] is a fundamental concept in object-oriented programming (OOP) that allows objects of different classes to be treated as the same type. It enables the code to interact with a common interface, regardless of the specific implementation or class of an object.
 
 ### How to Use [[Polymorphism]]
-[[Polymorphism]] is achieved through method overriding, where subclasses define their own implementation of methods inherited from their parent class.
+ [[Polymorphism]] is achieved through method overriding, where subclasses define their own implementation of methods inherited from their parent class.
 
 ### Code Examples
 ```python
 # Define a base class Animal with a method speak()
 class Animal:
-    def speak(self):
-        print("Animal speaks.")
+ def speak(self):
+ print("Animal speaks.")
 
 # Create a subclass Dog that overrides the speak() method
 class Dog(Animal):
-    def speak(self):
-        print("Dog barks.")
+ def speak(self):
+ print("Dog barks.")
 
 # Create a subclass Cat that overrides the speak() method
 class Cat(Animal):
-    def speak(self):
-        print("Cat meows.")
+ def speak(self):
+ print("Cat meows.")
 
 # Create instances of Animal, Dog, and Cat
 animal = Animal()
@@ -29,9 +29,9 @@ dog = Dog()
 cat = Cat()
 
 # Call the speak() method on all objects
-animal.speak()  # prints "Animal speaks."
-dog.speak()  # prints "Dog barks."
-cat.speak()  # prints "Cat meows."
+animal.speak() # prints "Animal speaks."
+dog.speak() # prints "Dog barks."
+cat.speak() # prints "Cat meows."
 ```
 
 ### Related Python Concepts

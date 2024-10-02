@@ -13,6 +13,6 @@
 **Impact:**
 
 * Sparked widespread support for independence among American colonists.
-* Influenced the Declaration of Independence and the course of the American Revolution.
+* Influenced the [[Declaration of Independence]] and the course of the American Revolution.
 * Became one of the most influential political tracts in American history.
 #ids

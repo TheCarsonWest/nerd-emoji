@@ -22,8 +22,8 @@ model.add(tf.keras.layers.Dense(10, activation='softmax'))
 
 # Compile the model
 model.compile(optimizer='adam',
-              loss='sparse_categorical_crossentropy',
-              metrics=['accuracy'])
+ loss='sparse_categorical_crossentropy',
+ metrics=['accuracy'])
 
 # Train the model
 model.fit(data, labels, epochs=10)
@@ -59,8 +59,8 @@ model.add(keras.layers.Dense(10, activation='softmax'))
 
 # Compile the model
 model.compile(optimizer='adam',
-              loss='sparse_categorical_crossentropy',
-              metrics=['accuracy'])
+ loss='sparse_categorical_crossentropy',
+ metrics=['accuracy'])
 
 # Train the model
 model.fit(data, labels, epochs=10)

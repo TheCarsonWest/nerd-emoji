@@ -1,10 +1,10 @@
 ## [[Tuples]]
 
 ### What are [[Tuples]]?
-[[Tuples]] are immutable data structures in Python that store ordered sequences of elements. Unlike lists, tuples cannot be modified after creation. They are represented by parentheses `()`.
+ [[Tuples]] are immutable data structures in Python that store ordered sequences of elements. Unlike lists, tuples cannot be modified after creation. They are represented by parentheses `()`.
 
 ### How to Use [[Tuples]]
-[[Tuples]] are created by enclosing elements in parentheses, separated by commas. Elements can be of any Python data type.
+ [[Tuples]] are created by enclosing elements in parentheses, separated by commas. Elements can be of any Python data type.
 
 ```python
 my_tuple = (1, 2, 3)
@@ -19,10 +19,10 @@ numbers = (1, 2, 3, 4, 5)
 mixed_tuple = ("John", 30, True)
 
 # access elements of a tuple
-print(numbers[0])  # output: 1
+print(numbers[0]) # output: 1
 
 # use unpacking to assign tuple elements to variables
-x, y, z = numbers  # equivalent to x = numbers[0], y = numbers[1], z = numbers[2]
+x, y, z = numbers # equivalent to x = numbers[0], y = numbers[1], z = numbers[2]
 ```
 
 ### Related Python Concepts

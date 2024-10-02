@@ -11,7 +11,7 @@
 - Culture – language, religion, popular music, etc.
 - Economics – agriculture, level of development, wealth, etc.
 - Urban areas – cities, suburbs, challenges from growth, etc.
-- Political  - local government, nations, distribution of power, etc.
+- Political - local government, nations, distribution of power, etc.
 
 ## Maps
 - Maps are 2d representations of a geographical area

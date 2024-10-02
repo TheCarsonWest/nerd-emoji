@@ -10,7 +10,7 @@ Python provides the `open()` function for handling binary files. The `mode` para
 
 ```python
 with open("binary_file.bin", "rb") as f:
-    data = f.read()
+ data = f.read()
 ```
 
 * The `open()` function takes the file name and mode as arguments.
@@ -21,7 +21,7 @@ with open("binary_file.bin", "rb") as f:
 
 ```python
 with open("binary_file.bin", "wb") as f:
-    f.write(data)
+ f.write(data)
 ```
 
 * The `open()` function takes the file name and mode as arguments.
@@ -33,8 +33,8 @@ with open("binary_file.bin", "wb") as f:
 
 ```python
 with open("image.jpg", "rb") as f:
-    image_data = f.read()
-    # Process the image data using external libraries or display methods
+ image_data = f.read()
+ # Process the image data using external libraries or display methods
 ```
 
 **Writing a Binary Audio File (WAV):**

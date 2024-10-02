@@ -8,13 +8,13 @@ The syntax of nested if statements is:
 
 ```python
 if outer_condition:
-    # code block to be executed if outer_condition is True
-    if inner_condition1:
-        # code block to be executed if inner_condition1 is True
-    elif inner_condition2:
-        # code block to be executed if inner_condition2 is True
-    else:
-        # code block to be executed if none of the inner conditions are True
+ # code block to be executed if outer_condition is True
+ if inner_condition1:
+ # code block to be executed if inner_condition1 is True
+ elif inner_condition2:
+ # code block to be executed if inner_condition2 is True
+ else:
+ # code block to be executed if none of the inner conditions are True
 ```
 
 The outer_condition is the condition of the outer if statement. If it evaluates to True, the execution proceeds to the inner if statements. The inner_condition1 and inner_condition2 are the conditions of the inner if statements. If any of these inner conditions evaluate to True, the corresponding code block will be executed. If none of the inner conditions are True, the else block (if present) will be executed.
@@ -23,22 +23,22 @@ The outer_condition is the condition of the outer if statement. If it evaluates 
 ```python
 # check if the number is positive and even
 if number > 0:
-    if number % 2 == 0:
-        print("The number is positive and even")
+ if number % 2 == 0:
+ print("The number is positive and even")
 ```
 
 ```python
 # decide on a discount based on customer type and purchase amount
 if customer_type == "member":
-    if purchase_amount >= 100:
-        discount = 15
-    else:
-        discount = 10
+ if purchase_amount >= 100:
+ discount = 15
+ else:
+ discount = 10
 else:
-    if purchase_amount >= 150:
-        discount = 5
-    else:
-        discount = 0
+ if purchase_amount >= 150:
+ discount = 5
+ else:
+ discount = 0
 ```
 
 ### Other Related Python Concepts

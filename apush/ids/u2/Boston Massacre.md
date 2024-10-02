@@ -7,7 +7,7 @@ location: 42.3554334,-71.060511
 
 **Who:**
 * British soldiers: Captain Thomas Preston and eight others
-* American colonists: Crispus Attucks (killed), Samuel Adams, [[John Hancock]]
+* American colonists: Crispus Attucks (killed), [[Samuel Adams]], [[John Hancock]]
 
 **What:**
 * British troops fired upon a crowd of protesters in Boston, killing five colonists and wounding others.

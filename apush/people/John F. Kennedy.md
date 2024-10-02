@@ -1,4 +1,4 @@
-**John F. Kennedy (1961-1963)**
+**[[John F]]. Kennedy (1961-1963)**
 
 **Events:**
 
@@ -23,13 +23,13 @@
 **Impact on the Country:**
 
 * **Domestic Policy:**
-    * Pushed for civil rights and social justice
-    * Expanded social programs and government intervention in the economy
+ * Pushed for civil rights and social justice
+ * Expanded social programs and government intervention in the economy
 * **Foreign Policy:**
-    * Heightened Cold War tensions with the Soviet Union
-    * Improved relations with Latin America and Europe
-    * Committed the United States to the defense of South Vietnam
+ * Heightened Cold War tensions with the Soviet Union
+ * Improved relations with Latin America and Europe
+ * Committed the [[United States]] to the defense of South Vietnam
 * **Legacy:**
-    * Remembered as a charismatic and inspiring leader
-    * His assassination in 1963 cast a shadow over the rest of his presidency
-    * His policies and vision continue to shape American politics and society
+ * Remembered as a charismatic and inspiring leader
+ * His assassination in 1963 cast a shadow over the rest of his presidency
+ * His policies and vision continue to shape American politics and society

@@ -1,6 +1,6 @@
 **WHEN:** December 15, 1791
 
-**WHO:** The First Congress of the United States
+**WHO:** The First Congress of the [[United States]]
 
 **WHAT:** The [[Bill of Rights]] (First Ten Amendments) were proposed.
 

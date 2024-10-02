@@ -1,10 +1,10 @@
-**Jimmy Carter (1977-1981)**
+**[[Jimmy Carter]] (1977-1981)**
 
 **Early Life and Career:**
 
-* Born in 1924 in Plains, Georgia
+* Born in 1924 in Plains, [[Georgia]]
 * Naval officer and nuclear engineer
-* Governor of Georgia (1971-1975)
+* Governor of [[Georgia]] (1971-1975)
 
 **Presidency:**
 
@@ -22,13 +22,13 @@
 
 **Other Key Events:**
 
-* **Three Mile Island Nuclear Accident (1979):** Raised concerns about nuclear power
-* **Iran Hostage Crisis (1979-1981):** American hostages were held in Iran for over 400 days, damaging Carter's popularity
+* **[[Three Mile Island Nuclear Accident]] (1979):** Raised concerns about nuclear power
+* **[[Iran Hostage Crisis]] (1979-1981):** American hostages were held in Iran for over 400 days, damaging Carter's popularity
 * **Soviet Invasion of Afghanistan (1979):** Carter imposed sanctions and boycotted the 1980 Olympics
 
 **Groups and Affiliations:**
 
-* Democratic Party
+* [[Democratic Party]]
 * Southern Baptist Convention
 
 **Impact on the Country:**

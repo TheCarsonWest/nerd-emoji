@@ -1,4 +1,4 @@
-[[Cengage home]]
+ [[Cengage home]]
 ## Globalization: the process by which the nations of the world become more interconnected
 
 ## Major factors leading to globalization
@@ -68,14 +68,14 @@ Continue these style of notes, taking notes on this article
 ### Sustainable Development
 - Development that meets present needs without compromising future generations' needs
 - Examples
-    - Availability of natural resources
-    - Innovations for better use of renewable resources
-    - Reduction of pollution and waste
-    - Equitable distribution of goals across core, peripheral, and semi-peripheral countries
+ - Availability of natural resources
+ - Innovations for better use of renewable resources
+ - Reduction of pollution and waste
+ - Equitable distribution of goals across core, peripheral, and semi-peripheral countries
 
 ### UN's 2030 Agenda for Sustainable Development
 - 17 goals to promote peace, freedom, and prosperity worldwide, including:
-    - Elimination of poverty and hunger
-    - Access to quality education
-    - Gender equality
+ - Elimination of poverty and hunger
+ - Access to quality education
+ - Gender equality
 - Probably won't work because the UN doesn't actually do anything

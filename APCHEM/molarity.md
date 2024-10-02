@@ -3,7 +3,7 @@ Molarity is a measure of the concentration of a solution, defined as the number 
 
 ### **Calculating Molarity**
 
-To calculate the molarity of a solution, use the following formula:
+To calculate the [[molarity]] of a solution, use the following formula:
 
 ```
 Molarity = Moles of Solute / Volume of Solution (in liters)
@@ -11,7 +11,7 @@ Molarity = Moles of Solute / Volume of Solution (in liters)
 
 #### **Example:**
 
-If you have 0.5 moles of NaCl dissolved in 2 liters of water, the molarity of the solution is:
+If you have 0.5 moles of NaCl dissolved in 2 liters of water, the [[molarity]] of the solution is:
 
 ```
 Molarity = 0.5 moles / 2 liters = 0.25 mol/L
@@ -19,21 +19,21 @@ Molarity = 0.5 moles / 2 liters = 0.25 mol/L
 
 ### **Diluting Solutions**
 
-When diluting a solution, the total number of moles of solute remains the same. However, the volume of the solution increases, resulting in a decrease in molarity.
+When diluting a solution, the total number of moles of solute remains the same. However, the volume of the solution increases, resulting in a decrease in [[molarity]].
 
 #### **Dilution Formula:**
 
 ## $$
 M_1V_1 = M_2V_2
 $$
-* $M_1$ is the initial molarity
+* $M_1$ is the initial [[molarity]]
 * $V_1$ is the initial volume
-* $M_2$ is the final molarity
+* $M_2$ is the final [[molarity]]
 * $V_2$ is the final volume
 
 **Example:**
 
-If you have 500 mL of a 1.0 M NaCl solution and want to dilute it to a final volume of 1 liter, the final molarity will be:
+If you have 500 mL of a 1.0 M NaCl solution and want to dilute it to a final volume of 1 liter, the final [[molarity]] will be:
 
 $$
 (1.0 \; M)(500 \; mL) = (M_2)(1000 \; mL)

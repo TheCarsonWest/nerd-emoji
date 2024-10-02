@@ -28,7 +28,7 @@ nlp = spacy.load('en_core_web_sm')
 doc = nlp("This is a sample text to be processed.")
 # Extract tokens, POS tags, and entities
 for token in doc:
-    print(token.text, token.pos_, token.dep_)
+ print(token.text, token.pos_, token.dep_)
 ```
 
 ### Code Examples
@@ -44,7 +44,7 @@ stemmed_words = [stemmer.stem(word) for word in ["running", "ran", "runs"]]
 ```python
 # NER using Spacy
 for ent in doc.ents:
-    print(ent.text, ent.label_)
+ print(ent.text, ent.label_)
 ```
 
 ### Related Python Concepts

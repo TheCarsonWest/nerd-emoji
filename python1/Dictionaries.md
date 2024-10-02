@@ -1,7 +1,7 @@
 ## Python [[Dictionaries]]
 
 ### Definition
-[[Dictionaries]] are mutable data structures that store key-value pairs. The keys are unique and immutable, while the values can be of any type. [[Dictionaries]] provide a convenient way to store and retrieve data associated with specific keys.
+ [[Dictionaries]] are mutable data structures that store key-value pairs. The keys are unique and immutable, while the values can be of any type. [[Dictionaries]] provide a convenient way to store and retrieve data associated with specific keys.
 
 ### How to Use [[Dictionaries]]
 ```python
@@ -25,7 +25,7 @@ del students["Bob"]
 
 # loop through the dictionary
 for name, age in students.items():
-    print(f"{name} is {age} years old.")
+ print(f"{name} is {age} years old.")
 ```
 
 ### Related Python Concepts

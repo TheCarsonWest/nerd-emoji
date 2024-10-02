@@ -2,17 +2,17 @@
 
 - Regionalization: Dividing space into smaller areal units.
 
-**[[Types of Regions]]**
+** [[Types of Regions]]**
 
 - **[[Formal Region]]Uniform)**: United by one or more traits (e.g., physical, cultural, economic). Can be as simple as a political subdivision
 	- Caucuses
 	- Dar-ul-Islam
 	- Arab Gulf States
-- **[[Functional Region]](Nodal)**: Organized around a focal point and activity.
+- ** [[Functional Region]](Nodal)**: Organized around a focal point and activity.
 	- Centered around a node
 		- Capital Hill
 		- Wall Street
-- **Perceptual ([[Vernacular Region]])**: Defined by informal sense of place (e.g., American "South", Middle East).
+- **Perceptual ( [[Vernacular Region]])**: Defined by informal sense of place (e.g., American "South", Middle East).
 	- No formal boundaries
 
 **World Regions**

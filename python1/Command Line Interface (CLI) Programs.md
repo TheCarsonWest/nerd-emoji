@@ -41,21 +41,21 @@ Hello, world!
 import sys
 
 def add(a, b):
-    return a + b
+ return a + b
 
 def subtract(a, b):
-    return a - b
+ return a - b
 
 operation = sys.argv[1]
 a = int(sys.argv[2])
 b = int(sys.argv[3])
 
 if operation == "add":
-    result = add(a, b)
+ result = add(a, b)
 elif operation == "subtract":
-    result = subtract(a, b)
+ result = subtract(a, b)
 else:
-    print("Invalid operation")
+ print("Invalid operation")
 
 print(result)
 ```

@@ -1,16 +1,16 @@
-**Lyndon B. Johnson (1908-1973)**
+**[[Lyndon B]]. Johnson (1908-1973)**
 
 **Early Life and Career:**
 
-* Born on August 27, 1908, in Stonewall, Texas
-* Graduated from Southwest Texas State Teachers College
+* Born on August 27, 1908, in Stonewall, [[Texas]]
+* Graduated from Southwest [[Texas]] State Teachers College
 * Elected to the U.S. House of Representatives (1937-1949)
 * Served in the U.S. Senate (1949-1961)
 * Majority Leader of the U.S. Senate (1955-1961)
 
 **Vice Presidency (1961-1963):**
 
-* Elected as Vice President under President John F. Kennedy
+* Elected as Vice President under President [[John F]]. Kennedy
 * Served as Chairman of the National Aeronautics and Space Council
 
 **Presidency (1963-1969):**

@@ -9,19 +9,19 @@ Duck typing works by checking if an object has the necessary attributes or metho
 ### Code Examples
 ```python
 class Duck:
-    def quack(self):
-        print("Quack!")
+ def quack(self):
+ print("Quack!")
 
 class Swan:
-    def quack(self):
-        print("Honk!")
+ def quack(self):
+ print("Honk!")
 
 # create a list of objects that can quack
 animals = [Duck(), Swan()]
 
 # iterate over the list and call the quack() method on each object
 for animal in animals:
-    animal.quack()
+ animal.quack()
 ```
 
 Output:

@@ -1,8 +1,8 @@
-**Chester A. Arthur (1881-1885)**
+**[[Chester A]]. Arthur (1881-1885)**
 
 **Events:**
 
-* Inaugurated after the assassination of James A. Garfield
+* Inaugurated after the assassination of [[James A]]. Garfield
 * Pendleton Civil Service Reform Act (1883)
 
 **Important Legislation Signed:**
@@ -23,7 +23,7 @@
 
 **Chinese Exclusion:**
 
-* The Edmunds-Tucker Act further extended the Chinese Exclusion Act of 1882, which prohibited Chinese laborers from immigrating to the United States.
+* The Edmunds-Tucker Act further extended the Chinese Exclusion Act of 1882, which prohibited Chinese laborers from immigrating to the [[United States]].
 * This policy had a lasting impact on the Chinese American community.
 
 **Other Policies:**

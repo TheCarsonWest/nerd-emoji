@@ -8,7 +8,7 @@ To define a default parameter in a function, assign a value to the parameter in 
 
 ```python
 def greet(name="World"):
-    print(f"Hello, {name}!")
+ print(f"Hello, {name}!")
 ```
 
 In the above function, `name` is a parameter with a default value of "World". If no argument is passed to the `greet` function, the value of `name` will be "World".

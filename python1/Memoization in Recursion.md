@@ -12,25 +12,25 @@ The decorator typically has a parameter `cache` to store the cached results. If 
 ```python
 # memoization decorator
 def memoize(cache=None):
-    if cache is None:
-        cache = {}
+ if cache is None:
+ cache = {}
 
-    def wrapper(func):
-        def memoized_func(*args):
-            key = args
-            if key not in cache:
-                cache[key] = func(*args)
-            return cache[key]
-        return memoized_func
-    return wrapper
+ def wrapper(func):
+ def memoized_func(*args):
+ key = args
+ if key not in cache:
+ cache[key] = func(*args)
+ return cache[key]
+ return memoized_func
+ return wrapper
 
 # example function to calculate the Fibonacci number
 @memoize
 def fibonacci(n):
-    if n < 2:
-        return n
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+ if n < 2:
+ return n
+ else:
+ return fibonacci(n-1) + fibonacci(n-2)
 ```
 
 ### Related Python Concepts

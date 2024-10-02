@@ -27,9 +27,9 @@ Edit the `models.py` file in the `users` app and define a `User` model:
 from django.db import models
 
 class User(models.Model):
-    username = models.CharField(max_length=150)
-    email = models.EmailField()
-    password = models.CharField(max_length=128)
+ username = models.CharField(max_length=150)
+ email = models.EmailField()
+ password = models.CharField(max_length=128)
 ```
 
 Run the following command to create the database tables:
@@ -44,18 +44,18 @@ Create a `views.py` file in the `users` app and define a view to display a list 
 from django.shortcuts import render
 
 def user_list(request):
-    users = User.objects.all()
-    context = {
-        'users': users,
-    }
-    return render(request, 'users/user_list.html', context)
+ users = User.objects.all()
+ context = {
+ 'users': users,
+ }
+ return render(request, 'users/user_list.html', context)
 ```
 
 Create a `user_list.html` template file in the `templates/users` directory:
 
 ```html
 {% for user in users %}
-    {{ user.username }}
+ {{ user.username }}
 {% endfor %}
 ```
 
@@ -67,7 +67,7 @@ from django.urls import path
 from users.views import user_list
 
 urlpatterns = [
-    path('users/', user_list, name='user_list'),
+ path('users/', user_list, name='user_list'),
 ]
 ```
 

@@ -11,8 +11,8 @@ import cProfile
 import pstats
 
 with cProfile.Profile() as pr:
-    # Run the code you want to profile
-    some_function()
+ # Run the code you want to profile
+ some_function()
 
 # Print a sorted profile report
 stats = pstats.Stats(pr)

@@ -20,15 +20,15 @@ print(type(my_name))
 ```python
 # create an integer variable
 age = 30
-print(f"Age: {age}")  # output: Age: 30
+print(f"Age: {age}") # output: Age: 30
 
 # create a float variable
 pi = 3.14
-print(f"Pi: {pi}")  # output: Pi: 3.14
+print(f"Pi: {pi}") # output: Pi: 3.14
 
 # create a string variable
 name = "Mary"
-print(f"Name: {name}")  # output: Name: Mary
+print(f"Name: {name}") # output: Name: Mary
 ```
 
 ### Related Python Concepts

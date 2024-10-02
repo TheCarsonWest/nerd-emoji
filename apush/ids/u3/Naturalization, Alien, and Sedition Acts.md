@@ -13,5 +13,5 @@
 - Restricted immigration and made it more difficult for aliens to become citizens.
 - Deprived aliens of their due process rights.
 - Suppressed freedom of speech and the press.
-- Led to the Virginia and Kentucky Resolutions, which argued that the federal government had exceeded its constitutional powers.
+- Led to the [[Virginia]] and [[Kentucky]] Resolutions, which argued that the federal government had exceeded its constitutional powers.
 # [[IDS Unit 3]]

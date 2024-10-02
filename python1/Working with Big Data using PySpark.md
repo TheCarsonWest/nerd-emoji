@@ -24,8 +24,8 @@ from pyspark.sql import SparkSession
 
 # create a SparkSession object
 spark = SparkSession.builder \
-    .appName("My PySpark App") \
-    .getOrCreate()
+ .appName("My PySpark App") \
+ .getOrCreate()
 ```
 
 ### Resilient Distributed Datasets (RDDs)

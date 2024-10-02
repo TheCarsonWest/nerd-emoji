@@ -1,7 +1,7 @@
 ## [[Coroutines]]
 
 ### What are [[Coroutines]]?
-[[Coroutines]] are a special type of generator function in Python that allows for more flexible and efficient iteration over a sequence of values. Unlike regular generators, which only yield one value at a time, coroutines can yield multiple values and resume execution from the point where they left off when called again. This enables advanced control over the iteration and suspension of code execution.
+ [[Coroutines]] are a special type of generator function in Python that allows for more flexible and efficient iteration over a sequence of values. Unlike regular generators, which only yield one value at a time, coroutines can yield multiple values and resume execution from the point where they left off when called again. This enables advanced control over the iteration and suspension of code execution.
 
 ### How to Use [[Coroutines]]
 To create a coroutine, use the `async def` syntax. When called, a coroutine returns a coroutine object. To iterate through the values yielded by the coroutine, use the `await` keyword within an `async def` function.
@@ -9,24 +9,24 @@ To create a coroutine, use the `async def` syntax. When called, a coroutine retu
 **Syntax**:
 ```python
 async def coroutine_function():
-    # yield values here
+ # yield values here
 ```
 
 ### Code Examples
 ```python
 # simple coroutine to generate Fibonacci numbers
 async def fibonacci():
-    a, b = 0, 1
-    while True:
-        yield a
-        a, b = b, a + b
+ a, b = 0, 1
+ while True:
+ yield a
+ a, b = b, a + b
 ```
 
 ```python
 # call the coroutine and iterate over the values
 async def main():
-    for num in fibonacci():
-        print(num)
+ for num in fibonacci():
+ print(num)
 ```
 
 ### Related Python Concepts

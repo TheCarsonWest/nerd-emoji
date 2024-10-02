@@ -8,7 +8,7 @@ $$
 
 where A and C are cations and B and D are anions.
 
-### **Conditions for Double Replacement Reactions**
+### **Conditions for Double Replacement [[Reactions]]**
 
 Double replacement reactions occur when:
 
@@ -17,7 +17,7 @@ Double replacement reactions occur when:
 * The products are insoluble in water (precipitation reaction).
 * The products are gases.
 
-### **Types of Double Replacement Reactions**
+### **Types of Double Replacement [[Reactions]]**
 
 There are three main types of double replacement reactions:
 
@@ -29,7 +29,7 @@ There are three main types of double replacement reactions:
 Acid+Base → H_2O + Salt
 $$
 - Acid and Base will **neutralize** each other to a pH of 7, if perfectly balanced
-- Used in [[Titration]] to find the molarity of one of the reactants
+- Used in [[Titration]] to find the [[molarity]] of one of the reactants
 
 ### **Example of a Double Replacement Reaction**
 

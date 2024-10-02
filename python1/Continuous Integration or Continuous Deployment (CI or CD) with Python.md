@@ -8,24 +8,24 @@ CI or CD in Python refers to practices that automate the software development li
 
 * **Tools:** Jenkins, Travis CI, CircleCI
 * **Process:**
-    * Set up a CI tool in your project.
-    * Create pipelines that define tasks to be executed automatically.
-    * Tasks typically include:
-        * Code analysis (e.g., [![Lint](Lint.md)](Lint.md))
-        * Unit testing (e.g., [![Unit Testing]([[Unit Testing and Test-Driven Development]].md)]([[Unit Testing and Test-Driven Development]].md))
-        * Integration testing (e.g., [![Selenium]([[Automating Tasks with Selenium]].md)]([[Automating Tasks with Selenium]].md))
-    * Trigger pipelines automatically on code changes or at scheduled intervals.
+ * Set up a CI tool in your project.
+ * Create pipelines that define tasks to be executed automatically.
+ * Tasks typically include:
+ * Code analysis (e.g., [![Lint](Lint.md)](Lint.md))
+ * Unit testing (e.g., [![Unit Testing]( [[Unit Testing and Test-Driven Development]].md)]( [[Unit Testing and Test-Driven Development]].md))
+ * Integration testing (e.g., [![Selenium]( [[Automating Tasks with Selenium]].md)]( [[Automating Tasks with Selenium]].md))
+ * Trigger pipelines automatically on code changes or at scheduled intervals.
 
 **CD (Continuous Deployment)**
 
 * **Tools:** Jenkins, AWS CodePipeline, Azure Pipelines
 * **Process:**
-    * Extend the CI pipeline to include deployment tasks.
-    * Tasks typically include:
-        * Building the application (e.g., [![[[Creating GUI Applications with Tkinter or PyQt]]]([[Creating GUI Applications with Tkinter or PyQt]].md)]([[Creating GUI Applications with Tkinter or PyQt]].md))
-        * Deploying to staging environments (e.g., [![AWS CodePipeline](AWS CodePipeline.md)](AWS CodePipeline.md))
-        * Monitoring live deployments (e.g., [![[[Profiling and Optimization]]]([[Profiling and Optimization]].md)]([[Profiling and Optimization]].md))
-    * Automatically deploy changes to live environments once they pass all CI checks.
+ * Extend the CI pipeline to include deployment tasks.
+ * Tasks typically include:
+ * Building the application (e.g., [! [[Creating GUI Applications with Tkinter or PyQt]]( [[Creating GUI Applications with Tkinter or PyQt]].md)]( [[Creating GUI Applications with Tkinter or PyQt]].md))
+ * Deploying to staging environments (e.g., [![AWS CodePipeline](AWS CodePipeline.md)](AWS CodePipeline.md))
+ * Monitoring live deployments (e.g., [! [[Profiling and Optimization]]( [[Profiling and Optimization]].md)]( [[Profiling and Optimization]].md))
+ * Automatically deploy changes to live environments once they pass all CI checks.
 
 ### Code Examples
 **CI Pipeline**
@@ -34,19 +34,19 @@ CI or CD in Python refers to practices that automate the software development li
 name: Continuous Integration
 
 on:
-  push:
-    branches: [ main ]
+ push:
+ branches: [ main ]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - run: pip install my_package
-      - run: pytest
+ build:
+ runs-on: ubuntu-latest
+ steps:
+ - uses: actions/checkout@v3
+ - uses: actions/setup-python@v4
+ with:
+ python-version: '3.10'
+ - run: pip install my_package
+ - run: pytest
 ```
 
 **CD Pipeline**
@@ -58,21 +58,21 @@ stages:
 
 jobs:
 - job: Build
-  stage: Stage 1
-  steps:
-    - task: BuildPythonPackage@1
-      inputs:
-        pythonVersion: '3.10'
-        script: 'python setup.py sdist'
+ stage: Stage 1
+ steps:
+ - task: BuildPythonPackage@1
+ inputs:
+ pythonVersion: '3.10'
+ script: 'python setup.py sdist'
 - job: Deploy
-  stage: Stage 2
-  dependsOn: Build
-  steps:
-    - task: AzureAppServiceDeploy@4
-      inputs:
-        azureSubscription: 'my-subscription'
-        appName: 'my-app'
-        package: '$(Build.Artifact)'
+ stage: Stage 2
+ dependsOn: Build
+ steps:
+ - task: AzureAppServiceDeploy@4
+ inputs:
+ azureSubscription: 'my-subscription'
+ appName: 'my-app'
+ package: '$(Build.Artifact)'
 ```
 
 ### Related Python Concepts

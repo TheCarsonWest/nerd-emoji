@@ -10,15 +10,15 @@ Async generators are defined using the `async def` syntax, similar to regular ge
 
 ```python
 async def generate_numbers():
-    for i in range(10):
-        yield i
+ for i in range(10):
+ yield i
 ```
 
 To iterate over an async generator asynchronously, use the `async for` syntax:
 
 ```python
 async for number in generate_numbers():
-    print(number)
+ print(number)
 ```
 
 ### Code Examples
@@ -27,17 +27,17 @@ async for number in generate_numbers():
 
 ```python
 async def generate_numbers():
-    for i in range(10):
-        await asyncio.sleep(1)
-        yield i
+ for i in range(10):
+ await asyncio.sleep(1)
+ yield i
 ```
 
 #### Async For Example
 
 ```python
 async def main():
-    async for number in generate_numbers():
-        print(number)
+ async for number in generate_numbers():
+ print(number)
 ```
 
 ### Related Python Concepts

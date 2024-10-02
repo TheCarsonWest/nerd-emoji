@@ -1,10 +1,10 @@
-**[[Judiciary Act]] of 1789**
+** [[Judiciary Act]] of 1789**
 
 **WHEN:** September 24, 1789
 
-**WHO:** 1st United States Congress
+**WHO:** 1st [[United States]] Congress
 
-**WHAT:** Established the first federal court system in the United States, consisting of:
+**WHAT:** Established the first federal court system in the [[United States]], consisting of:
 
 * [[Supreme Court]] (with 6 justices)
 * 13 district courts

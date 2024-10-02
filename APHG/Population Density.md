@@ -1,4 +1,4 @@
-[[Glossary]]
+ [[Glossary]]
 
 # [Arithmetic Density]
 # $$ Density = {People \over Area} $$

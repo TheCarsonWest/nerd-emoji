@@ -1,6 +1,6 @@
 **Roles:**
 
-* Second [[President of the United States]] (1797-1801)
+* Second [[President of the [[United States]] (1797-1801)
 * Vice President under [[George Washington]] (1789-1797)
 * Diplomat during the American Revolution
 * Founding Father
@@ -20,7 +20,7 @@
 
 **Documents Associated With:**
 
-* Declaration of Independence (1776)
+* [[Declaration of Independence]] (1776)
 * Treaty of Paris (1783)
 * [[Alien and Sedition Acts]] (1798)
 
@@ -30,4 +30,4 @@
 * **Domestic Policy:** Adams signed the Alien and Sedition Acts, which were controversial laws that restricted free speech and the rights of immigrants.
 * **Federalism:** Adams supported a strong central government and was a key figure in the Federalist Party.
 * **Character:** Adams was known for his intelligence, integrity, and independent spirit. He was also a prolific writer and historian.
-* **Legacy:** Adams is considered one of the most important Founding Fathers and played a crucial role in the establishment of the United States.
+* **Legacy:** Adams is considered one of the most important Founding Fathers and played a crucial role in the establishment of the [[United States]].

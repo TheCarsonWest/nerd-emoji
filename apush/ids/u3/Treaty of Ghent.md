@@ -2,7 +2,7 @@
 
 **WHEN:** December 24, 1814
 
-**WHO:** United States and Great Britain
+**WHO:** [[United States]] and Great Britain
 
 **WHAT:**
 

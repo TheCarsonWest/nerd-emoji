@@ -6,7 +6,7 @@ Asynchronous programming is a programming paradigm that allows tasks to be execu
 ### How to Use [[Asynchronous Programming]]
 Utilizing asynchronous programming in Python primarily involves employing asyncio module. Here's an overview of the module's core components:
 
-- **[[Coroutines]]:** [[Coroutines]] are cooperative multitasking functions that can be suspended and resumed.
+- ** [[Coroutines]]:** [[Coroutines]] are cooperative multitasking functions that can be suspended and resumed.
 - **Events:** Events are objects that represent the completion of an asynchronous operation.
 - **Tasks:** Tasks are objects that represent and manage coroutines concurrently.
 
@@ -16,9 +16,9 @@ Utilizing asynchronous programming in Python primarily involves employing asynci
 import asyncio
 
 async def fetch_url(url):
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url) as response:
-            return await response.text()
+ async with aiohttp.ClientSession() as session:
+ async with session.get(url) as response:
+ return await response.text()
 
 asyncio.run(fetch_url("https://example.com"))
 ```

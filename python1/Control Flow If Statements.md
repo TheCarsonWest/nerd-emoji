@@ -8,7 +8,7 @@ The syntax of an if statement in Python is:
 
 ```python
 if condition:
-    # code block to be executed if condition is True
+ # code block to be executed if condition is True
 ```
 
 The `condition` is typically a comparison expression that evaluates to either True or False. If the condition is True, the code block under the if statement will be executed. Otherwise, the execution will skip to the next statement after the if statement.
@@ -17,14 +17,14 @@ The `condition` is typically a comparison expression that evaluates to either Tr
 ```python
 # check if the value of x is greater than 5
 if x > 5:
-    print("x is greater than 5")
+ print("x is greater than 5")
 ```
 
 ```python
 # check if the user is an administrator
 if user_is_admin():
-    # allow access to sensitive data
-    pass
+ # allow access to sensitive data
+ pass
 ```
 
 ## Related Python Concepts

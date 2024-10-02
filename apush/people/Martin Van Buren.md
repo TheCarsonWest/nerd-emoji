@@ -1,8 +1,8 @@
-**Martin Van Buren (1782-1862)**
+**[[Martin Van Buren]] (1782-1862)**
 
 **Events and Policies:**
 
-* **Election of 1828:** Van Buren, as Andrew Jackson's running mate, helped secure Jackson's victory.
+* **Election of 1828:** Van Buren, as [[Andrew Jackson]]'s running mate, helped secure Jackson's victory.
 * **Jacksonian Era:** Van Buren served as Jackson's Secretary of State from 1829-1831 and Vice President from 1833-1837.
 * **Specie Circular (1836):** As Treasury Secretary under Jackson, Van Buren issued the Specie Circular, which required the payment of public lands to be made in gold or silver, contributing to the Panic of 1837.
 * **Independent Treasury System (1840):** As President, Van Buren established the Independent Treasury System, separating government funds from private banks.
@@ -14,7 +14,7 @@
 **Groups and Affiliations:**
 
 * Democratic-Republican Party
-* "Albany Regency" (New York political faction)
+* "Albany Regency" ([[New York]] political faction)
 
 **Impact on the Country:**
 
@@ -27,4 +27,4 @@
 
 * Van Buren was the first native-born president to not speak English as a first language (Dutch).
 * He is known as the "Sage of Kinderhook" for his political wisdom and experience.
-* Van Buren lost his bid for reelection in 1840 to William Henry Harrison, marking the end of the Jacksonian Era.
+* Van Buren lost his bid for reelection in 1840 to [[William Henry Harrison]], marking the end of the Jacksonian Era.

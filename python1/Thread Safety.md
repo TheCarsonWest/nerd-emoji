@@ -16,7 +16,7 @@ lock = threading.Lock()
 
 # use the lock to protect critical section
 with lock:
-    # critical section code
+ # critical section code
 ```
 
 **2. Thread-Local Storage (TLS):** TLS allows each thread to maintain a separate copy of a variable. This ensures that data accessed by one thread will not be modified by another thread.
@@ -52,14 +52,14 @@ counter.inc()
 import threading
 
 class Counter:
-    def __init__(self):
-        self.count = 0
-        self.lock = threading.Lock()
+ def __init__(self):
+ self.count = 0
+ self.lock = threading.Lock()
 
-    def increment(self):
-        # acquire the lock before accessing shared resource
-        with self.lock:
-            self.count += 1
+ def increment(self):
+ # acquire the lock before accessing shared resource
+ with self.lock:
+ self.count += 1
 ```
 
 ```python
@@ -67,10 +67,10 @@ class Counter:
 import threading
 
 def thread_function():
-    # access thread-local variable
-    data = thread_local.data
+ # access thread-local variable
+ data = thread_local.data
 
-    # perform thread-specific computation
+ # perform thread-specific computation
 
 # create a thread-local storage object
 thread_local = threading.local()

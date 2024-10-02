@@ -9,7 +9,7 @@ Function parameters are defined within the parentheses of the function definitio
 ### Code Examples
 ```python
 def add_numbers(num1, num2):
-    return num1 + num2
+ return num1 + num2
 
 # call the function with actual arguments
 result = add_numbers(5, 10)
@@ -17,7 +17,7 @@ result = add_numbers(5, 10)
 
 ```python
 def greet_person(name: str, age: int):
-    print(f"Hello, {name}. You are {age} years old.")
+ print(f"Hello, {name}. You are {age} years old.")
 
 # call the function with named arguments (optional)
 greet_person(age=25, name="John")

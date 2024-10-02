@@ -7,10 +7,10 @@ Mocking is a technique in unit testing where a specific class or function is rep
 To use mocking in Python, you can use a mocking framework such as Mock from the `unittest.mock` module.
 
 - `Mock` Function:
-    - `Mock(**attrs)`: Creates a mock object.
-    - `mock.configure_mock(**attrs)`: Configures the attributes of the mock object.
-    - `mock.assert_called_with(*args, **kwargs)`: Asserts that the mock object was called with the specified arguments.
-    - `mock.assert_not_called()`/`assert_called_once()`/`assert_called_n_times(n)`: Asserts the number of times the mock object was called.
+ - `Mock(**attrs)`: Creates a mock object.
+ - `mock.configure_mock(**attrs)`: Configures the attributes of the mock object.
+ - `mock.assert_called_with(*args, **kwargs)`: Asserts that the mock object was called with the specified arguments.
+ - `mock.assert_not_called()`/`assert_called_once()`/`assert_called_n_times(n)`: Asserts the number of times the mock object was called.
 
 ### Code Examples
 ```python

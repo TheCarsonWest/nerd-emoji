@@ -1,14 +1,14 @@
 ## [[Inheritance]] in Python
 
 ### What is [[Inheritance]]?
-[[Inheritance]] is a fundamental concept in object-oriented programming that allows a new class (child class) to inherit properties and methods from an existing class (parent class). It enhances code reusability, reduces redundancy, and promotes the principles of "has-a" and "is-a" relationships between objects.
+ [[Inheritance]] is a fundamental concept in object-oriented programming that allows a new class (child class) to inherit properties and methods from an existing class (parent class). It enhances code reusability, reduces redundancy, and promotes the principles of "has-a" and "is-a" relationships between objects.
 
 ### How to Use [[Inheritance]]
 To create a child class that inherits from a parent class, use the following syntax:
 
 ```python
 class ChildClass(ParentClass):
-    # Child class definition
+ # Child class definition
 ```
 
 **Note:**
@@ -19,28 +19,28 @@ class ChildClass(ParentClass):
 ```python
 # Parent class: Animal
 class Animal:
-    def __init__(self, name):
-        self.name = name
+ def __init__(self, name):
+ self.name = name
 
-    def make_sound(self):
-        print("Generic animal sound")
+ def make_sound(self):
+ print("Generic animal sound")
 
 # Child class: Dog, inherits from Animal
 class Dog(Animal):
-    def bark(self):
-        print("Woof!")
+ def bark(self):
+ print("Woof!")
 
 # Create a Dog object
 my_dog = Dog("Buddy")
 
 # Access inherited attribute
-print(my_dog.name)  # Output: Buddy
+print(my_dog.name) # Output: Buddy
 
 # Call inherited method
-my_dog.make_sound()  # Output: Generic animal sound
+my_dog.make_sound() # Output: Generic animal sound
 
 # Call child class method
-my_dog.bark()  # Output: Woof!
+my_dog.bark() # Output: Woof!
 ```
 
 ### Related Python Concepts

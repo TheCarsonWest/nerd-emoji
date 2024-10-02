@@ -1,4 +1,4 @@
-**Ronald Reagan (1981-1989)**
+**[[Ronald Reagan]] (1981-1989)**
 
 **Events Associated With:**
 

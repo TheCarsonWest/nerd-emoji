@@ -39,15 +39,15 @@ The `response` object contains information about the API response.
 ```python
 response = requests.get("https://api.github.com/users/user_name")
 if response.status_code == 200:
-    user_data = response.json()
-    print(f"User Name: {user_data['name']}")
+ user_data = response.json()
+ print(f"User Name: {user_data['name']}")
 ```
 
 **2. POST Request:**
 ```python
 response = requests.post("https://api.example.com/create_task", json={"title": "New Task"})
 if response.status_code == 201:
-    print("Task created successfully.")
+ print("Task created successfully.")
 ```
 
 ### Related Python Concepts

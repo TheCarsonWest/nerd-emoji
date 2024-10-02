@@ -1,10 +1,10 @@
-**Woodrow Wilson**
+**[[Woodrow Wilson]]**
 
 **Presidency:** 1913-1921
 
 **Major Events:**
 
-* **World War I:** Led the United States into the war in 1917, aiming to "make the world safe for democracy."
+* **World War I:** Led the [[United States]] into the war in 1917, aiming to "make the world safe for democracy."
 * **Treaty of Versailles:** Negotiated the treaty ending World War I, which established the League of Nations.
 * **Russian Revolution:** Sent troops to intervene in the Russian Civil War, opposing the Bolsheviks.
 * **Fourteen Points:** Articulated a vision for a peaceful world based on self-determination, free trade, and international cooperation.

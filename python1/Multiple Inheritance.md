@@ -8,7 +8,7 @@ To implement multiple inheritance, use the following syntax:
 
 ```python
 class ChildClass(ParentClass1, ParentClass2, ...):
-    # body of the child class
+ # body of the child class
 ```
 
 where `ChildClass` inherits from `ParentClass1`, `ParentClass2`, and so on.
@@ -16,25 +16,25 @@ where `ChildClass` inherits from `ParentClass1`, `ParentClass2`, and so on.
 ### Code Examples
 ```python
 class Animal:
-    def __init__(self, name):
-        self.name = name
+ def __init__(self, name):
+ self.name = name
 
 class Dog(Animal):
-    def bark(self):
-        print("Woof!")
+ def bark(self):
+ print("Woof!")
 
 class Cat(Animal):
-    def meow(self):
-        print("Meow!")
+ def meow(self):
+ print("Meow!")
 
-class Pet(Dog, Cat):  # inherits from both Dog and Cat
-    def play(self):
-        print(f"{self.name} is playing!")
+class Pet(Dog, Cat): # inherits from both Dog and Cat
+ def play(self):
+ print(f"{self.name} is playing!")
 
 my_pet = Pet("Leo")
-my_pet.bark()  # inherited from Dog
-my_pet.meow()  # inherited from Cat
-my_pet.play()  # defined in Pet
+my_pet.bark() # inherited from Dog
+my_pet.meow() # inherited from Cat
+my_pet.play() # defined in Pet
 ```
 
 ### Related Python Concepts

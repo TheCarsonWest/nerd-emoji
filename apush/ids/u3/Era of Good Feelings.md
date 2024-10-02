@@ -1,20 +1,20 @@
-**[[Era of Good Feelings]]**
+** [[Era of Good Feelings]]**
 
 **WHEN:** 1815-1823
 
 **WHO:**
 
-* James Monroe, President
+* [[James Monroe]], President
 * Henry Clay, Secretary of State
-* John Quincy Adams, Secretary of State
+* [[John Quincy Adams]], Secretary of State
 
 **WHAT:**
 
 * Period of political and economic stability following the War of 1812
 * Characterized by:
-    * One-party rule (Democratic-Republicans)
-    * Expansion of the economy
-    * Growth of nationalism
+ * One-party rule (Democratic-Republicans)
+ * Expansion of the economy
+ * Growth of nationalism
 
 **IMPACT:**
 

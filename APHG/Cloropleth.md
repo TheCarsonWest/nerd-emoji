@@ -1,5 +1,5 @@
 
-[[Glossary]]
+ [[Glossary]]
 **Choropleth**
 
 - A type of thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as [[Population Density]] or per-capita income.

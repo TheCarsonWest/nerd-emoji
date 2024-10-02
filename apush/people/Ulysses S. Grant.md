@@ -1,4 +1,4 @@
-**Ulysses S. Grant**
+**[[Ulysses S]]. Grant**
 
 **Events Associated With:**
 
@@ -17,7 +17,7 @@
 
 * Republican Party
 * Army of the Potomac
-* United States Army
+* [[United States]] Army
 
 **Impact on the Country:**
 
@@ -35,7 +35,7 @@
 **Foreign Policy:**
 
 * Pursued a policy of non-intervention in Latin America.
-* Acquired Alaska (1867).
+* Acquired [[Alaska]] (1867).
 
 **Legacy:**
 

@@ -6,16 +6,16 @@
 
 **WHO:**
 
-* [[James Madison]] ([[Virginia]])
-* Roger Sherman ([[Connecticut]])
-* William Paterson ([[New Jersey]])
+* [[James Madison]] ( [[Virginia]])
+* Roger Sherman ( [[Connecticut]])
+* William Paterson ( [[New Jersey]])
 
 **WHAT:**
 
 * A compromise between large and small states at the [[Constitutional Convention]]
 * Created a bicameral legislature:
-    * [[House of Representatives]]: Representation based on population
-    * [[Senate]]: Each state would have equal representation (two senators)
+ * [[House of Representatives]]: Representation based on population
+ * [[Senate]]: Each state would have equal representation (two senators)
 
 **IMPACT:**
 

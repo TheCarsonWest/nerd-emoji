@@ -1,12 +1,12 @@
-**John Quincy Adams (1767-1848)**
+**[[John Quincy Adams]] (1767-1848)**
 
 **Events Associated With:**
 
 * War of 1812 (served as a peace commissioner)
-* Treaty of Ghent (negotiated the end of the war)
-* Secretary of State under James Monroe
-* Monroe Doctrine (helped craft the policy)
-* Election of 1824 (lost to Andrew Jackson)
+* [[Treaty of Ghent]] (negotiated the end of the war)
+* Secretary of State under [[James Monroe]]
+* [[Monroe Doctrine]] (helped craft the policy)
+* Election of 1824 (lost to [[Andrew Jackson]])
 * Corrupt Bargain (allegations of a deal to make Adams president)
 
 **Important Legislation:**

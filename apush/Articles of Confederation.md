@@ -1,11 +1,11 @@
-Write an AP United States History Rundown on the articles of confederation
+Write an AP [[United States]] History Rundown on the articles of confederation
 
 
-**Articles of Confederation (1781-1789)**
+**[[Articles of Confederation]] (1781-1789)**
 
 **Background:**
-* Adopted after the Declaration of Independence in 1781
-* First constitution of the United States
+* Adopted after the [[Declaration of Independence]] in 1781
+* First constitution of the [[United States]]
 * Replaced the Continental Congress
 
 **Key Features:**
@@ -20,7 +20,7 @@ Write an AP United States History Rundown on the articles of confederation
 * **No Power to Declare War or Make Peace:** States made their own foreign policy decisions.
 
 **Strengths:**
-* **Declaration of Rights:** Included a Bill of Rights that protected individual liberties.
+* **Declaration of Rights:** Included a [[Bill of Rights]] that protected individual liberties.
 * **Land Ordinance of 1785:** Established a system for selling and surveying western lands.
 * **Northwest Ordinance of 1787:** Organized the Northwest Territory and set principles for new states.
 
@@ -32,4 +32,4 @@ Write an AP United States History Rundown on the articles of confederation
 * Lack of a strong central government to resolve disputes and protect national interests
 
 **Replacement:**
-* The Articles of Confederation were replaced by the Constitution of the United States in 1789, which established a stronger federal government with more powers.
+* The [[Articles of Confederation]] were replaced by the Constitution of the [[United States]] in 1789, which established a stronger federal government with more powers.

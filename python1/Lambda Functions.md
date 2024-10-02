@@ -19,14 +19,14 @@ lambda arguments: expression
 square = lambda x: x ** 2
 
 # call the lambda function
-print(square(5))  # Output: 25
+print(square(5)) # Output: 25
 ```
 
 ```python
 # use a lambda function as an argument to the `sort` function
 numbers = [5, 1, 3, 2, 4]
-numbers.sort(key=lambda x: x % 2)  # sort the numbers based on their remainder when divided by 2
-print(numbers)  # Output: [2, 4, 1, 3, 5]
+numbers.sort(key=lambda x: x % 2) # sort the numbers based on their remainder when divided by 2
+print(numbers) # Output: [2, 4, 1, 3, 5]
 ```
 
 ### Related Python Concepts

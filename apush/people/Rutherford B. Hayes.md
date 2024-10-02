@@ -1,7 +1,7 @@
-**Rutherford B. Hayes**
+**[[Rutherford B]]. Hayes**
 
 **Background:**
-- Born: October 4, 1822, Delaware, Ohio
+- Born: October 4, 1822, [[Delaware]], [[Ohio]]
 - Lawyer and politician
 - Union general during the Civil War
 
