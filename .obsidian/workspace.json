@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/United States.md",
+                "file": "nexus.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/United States.md",
+                "file": "nexus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/United States.md",
+                "file": "nexus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/United States.md",
+                "file": "nexus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/United States.md"
+                "file": "nexus.md"
               }
             }
           },
@@ -197,8 +197,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,6 +218,19 @@
   },
   "active": "283785ece2551314",
   "lastOpenFiles": [
+    "APHG/APHG Home.md",
+    "APHG/Cengage home.md",
+    "APHG/Globalization and Sustainability.md",
+    "APHG/Glossary.md",
+    "APHG/Dot distribution.md",
+    "APHG/Data collection.md",
+    "APHG/Cloropleth.md",
+    "APHG/Cartogram.md",
+    "APHG/APHG Unit 2.md",
+    "APHG/APHG Unit 1.md",
+    "apush/Constitution of the United States.md",
+    "apush/APUSH Home.md",
+    "apush/United States.md",
     "content",
     "nexus.md",
     "python1/Python 1 Home.md",
@@ -232,20 +244,8 @@
     "APCHEM/Titration.md",
     "APCHEM/Double replacement reaction.md",
     "APCHEM/Reactions Types.md",
-    "apush/APUSH Home.md",
     "apush/States list.md",
-    "Untitled.md",
-    "apush/ids/u3/Report on Manufactures.md",
-    "apush/ids/u3/Report on the Public Credit.md",
-    "apush/ids/u3/Bill of Rights.md",
-    "Combustion Reaction.md",
-    "Decomposition reaction.md",
-    "Synthesis Reaction.md",
-    "Single Replacement reaction.md",
     "Pasted image 20241001204937.png",
-    "APCHEM/Redox.md",
-    "templates/apush place.md",
-    "Home.md",
     "python1",
     "scripts/brackets.py",
     "apush/states",
@@ -261,7 +261,6 @@
     "apush/Pasted image 20240620210101.png",
     "scripts/word-frequencies.csv",
     "scripts/replace.py",
-    "scripts/frequency.py",
     "past-test-scores.png",
     "Untitled.canvas",
     "images/Pasted image 20240911075621.png",
