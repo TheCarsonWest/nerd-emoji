@@ -1,15 +1,14 @@
-**Notecard**
+**Notecard: Report on Manufactures**
 
-**WHEN:** December 5, 1810
+**WHEN:** 5 december, 1791
 
-**WHO:** [[Alexander Hamilton]]
+**WHO:** Alexander Hamilton, Secretary of the Treasury
 
-**WHAT:** Prepared a " [[Report on Manufactures]]" for Congress
+**WHAT:** A comprehensive report that advocated for the development of American manufacturing industries through protective tariffs, government subsidies, and other measures.
 
 **IMPACT:**
 
-* Argued for a strong federal government to promote and protect manufacturing industries
-* Called for tariffs, bounties, and subsidies to support American businesses
-* Advocated for a centralized banking system and improved infrastructure
-* Contributed to the development of the American System of economic nationalism
-# [[IDS Unit 3]]
+* Shaped American economic policy for decades.
+* Led to the passage of the Tariff of 1816, which imposed protective tariffs on imported goods.
+* Stimulated the growth of American manufacturing and contributed to the development of the nation's economy.
+* Contributed to the emergence of the United States as an industrial power.

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/people/Samuel Adams.md",
+                "file": "apush/ids/u3/Report on Manufactures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "283785ece2551314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apush/United States.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/people/Samuel Adams.md",
+                "file": "apush/United States.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/people/Samuel Adams.md",
+                "file": "apush/United States.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/people/Samuel Adams.md",
+                "file": "apush/United States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/people/Samuel Adams.md"
+                "file": "apush/United States.md"
               }
             }
           },
@@ -185,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -201,38 +214,38 @@
       "command-palette:Open command palette": false,
       "obsidian-map-view:Open map view": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5e8e806416209f86",
+  "active": "283785ece2551314",
   "lastOpenFiles": [
-    "apush/states/Delaware.md",
-    "apush/IDS Unit 3.md",
-    "apush/President of the United States.md",
-    "APHG  Home.md",
-    "apush/Harvard.md",
-    "apush/states/Massachusetts.md",
-    "apush/Massachusetts.md",
-    "APHG/Place Names.md",
-    "apush/ids/u2/Battle of Yorktown.md",
-    "apush/states/Washington.md",
-    "APHG/APHG Unit 1.md",
-    "APHG/Population Distribution.md",
-    "APHG/Vernacular Region.md",
-    "APHG/APHG Home.md",
-    "APHG/Globalization and Sustainability.md",
-    "APHG/ESPN.md",
-    "APHG/ESPN Example.md",
-    "apush/ID Home.md",
-    "apush/APUSH Home.md",
-    "apush/states/Oregon.md",
+    "content",
     "nexus.md",
     "python1/Python 1 Home.md",
-    "Home.md",
+    "apush/ids/u2/Stono Rebellion.md",
+    "apush/IDs unit 2.md",
+    "apush/ID Home.md",
+    "apush/IDS Unit 3.md",
+    "apush/ids/u2/Battle of Bunker Hill.md",
     "APCHEM/APCHEM Home.md",
-    "APCHEM/Laws.md",
-    "Arabic/Arabic Home.md",
+    "APCHEM/Processes.md",
+    "APCHEM/Titration.md",
+    "APCHEM/Double replacement reaction.md",
+    "APCHEM/Reactions Types.md",
+    "apush/APUSH Home.md",
+    "apush/States list.md",
+    "Untitled.md",
+    "apush/ids/u3/Report on Manufactures.md",
+    "apush/ids/u3/Report on the Public Credit.md",
+    "apush/ids/u3/Bill of Rights.md",
+    "Combustion Reaction.md",
+    "Decomposition reaction.md",
+    "Synthesis Reaction.md",
+    "Single Replacement reaction.md",
+    "Pasted image 20241001204937.png",
+    "APCHEM/Redox.md",
+    "templates/apush place.md",
+    "Home.md",
     "python1",
     "scripts/brackets.py",
     "apush/states",
@@ -252,7 +265,6 @@
     "past-test-scores.png",
     "Untitled.canvas",
     "images/Pasted image 20240911075621.png",
-    "images/Pasted image 20240905082254.png",
-    "images/Pasted image 20240829080607.png"
+    "images/Pasted image 20240905082254.png"
   ]
 }

@@ -5,4 +5,4 @@
 # [[Laws]]
 # [[Processes]]
 # [[Labs]]
-# [[Reactions]]
+# [[Reactions Types]]
