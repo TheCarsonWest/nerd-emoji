@@ -1,7 +1,10 @@
 # My 24-25 Notes
-# Start at [[nexus]]
+
+# Start at [[nexus]] if you are on web viewer or obsidian
+# Go to [here](https://thecarsonwest.github.io/test/public/nexus/) to see the web viewer
+
 ## anyone can use these idc
-By June 2025 there will be a [full obsidian vault](https://obsidian.md/) for:
+By June 2025 there will be a [full obsidian vault](https://obsidian.md/), and now a web viewer! for:
 - AP US History
 - AP Chemistry
 - AP Calculus AB
