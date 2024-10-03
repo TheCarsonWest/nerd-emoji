@@ -2,6 +2,8 @@
 
 # [Arithmetic Density]
 # $$ Density = {People \over Area} $$
+
+
 ### High Arithmetic countries:
 - India
 - Japan

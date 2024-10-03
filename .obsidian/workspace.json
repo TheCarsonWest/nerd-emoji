@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/APUSH Home.md",
+                "file": "APHG/Population Density.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/APUSH Home.md",
+                "file": "APHG/Population Density.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/APUSH Home.md",
+                "file": "APHG/Population Density.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/APUSH Home.md",
+                "file": "APHG/Population Density.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/APUSH Home.md"
+                "file": "APHG/Population Density.md"
               }
             }
           },
@@ -218,9 +218,13 @@
   },
   "active": "283785ece2551314",
   "lastOpenFiles": [
-    "nexus.md",
-    "README.md",
+    "APHG/Population Distribution.md",
+    "APHG/APHG Unit 2.md",
     "APHG/APHG Home.md",
+    "nexus.md",
+    "apush/APUSH Home.md",
+    "apush/ID Home.md",
+    "README.md",
     "APHG/Cengage home.md",
     "APHG/Globalization and Sustainability.md",
     "APHG/Glossary.md",
@@ -228,23 +232,19 @@
     "APHG/Data collection.md",
     "APHG/Cloropleth.md",
     "APHG/Cartogram.md",
-    "APHG/APHG Unit 2.md",
     "APHG/APHG Unit 1.md",
     "apush/Constitution of the United States.md",
-    "apush/APUSH Home.md",
     "apush/United States.md",
     "content",
     "python1/Python 1 Home.md",
     "apush/ids/u2/Stono Rebellion.md",
     "apush/IDs unit 2.md",
-    "apush/ID Home.md",
     "apush/IDS Unit 3.md",
     "apush/ids/u2/Battle of Bunker Hill.md",
     "APCHEM/APCHEM Home.md",
     "APCHEM/Processes.md",
     "APCHEM/Titration.md",
     "APCHEM/Double replacement reaction.md",
-    "APCHEM/Reactions Types.md",
     "Pasted image 20241001204937.png",
     "python1",
     "scripts/brackets.py",
