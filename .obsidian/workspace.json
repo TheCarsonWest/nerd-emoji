@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "APCHEM/Decomposition reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd43736893fa74ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APCHEM/Combustion Reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f5604bf17346407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c2ab7addc830f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other important AP CHEM things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b740ee8c4c42f2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ion concentration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "ion concentration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ion concentration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ion concentration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ion concentration.md"
               }
             }
           },
@@ -216,35 +264,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "283785ece2551314",
+  "active": "b740ee8c4c42f2b8",
   "lastOpenFiles": [
+    "Other important AP CHEM things.md",
+    "solutions.md",
+    "ion concentration.md",
+    "APCHEM/APCHEM Home.md",
+    "Electrolyte.md",
+    "python1/Memoization in Recursion.md",
+    "nexus.md",
+    "templates/apchem rundown.md",
+    "APCHEM/Electrical constant.md",
+    "APCHEM/Magnetic Constant.md",
+    "APCHEM/Speed of light.md",
+    "APCHEM/Constants.md",
+    "APCHEM/Processes.md",
+    "APCHEM/Titration.md",
+    "APCHEM/Photoelectron Spectroscopy.md",
+    "APCHEM/Reactions Types.md",
+    "APCHEM/Synthesis Reaction.md",
+    "APCHEM/Decomposition reaction.md",
+    "arabic conversation.md",
+    "APCHEM/Combustion Reaction.md",
+    "README.md",
+    "Untitled 1.md",
     "APHG/Population Density.md",
     "APHG/Population Distribution.md",
     "APHG/APHG Unit 2.md",
-    "APHG/APHG Home.md",
-    "nexus.md",
-    "apush/APUSH Home.md",
-    "apush/ID Home.md",
-    "README.md",
-    "APHG/Cengage home.md",
-    "APHG/Globalization and Sustainability.md",
-    "APHG/Glossary.md",
-    "APHG/Dot distribution.md",
-    "APHG/Data collection.md",
-    "APHG/Cloropleth.md",
-    "APHG/Cartogram.md",
-    "APHG/APHG Unit 1.md",
-    "apush/Constitution of the United States.md",
-    "apush/United States.md",
     "content",
-    "python1/Python 1 Home.md",
-    "apush/ids/u2/Stono Rebellion.md",
-    "apush/IDs unit 2.md",
-    "apush/IDS Unit 3.md",
-    "apush/ids/u2/Battle of Bunker Hill.md",
-    "APCHEM/APCHEM Home.md",
-    "APCHEM/Processes.md",
-    "APCHEM/Titration.md",
     "Pasted image 20241001204937.png",
     "python1",
     "scripts/brackets.py",

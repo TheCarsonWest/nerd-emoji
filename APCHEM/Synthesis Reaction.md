@@ -1,4 +1,4 @@
-
+[[Reactions Types]]
 **Definition:** A reaction in which two or more substances combine to form a new, more complex substance.
 
 **General Equation:**
