@@ -59,3 +59,4 @@ print(total)
 - [[Functions]]: NumPy provides a rich set of mathematical functions for numerical computations.
 - [[Lists]]: NumPy arrays can be converted to and from Python lists.
 - [[Modules and Packages]]: NumPy is a third-party library that is installed as a package.
+# [[Python 1 Home]]

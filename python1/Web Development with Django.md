@@ -84,3 +84,4 @@ python manage.py runserver
 - [[Polymorphism]]: Django models support polymorphism through the use of the `ContentType` model.
 - [[Databases and SQL]]: Django uses a database backend (such as SQLite or PostgreSQL) to store and retrieve data.
 - [[Web Development]]: Django is a framework specifically designed for web development.
+# [[Python 1 Home]]

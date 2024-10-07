@@ -29,3 +29,4 @@ closure() # prints 15
 - [[Return Values]]: The closure is the return value of the enclosing function.
 - [[Higher-Order [[Functions]]: [[Closures]] are examples of higher-order functions, which return other functions.
 - [[Global and Nonlocal Variables]]: [[Closures]] access nonlocal variables from the enclosing scope, but not global variables.
+# [[Python 1 Home]]

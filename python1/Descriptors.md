@@ -40,3 +40,4 @@ print(e.name) # Output: "JOHN DOE"
 - [[Decorators]]: [[Decorators]] can also be used to modify object attributes, although descriptors offer more flexibility and control.
 - [[Class and Objects]]: [[Descriptors]] operate on object attributes, providing a means to define custom behavior for these attributes.
 - [[Inheritance]]: [[Descriptors]] can be inherited by subclasses, allowing for reusable attribute customization across multiple classes.
+# [[Python 1 Home]]

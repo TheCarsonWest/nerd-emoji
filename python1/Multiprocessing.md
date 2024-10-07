@@ -37,3 +37,4 @@ if __name__ == '__main__':
 - [[Function Parameters]]: Arguments and keyword arguments can be passed to target functions in multiprocessing.
 - [[Return Values]]: The `join()` method of a `Process` object can be used to retrieve the return value of the target function.
 - [[Threading]]: Multithreading is another way of achieving concurrency in Python, but it operates on a single CPU.
+# [[Python 1 Home]]

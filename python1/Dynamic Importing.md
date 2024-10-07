@@ -40,3 +40,4 @@ print(json_data['name']) # Output: John
 - [[Decorators]]: Dynamic importing can be used in conjunction with decorators to load modules based on runtime conditions.
 - [[Building and Distributing Python Packages]]
 - 
+# [[Python 1 Home]]

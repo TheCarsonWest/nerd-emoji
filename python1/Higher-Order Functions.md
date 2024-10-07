@@ -47,3 +47,4 @@ print(result) # 15
 - [[Map, Filter, and Reduce]]: These are built-in HOFs that perform common operations on iterables.
 - [[Closures]]: [[Closures]] allow HOFs to retain access to variables outside their scope.
 - [[Decorators]]: [[Decorators]] are HOFs that modify the behavior of other functions.
+# [[Python 1 Home]]

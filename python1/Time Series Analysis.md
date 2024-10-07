@@ -35,3 +35,4 @@ forecast = model.fit(df['sales']).predict(start=len(df), end=len(df) + 12)
 - [[Pandas DataFrames]]: Pandas provides a DataFrame structure that is specifically designed for handling time series data.
 - [[Plotting]]: Plotting libraries like Matplotlib can be used to visualize time series data.
 - [[Machine Learning]]: Time series forecasting can be done using machine learning models like ARIMA and SARIMA.
+# [[Python 1 Home]]

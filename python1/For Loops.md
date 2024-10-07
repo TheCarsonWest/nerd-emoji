@@ -34,3 +34,4 @@ for number in range(10):
 - [[Strings]]: For loops can be used to iterate over the characters in a string.
 - [[List Comprehension]]: For loops can be used to generate new lists through list comprehension.
 - [[Generators]]: For loops can be used to iterate over generators, which are objects that yield values one at a time.
+# [[Python 1 Home]]

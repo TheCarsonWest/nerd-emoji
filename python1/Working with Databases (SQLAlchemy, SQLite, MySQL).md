@@ -58,3 +58,4 @@ engine = create_engine('mysql+mysqlconnector://[username]:[password]@[host]:[por
 - [[List Comprehension]]: Database queries often utilize list comprehensions for data filtering and manipulation.
 - [[Generators]]: SQLAlchemy uses generators to lazily load data from databases.
 - [[File Handling]]: Database operations often involve reading and writing to files.
+# [[Python 1 Home]]

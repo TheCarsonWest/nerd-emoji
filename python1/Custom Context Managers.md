@@ -31,3 +31,4 @@ with MyContextManager() as obj:
 - [[Exception Handling]]: Custom context managers can be used to handle exceptions gracefully.
 - [[Classes and Objects]]: Custom context managers are implemented as classes.
 - [[Decorators]]: Custom context managers can be implemented using decorators (@contextmanager).
+# [[Python 1 Home]]

@@ -30,3 +30,4 @@ ages = {name: age for name, age in data}
 - [[Functions]]: Lambda functions can be used as expressions for keys and values.
 - [[For Loops]]: Dictionary comprehension can be seen as a concise form of a for loop.
 - [[Operators]]: Conditional and mathematical operators can be used in the key or value expressions.
+# [[Python 1 Home]]

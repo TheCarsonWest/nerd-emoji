@@ -40,3 +40,4 @@ print(name) # Output: John Doe
 - [[Default Parameters]]: Default parameters can be used to provide a default value for the return value if it is not explicitly specified.
 - [[Recursion]]: Recursive functions can return values at each level of the recursion.
 - [[Lambda [[Functions]]: Lambda functions always return a value, which is the expression on the right-hand side of the function definition.
+# [[Python 1 Home]]

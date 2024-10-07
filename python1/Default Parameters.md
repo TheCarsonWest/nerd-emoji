@@ -27,3 +27,4 @@ greet("John")
 - [[Control Flow If Statements]]: Default parameters can help simplify conditional statements in some cases.
 - [[For Loops]]: Default parameters can reduce the need for explicit checks before entering loops.
 - [[While Loops]]: Default parameters can be used to initialize loop conditions.
+# [[Python 1 Home]]

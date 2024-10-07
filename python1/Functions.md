@@ -39,3 +39,4 @@ print(area)
 - [[Return Values]]: [[Functions]] can return values using the `return` statement, allowing them to pass data back to the calling code.
 - [[Lambda [[Functions]]: Lambda functions are anonymous functions that provide a concise way to define one-line functions.
 - [[Higher-Order [[Functions]]: [[Functions]] can accept other functions as arguments or return functions as values.
+# [[Python 1 Home]]

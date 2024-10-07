@@ -56,3 +56,4 @@ if response.status_code == 201:
 - [[JSON]]: The Requests library can parse and handle JSON responses.
 - [[Exception Handling]]: Requests can raise exceptions in case of errors during the request or response handling.
 - [[File Handling]]: The response body can be written to a file using file handling concepts.
+# [[Python 1 Home]]

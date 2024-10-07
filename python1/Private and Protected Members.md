@@ -47,3 +47,4 @@ class MyClass:
 - [[Inheritance]]: Protected members can be accessed from subclasses.
 - [[Function Parameters]]: Private and protected methods can accept parameters like regular methods.
 - [[Return Values]]: Private and protected methods can return values like regular methods.
+# [[Python 1 Home]]

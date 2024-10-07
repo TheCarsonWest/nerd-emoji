@@ -34,3 +34,5 @@ if user_is_admin():
 - [[Functions]]: If statements can be used to conditionally call functions.
 - [[For Loops]]: If statements can be used to control the execution of for loops.
 - [[While Loops]]: If statements can be used to terminate or continue the execution of while loops.
+
+# [[Python 1 Home]]

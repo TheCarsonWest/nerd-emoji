@@ -64,3 +64,4 @@ df = spark.createDataFrame(data, ["name", "age"])
 - [[Map, Filter, and Reduce]]: PySpark transformations can be implemented using these higher-order functions.
 - [[Lambda [[Functions]]: Lambda functions can be used to define anonymous functions for PySpark transformations.
 - [[Concurrency and Multithreading]]: PySpark leverages multithreading and distributed computing for efficient data processing.
+# [[Python 1 Home]]

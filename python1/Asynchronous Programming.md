@@ -30,3 +30,4 @@ asyncio.run(fetch_url("https://example.com"))
 - [[Tasks]]: Tasks provide a mechanism for managing and executing coroutines concurrently.
 - [[Concurrency and Multithreading]]: Asynchronous programming is an alternative approach to concurrency and multithreading.
 - [[Generators]]: [[Generators]] are similar to coroutines, but they do not support suspension and resumption.
+# [[Python 1 Home]]

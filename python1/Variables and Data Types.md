@@ -38,3 +38,4 @@ print(f"Name: {name}") # output: Name: Mary
 - [[Functions]]: [[Functions]] can take arguments of specific data types and return values of specific types.
 - [[Lists]]: [[Lists]] are mutable collections that can store a variety of data types.
 - [[Dictionaries]]: [[Dictionaries]] are mutable collections that store key-value pairs, where the keys and values can be of different data types.
+# [[Python 1 Home]]

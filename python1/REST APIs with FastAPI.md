@@ -30,3 +30,4 @@ async def get_item(item_id: int):
 - [[Type Hinting]]: FastAPI supports type hinting for data models and function parameters.
 - [[Asynchronous Programming]]: FastAPI supports asynchronous programming, allowing for more efficient and scalable APIs.
 - [[Importing Modules]]: You need to import the FastAPI module to use it in your Python code.
+# [[Python 1 Home]]

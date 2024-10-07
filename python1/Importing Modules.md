@@ -43,3 +43,4 @@ result = sqrt(16)
 - [[Classes and Objects]]: Modules can define classes and objects that can be imported and reused across programs.
 - [[File Handling]]: Modules can be used to interact with files and manage file operations.
 - [[Dynamic Importing]]: Modules can be imported dynamically during runtime using the `importlib` module.
+# [[Python 1 Home]]

@@ -54,3 +54,4 @@ print(set6) # output: {'banana', 'cherry', 'google', 'microsoft'}
 - [[Dictionaries]]: [[Dictionaries]] are mappings that associate keys to values, and they do not allow duplicate keys.
 - [[Frozen [[Sets]]: Frozen sets are immutable versions of sets, meaning their elements cannot be modified.
 - [[Set Comprehension]]: Set comprehension provides a concise way to create sets using a similar syntax to list comprehension.
+# [[Python 1 Home]]

@@ -46,3 +46,4 @@ print(calculate_average(10, 20, 30)) # 20.0
 - [[Function Parameters]]: Overloaded functions require different sets of parameters.
 - [[Variable and Data Types]]: Overloaded functions may accept different types of input arguments.
 - [[Polymorphism]]: Function overloading can be seen as a form of polymorphism.
+# [[Python 1 Home]]

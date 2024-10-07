@@ -50,3 +50,4 @@ Run the test again to verify that it now passes, confirming the correct implemen
 - [[Exceptions]]: Unit tests can check for the correct handling of exceptions.
 - [[Mocks]]: Unit tests often use mocks to simulate the behavior of external dependencies.
 - [[Type Hinting]]: Type hints in test functions help ensure the correct types of inputs and outputs.
+# [[Python 1 Home]]

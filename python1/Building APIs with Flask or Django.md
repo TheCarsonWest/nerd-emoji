@@ -38,3 +38,4 @@ Flask and Django are popular Python frameworks for building web applications and
 - [[Classes and Objects]]: Django models are classes that represent database entities as objects.
 - [[Modules and Packages]]: Flask and Django are modules that can be imported into Python scripts.
 - [[Web Development with Django]]: Django is a comprehensive framework specifically designed for web development.
+# [[Python 1 Home]]

@@ -90,3 +90,4 @@ def update_user(self, new_data):
 - [[Higher-Order [[Functions]]: [[Decorators]] are higher-order functions that take a function as an argument and return a new function.
 - [[Closures]]: [[Decorators]] create closures that remember and have access to the variables defined in their scope.
 - [[Metaclasses]]: Chaining decorators can be used to create custom metaclasses that modify the behavior of classes and their instances.
+# [[Python 1 Home]]

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solutions.md",
+                "file": "APCHEM/solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other important AP CHEM things.md",
+                "file": "APCHEM/Other important AP CHEM things.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ion concentration.md",
+                "file": "python1/Plot Customization in Matplotlib.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ion concentration.md",
+                "file": "python1/Plot Customization in Matplotlib.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ion concentration.md",
+                "file": "python1/Plot Customization in Matplotlib.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ion concentration.md",
+                "file": "python1/Plot Customization in Matplotlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ion concentration.md"
+                "file": "python1/Plot Customization in Matplotlib.md"
               }
             }
           },
@@ -266,11 +266,14 @@
   },
   "active": "b740ee8c4c42f2b8",
   "lastOpenFiles": [
-    "Other important AP CHEM things.md",
-    "solutions.md",
-    "ion concentration.md",
+    "scripts/append.py",
+    "python1/Python 1 Home.md",
+    "APCHEM/Laws.md",
+    "APCHEM/ion concentration.md",
+    "APCHEM/Other important AP CHEM things.md",
+    "APCHEM/solutions.md",
     "APCHEM/APCHEM Home.md",
-    "Electrolyte.md",
+    "APCHEM/Electrolyte.md",
     "python1/Memoization in Recursion.md",
     "nexus.md",
     "templates/apchem rundown.md",
@@ -289,8 +292,6 @@
     "README.md",
     "Untitled 1.md",
     "APHG/Population Density.md",
-    "APHG/Population Distribution.md",
-    "APHG/APHG Unit 2.md",
     "content",
     "Pasted image 20241001204937.png",
     "python1",

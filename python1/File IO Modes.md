@@ -26,3 +26,4 @@ with open('filename.txt', mode='r') as file:
 - [[File Handling]]: File IO modes are part of the Python file handling functionality.
 - [[Context Managers]]: Context managers are used in Python to ensure proper resource management, including file handling.
 - [[Exceptions]]: Errors while working with files, such as file not found or permission denied, raise exceptions that need to be handled appropriately.
+# [[Python 1 Home]]

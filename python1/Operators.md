@@ -48,3 +48,4 @@ x == 10
 - [[For Loops]]: [[Operators]] can be used to modify loop variables.
 - [[While Loops]]: [[Operators]] are used to terminate or continue loops.
 - [[Bitwise [[Operators]]: Bitwise operators are specialized operators that perform operations on binary data.
+# [[Python 1 Home]]

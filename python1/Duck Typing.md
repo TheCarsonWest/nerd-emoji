@@ -39,3 +39,4 @@ In this example, the `animals` list contains both a `Duck` instance and a `Swan`
 - [[Inheritance]]: Duck typing can be used in place of inheritance to create polymorphic behavior.
 - [[Polymorphism]]: Duck typing enables objects to respond differently to the same method calls, based on their actual behavior.
 - [[Encapsulation]]: Duck typing emphasizes the behavior of objects rather than their internal implementation, promoting a level of encapsulation.
+# [[Python 1 Home]]

@@ -40,3 +40,4 @@ new_string = re.sub(r' ', '_', 'Hello World')
 - [[Functions]]: Regular expression functions like `re.search()` and `re.findall()` are used to perform string matching and manipulation.
 - [[For Loops]]: Regex patterns can be iterated over using the `re.finditer()` function.
 - [[While Loops]]: Regular expressions can be used to control the execution of while loops based on matching conditions.
+# [[Python 1 Home]]

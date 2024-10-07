@@ -24,3 +24,4 @@ To distribute your package, you can use the Python Package Index ([[Python Packa
 - [[Virtual Environments]]: Packages can be installed and used within virtual environments.
 - [[Dynamic Importing]]: Packages can be imported dynamically at runtime.
 - [[Command Line Interface (CLI) Programs]]: Packages can be used to create command-line tools.
+# [[Python 1 Home]]

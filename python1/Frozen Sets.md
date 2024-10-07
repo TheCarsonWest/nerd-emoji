@@ -25,3 +25,4 @@ names.add("Dave")
 - [[Variables and Data Types]]: Frozen sets store unique elements of various types.
 - [[Functions]]: The `frozenset()` function is used to create frozen sets.
 - [[For Loops]]: Frozen sets can be iterated over using for loops.
+# [[Python 1 Home]]

@@ -25,3 +25,4 @@ print(my_list[1][2]) # Output: 6
 - [[Dictionaries]]: Multidimensional lists can be used in conjunction with dictionaries to create dictionaries with multidimensional values.
 - [[List Comprehension]]: List comprehension can be used to create multidimensional lists concisely.
 - [[Generators]]: [[Generators]] can be used to create multidimensional lists lazily, reducing memory usage.
+# [[Python 1 Home]]

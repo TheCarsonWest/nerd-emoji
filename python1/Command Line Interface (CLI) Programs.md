@@ -79,3 +79,4 @@ Output:
 - [[Control Flow If Statements]]: CLI programs use if statements to conditionally execute code based on a given condition.
 - [[For Loops]]: CLI programs use for loops to iterate over sequences and perform actions for each element.
 - [[Functions]]: CLI programs often use functions to organize code and perform specific tasks.
+# [[Python 1 Home]]

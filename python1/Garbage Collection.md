@@ -12,3 +12,4 @@ Python's garbage collection is invoked automatically by the Python interpreter w
 - [[Tuples]]: [[Tuples]] are immutable data structures that can also hold references to objects.
 - [[Dictionaries]]: [[Dictionaries]] in Python are collections of key-value pairs, where the keys and values can be any Python object.
 - [[Memory Management]]: Garbage collection is a subset of memory management. It specifically deals with the detection and release of unused memory.
+# [[Python 1 Home]]

@@ -44,3 +44,4 @@ for number in gen_even():
 - [[Return Values]]: [[Generators]] return a `generator` object instead of a single value.
 - [[Functions]]: [[Generators]] are a type of function.
 - [[List Comprehension]]: [[Generators]] can be used as an alternative to list comprehensions for creating sequences.
+# [[Python 1 Home]]

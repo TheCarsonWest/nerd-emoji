@@ -76,3 +76,4 @@ print(student1.get_student_info()) # Output: Alice is 20 years old and has a gra
 - [[Inheritance]]: Classes can inherit attributes and methods from parent classes.
 - [[Modules and Packages]]: Classes and objects can be defined in Python modules.
 - [[Data Serialization (JSON, XML, Pickle)]]: Classes and objects can be serialized and deserialized for data exchange.
+# [[Python 1 Home]]

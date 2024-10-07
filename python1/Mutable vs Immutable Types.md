@@ -26,3 +26,4 @@ my_string = "Hello"
 - [[Tuples]]: [[Tuples]] are immutable sequences that cannot be modified.
 - [[Dictionaries]]: [[Dictionaries]] are mutable mappings that can be modified in place.
 - [[Sets]]: [[Sets]] are mutable collections that can be modified in place.
+# [[Python 1 Home]]

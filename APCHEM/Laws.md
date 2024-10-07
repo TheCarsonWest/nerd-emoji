@@ -1,4 +1,4 @@
-# [[APCHEM  Home]]
+# [[APCHEM Home]]
 
 ## [[Coulombs Law]]
 ## [[Aufbau Principle]]

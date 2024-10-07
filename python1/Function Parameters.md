@@ -30,3 +30,4 @@ greet_person(age=25, name="John")
 - [[Default Parameters]]: Default parameters can be specified to provide default values for optional parameters.
 - [[Variable Scope]]: Parameters introduce variables that are local to the function's scope.
 - [[Recursion]]: [[Functions]] can have parameters that refer to themselves, enabling recursive execution.
+# [[Python 1 Home]]

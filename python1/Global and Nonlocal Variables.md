@@ -62,3 +62,4 @@ print(nonlocal_var) # Output: 11
 - [[Function Parameters]]: Global and nonlocal variables can interact with function parameters.
 - [[Default Parameters]]: Global and nonlocal variables can be used as default values for function parameters.
 - [[Closures]]: Global and nonlocal variables can be captured by closures.
+# [[Python 1 Home]]

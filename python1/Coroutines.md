@@ -36,3 +36,4 @@ async def main():
 - [[Decorators]]: [[Decorators]] can be used to enhance and modify coroutines.
 - [[Context Managers]]: [[Coroutines]] can be used as context managers, implementing the `__aenter__` and `__aexit__` methods.
 - [[Asynchronous Programming]]: [[Coroutines]] are essential for asynchronous programming in Python.
+# [[Python 1 Home]]

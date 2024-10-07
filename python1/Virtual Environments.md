@@ -46,3 +46,4 @@ deactivate
 - [[Python Package Index (PyPI) Publishing]]: Virtual environments help test and develop packages before publishing them to PyPI.
 - [[Building and Distributing Python Packages]]: Virtual environments provide a controlled environment for building and distributing Python packages.
 - [[Concurrency and Multithreading]]: Virtual environments can be used to create isolated environments for running multithreaded or concurrent applications.
+# [[Python 1 Home]]

@@ -68,3 +68,4 @@ names: list[str] = ["John", "Jane", "Mike"]
 - [[Function Parameters]]: Type hints provide type information for function parameters.
 - [[Return Values]]: Type hints indicate the expected return type of functions.
 - [[Mutable vs Immutable Types]]: Type hints can help distinguish between mutable and immutable types.
+# [[Python 1 Home]]

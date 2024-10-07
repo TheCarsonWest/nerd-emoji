@@ -40,3 +40,4 @@ accuracy = accuracy_score(iris.target, predictions)
 - [[Modules and Packages]]: Scikit-learn is organized into modules, making it easy to import specific functionality.
 - [[Libraries like NumPy]]: Scikit-learn relies on NumPy for numerical operations.
 - [[Libraries like Pandas]]: Pandas can be used for data pre-processing before using Scikit-learn.
+# [[Python 1 Home]]

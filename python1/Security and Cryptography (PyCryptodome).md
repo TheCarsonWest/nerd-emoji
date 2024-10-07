@@ -58,3 +58,4 @@ print(digest.hex())
 - [[Functions]]: PyCryptodome provides functions for encryption, decryption, hashing, and digital signatures.
 - [[Modules and Packages]]: PyCryptodome is a third-party module that must be imported to use its functionalities.
 - [[File Handling]]: Cryptographic data can be written to or read from files for storage or transmission.
+# [[Python 1 Home]]

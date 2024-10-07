@@ -66,3 +66,4 @@ print(product) # Output: 120
 - [[List Comprehension]]: [[Map, Filter, and Reduce]] are alternatives to using list comprehensions for functional programming.
 - [[Generators]]: Map and Filter can be used to create generators.
 - [[Functional Programming]]: [[Map, Filter, and Reduce]] are core concepts in functional programming.
+# [[Python 1 Home]]

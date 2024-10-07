@@ -47,3 +47,4 @@ async def main():
 - [[Generators]]: Async generators extend the concept of generators by allowing for asynchronous iteration.
 - [[Asyncio]]: Async generators are typically used in conjunction with the asyncio library for asynchronous I/O.
 - [[Concurrence and Multithreading]]: Async generators can be used to achieve concurrency in Python applications.
+# [[Python 1 Home]]

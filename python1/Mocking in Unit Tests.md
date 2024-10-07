@@ -39,3 +39,4 @@ assert result == "Mocked Response"
 - [[Classes and Objects]]: Mocks can be used to create substitute objects for testing purposes.
 - [[Inheritance]]: Mocks can be used to create subclasses of existing classes with overridden methods for testing.
 - [[Polymorphism]]: Mocks provide a way to create objects that behave like other objects, enabling polymorphism in testing.
+# [[Python 1 Home]]

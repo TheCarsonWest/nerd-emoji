@@ -31,3 +31,4 @@ thread.join()
 - [[Concurrency and Multithreading]]: This topic is directly related to concurrency and multithreading in Python.
 - [[Multiprocessing]]: [[Multiprocessing]] is another approach for parallel execution, involving the creation of separate processes instead of threads.
 - [[Asynchronous Programming]]: Asynchronous programming allows for non-blocking I/O operations, which can be useful for concurrency.
+# [[Python 1 Home]]

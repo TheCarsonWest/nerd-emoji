@@ -58,3 +58,4 @@ def target_object():
 - [[Higher-Order [[Functions]]: [[Decorators]] are higher-order functions that take a function as an argument and return a modified function.
 - [[Function Parameters]]: Decorator functions can accept parameters, allowing for customization of the decoration behavior.
 - [[Lambda [[Functions]]: Lambda functions can be used as decorators to define simple inline modifications.
+# [[Python 1 Home]]

@@ -32,3 +32,4 @@ x, y, z = numbers # equivalent to x = numbers[0], y = numbers[1], z = numbers[2]
 - [[Dictionaries]]: [[Tuples]] can be used as keys in dictionaries.
 - [[Sets]]: [[Tuples]] are ordered, while sets are unordered.
 - [[Tuple Unpacking]]: [[Tuples]] can be unpacked into variables.
+# [[Python 1 Home]]

@@ -35,3 +35,4 @@ for name, age in students.items():
 - [[Tuples]]: [[Tuples]] and dictionaries are both mutable data structures, but tuples are immutable.
 - [[Sets]]: [[Sets]] are similar to dictionaries but only store unique keys.
 - [[Functions]]: [[Functions]] can be used to create and modify dictionaries.
+# [[Python 1 Home]]

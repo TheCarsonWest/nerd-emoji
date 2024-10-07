@@ -38,3 +38,4 @@ setup(
 - [[Building and Distributing Python Packages]]: PyPI is the primary platform for distributing Python packages.
 - [[Virtual Environments]]: PyPI packages can be installed into virtual environments to isolate them from other packages.
 - [[Command Line Interface (CLI) Programs]]: PyPI provides a command-line tool (pip) for installing and managing packages.
+# [[Python 1 Home]]

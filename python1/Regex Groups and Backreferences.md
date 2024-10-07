@@ -39,3 +39,4 @@ phone_number = match.group(1)
 - [[Lambda [[Functions]]: Regular expressions can be used as arguments to lambda functions.
 - [[Sets]]: Groups can be used to construct sets of matched substrings.
 - [[Tuples]]: Backreferences return tuples containing the captured substrings.
+# [[Python 1 Home]]

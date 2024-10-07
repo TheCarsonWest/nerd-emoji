@@ -84,3 +84,4 @@ predictions = model.predict(new_data)
 - [[Dictionaries]]: [[Dictionaries]] are used to store and retrieve data by keys in deep learning models.
 - [[Functions]]: [[Functions]] are used to create custom layers and training methods in deep learning.
 - [[Lambda [[Functions]]: Lambda functions are used to create anonymous functions that can be used as layers or training callbacks in deep learning.
+# [[Python 1 Home]]

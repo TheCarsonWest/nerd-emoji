@@ -36,3 +36,4 @@ with TemporaryDirectory() as tmp_dir:
 - [[Generators]]: Context managers can be implemented using generators.
 - [[Decorators]]: Context managers can be implemented using decorators.
 - [[Custom [[Context Managers]]: You can create your own custom context managers to manage your resources.
+# [[Python 1 Home]]

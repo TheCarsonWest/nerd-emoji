@@ -53,3 +53,4 @@ for ent in doc.ents:
 - [[Dictionaries]]: Map words to their POS tags or lemma forms.
 - [[Functions]]: Define custom NLP functions for specialized tasks.
 - [[Generators]]: Yield tokens or entities one at a time for memory efficiency.
+# [[Python 1 Home]]
