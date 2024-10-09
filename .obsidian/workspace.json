@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vance Walz Debate.md",
+                "file": "APHG/Population Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vance Walz Debate.md",
+                "file": "APHG/Population Distribution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vance Walz Debate.md",
+                "file": "APHG/Population Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vance Walz Debate.md"
+                "file": "APHG/Population Distribution.md"
               }
             }
           }
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vance Walz Debate.md",
+                "file": "APHG/Population Distribution.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,8 +266,19 @@
   },
   "active": "63115c7950cc9680",
   "lastOpenFiles": [
-    "Untitled.md",
+    "APHG/APHG Unit 2.md",
+    "APHG/Population Distribution.md",
+    "Population Composition.md",
+    "APHG/APHG Home.md",
+    "APHG/APHG Unit 1.md",
+    "APHG/ESPN.md",
+    "APHG/Glossary.md",
+    "APHG/Ecumene.md",
+    "Pasted image 20241009083342.png",
+    "nexus.md",
+    "README.md",
     "Vance Walz Debate.md",
+    "Untitled.md",
     "Arabic/The Arab Market.md",
     "Trump Harris Debate.md",
     "apush/people/Barack Obama.md",
@@ -282,16 +293,6 @@
     "apush/ids/u3/Embargo Act of 1807.md",
     "apush/Declaration of Independence.md",
     "apush/people/George Washington.md",
-    "President of the United States.md",
-    "apush/ids/u2/First Continental Congress.md",
-    "apush/people/James Madison.md",
-    "apush/Constitution of the United States.md",
-    "apush/Philadelphia.md",
-    "python1/Variables and Data Types.md",
-    "apush/people/Thomas Jefferson.md",
-    "apush/ids/u3/Louisiana Purchase.md",
-    "apush/ids/u3/Marbury vs. Madison.md",
-    "apush/ids/u3/Alien and Sedition Acts.md",
     "scripts/append.py",
     "content",
     "Pasted image 20241001204937.png",
@@ -311,7 +312,6 @@
     "scripts/word-frequencies.csv",
     "past-test-scores.png",
     "Untitled.canvas",
-    "images/Pasted image 20240911075621.png",
-    "images/Pasted image 20240905082254.png"
+    "images/Pasted image 20240911075621.png"
   ]
 }
