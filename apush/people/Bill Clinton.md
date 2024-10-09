@@ -1,4 +1,4 @@
-**[[Bill Clinton]] (42nd President of the [[United States]], 1993-2001)**
+**[[Bill Clinton]] (42nd [[President of the United States]], 1993-2001)**
 
 **Political Affiliations:**
 * Democratic Party
@@ -9,7 +9,7 @@
 
 **Political Career:**
 * Governor of [[Arkansas]] (1979-1981, 1983-1992)
-* President of the [[United States]] (1993-2001)
+* [[President of the United States]] (1993-2001)
 
 **Major Events:**
 

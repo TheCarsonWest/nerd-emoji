@@ -1,4 +1,4 @@
-**[[Dwight D]]. Eisenhower: 34th President of the [[United States]]**
+**[[Dwight D]]. Eisenhower: 34th [[President of the United States]]**
 
 **Events Associated With:**
 

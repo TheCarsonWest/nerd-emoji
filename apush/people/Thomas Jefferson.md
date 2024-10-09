@@ -22,7 +22,7 @@
  * Drafted the [[Bill of Rights]]
 * **Vice President (1797-1801):**
  * Served under President [[John Adams]]
-* **[[President of the [[United States]] (1801-1809):**
+* **[[President of the United States]] (1801-1809):**
  * Expanded the nation's territory with the [[Louisiana]] Purchase]] (1803)
  * Embarked on the Lewis and Clark Expedition
  * Established the [[United States]] Military Academy at West Point

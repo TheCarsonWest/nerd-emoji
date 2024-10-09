@@ -21,7 +21,7 @@ square = lambda x: x ** 2
 # call the lambda function
 print(square(5)) # Output: 25
 ```
-
+Lambda functions are used as keys for sorting frequently
 ```python
 # use a lambda function as an argument to the `sort` function
 numbers = [5, 1, 3, 2, 4]

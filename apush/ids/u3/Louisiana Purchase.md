@@ -1,4 +1,4 @@
-**Notecard: [[Louisiana]] Purchase]]**
+**Notecard: [[Louisiana Purchase]]**
 
 **WHEN:** April 30, 1803
 
@@ -9,7 +9,7 @@
 **IMPACT:**
 
 * Doubled the size of the [[United States]].
-* Secured American control of the [[Mississippi]] River and the port of New Orleans.
+* Secured American control of the [[Mississippi]] River and the port of [[New Orleans]].
 * Opened up new lands for westward expansion.
 * Led to the [[Lewis and Clark Expedition]] to explore the new territory.
 * Strengthened the [[United States]] as a world power.

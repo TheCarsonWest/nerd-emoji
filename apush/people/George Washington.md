@@ -5,7 +5,7 @@
  * Commanded the Continental Army to victory despite numerous setbacks
  * Crossed the [[Delaware]] River on Christmas Eve, 1776, to launch a surprise attack at Trenton, [[New Jersey]]
  * Led the army to victory at [[Battle of Yorktown]] in 1781, which effectively ended the war
-* **First [[President of the [[United States]] (1789-1797)**
+* **First [[President of the United States]] (1789-1797)**
  * Established the executive branch of the federal government
  * Signed the [[Bill of Rights]] (1791) into law, protecting individual freedoms
  * Proclaimed the Neutrality Proclamation (1793), declaring the [[United States]]' neutrality in the French Revolutionary Wars

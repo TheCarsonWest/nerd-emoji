@@ -24,7 +24,7 @@
 **Important Court Cases**
 
 * **Marbury v. Madison (1803):** Established the principle of judicial review.
-* **"[[McCulloch v. Maryland]]" (1819):** Upheld the constitutionality of the Second Bank of the [[United States]] and established the principle of implied powers.
+* **"[[McCulloch v Maryland]]" (1819):** Upheld the constitutionality of the Second Bank of the [[United States]] and established the principle of implied powers.
 * **Plessy v. Ferguson (1896):** Upheld the constitutionality of racial segregation.
 * **Brown v. Board of Education (1954):** Overturned Plessy v. Ferguson and outlawed racial segregation in public schools.
 

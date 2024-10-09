@@ -1,5 +1,9 @@
 # [[nexus]]
 
+Theres a whole lot of messed up links around here, so dont be suprised
+
+
+
  - [[Variables and Data Types]]
  - [[Operators]]
  - [[Control Flow If Statements]]

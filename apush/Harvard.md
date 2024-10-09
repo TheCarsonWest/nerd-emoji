@@ -11,12 +11,12 @@
 
 **APUSH-Related Alumni:**
 
-* **[[John Adams]]:** Second [[President of the United States]]
-* **[[John Quincy Adams]]:** Sixth [[President of the United States]]
-* **[[Theodore Roosevelt]]:** 26th [[President of the United States]]
-* **[[Franklin D. Roosevelt]]:** 32nd [[President of the United States]]
-* **[[John F. Kennedy]]:** 35th [[President of the United States]]
-* **[[Barack Obama]]:** 44th [[President of the United States]]
+* **[[John Adams]]:** Second [[apush/President of the United States]]
+* **[[John Quincy Adams]]:** Sixth [[apush/President of the United States]]
+* **[[Theodore Roosevelt]]:** 26th [[apush/President of the United States]]
+* **[[Franklin D. Roosevelt]]:** 32nd [[apush/President of the United States]]
+* **[[John F. Kennedy]]:** 35th [[apush/President of the United States]]
+* **[[Barack Obama]]:** 44th [[apush/President of the United States]]
 * **Henry Wadsworth Longfellow:** Poet and author
 * **Ralph Waldo Emerson:** Transcendentalist philosopher
 * **W.E.B. Du Bois:** Sociologist and civil rights activist

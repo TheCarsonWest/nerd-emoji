@@ -17,7 +17,7 @@
 
 **Important Legislation:**
 
-* **[[Kentucky]] Resolutions (1798):** Declared the Alien and Sedition Acts unconstitutional and asserted states' rights.
+* **[[Kentucky]] Resolutions (1798):** Declared the [[Alien and Sedition Acts]] unconstitutional and asserted states' rights.
 * **Minimum Wage Law (1912):** Established the first minimum wage in the [[United States]].
 * **Anti-Poverty Program (1964):** Implemented a comprehensive plan to address poverty in [[Kentucky]].
 

@@ -23,7 +23,7 @@
 
 **Important Court Cases**
 
-* **"[[McCulloch v. Maryland]]" (1819):** Established the principle of federal supremacy and the implied powers of Congress.
+* **"[[McCulloch v Maryland]]" (1819):** Established the principle of federal supremacy and the implied powers of Congress.
 * **Gibbons v. Ogden (1824):** Upheld the federal government's exclusive power to regulate interstate commerce.
 * **[[Brown v. Board of Education]] (1954):** Desegregated public schools.
 

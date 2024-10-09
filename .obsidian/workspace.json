@@ -61,26 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Other important AP CHEM things.md",
+                "file": "Vance Walz Debate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b740ee8c4c42f2b8",
+            "id": "6b54bc4674084d76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python1/Plot Customization in Matplotlib.md",
+                "file": "Arabic/The Arab Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63115c7950cc9680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vance Walz Debate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jays treaty",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,49 +149,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e6003c7a6d91ff6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb6c4fd3cfc8d900",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "python1/Plot Customization in Matplotlib.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.9535604289584,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.93486347563011,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "03752f9e506457c7",
         "type": "tabs",
+        "dimension": 75.669099756691,
         "children": [
           {
             "id": "4e913aff4047e6fc",
@@ -187,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python1/Plot Customization in Matplotlib.md",
+                "file": "Vance Walz Debate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python1/Plot Customization in Matplotlib.md",
+                "file": "Vance Walz Debate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,22 +199,50 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python1/Plot Customization in Matplotlib.md"
+                "file": "Vance Walz Debate.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8955fd89f6e74f34",
+        "type": "tabs",
+        "dimension": 24.330900243309003,
+        "children": [
           {
-            "id": "7b83985cd170f22d",
+            "id": "cb6c4fd3cfc8d900",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "apush/IDS Unit 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "Vance Walz Debate.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.9535604289584,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6995656352089197,
+                  "close": true
+                }
+              }
             }
           }
         ]
@@ -264,34 +264,35 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b740ee8c4c42f2b8",
+  "active": "63115c7950cc9680",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Vance Walz Debate.md",
+    "Arabic/The Arab Market.md",
+    "Trump Harris Debate.md",
+    "apush/people/Barack Obama.md",
+    "apush/President of the [[United States.md",
+    "apush/APUSH Home.md",
+    "apush/ID Home.md",
+    "apush/President of the United States.md",
+    "apush/ids/u3/Adams-Onis Treaty.md",
+    "apush/IDS Unit 3.md",
+    "apush/ids/u3/McCulloch v Maryland.md",
+    "apush/ids/u3/Treaty of Ghent.md",
+    "apush/ids/u3/Embargo Act of 1807.md",
+    "apush/Declaration of Independence.md",
+    "apush/people/George Washington.md",
+    "President of the United States.md",
+    "apush/ids/u2/First Continental Congress.md",
+    "apush/people/James Madison.md",
+    "apush/Constitution of the United States.md",
+    "apush/Philadelphia.md",
+    "python1/Variables and Data Types.md",
+    "apush/people/Thomas Jefferson.md",
+    "apush/ids/u3/Louisiana Purchase.md",
+    "apush/ids/u3/Marbury vs. Madison.md",
+    "apush/ids/u3/Alien and Sedition Acts.md",
     "scripts/append.py",
-    "python1/Python 1 Home.md",
-    "APCHEM/Laws.md",
-    "APCHEM/ion concentration.md",
-    "APCHEM/Other important AP CHEM things.md",
-    "APCHEM/solutions.md",
-    "APCHEM/APCHEM Home.md",
-    "APCHEM/Electrolyte.md",
-    "python1/Memoization in Recursion.md",
-    "nexus.md",
-    "templates/apchem rundown.md",
-    "APCHEM/Electrical constant.md",
-    "APCHEM/Magnetic Constant.md",
-    "APCHEM/Speed of light.md",
-    "APCHEM/Constants.md",
-    "APCHEM/Processes.md",
-    "APCHEM/Titration.md",
-    "APCHEM/Photoelectron Spectroscopy.md",
-    "APCHEM/Reactions Types.md",
-    "APCHEM/Synthesis Reaction.md",
-    "APCHEM/Decomposition reaction.md",
-    "arabic conversation.md",
-    "APCHEM/Combustion Reaction.md",
-    "README.md",
-    "Untitled 1.md",
-    "APHG/Population Density.md",
     "content",
     "Pasted image 20241001204937.png",
     "python1",
@@ -308,7 +309,6 @@
     "apush/Pasted image 20240620205732.png",
     "apush/Pasted image 20240620210101.png",
     "scripts/word-frequencies.csv",
-    "scripts/replace.py",
     "past-test-scores.png",
     "Untitled.canvas",
     "images/Pasted image 20240911075621.png",

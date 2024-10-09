@@ -27,7 +27,7 @@
 25. [[Olive Branch Petition]]
 26. [[Second Continental Congress]]
 27. [[Common Sense]]
-28. [[Lee’s Resolution]]
+28. [[Lees Resolution]]
 29. [[Battle of Bunker Hill]]
 30. [[Valley Forge]]
 31. [[The Wealth of Nations]]

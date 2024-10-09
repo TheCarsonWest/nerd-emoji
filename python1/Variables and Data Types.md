@@ -10,12 +10,29 @@ To create a variable in Python, simply assign it a value:
 my_name = "John Doe"
 ```
 
-The `type()` function can be used to check the data type of a variable:
+## Data types:
+Data types are the different ways. There are a lot of primitive data types and infinite non-primitive data types.
+### Primitive data types
+Primitive data types are those where the values are stored directly in memory. These are, by definition, the simplest ones.
 
-```python
-print(type(my_name))
-```
+Examples:
+- Strings `name = 'John doe'`
+	- Text
+- Integers `i = 1`
+	- whole numbers
+- floats `pi = 3.14`
+	- Numbers with a **float**-ing point(decimal point) 
+- Booleans `thing = True`
+	- true or false
+### Non-primitive types
+These are types that are stored as [[Classes and Objects]], you can usually do a few more things. Since you can make your own classes, there are infinite non-primitive types. 
 
+Here are your important built-in non-primitives:
+- Lists
+- Arrays(same thing)
+- Tuples(same thing)
+- Dictionaries
+- Files
 ### Code Examples
 ```python
 # create an integer variable

@@ -1,4 +1,4 @@
-** [[Lee’s Resolution]]**
+** [[Lees Resolution]]**
 
 * **When:** July 2, 1776
 * **Who:** Richard Henry Lee, [[John Adams]]
@@ -6,4 +6,6 @@
 * **Impact:**
  * Sparked the American Revolutionary War
  * Established the [[United States]] of America as an independent nation
+
+
 #ids
