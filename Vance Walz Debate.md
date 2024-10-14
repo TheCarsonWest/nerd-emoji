@@ -364,23 +364,63 @@ MB: Senator Vance, thank you. And thank you both for participating in the only v
 
 NO: And I'm Norah O'Donnell. And a reminder, there are just 35 days until Election Day. Please get out and vote. And for all of us here at CBS News, thank you.
 
-Find three logical fallacies that vice presidential candidate Tim Walz(TW) used during this debate
+Refer back to this excerpt
+
+The most sacred right under the United States democracy is the First Amendment. You yourself have said there's no First Amendment right to misinformation. Kamala Harris wants to use the power of government and big tech to silence people from speaking their minds. That is a threat to democracy that will long outlive this present political moment
+
+Find the rhetorical choice, appeal, or tone this uses when Tim Walz refers back to his home state of minnesota several times over the debate, explain why it supports TW's argument, and evaluate its effectiveness
 
 
-1. **Appeal to emotion (pathos):** TW uses emotionally charged language and personal anecdotes to appeal to the audience's emotions, rather than providing evidence or logical arguments to support his claims. For example, he talks about his own experiences as a teacher and a father to evoke sympathy and connect with the audience on a personal level.
-3. **Straw man:** TW misrepresents JDV's position on certain issues in order to make it easier to attack. For example, he claims that JDV wants to "take away" people's health insurance, even though JDV has stated that he supports protecting people with pre-existing conditions and expanding access to affordable healthcare.
+**Rhetorical Choice:** Referring back to his home state of Minnesota several times over the debate.
+
+**Appeal:** Pathos (emotional appeal). By referring to his home state, Walz is able to connect with the audience on a personal level and evoke a sense of familiarity and trust. This helps to establish his credibility and make his arguments more persuasive.
+
+**Support for TW's Argument:** By referring to Minnesota, Walz is able to provide specific examples of how his policies have benefited the state. For instance, he mentions that Minnesota has one of the lowest teen pregnancy rates and is ranked first in healthcare. These examples help to support his argument that his policies are effective and would be beneficial to the nation as a whole if implemented on a larger scale.
+
+**Effectiveness:** Walz's repeated references to Minnesota are likely to be effective in swaying the audience in his favor. By connecting with the audience on a personal level and providing specific examples of his successes, he is able to build trust and make his arguments more persuasive.
 
 
-**Governor Tim Walz (TW)**
 
-* **Appeal to emotion:** "I've enjoyed tonight's debate, and I think there was a lot of commonality here. And I'm sympathetic to misspeaking on things. And I think I might have with the Senator, but..." This appeal to emotion helps Walz build a connection with the audience by showing that he is relatable and willing to admit his mistakes.
-* **Tone of optimism:** "I have to tell you that, that better than it is is the sense of optimism that there can be an opportunity economy that works for everyone, not just to get by, but to get ahead." This tone of optimism helps Walz inspire the audience and create a sense of hope for the future.
-* **Choice of language:** "We don't need to be afraid. Franklin Roosevelt was right. "All we have to fear is fear itself."" This choice of language helps Walz make a powerful statement about the importance of overcoming fear and working together to build a better future.
+**Rhetorical choice:** Appeal to emotion
 
-**Senator J.D. Vance (JDV)**
+**Why it supports JDV's argument:** This appeal to emotion helps support JDV's argument because it evokes feelings of sympathy and compassion for Amber Thurman, a young woman who died due to a lack of access to healthcare. By highlighting the fact that Amber Thurman's death could have been prevented if she had lived in a different state, JDV effectively illustrates the unfairness and inequality that exists in the current healthcare system. This, in turn, helps to bolster his argument that the government should take action to ensure that all Americans have access to quality healthcare, regardless of their location.
 
-* **Appeal to fear:** "I remember when I was being raised by my grandmother, when she didn't have enough money to turn on the heat some nights because Ohio gets pretty cold at night and because money was often very tight." This appeal to fear helps Vance connect with the audience by showing that he understands their struggles and that he is committed to fighting for their interests.
-* **Tone of urgency:** "We need change. We need a new direction. We need a President who has already done this once before and did it well." This tone of urgency helps Vance create a sense of urgency and encourage the audience to take action.
-* **Choice of language:** "I believe that whether you're rich or poor you ought to be able to turn on your heat in the middle of a cold winter night." This choice of language helps Vance make a simple and powerful statement about the importance of basic needs, such as warmth and shelter.
+**Effectiveness:** This appeal to emotion is likely to be effective in persuading viewers because it taps into their sense of empathy and compassion. By painting a vivid picture of Amber Thurman's suffering and untimely death, JDV is able to create a strong emotional connection with viewers, making them more likely to support his argument for healthcare reform.
 
+Find rhetorical appeals and choices tim walz made
 
+**Rhetorical Appeals:**
+
+* **Pathos (Emotional Appeal):**
+    * Invoked the memory of a young bride who died due to lack of healthcare access
+    * Shared personal experiences of being a father and a soldier
+    * Emphasized the emotional impact of school shootings and gun violence
+
+* **Ethos (Credibility Appeal):**
+    * Cited his experience as a member of Congress and a governor
+    * Referenced his bipartisan work on farm bills and veterans benefits
+    * Highlighted his endorsements from medical professionals and others
+
+* **Logos (Logical Appeal):**
+    * Presented statistics and data on economic indicators, such as inflation and unemployment
+    * Explained the logic behind his policy proposals, such as investments in housing and infrastructure
+    * Debunked Senator Vance's claims about immigration and economic growth
+
+**Rhetorical Choices:**
+
+* **Use of Vivid Language:**
+    * Described the "carnage" of the Tiananmen Square protests
+    * Painted a picture of a woman lying in a hospital bed, unable to get lifesaving care
+    * Characterized Donald Trump's rhetoric as "fire in a crowded theater"
+
+* **Repetition:**
+    * Emphasized the need for "fairness" and "opportunity" for all
+    * Repeated the phrase "we can do better" to express optimism and a sense of urgency
+
+* **Contrasting with Opponents:**
+    * Accused Senator Vance of being "in agreement with Donald Trump" and ignoring the "realities on the ground"
+    * Highlighted the differences between his and Senator Vance's positions on abortion and gun control
+
+* **Appealing to Common Values:**
+    * Invoked American ideals of freedom, opportunity, and compassion
+    * Emphasized the importance of putting "people first" and "honoring our democracy"
