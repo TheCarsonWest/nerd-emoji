@@ -10,7 +10,7 @@
 
 **WHAT:**
 
-* Period of political and economic stability following the War of 1812
+* Period of political and economic stability following the [[War of 1812]]
 * Characterized by:
  * One-party rule (Democratic-Republicans)
  * Expansion of the economy

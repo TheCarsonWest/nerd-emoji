@@ -6,7 +6,7 @@
 * 1810: Kamehameha I unifies the Hawaiian Islands under one monarchy.
 * 1820: Christian missionaries arrive in [[Hawaii]].
 * 1840: Kamehameha III signs a treaty recognizing the independence of [[Hawaii]].
-* 1843: Great Britain, [[France]], and the [[United States]] sign a treaty recognizing the independence of [[Hawaii]].
+* 1843: [[Great Britain]], [[France]], and the [[United States]] sign a treaty recognizing the independence of [[Hawaii]].
 * 1893: The Hawaiian monarchy is overthrown by a group of American businessmen.
 * 1898: [[Hawaii]] is annexed by the [[United States]].
 * 1959: [[Hawaii]] becomes the 50th state of the [[United States]].

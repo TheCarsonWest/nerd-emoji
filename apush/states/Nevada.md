@@ -28,14 +28,20 @@
 **Important Court Cases:**
 
 * **1893:** Ex parte Maier ([[Nevada]] Supreme Court rules that a woman cannot be a barber)
-* **1954:** Brown v. Board of Education (U.S. Supreme Court rules that racial segregation in schools is unconstitutional)
+* **1954:** [[Brown v. Board of Education]] (U.S. Supreme Court rules that racial segregation in schools is unconstitutional)
 * **1975:** Atkins v. Parker ([[Nevada]] Supreme Court rules that married women have the right to own property)
-* **1979:** Dred Scott v. Sandford (U.S. Supreme Court rules that African Americans are not U.S. citizens and cannot sue in federal court)
 * **2003:** Lawrence v. [[Texas]] (U.S. Supreme Court rules that sodomy laws are unconstitutional)
 
 **Major Industry:**
 
-* **Gambling**
+* **Gambling**(aw dang it)
+* Tourism
+	* Circuses
+	* Magic shows
+	* Concerts
+		* Sphere
+	* Raves
+	* Las Vegas Grand Prix(most profitable weekend in the States's history)
 
 **Impact on the Rest of the Country:**
 

@@ -6,7 +6,7 @@
 
 * 1638: Swedish settlers establish the first European settlement in [[Delaware]].
 * 1664: [[Delaware]] comes under British rule.
-* 1776: [[Delaware]] declares independence from Great Britain.
+* 1776: [[Delaware]] declares independence from [[Great Britain]].
 * 1787: [[Delaware]] becomes the first state to ratify the Constitution.
 * 1845: The [[Delaware]] and Hudson Canal Company is completed, connecting the state to the Great Lakes.
 * 1861: [[Delaware]] remains a slave state and does not secede from the Union during the Civil War.

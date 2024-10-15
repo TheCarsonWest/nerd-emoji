@@ -7,7 +7,7 @@
 
 **Events Associated With**
 
-* War of 1812: Commander of the Northwest Army, victory at the Battle of Tippecanoe (1811)
+* [[War of 1812]]: Commander of the Northwest Army, victory at the Battle of Tippecanoe (1811)
 * Indian Removal Act (1830): Enforced the Act, leading to the Trail of Tears
 * Log Cabin and Hard Cider Campaign (1840): Ran as a populist candidate, capitalizing on his frontier image
 

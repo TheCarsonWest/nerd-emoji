@@ -28,7 +28,7 @@
 
 **Impact on the Rest of the Country:**
 
-* Battle of New Orleans: [[Tennessee]] volunteers played a crucial role in the American victory in the War of 1812.
+* Battle of New Orleans: [[Tennessee]] volunteers played a crucial role in the American victory in the [[War of 1812]].
 * Civil War: [[Tennessee]] was a key battleground during the Civil War, and its secession from the Union had a significant impact on the conflict.
 * Music: [[Tennessee]] has had a major influence on American music, particularly country and blues music.
 * Historical significance: [[Tennessee]] is home to numerous historical landmarks, including the Hermitage ([[Andrew Jackson]]'s estate), the Great Smoky Mountains National Park, and the Ryman Auditorium (the "Mother Church of Country Music").

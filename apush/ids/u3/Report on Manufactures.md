@@ -12,3 +12,5 @@
 * Led to the passage of the Tariff of 1816, which imposed protective tariffs on imported goods.
 * Stimulated the growth of American manufacturing and contributed to the development of the nation's economy.
 * Contributed to the emergence of the United States as an industrial power.
+
+# [[IDS Unit 3]]

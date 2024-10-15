@@ -4,7 +4,7 @@
 
 * **1584:** Sir Walter Raleigh establishes the Roanoke Colony, the first English settlement in North America.
 * **1663:** [[North Carolina]] becomes a royal colony.
-* **1776:** [[North Carolina]] declares independence from Great Britain.
+* **1776:** [[North Carolina]] declares independence from [[Great Britain]].
 * **1789:** [[North Carolina]] ratifies the U.S. Constitution.
 * **1861:** [[North Carolina]] secedes from the Union and joins the Confederacy.
 * **1865:** [[North Carolina]] is readmitted to the Union.

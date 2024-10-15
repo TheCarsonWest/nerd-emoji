@@ -4,7 +4,7 @@
 
 * **1670:** Founded as a proprietary colony by English settlers
 * **1775:** Sends delegates to the Continental Congress
-* **1776:** Declares independence from Great Britain
+* **1776:** Declares independence from [[Great Britain]]
 * **1780:** British forces capture Charleston
 * **1783:** End of the Revolutionary War; [[South Carolina]] becomes part of the [[United States]]
 * **1832:** Nullifies the Tariff of 1833

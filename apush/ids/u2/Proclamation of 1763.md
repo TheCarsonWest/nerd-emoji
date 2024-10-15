@@ -7,7 +7,7 @@ location: 51.5156177,-0.0919983
 
 **Who:**
 
-* King George III of Great Britain
+* King George III of [[Great Britain]]
 * British Parliament
 
 **What:**

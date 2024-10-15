@@ -8,7 +8,7 @@
  * Protective tariffs
  * Internal improvements
 * **Bank of the [[United States]] Veto:** Vetoed the renewal of the charter of the Second Bank of the [[United States]], leading to a breakdown with the Whig Party
-* **Webster-Ashburton Treaty:** Negotiated and signed the treaty with Great Britain, resolving border disputes between [[Maine]] and Canada
+* **Webster-Ashburton Treaty:** Negotiated and signed the treaty with [[Great Britain]], resolving border disputes between [[Maine]] and Canada
 
 **Important Legislation Signed:**
 
@@ -24,7 +24,7 @@
 
 * **Strengthened Executive Power:** Tyler asserted the power of the presidency, challenging the dominance of Congress
 * **Fiscal and Economic Policies:** His veto of the Bank of the [[United States]] and support for tariffs shaped the nation's economic development
-* **Foreign Policy:** Resolved lingering border disputes with Great Britain, maintaining peace and stability
+* **Foreign Policy:** Resolved lingering border disputes with [[Great Britain]], maintaining peace and stability
 * **Party Conflict:** His break with the Whig Party exacerbated divisions and weakened the two-party system
 * **Presidential Succession:** Set a precedent for the vice president to assume the presidency upon the death of the incumbent
 

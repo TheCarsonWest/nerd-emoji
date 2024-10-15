@@ -8,7 +8,7 @@
 **[[Virginia]] Convention (1776):**
 
 * Elected as a delegate to [[Virginia]]'s convention
-* Advocated for independence from Great Britain
+* Advocated for independence from [[Great Britain]]
 
 **Continental Congress (1780-1783):**
 
@@ -28,7 +28,7 @@
 **[[War of 1812]]:**
 
 * Served as [[apush/President of the United States]] from 1809 to 1817
-* Led the country during the War of 1812
+* Led the country during the [[War of 1812]]
 
 **Retirement and Later Life:**
 
@@ -45,7 +45,7 @@
 
 * American Revolution
 * [[Constitutional Convention]]
-* War of 1812
+* [[War of 1812]]
 
 **People and Groups Associated with Madison:**
 

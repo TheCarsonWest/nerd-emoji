@@ -4,7 +4,7 @@
 **Major Events Associated with [[Philadelphia]]:**
 
 * ** [[First Continental Congress]] (1774):** Delegates from all 13 colonies met in [[Philadelphia]] to discuss British policies and coordinate resistance.
-* ** [[Declaration of Independence]] (1776):** The Continental Congress adopted the [[Declaration of Independence]] in [[Philadelphia]], declaring the American colonies' independence from Great Britain.
+* ** [[Declaration of Independence]] (1776):** The Continental Congress adopted the [[Declaration of Independence]] in [[Philadelphia]], declaring the American colonies' independence from [[Great Britain]].
 * ** [[Constitutional Convention]] (1787):** Representatives from 12 states met in [[Philadelphia]] to draft the [[United States]] Constitution.
 * ** [[Federalist Papers]] (1787-1788):** A series of essays written by [[Alexander Hamilton]], [[James Madison]], and John Jay in support of the proposed Constitution were published in [[Philadelphia]].
 * **First Bank of the [[United States]] (1791):** The first national bank of the [[United States]] was established in [[Philadelphia]].

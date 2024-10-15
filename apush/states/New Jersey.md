@@ -4,7 +4,7 @@
 
 * **1609:** Henry Hudson explores the [[New Jersey]] coastline.
 * **1664:** England acquires [[New Jersey]] from the Dutch.
-* **1776:** [[New Jersey]] declares independence from Great Britain.
+* **1776:** [[New Jersey]] declares independence from [[Great Britain]].
 * **1787:** [[New Jersey]] ratifies the U.S. Constitution.
 * **1830s-1840s:** Industrialization begins in [[New Jersey]], focused on textiles, iron, and shipbuilding.
 * **1861-1865:** [[New Jersey]] contributes significant resources to the Union cause during the Civil War.
