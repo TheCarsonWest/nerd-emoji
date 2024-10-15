@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cc092144d7c30bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APHG/Population Pyramids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce36a1f02ac9f0ad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "APCHEM/Pasted image 20240909103243.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/Double replacement reaction.md",
+                "file": "APHG/Population Pyramids.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APCHEM/Double replacement reaction.md",
+                "file": "APHG/Population Pyramids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCHEM/Double replacement reaction.md"
+                "file": "APHG/Population Pyramids.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8955fd89f6e74f34",
@@ -144,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "APCHEM/Double replacement reaction.md",
+                "file": "APHG/Population Pyramids.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,39 +209,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-map-view:Open map view": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "5e8e806416209f86",
+  "active": "2cc092144d7c30bb",
   "lastOpenFiles": [
-    "APCHEM/Reactions Types.md",
-    "APCHEM/APCHEM Home.md",
+    "APHG/APHG Unit 2.md",
+    "APHG/Population Pyramids.md",
+    "APHG/APHG Home.md",
     "nexus.md",
+    "APCHEM/APCHEM Home.md",
+    "APCHEM/Periodic Trends.md",
+    "APCHEM/Combustion Reaction.md",
+    "AP Calc AB/Derivative Rules.md",
+    "APCHEM/Pasted image 20240909103243.png",
+    "APHG/Graduated Symbols.md",
+    "APHG/Glossary.md",
+    "APHG/Ecumene.md",
+    "AP Calc AB/Calc home.md",
+    "apush/APUSH Home.md",
+    "APCHEM/Double replacement reaction.md",
+    "AP Calc AB",
+    "APCHEM/Reactions Types.md",
     "Arabic/Arabic Home.md",
     "Arabic/module 2.md",
     "Arabic/module 2 lesson 1.md",
     "APHG/Geographic Scale.md",
     "APHG/APHG Unit 1.md",
-    "APHG/APHG Home.md",
     "apush/ids/u3/Bill of Rights.md",
     "apush/IDS Unit 3.md",
     "apush/ids/u3/Report on Manufactures.md",
     "APCHEM/Decomposition reaction.md",
-    "APCHEM/Combustion Reaction.md",
     "APCHEM/solutions.md",
     "Vance Walz Debate.md",
-    "Arabic/The Arab Market.md",
-    "APCHEM/ion concentration.md",
-    "Trump Harris Debate.md",
-    "Arabic/Module 2 lesson 1 conversation.md",
-    "Untitled.md",
-    "Arabic/Module 2 lesson 1 vocabulary.md",
-    "Arabic module 2 vo.md",
-    "APCHEM/Electrolyte.md",
-    "APCHEM/Electron Affinity.md",
-    "APCHEM/Electrical constant.md",
     "Pasted image 20241009083342.png",
     "scripts/append.py",
     "content",
@@ -237,9 +261,7 @@
     "images/Pasted image 20240829080206.png",
     "apush/Pasted image 20240620205732.png",
     "apush/Pasted image 20240620210101.png",
-    "scripts/word-frequencies.csv",
     "past-test-scores.png",
-    "Untitled.canvas",
-    "images/Pasted image 20240911075621.png"
+    "Untitled.canvas"
   ]
 }

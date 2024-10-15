@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 16769838
       }
+    },
+    {
+      "query": "path:Arabic  ",
+      "color": {
+        "a": 1,
+        "rgb": 3904512
+      }
+    },
+    {
+      "query": "path:\"AP Calc AB\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +60,6 @@
   "repelStrength": 13.7526438828899,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.3590858700663823,
+  "scale": 3.8488309229997455,
   "close": true
 }

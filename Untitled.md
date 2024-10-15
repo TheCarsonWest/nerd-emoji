@@ -1,1 +1,0 @@
-You should complete your answers in the comment box and your teacher will grade them for you. الْخُبْزِ -  الْأَرُزِّ -  الْحَلَوِيَّاتِ - عليٌّ     Question Blank 1 of 4 يَُعاني مِنَ السِّمْنَةِ لأنَّهُ  يأكُلُ الْكَثِيْرَ  وَالدُّهونِ وَ Question Blank 2 of 4  مِنَ  Question Blank 3 of 4 الْأَبْيَضَ وَ Question Blank 4 of 4

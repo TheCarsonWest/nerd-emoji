@@ -6,4 +6,4 @@
 # [[Atomic Radius]]
 
 # [[Electronegativity]]
-![[Pasted image 20240909103243.png]]
+
