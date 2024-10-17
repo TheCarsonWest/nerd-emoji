@@ -11,12 +11,12 @@
 
 **APUSH-Related Alumni:**
 
-* **[[John Adams]]:** Second [[apush/President of the United States]]
-* **[[John Quincy Adams]]:** Sixth [[apush/President of the United States]]
-* **[[Theodore Roosevelt]]:** 26th [[apush/President of the United States]]
-* **[[Franklin D. Roosevelt]]:** 32nd [[apush/President of the United States]]
-* **[[John F. Kennedy]]:** 35th [[apush/President of the United States]]
-* **[[Barack Obama]]:** 44th [[apush/President of the United States]]
+* **[[John Adams]]:** Second [[POTUS]]
+* **[[John Quincy Adams]]:** Sixth [[POTUS]]
+* **[[Theodore Roosevelt]]:** 26th [[POTUS]]
+* **[[Franklin D. Roosevelt]]:** 32nd [[POTUS]]
+* **[[John F. Kennedy]]:** 35th [[POTUS]]
+* **[[Barack Obama]]:** 44th [[POTUS]]
 * **Henry Wadsworth Longfellow:** Poet and author
 * **Ralph Waldo Emerson:** Transcendentalist philosopher
 * **W.E.B. Du Bois:** Sociologist and civil rights activist
@@ -24,7 +24,7 @@
 
 **Timeline of Major Events in the Harvard Area:**
 
-* **1630:** [[apush/states/Massachusetts|Massachusetts]] Bay Colony founded.
+* **1630:** [[Massachusetts|Massachusetts]] Bay Colony founded.
 * **1636:** Harvard College founded.
 * **1692:** [[Salem Witch Trials]].
 * **1775:** [[Battles of Lexington and Concord]].

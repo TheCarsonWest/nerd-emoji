@@ -9,7 +9,7 @@
 **Political Career:**
 
 * Elected Governor of [[Texas]] in 1994 and reelected in 1998
-* Elected [[President of the United States]] in 2000 after a close and controversial election
+* Elected [[POTUS]] in 2000 after a close and controversial election
 * Reelected in 2004
 
 **Major Events:**

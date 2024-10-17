@@ -2,7 +2,7 @@
 
 **Overview:**
 
-* 27th [[President of the United States]] (1909-1913)
+* 27th [[POTUS]] (1909-1913)
 * Republican Party
 * Known as a "Progressive Conservative"
 

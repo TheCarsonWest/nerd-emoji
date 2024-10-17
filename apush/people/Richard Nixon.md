@@ -9,7 +9,7 @@
 * Representative from [[California]] (1947-1951)
 * Senator from [[California]] (1950-1953)
 * Vice President under Dwight Eisenhower (1953-1961)
-* [[President of the United States]] (1969-1974)
+* [[POTUS]] (1969-1974)
 
 **Events Associated With:**
 * Watergate Scandal

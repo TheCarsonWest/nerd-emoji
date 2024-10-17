@@ -12,7 +12,7 @@
 * **1954:** The Supreme Court rules in Brown v. Board of Education, striking down school segregation.
 * **1960s-1970s:** The civil rights movement gains momentum in [[Texas]].
 * **1980s-1990s:** [[Texas]] experiences a period of economic growth and population increase.
-* **2000:** [[George W]]. Bush becomes [[President of the United States]].
+* **2000:** [[George W]]. Bush becomes [[POTUS]].
 
 **Important Legislation:**
 

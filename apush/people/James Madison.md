@@ -27,7 +27,7 @@
 
 **[[War of 1812]]:**
 
-* Served as [[apush/President of the United States]] from 1809 to 1817
+* Served as [[POTUS]] from 1809 to 1817
 * Led the country during the [[War of 1812]]
 
 **Retirement and Later Life:**
@@ -49,8 +49,8 @@
 
 **People and Groups Associated with Madison:**
 
-* **[[George Washington]]:** First [[President of the United States]]
+* **[[George Washington]]:** First [[POTUS]]
 * ** [[Alexander Hamilton]]:** Fellow delegate to the [[Constitutional Convention]]
-* ** [[Thomas Jefferson]]:** Third [[President of the United States]]
+* ** [[Thomas Jefferson]]:** Third [[POTUS]]
 * **Federalists:** Political party that supported a strong central government
 * **Democratic-Republicans:** Political party that opposed a strong central government

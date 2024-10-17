@@ -4,4 +4,4 @@
 
 # [[States list]]
 
-# [[President of the United States]]
+# [[POTUS]]

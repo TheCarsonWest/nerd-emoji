@@ -1,4 +1,4 @@
-**[[Donald Trump]]** (born June 14, 1946) served as the 45th [[President of the United States]] from 2017 to 2021.
+**[[Donald Trump]]** (born June 14, 1946) served as the 45th [[POTUS]] from 2017 to 2021.
 
 **Events Associated**
 

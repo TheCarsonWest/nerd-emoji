@@ -22,7 +22,7 @@
 
 **President (2021-present)**
 
-* Inaugurated as the 46th [[President of the United States]] on January 20, 2021
+* Inaugurated as the 46th [[POTUS]] on January 20, 2021
 * His presidency has been marked by the COVID-19 pandemic and its economic impact
 * Signed into law the American Rescue Plan Act, the Infrastructure Investment and Jobs Act, and the Bipartisan Safer Communities Act
 

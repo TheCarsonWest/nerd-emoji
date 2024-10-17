@@ -2,7 +2,7 @@
 
 **Events:**
 
-* **Accession to Presidency:** Became 10th [[President of the United States]] in 1841 after the death of [[William Henry Harrison]]
+* **Accession to Presidency:** Became 10th [[POTUS]] in 1841 after the death of [[William Henry Harrison]]
 * **Harrison's Policies:** Continued Harrison's economic policies, including:
  * Establishment of a national bank
  * Protective tariffs
