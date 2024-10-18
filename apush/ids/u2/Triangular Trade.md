@@ -1,6 +1,6 @@
 **ID:** [[Triangular Trade]]
 **When:** 16th-19th centuries
-**Who:** European powers (Portugal, Spain, England, [[France]]), African slave traders, enslaved Africans, American colonists
+**Who:** European powers (Portugal, [[Spain]], England, [[France]]), African slave traders, enslaved Africans, American colonists
 **What:**
 * Three-way trade network involving the exchange of goods among Europe, Africa, and the Americas
 * Europ eans sold manufactured goods to Africa in exchange for slaves

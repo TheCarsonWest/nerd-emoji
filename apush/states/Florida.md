@@ -4,9 +4,9 @@
 
 * **1513:** Juan Ponce de León explores the [[Florida]] coast.
 * **1565:** Pedro Menéndez de Avilés establishes the first permanent European settlement in [[Florida]], St. Augustine.
-* **1763:** [[Great Britain]] acquires [[Florida]] from Spain in the Treaty of Paris.
-* **1783:** Spain regains control of [[Florida]] in the Treaty of Versailles.
-* **1819:** Spain cedes [[Florida]] to the [[United States]] in the Adams-Onís Treaty.
+* **1763:** [[Great Britain]] acquires [[Florida]] from [[Spain]] in the Treaty of Paris.
+* **1783:** [[Spain]] regains control of [[Florida]] in the Treaty of Versailles.
+* **1819:** [[Spain]] cedes [[Florida]] to the [[United States]] in the Adams-Onís Treaty.
 * **1822:** [[Florida]] becomes a territory of the [[United States]].
 * **1845:** [[Florida]] becomes the 27th state of the [[United States]].
 * **1861:** [[Florida]] secedes from the Union and joins the Confederate States of America.

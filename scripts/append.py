@@ -12,8 +12,8 @@ def append_to_files_in_folder(folder_path, string_to_append):
             file.write(string_to_append)
 
 # Example usage
-folder_path = "./nerd-emoji/python1/"  # Replace with your folder path
-string_to_append = "\n# [[Python 1 Home]]"  # Replace with your desired string
+folder_path = "./result/"  # Replace with your folder path
+string_to_append = "\n# [[IDS Unit 3]]"  # Replace with your desired string
 
 append_to_files_in_folder(folder_path, string_to_append)
 

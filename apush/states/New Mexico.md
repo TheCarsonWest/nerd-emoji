@@ -3,7 +3,7 @@
 - 1598: Juan de Oñate leads a group of Spanish colonists to [[New Mexico]] and establishes Santa Fe
 - 1680: Pueblo Revolt: The Pueblo Indians revolt against Spanish rule
 - 1692: Don Diego de Vargas leads a Spanish reconquest of [[New Mexico]]
-- 1821: Mexico gains independence from Spain, and [[New Mexico]] becomes part of Mexico
+- 1821: Mexico gains independence from [[Spain]], and [[New Mexico]] becomes part of Mexico
 - 1846: The [[United States]] declares war on Mexico
 - 1848: The Treaty of Guadalupe Hidalgo ends the Mexican-American War, and [[New Mexico]] becomes part of the [[United States]]
 - 1850: [[New Mexico]] Territory is created

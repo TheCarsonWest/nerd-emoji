@@ -26,6 +26,6 @@
 * Buchanan was a moderate Democrat who opposed secession.
 * He believed that the [[Kansas]]-[[Nebraska]] Act would resolve the slavery issue by allowing popular sovereignty in new territories.
 * However, the act only exacerbated tensions and led to violence in [[Kansas]].
-* Buchanan also sought to acquire Cuba from Spain, but this plan failed.
+* Buchanan also sought to acquire Cuba from [[Spain]], but this plan failed.
 * When Southern states began to secede, Buchanan took no action to prevent them.
 * His inaction contributed to the outbreak of the Civil War.

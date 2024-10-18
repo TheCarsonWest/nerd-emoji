@@ -5,7 +5,7 @@
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "Google GenerativeAI (Langchain)",
-  "max_tokens": 1500,
+  "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "showStatusBar": true,
@@ -22,7 +22,7 @@
     "customInstructEnabled": false,
     "includeClipboard": true,
     "customInstruct": "\t {{tg_selection}}",
-    "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
+    "contextTemplate": "Title: {{title}}\n\n{{starredBlocks}}\n\t  \n{{tg_selection}}\nalways use LaTeX math notation when writing equations!"
   },
   "requestTimeout": 300000,
   "options": {
@@ -90,15 +90,18 @@
       "model": "whisper-1"
     },
     "OpenAI Chat (Langchain)": {
-      "basePath": "https://api.openai.com/v1"
+      "basePath": "https://api.openai.com/v1",
+      "api_key": "",
+      "model": "gpt-3.5-turbo"
     },
     "Google GenerativeAI (Langchain)": {
-      "model": "models/gemini-pro",
+      "model": "models/gemini-1.5-flash",
       "api_key": ""
     }
   },
   "LLMProviderOptionsKeysHashed": {
-    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyCxM-nLEG89oe-m46vCLADPkNakJNp8x2I"
+    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyCxM-nLEG89oe-m46vCLADPkNakJNp8x2I",
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-EwAUhp07yRCVbyWXWavTbk2St7uqeMY1W5fjkPsaYBzGsFl3abKWhAck_ihxM5x2T1ddYsEptxT3BlbkFJ1xXJIGhfKlyoTPs-cBPojRLGBhgoxC7t82K4YvpVnx0kcZqmqltQPu7a3n73-pXjx5J6rdoKEA"
   },
-  "api_key_encrypted": "__@#key_prefix#@__"
+  "api_key_encrypted": "__@#key_prefix#@__sk-proj-EwAUhp07yRCVbyWXWavTbk2St7uqeMY1W5fjkPsaYBzGsFl3abKWhAck_ihxM5x2T1ddYsEptxT3BlbkFJ1xXJIGhfKlyoTPs-cBPojRLGBhgoxC7t82K4YvpVnx0kcZqmqltQPu7a3n73-pXjx5J6rdoKEA"
 }

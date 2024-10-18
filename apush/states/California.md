@@ -4,7 +4,7 @@
 
 * **1542:** Juan Rodríguez Cabrillo explores the coast of [[California]].
 * **1769:** Spanish missionaries establish missions in [[California]].
-* **1821:** Mexico gains independence from Spain and [[California]] becomes part of Mexico.
+* **1821:** Mexico gains independence from [[Spain]] and [[California]] becomes part of Mexico.
 * **1846:** War breaks out between the [[United States]] and Mexico (Mexican-American War).
 * **1848:** **Treaty of Guadalupe Hidalgo** cedes [[California]] and other territories to the [[United States]].
 * **1850:** [[California]] becomes the 31st state of the Union.

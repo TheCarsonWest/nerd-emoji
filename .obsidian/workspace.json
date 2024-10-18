@@ -13,29 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Chemical Bonds.md",
+                "file": "APCHEM/Alloys.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Alloys"
             }
           },
           {
-            "id": "3ae257b044a8ceab",
+            "id": "ce9ae7b3f03b9601",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "APHG/Demographic Transition Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demographic Transition Model"
             }
           },
           {
-            "id": "62b78f1bb23922c9",
+            "id": "f105c7e890610e81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "apush/ids/u3/result/Proclamation of Neutrality.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proclamation of Neutrality"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/Chemical Bonds.md",
+                "file": "apush/ids/u3/result/Proclamation of Neutrality.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,19 +134,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "062d5222c98fd466",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "APCHEM/Chemical Bonds.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Proclamation of Neutrality"
             }
           },
           {
@@ -131,8 +145,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCHEM/Chemical Bonds.md"
-              }
+                "file": "apush/ids/IDS Unit 3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IDS Unit 3"
+            }
+          },
+          {
+            "id": "062d5222c98fd466",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "apush/ids/IDS Unit 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IDS Unit 3"
             }
           }
         ]
@@ -148,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "APCHEM/Chemical Bonds.md",
+                "file": "apush/ids/u3/result/Proclamation of Neutrality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +204,9 @@
                   "scale": 0.6995656352089197,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Proclamation of Neutrality"
             }
           }
         ]
@@ -191,62 +223,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-map-view:Open map view": false,
-      "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5e8e806416209f86",
+  "active": "f105c7e890610e81",
   "lastOpenFiles": [
-    "APCHEM/intermolecular forces.md",
-    "APCHEM/Chemical Bonds.md",
-    "202410161953.md",
-    "202410161952.md",
-    "nexus.md",
-    "202410161954.md",
-    "Arabic/Module 2 lesson 1 vocabulary.md",
-    "2024-10-16.md",
-    "apush/states/Massachusetts.md",
-    "apush/places/Harvard.md",
-    "apush/events",
-    "apush/documents/Constitution of the United States.md",
-    "Arabic/Arabic Plurals and Duals.md",
-    "apush/documents",
-    "apush/places",
-    "Arabic/Module 2 lesson 1 conversation.md",
-    "Untitled.md",
-    "README.md",
-    "Vance Walz Debate.md",
-    "apush/ids/u3/Alien and Sedition Acts.md",
+    "apush/ids/u3/result/Adams-Onis Treaty.md",
+    "apush/ids/u3/result/American Colonization Society.md",
+    "apush/ids/u3/result/Proclamation of Neutrality.md",
     "apush/ids/IDS Unit 3.md",
-    "apush/ids/u3/Election of 1800.md",
     "apush/ID Home.md",
+    "apush/ids/u3/result/Worcester v Georgia.md",
     "apush/APUSH Home.md",
-    "APCHEM/APCHEM Home.md",
-    "APCHEM/Periodic Trends.md",
-    "APCHEM/Atomic Radius.md",
-    "Alloys.md",
-    "apush/people/POTUS.md",
-    "APCHEM/Pasted image 20240909103243.png",
-    "AP Calc AB",
-    "Pasted image 20241009083342.png",
-    "scripts/append.py",
-    "content",
-    "Pasted image 20241001204937.png",
-    "python1",
-    "scripts/brackets.py",
-    "apush/states",
-    "templates",
-    "images/Pasted image 20240829075856.png",
-    "images/Pasted image 20240905072920.png",
-    "images/Pasted image 20240923101101.png",
-    "images/Pasted image 20240829080206.png",
-    "apush/Pasted image 20240620205732.png",
-    "apush/Pasted image 20240620210101.png",
-    "past-test-scores.png",
+    "APCHEM/Laws.md",
+    "apush/ids/u3/result/Tariff of Abominations.md",
+    "apush/ids/u3/result/Nullification.md",
+    "apush/ids/u3/result/Spoils System.md",
+    "apush/ids/u3/result/Election of 1828.md",
+    "apush/ids/u3/result/Election of 1824.md",
+    "apush/ids/u3/result/Nat Turner Rebellion.md",
+    "apush/ids/u3/result/Democracy in America.md",
+    "apush/ids/u3/result/Transcendentalism.md",
+    "scripts/api.txt",
+    "scripts/api3.txt",
+    "scripts/api2.txt",
+    "APCHEM/Unit 2 Chemical Bonds.md",
+    "apush/places/Spain.md",
+    "Untitled.md",
+    "apush/ids/u3/result/Utopian Societies.md",
+    "apush/ids/u3/result/American Temperance Society.md",
+    "apush/ids/u3/result/Second Great Awakening.md",
+    "apush/ids/u3/result/Missouri Compromise.md",
+    "apush/ids/u3/result/Republican Motherhood.md",
+    "apush/ids/u3/result/Commonwealth System.md",
+    "apush/ids/u3/result/Bill of Rights.md",
+    "UNIT-2-Chemical-Bonding-I Note Packet.pdf",
+    "Pasted image 20241017082733.png",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_23.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_22.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_21.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_20.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_19.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_18.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_17.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_15.jpg",
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_14.jpg",
+    "voice-ai-test/1729172910.739224",
+    "voice-ai-test/1729130129.3485382",
+    "voice-ai-test/1729129899.451859",
+    "voice-ai-test",
+    "apush/events",
+    "apush/documents",
     "Untitled.canvas"
   ]
 }

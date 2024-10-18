@@ -3,3 +3,7 @@
 # [[intermolecular forces]]
 
 # [[Polarity]]
+
+# [[Alloys]]
+
+# [[Covalent Bonds]]

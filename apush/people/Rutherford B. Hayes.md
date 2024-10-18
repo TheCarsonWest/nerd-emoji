@@ -17,7 +17,7 @@
 - Vetoed the Chinese Exclusion Act twice
 
 **Foreign Policy:**
-- Negotiated the Treaty of Paris (1878) with Spain, ending the Ten Years' War in Cuba
+- Negotiated the Treaty of Paris (1878) with [[Spain]], ending the Ten Years' War in Cuba
 - Maintained a peaceful foreign policy
 
 **Other Events:**

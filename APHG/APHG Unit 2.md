@@ -5,3 +5,5 @@
  - [[Population Distribution]]
  - [[Population Composition]]
  - [[Population Pyramids]]
+- [[Demographic Transition Model]]
+

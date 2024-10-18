@@ -6,6 +6,6 @@
 - Often has a strong sense of cultural identity and shared history
 - May be politically or economically distinct from surrounding areas
 - Examples:
- - Catalonia (Spain)
+ - Catalonia ([[Spain]])
  - Quebec (Canada)
- - Basque Country (Spain and France)
+ - Basque Country ([[Spain]] and France)

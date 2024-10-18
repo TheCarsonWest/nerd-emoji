@@ -10,7 +10,7 @@
 
 **Key Events Associated With:**
 
-* **Spanish-American War (1898):** McKinley led the country into war against Spain over Cuba.
+* **Spanish-American War (1898):** McKinley led the country into war against [[Spain]] over Cuba.
 * **Annexation of [[Hawaii]] (1898):** McKinley signed the Newlands Resolution, annexing [[Hawaii]] as a territory.
 * **Open Door Policy (1899-1900):** McKinley pursued a policy of equal trade access to China for all nations.
 
