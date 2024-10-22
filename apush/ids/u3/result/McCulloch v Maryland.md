@@ -3,12 +3,12 @@
 ## WHEN: 1819
 
 ## WHO: 
-* **Plaintiff:** James McCulloch, cashier of the Second Bank of the United States branch in Baltimore
-* **Defendant:** State of Maryland 
+* **Plaintiff:** James McCulloch, cashier of the Second Bank of the [[United States]] branch in Baltimore
+* **Defendant:** State of [[Maryland]] 
 * **Supreme Court Justices:**  John Marshall (Chief Justice)
 
 ## WHAT: 
-A landmark Supreme Court case that centered around the constitutionality of the Second Bank of the United States and whether the state of Maryland could tax the bank's operations within its borders. The case addressed the balance of power between the federal government and state governments. 
+A landmark Supreme Court case that centered around the constitutionality of the Second Bank of the United States and whether the state of [[Maryland]] could tax the bank's operations within its borders. The case addressed the balance of power between the federal government and state governments. 
 
 ## IMPACT: Why Significant?: 
 

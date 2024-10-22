@@ -3,11 +3,11 @@
 ## When: September 24, 1789
 
 ## Who: 
-* Proposed by: Congressman Oliver Ellsworth of Connecticut
-* Signed into law by: President George Washington
+* Proposed by: Congressman Oliver Ellsworth of [[Connecticut]]
+* Signed into law by: President [[George Washington]]
 
 ## What: 
-Established a federal court system for the newly formed United States under the Constitution. The Act outlined a three-tiered system:
+Established a federal court system for the newly formed [[United States]] under the Constitution. The Act outlined a three-tiered system:
 * **Supreme Court:**  Comprised of a Chief Justice and five Associate Justices.
 * **Circuit Courts:** Three circuit courts were created to handle appeals from the district courts. 
 * **District Courts:**  Thirteen district courts, one for each state at the time, served as the primary trial courts. 

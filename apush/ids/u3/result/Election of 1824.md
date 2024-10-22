@@ -4,14 +4,14 @@
 
 ## Who:
 * **Candidates:**
-    * Andrew Jackson (Democratic-Republican)
-    * John Quincy Adams (Democratic-Republican)
+    * [[Andrew Jackson]] (Democratic-Republican)
+    * [[John Quincy Adams]] (Democratic-Republican)
     * William Crawford (Democratic-Republican)
     * Henry Clay (Democratic-Republican)
 * **Electoral College:** None of the candidates received a majority of electoral votes.
 
 ## What: 
-The Election of 1824 was the first contested presidential election in US history, featuring four prominent candidates from the Democratic-Republican Party. Jackson received the most popular votes and electoral votes but failed to secure a majority. As a result, the election was decided in the House of Representatives, where Henry Clay threw his support behind John Quincy Adams, who subsequently won the presidency.
+The Election of 1824 was the first contested presidential election in US history, featuring four prominent candidates from the Democratic-Republican Party. Jackson received the most popular votes and electoral votes but failed to secure a majority. As a result, the election was decided in the House of Representatives, where Henry Clay threw his support behind [[John Quincy Adams]], who subsequently won the presidency.
 
 ## Impact: Why Significant?
 

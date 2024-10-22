@@ -3,7 +3,7 @@
 ## When: Early 1800s (specifically during the presidency of Andrew Jackson, 1829-1837)
 
 ## Who: 
-* **Andrew Jackson:** President who popularized the practice and made it a significant political strategy.
+* **[[Andrew Jackson]]:** President who popularized the practice and made it a significant political strategy.
 * **Political Supporters:** Often benefited from the system, being rewarded with government jobs.
 * **Civil Servants:**  The existing employees who could be replaced under the system.
 

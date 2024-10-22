@@ -2,7 +2,7 @@
 ## When: 1820s-1850s (Antebellum Period)
 ## Who: 
 Various groups and individuals, including:
-* **Robert Owen (New Harmony, Indiana):**  Advocate of social reform and founder of New Harmony.
+* **Robert Owen (New Harmony, [[Indiana]]):**  Advocate of social reform and founder of New Harmony.
 * **Ann Lee and the Shakers:**  Religious group known for celibacy, equality, and craftsmanship.
 * **John Humphrey Noyes and the Oneida Community:**  Believed in communal living, complex marriage, and communal child-rearing.
 ## What:

@@ -3,13 +3,13 @@
 ## When: December 2, 1823
 
 ## Who: 
-- **President James Monroe** (The doctrine was written by Secretary of State John Quincy Adams, but it was part of Monroe's annual message to Congress)
+- **President [[James Monroe]]** (The doctrine was written by Secretary of State [[John Quincy Adams]], but it was part of Monroe's annual message to Congress)
 
 ## What: 
 A foreign policy statement declaring that:
 
-1. **The Americas were closed to further European colonization.**  Any attempts to colonize or interfere in the Western Hemisphere by European powers would be considered a hostile act against the United States.
-2. **The United States would not interfere in the internal affairs of European nations** or their existing colonies. 
+1. **The Americas were closed to further European colonization.**  Any attempts to colonize or interfere in the Western Hemisphere by European powers would be considered a hostile act against the [[United States]].
+2. **The [[United States]] would not interfere in the internal affairs of European nations** or their existing colonies. 
 3. **The United States recognized and would not interfere with existing colonies in the Western Hemisphere.**
 
 ## Impact? Why Significant?: 

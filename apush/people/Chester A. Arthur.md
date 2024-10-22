@@ -18,7 +18,7 @@
 
 **Civil Service Reform:**
 
-* Arthur's support for the Pendleton Act marked a significant step in reforming the spoils system and promoting meritocratic government.
+* Arthur's support for the Pendleton Act marked a significant step in reforming the [[Spoils System]] and promoting meritocratic government.
 * It helped to reduce corruption and improve the efficiency of the civil service.
 
 **Chinese Exclusion:**

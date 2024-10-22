@@ -1,7 +1,7 @@
 # ID: Republican Motherhood
 ## When: 1760s - 1800s (especially prominent during the American Revolution and Early Republic)
 ## Who: 
-Emerging concept embraced by many American women, particularly those influenced by Enlightenment ideals. Notable figures associated with the ideals of Republican Motherhood include Abigail Adams and Judith Sargent Murray.
+Emerging concept embraced by many American women, particularly those influenced by [[Enlightenment]] ideals. Notable figures associated with the ideals of Republican Motherhood include Abigail Adams and Judith Sargent Murray.
 ## What:
 An evolving idea about the role of women in the new American republic. It emphasized that women played a crucial role in raising virtuous and educated citizens who would be capable of self-government.  This included educating their sons about civic duty and republican values, preparing them to be future leaders.
 ## Impact? Why Significant?: 

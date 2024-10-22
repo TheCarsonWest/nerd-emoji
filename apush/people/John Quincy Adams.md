@@ -6,12 +6,12 @@
 * [[Treaty of Ghent]] (negotiated the end of the war)
 * Secretary of State under [[James Monroe]]
 * [[Monroe Doctrine]] (helped craft the policy)
-* Election of 1824 (lost to [[Andrew Jackson]])
+* [[Election of 1824]] (lost to [[Andrew Jackson]])
 * Corrupt Bargain (allegations of a deal to make Adams president)
 
 **Important Legislation:**
 
-* Tariff of 1828 (raised tariffs on imported goods, sparking the "Tariff of Abominations" controversy)
+* Tariff of 1828 (raised tariffs on imported goods, sparking the "[[Tariff of Abominations]]" controversy)
 * Indian Removal Act of 1830 (authorized the forced relocation of Native Americans)
 
 **Groups Involved With:**
@@ -24,8 +24,8 @@
 
 * President from 1825 to 1829
 * Known as a "nationalist" and advocate for a strong central government
-* Promoted economic development through the American System, which included infrastructure projects, tariffs, and a national bank
+* Promoted economic development through [[The American System]], which included infrastructure projects, tariffs, and a national bank
 * Signed the Indian Removal Act, which led to the forced displacement of thousands of Native Americans
-* His presidency was marked by political controversy and sectionalism, ultimately leading to his defeat in the election of 1828
+* His presidency was marked by political controversy and sectionalism, ultimately leading to his defeat in the [[Election of 1828]]
 * Served as a congressman after his presidency, where he continued to advocate for his beliefs and opposed the expansion of slavery
 * Regarded as a complex and influential figure in American history, known for his intellectualism, independence, and unwavering principles

@@ -10,10 +10,10 @@
     * **Pro-Slavery:** John Taylor of Caroline
 
 ## What: 
-A series of laws enacted by Congress to address the issue of slavery in new territories following Missouri's application for statehood as a slave state. The main components were:
-* **Missouri admitted as a slave state.**
-* **Maine admitted as a free state** (previously part of Massachusetts) to maintain balance in the Senate.
-* **The 36°30′ parallel:** Slavery prohibited in the Louisiana Purchase territory north of this line, except for Missouri.
+A series of laws enacted by Congress to address the issue of slavery in new territories following [[Missouri]]'s application for statehood as a slave state. The main components were:
+* **[[Missouri]] admitted as a slave state.**
+* **[[Maine]] admitted as a free state** (previously part of [[Massachusetts]]) to maintain balance in the Senate.
+* **The 36°30′ parallel:** Slavery prohibited in the [[Louisiana Purchase]] territory north of this line, except for [[Missouri]].
 
 ## Impact? Why Significant?: 
 * **Temporary solution:** The Compromise temporarily defused the sectional crisis over slavery but ultimately failed to resolve the underlying tensions.

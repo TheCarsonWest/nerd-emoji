@@ -3,7 +3,7 @@
 ## Who: 
 Nat Turner, a slave preacher and religious mystic, and about 70 enslaved people
 ## What: 
-A slave rebellion in Southampton County, Virginia, in which Turner and his followers killed approximately 60 white people, including women and children. 
+A slave rebellion in Southampton County, [[Virginia]], in which Turner and his followers killed approximately 60 white people, including women and children. 
 ## Impact: Why Significant?: 
 The rebellion sent shockwaves throughout the South, leading to:
 * **Increased fear and paranoia among white southerners:** This fueled support for stricter slave codes and heightened racial tensions.

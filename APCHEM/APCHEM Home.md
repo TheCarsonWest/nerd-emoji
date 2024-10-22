@@ -1,10 +1,10 @@
 # [[nexus]]
 
-# [[Constants]]
+# [[Chemistry Constants]]
 # [[Periodic Trends]]
-# [[Laws]]
+# [[Chemistry Laws]]
 # [[Processes]]
-# [[Labs]]
+# [[AP Chem Labs]]
 # [[Reactions Types]]
 
 # [[Chemical Bonds]]
