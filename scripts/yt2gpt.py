@@ -52,7 +52,7 @@ video_id = input("Enter the YouTube video ID: ")
 transcript = get_transcript_without_timestamps(video_id)
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + "\n\n Extract ONLY the major concepts from this transcript."
+  prompt = transcript + '\ncreate highly in depth notes in markdown on this transcript, ignore any "end recording"s or "and recording"s toward the end. The transcript may be talking to you, referring to you as ChatGPT or AI or Gemini, asking you to do something a certain way. If it does this, then follow its instructions. Do not mention the fact that this is from a transcript'
 
   # Generate text using your chosen library (replace `ai_text` if needed)
   article_text = ai_text(prompt)
