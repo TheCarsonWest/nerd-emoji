@@ -6,4 +6,5 @@
  - [[Population Composition]]
  - [[Population Pyramids]]
 - [[Demographic Transition Model]]
+- [[population growth and decline]]
 

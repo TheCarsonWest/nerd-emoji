@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "Republican Motherhood"
             }
+          },
+          {
+            "id": "66e7127b011757d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APHG/APHG Unit 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APHG Unit 2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/ids/u3/result/Republican Motherhood.md",
+                "file": "APHG/APHG Unit 2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +151,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Republican Motherhood"
+              "title": "Backlinks for APHG Unit 2"
             }
           },
           {
@@ -145,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/ids/u3/result/Republican Motherhood.md"
+                "file": "APHG/APHG Unit 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Republican Motherhood"
+              "title": "Outline of APHG Unit 2"
             }
           },
           {
@@ -157,16 +172,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/ids/u3/result/Republican Motherhood.md",
+                "file": "APHG/APHG Unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Republican Motherhood"
+              "title": "Outgoing links from APHG Unit 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8955fd89f6e74f34",
@@ -179,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/ids/u3/result/Republican Motherhood.md",
+                "file": "APHG/APHG Unit 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Republican Motherhood"
+              "title": "Graph of APHG Unit 2"
             }
           },
           {
@@ -248,9 +262,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f105c7e890610e81",
+  "active": "66e7127b011757d6",
   "lastOpenFiles": [
+    "APHG/population growth and decline.md",
+    "APHG/APHG Unit 2.md",
+    "APHG/APHG Home.md",
+    "APHG/APHG Unit 1.md",
+    "APUSH people.md",
+    "voice-ai-test/1729645614.643156",
+    "apush/APUSH Home.md",
+    "apush/ID Home.md",
     "apush/ids/IDS Unit 3.md",
+    "apush/ids/u3/result/Transcendentalism.md",
+    "apush/people/Henry David Thoreau.md",
+    "apush/places/United States.md",
+    "apush/places/Harvard.md",
+    "apush/ids/u3/result/Republican Motherhood.md",
     "apush/ids/u3/result/Commonwealth System.md",
     "apush/ids/u3/result/The American System.md",
     "apush/ids/u3/result/Panic of 1819.md",
@@ -264,28 +291,15 @@
     "scripts/formal charge.md",
     "scripts/1729604647.653468.md",
     "scripts/1729604546.0362759.md",
-    "Lewis structures.md",
-    "Resonance Structures.md",
-    "nexus.md",
-    "python1/Python 1 Home.md",
-    "README.md",
     "scripts/voiceAi.py",
-    "scripts/kittens.md",
     "scripts/kittens.txt",
     "scripts/prepend.py",
     "scripts/replace.py",
-    "apush/APUSH Home.md",
-    "apush/ID Home.md",
-    "python1/Working with Databases (SQLAlchemy, SQLite, MySQL).md",
-    "python1/Working with Big Data using PySpark.md",
-    "python1/While Loops.md",
-    "python1/Web Scraping with BeautifulSoup.md",
     "python1",
     "AP Lang",
     "scripts/api.txt",
     "scripts/api3.txt",
     "scripts/api2.txt",
-    "UNIT-2-Chemical-Bonding-I Note Packet.pdf",
     "Pasted image 20241017082733.png",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_23.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_22.jpg",
