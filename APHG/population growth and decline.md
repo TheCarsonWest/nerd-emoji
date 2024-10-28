@@ -52,4 +52,6 @@ Describes the shift in population growth patterns as a country industrializes.
 ### Public Health and Life Expectancy
 
 * **Industrialization and Urbanization:** Initially led to poor sanitation and disease outbreaks (e.g., cholera, plague).
+	* Stage 2/3
 * **Public Sanitation Improvements:** Sewer systems, water treatment, and hygiene practices drastically increased life expectancy. 
+	* Stage 3

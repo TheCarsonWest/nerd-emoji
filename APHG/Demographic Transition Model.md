@@ -1,5 +1,7 @@
 ### 1. Demographic Transition Model 
 
+![](https://populationeducation.org/wp-content/uploads/2014/10/dtm.png)
+
 This model illustrates the shifts in birth rates, death rates, and population growth as societies develop.
 
 | Stage                   | Birth Rate  | Death Rate  | Population Growth               | Key Characteristics                                                                       | Examples                                                                            |
@@ -58,7 +60,7 @@ what is the changes in lifestyle seen in demographic transiotion model stage 4?a
 * **Very Low Population Growth:**  With birth and death rates both low, population growth is minimal or even stagnant.
 
 **Lifestyle Changes:**
-
+[[APHG Unit 2]]
 * **Increased Focus on Individualism and Personal Fulfillment:** With smaller family sizes, individuals often have more time and resources to pursue personal goals, education, careers, and leisure activities.
 * **Later Marriages and Childbearing:** People tend to delay marriage and parenthood, prioritizing education, career establishment, and financial stability.
 * **Higher Levels of Education, Especially for Women:**  Access to education, particularly for women, becomes more widespread, contributing to greater economic independence and changing family dynamics.

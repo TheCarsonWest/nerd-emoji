@@ -4,71 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1e13bb73ee476c6e",
+        "id": "15189f72051b2791",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8e806416209f86",
+            "id": "b423f5ef0a591ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Alloys.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alloys"
+              "title": "Untitled"
             }
           },
           {
-            "id": "ce9ae7b3f03b9601",
+            "id": "62d0de3ba756c8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APHG/Demographic Transition Model.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demographic Transition Model"
-            }
-          },
-          {
-            "id": "f105c7e890610e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/ids/u3/result/Republican Motherhood.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Republican Motherhood"
-            }
-          },
-          {
-            "id": "66e7127b011757d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APHG/APHG Unit 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "APHG Unit 2"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.50390243530273
   },
   "right": {
     "id": "0aed38cd9deef8c9",
@@ -141,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APHG/APHG Unit 2.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for APHG Unit 2"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -160,10 +129,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APHG/APHG Unit 2.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of APHG Unit 2"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -172,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APHG/APHG Unit 2.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from APHG Unit 2"
+              "title": "Outgoing links from Untitled"
             }
           }
         ]
@@ -187,43 +156,6 @@
         "type": "tabs",
         "dimension": 45.25547445255474,
         "children": [
-          {
-            "id": "cb6c4fd3cfc8d900",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "APHG/APHG Unit 2.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.9535604289584,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6995656352089197,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of APHG Unit 2"
-            }
-          },
           {
             "id": "0723e0a0d243e495",
             "type": "leaf",
@@ -240,9 +172,45 @@
               "icon": "lucide-file",
               "title": "IDS Unit 3"
             }
+          },
+          {
+            "id": "c65d1e92f92b49de",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Untitled.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 4.20778878622583,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Untitled"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,44 +230,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "66e7127b011757d6",
+  "active": "b423f5ef0a591ef3",
   "lastOpenFiles": [
-    "APHG/population growth and decline.md",
+    "brainrot/apush-brainrot.md",
+    "voice-ai-test/combined_1729881039_872261.md",
+    "Untitled.md",
+    "apush/ids/u3/result/Tariff of Abominations.md",
+    "apush/ids/u3/result/Spoils System.md",
+    "apush/ids/u2/Sugar Act.md",
+    "apush/ids/u2/French and Indian War.md",
+    "apush/people/Alexander Hamilton.md",
+    "apush/people/Andrew Jackson.md",
+    "brainrot/apush-brainrot",
+    "brainrot",
+    "apush-brainrot",
+    "apush/ids/u3/result/Jays Treaty.md",
     "APHG/APHG Unit 2.md",
-    "APHG/APHG Home.md",
-    "APHG/APHG Unit 1.md",
-    "APUSH people.md",
-    "voice-ai-test/1729645614.643156",
-    "apush/APUSH Home.md",
-    "apush/ID Home.md",
+    "apush/ids/u3/result/American Temperance Society.md",
+    "APHG/Glossary.md",
+    "Untitled 1.md",
+    "APHG/Functional Region.md",
     "apush/ids/IDS Unit 3.md",
-    "apush/ids/u3/result/Transcendentalism.md",
-    "apush/people/Henry David Thoreau.md",
-    "apush/places/United States.md",
-    "apush/places/Harvard.md",
-    "apush/ids/u3/result/Republican Motherhood.md",
-    "apush/ids/u3/result/Commonwealth System.md",
-    "apush/ids/u3/result/The American System.md",
-    "apush/ids/u3/result/Panic of 1819.md",
-    "apush/ids/u3/result/Monroe Doctrine.md",
-    "apush/ids/u3/result/Era of Good Feelings.md",
-    "APCHEM/Electronegativity.md",
-    "APCHEM/Periodic Trends.md",
-    "APCHEM/APCHEM Home.md",
-    "APCHEM/Chemical Bonds.md",
-    "APCHEM/Other important AP CHEM things.md",
-    "scripts/formal charge.md",
-    "scripts/1729604647.653468.md",
-    "scripts/1729604546.0362759.md",
+    "voice-ai-test/combined_1729880986_589607.md",
+    "voice-ai-test/combined_1729880755_062732.md",
+    "voice-ai-test/combined_1729880730_290005.md",
+    "voice-ai-test/combined_1729880631_056803.md",
+    "voice-ai-test/combined_1729867323_73028.md",
+    "voice-ai-test/combined_1729880311_281447.md",
+    "voice-ai-test/combined_1729867455_334359.md",
+    "voice-ai-test/combined_1729867270_210541.md",
+    "voice-ai-test/combined_1729867224_029469.md",
+    "voice-ai-test/combined_1729867170_030563.md",
+    "notes.txt",
+    "voice-ai-test/1729645614.643156",
     "scripts/voiceAi.py",
     "scripts/kittens.txt",
     "scripts/prepend.py",
     "scripts/replace.py",
     "python1",
-    "AP Lang",
-    "scripts/api.txt",
-    "scripts/api3.txt",
-    "scripts/api2.txt",
     "Pasted image 20241017082733.png",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_23.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_22.jpg",

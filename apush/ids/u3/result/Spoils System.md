@@ -1,6 +1,6 @@
 ## ID: Spoils System
 
-## When: Early 1800s (specifically during the presidency of Andrew Jackson, 1829-1837)
+## When: Early 1800s (specifically during the presidency of [[Andrew Jackson]], 1829-1837)
 
 ## Who: 
 * **[[Andrew Jackson]]:** President who popularized the practice and made it a significant political strategy.
