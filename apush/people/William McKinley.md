@@ -34,3 +34,4 @@
 
 * McKinley is remembered as a successful and popular president who oversaw significant economic and foreign policy developments.
 * His assassination had a profound impact on the country, leading to a period of mourning and a reevaluation of political security.
+# [[APUSH people]]

@@ -36,3 +36,4 @@
 
 * Lincoln was assassinated by John Wilkes Booth at Ford's Theatre in [[Washington]], D.C., on April 14, 1865.
 * His legacy as a champion of unity, equality, and national preservation continues to shape American identity and inspire generations.
+# [[APUSH people]]

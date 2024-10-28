@@ -31,3 +31,4 @@
 * **Federalism:** Adams supported a strong central government and was a key figure in the Federalist Party.
 * **Character:** Adams was known for his intelligence, integrity, and independent spirit. He was also a prolific writer and historian.
 * **Legacy:** Adams is considered one of the most important Founding Fathers and played a crucial role in the establishment of the [[United States]].
+# [[APUSH people]]

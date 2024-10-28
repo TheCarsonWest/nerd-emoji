@@ -29,3 +29,4 @@
 * His presidency was marked by political controversy and sectionalism, ultimately leading to his defeat in the [[Election of 1828]]
 * Served as a congressman after his presidency, where he continued to advocate for his beliefs and opposed the expansion of slavery
 * Regarded as a complex and influential figure in American history, known for his intellectualism, independence, and unwavering principles
+# [[APUSH people]]

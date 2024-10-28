@@ -45,3 +45,4 @@
 * Jefferson is widely regarded as one of the most important figures in American history.
 * His ideals of liberty, equality, and republicanism continue to inspire generations of Americans.
 * He is remembered as a brilliant statesman, a visionary leader, and a champion of human rights.
+# [[APUSH people]]

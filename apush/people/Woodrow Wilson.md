@@ -27,3 +27,4 @@
 * **Domestic Policies:** Wilson's progressive policies had a significant impact on the American economy and society, including the establishment of minimum wage laws, child labor laws, and expanded educational opportunities.
 * **Foreign Policy:** Wilson's idealism shaped American foreign policy, leading to the nation's involvement in World War I and the creation of the League of Nations.
 * **Legacy:** Wilson is remembered as a complex and influential figure. His domestic reforms and foreign policy initiatives left a lasting mark on American history, despite the setbacks encountered in his later years.
+# [[APUSH people]]

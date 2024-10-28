@@ -43,3 +43,4 @@
 * His presidency was largely defined by the transformative events of 9/11 and the subsequent wars in Afghanistan and Iraq.
 * His policies on education, taxation, and health care had significant impacts on American society.
 * His legacy remains controversial, with his supporters praising his leadership during times of crisis and his critics criticizing his foreign policy decisions and domestic policies.
+# [[APUSH people]]

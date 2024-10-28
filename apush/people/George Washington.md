@@ -38,3 +38,4 @@ add a section on george washingotns legacy in a similar format of the other sect
 * **Set a precedent for a peaceful transfer of power in the [[United States]].** He voluntarily stepped down after two terms as president, establishing a tradition of peaceful transitions in the executive branch.
 * **His image and name have become symbols of American patriotism and values.** His face is featured on the One Dollar Bill and the Mount Rushmore sculpture.
 * **His birthplace, Mount Vernon, is a popular tourist destination and a national landmark.** It serves as a museum and educational center dedicated to his life and legacy.
+# [[APUSH people]]

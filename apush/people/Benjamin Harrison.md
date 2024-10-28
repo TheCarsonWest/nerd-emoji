@@ -36,3 +36,4 @@
 
 **Legacy:**
 Harrison's presidency was marked by incremental reforms and a focus on economic issues. He is remembered for his support of antitrust laws and the expansion of American power. Despite his limited achievements during his term, Harrison set the stage for future economic and foreign policy initiatives.
+# [[APUSH people]]

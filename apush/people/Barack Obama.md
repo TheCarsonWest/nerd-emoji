@@ -29,3 +29,4 @@
 * Obama's foreign policy was characterized by a focus on diplomacy and multilateralism.
 * He played a significant role in promoting social equality and addressing climate change.
 * Obama left office with high approval ratings and is generally regarded as a transformative figure in American history.
+# [[APUSH people]]

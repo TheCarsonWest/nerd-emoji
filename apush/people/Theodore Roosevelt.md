@@ -41,3 +41,4 @@
 * Remembered as one of the most influential presidents in American history
 * Dubbed "The Lion of San Juan Hill" for his actions during the Spanish-American War
 * His policies and reforms set the stage for further progressive reforms in the 20th century
+# [[APUSH people]]

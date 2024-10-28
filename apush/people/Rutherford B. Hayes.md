@@ -36,3 +36,4 @@
 - Promoted economic growth through bimetallism
 - Established a more peaceful foreign policy
 - His presidency marked a transition from the Reconstruction era to the Gilded Age
+# [[APUSH people]]

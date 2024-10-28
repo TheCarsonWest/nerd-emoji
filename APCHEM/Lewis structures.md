@@ -26,7 +26,7 @@ Lewis dot structures are a simple yet powerful tool in chemistry for visualizing
 
 **Important Considerations:**
 
-* **Octet Rule:** Most atoms tend to gain, lose, or share electrons to achieve a stable octet (8 valence electrons) in their outermost shell. This is known as the octet rule.  However, there are exceptions to this rule, such as elements in the second period (Be, B, and Li) and elements in the third period and beyond (P, S, and Cl). 
+* **Octet Rule:** Most atoms tend to gain, lose, or share electrons to achieve a stable octet (8 valence electrons) in their outermost shell. This is known as the [[octet]] rule.  However, there are exceptions to this rule, such as elements in the second period (Be, B, and Li) and elements in the third period and beyond (P, S, and Cl). 
 
 * **[[Formal Charge]]:** The [[formal charge]] of an atom in a molecule can be calculated to determine the most stable Lewis structure. ==The [[formal charge]] is the difference between the number of valence electrons== in the free atom and the number of electrons assigned to the atom in the Lewis structure.
 

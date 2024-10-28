@@ -54,3 +54,4 @@
 
 * Remembered as a populist leader who expanded executive power and played a controversial role in the expansion of the [[United States]] and the displacement of Native American tribes.
 * His policies shaped the development of political parties, the balance between federal and state governments, and the nation's westward expansion.
+# [[APUSH people]]

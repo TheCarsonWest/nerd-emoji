@@ -26,3 +26,4 @@
 * **Conservative Values:** Coolidge promoted traditional conservative values, such as low taxes, a balanced budget, and a strong military.
 * **Silent Cal:** Coolidge was known for his taciturn nature and reluctance to speak publicly. This contributed to his image as a quiet and reserved leader.
 * **Political Legacy:** Coolidge's presidency is often viewed positively for its economic prosperity. However, his limited government approach and conservative policies have been criticized as exacerbating economic inequality and social problems.
+# [[APUSH people]]

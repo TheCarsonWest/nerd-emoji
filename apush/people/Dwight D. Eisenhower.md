@@ -25,3 +25,4 @@
 * **Civil Rights:** The Civil Rights Act of 1957 marked a step towards addressing racial discrimination, but it faced strong resistance in the South.
 * **Space Race:** Eisenhower authorized the launch of the first American satellites, Explorer 1 and 2, initiating the [[United States]]' effort in the space race.
 * **Personal Impact:** Eisenhower was widely admired for his leadership, integrity, and common sense. His legacy as a pragmatic and unifying president remains influential today.
+# [[APUSH people]]

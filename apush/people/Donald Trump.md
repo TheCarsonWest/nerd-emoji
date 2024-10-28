@@ -39,3 +39,4 @@ Trump's presidency was marked by:
 * **Foreign Policy:** Pursued "America First" policies, withdrawing from international agreements and pursuing bilateral deals.
 * **Appointments:** Appointed conservative judges to the federal judiciary, including two Supreme Court Justices.
 * **Economic Policy:** Implemented tax cuts and deregulation, leading to economic growth but also increasing the national debt.
+# [[APUSH people]]

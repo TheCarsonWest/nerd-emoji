@@ -30,3 +30,4 @@
 * Reduced tariffs, but not to the extent desired by reformers
 * Faced criticism for his support of business interests
 * Laid the groundwork for the Federal Reserve System, which was established under his successor, [[Woodrow Wilson]]
+# [[APUSH people]]

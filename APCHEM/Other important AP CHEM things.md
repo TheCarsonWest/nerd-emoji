@@ -5,3 +5,7 @@
 - [[Lewis structures]]
 - [[Resonance Structures]]
 - [[formal charge]]
+- [[octet]] rule
+- [[Sigma bond]]
+- [[Pi Bond]]
+- [[hybridization]]

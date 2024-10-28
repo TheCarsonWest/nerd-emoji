@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "octet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "octet"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "apush/people/Alexander Hamilton.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Alexander Hamilton"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "apush/people/Alexander Hamilton.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Alexander Hamilton"
             }
           },
           {
@@ -129,10 +130,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "apush/people/Alexander Hamilton.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Alexander Hamilton"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "apush/people/Alexander Hamilton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Alexander Hamilton"
             }
           }
         ]
@@ -179,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "apush/people/Alexander Hamilton.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Alexander Hamilton"
             }
           }
         ]
@@ -230,11 +231,24 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b423f5ef0a591ef3",
+  "active": "62d0de3ba756c8b1",
   "lastOpenFiles": [
+    "apush/APUSH people.md",
+    "apush/APUSH Home.md",
+    "apush/people/POTUS.md",
+    "nexus.md",
+    "APCHEM/APCHEM Home.md",
+    "APCHEM/Other important AP CHEM things.md",
+    "Pi Bond.md",
+    "Sigma bond.md",
+    "APCHEM/Lewis structures.md",
+    "octet.md",
+    "apush/ids/u3/result/American Temperance Society.md",
+    "Exceptions to the Octet rule.md",
+    "voice-ai-test/1730120230.246381",
+    "voice-ai-test/combined_1730120050_051946.md",
     "brainrot/apush-brainrot.md",
     "voice-ai-test/combined_1729881039_872261.md",
-    "Untitled.md",
     "apush/ids/u3/result/Tariff of Abominations.md",
     "apush/ids/u3/result/Spoils System.md",
     "apush/ids/u2/Sugar Act.md",
@@ -246,28 +260,15 @@
     "apush-brainrot",
     "apush/ids/u3/result/Jays Treaty.md",
     "APHG/APHG Unit 2.md",
-    "apush/ids/u3/result/American Temperance Society.md",
     "APHG/Glossary.md",
     "Untitled 1.md",
     "APHG/Functional Region.md",
-    "apush/ids/IDS Unit 3.md",
-    "voice-ai-test/combined_1729880986_589607.md",
-    "voice-ai-test/combined_1729880755_062732.md",
-    "voice-ai-test/combined_1729880730_290005.md",
-    "voice-ai-test/combined_1729880631_056803.md",
-    "voice-ai-test/combined_1729867323_73028.md",
-    "voice-ai-test/combined_1729880311_281447.md",
-    "voice-ai-test/combined_1729867455_334359.md",
-    "voice-ai-test/combined_1729867270_210541.md",
-    "voice-ai-test/combined_1729867224_029469.md",
-    "voice-ai-test/combined_1729867170_030563.md",
     "notes.txt",
     "voice-ai-test/1729645614.643156",
     "scripts/voiceAi.py",
     "scripts/kittens.txt",
     "scripts/prepend.py",
     "scripts/replace.py",
-    "python1",
     "Pasted image 20241017082733.png",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_23.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_22.jpg",

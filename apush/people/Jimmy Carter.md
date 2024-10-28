@@ -37,3 +37,4 @@
 * He made significant progress in foreign affairs, particularly with the Camp David Accords.
 * However, his domestic policies faced opposition, and the Iran Hostage Crisis tarnished his reputation.
 * Carter's emphasis on human rights left a lasting legacy in American foreign policy.
+# [[APUSH people]]

@@ -31,3 +31,4 @@
 **Legacy:**
 
 Tyler's presidency is often overshadowed by his conflict with the Whig Party. However, his assertion of presidential authority and his role in resolving foreign disputes had a significant impact on the development of the [[United States]].
+# [[APUSH people]]

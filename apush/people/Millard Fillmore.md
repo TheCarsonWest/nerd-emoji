@@ -34,3 +34,4 @@
 * Fillmore is generally viewed as a weak and indecisive president who failed to find a balance in addressing the sectional crisis.
 * His support for the Fugitive Slave Act damaged his reputation and alienated many Northerners.
 * Despite his lack of success in resolving sectional tensions, Fillmore played a role in the drafting and passage of the Compromise of 1850.
+# [[APUSH people]]

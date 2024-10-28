@@ -43,3 +43,4 @@
 **Legacy:**
 
 Cleveland was a complex and enigmatic figure who navigated a politically tumultuous era. His legacy is mixed, with some historians praising his fiscal conservatism and others criticizing his handling of the Pullman Strike and economic downturns. Nevertheless, he remains an important figure in American history, known for his integrity and commitment to limited government.
+# [[APUSH people]]

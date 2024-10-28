@@ -33,3 +33,4 @@
 * Improved relations with China and the Soviet Union during the Cold War
 * Pardoned former President [[Richard Nixon]] after his resignation (1974)
 * Legacy marred by the Watergate Scandal, which led to his resignation in 1974
+# [[APUSH people]]

@@ -45,3 +45,4 @@
 * [[Gerald Ford]] is often remembered as a pragmatic and non-charismatic leader who inherited a difficult period in American history.
 * His presidency was marked by the challenges of Watergate, the Vietnam War, and economic recession.
 * He played a key role in ending the Vietnam War, signing important legislation, and pursuing détente with the Soviet Union.
+# [[APUSH people]]

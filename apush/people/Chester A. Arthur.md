@@ -34,3 +34,4 @@
 **Historical Assessment:**
 
 Arthur is often seen as a transitional figure in American history. He inherited a difficult presidency after Garfield's assassination and faced numerous challenges, including economic depression and calls for reform. While his tenure was not particularly transformative, he did make significant contributions to civil service reform and other areas.
+# [[APUSH people]]

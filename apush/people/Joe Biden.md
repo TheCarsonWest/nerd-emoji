@@ -46,3 +46,4 @@
 * Helped pass landmark legislation such as the Affordable Care Act
 * Navigated the COVID-19 pandemic and economic recovery
 * Worked to address issues of climate change, gun violence, and social inequality
+# [[APUSH people]]

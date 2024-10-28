@@ -24,3 +24,4 @@
 **Legacy:**
 
 Taylor's legacy as president is mixed. He is remembered for his military achievements but also for his inability to resolve the growing sectional tensions over slavery that were tearing the country apart. However, his military victories and his role in expanding the [[United States]]' territory continue to have an impact on the nation today.
+# [[APUSH people]]

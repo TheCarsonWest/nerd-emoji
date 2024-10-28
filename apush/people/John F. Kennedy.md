@@ -33,3 +33,4 @@
  * Remembered as a charismatic and inspiring leader
  * His assassination in 1963 cast a shadow over the rest of his presidency
  * His policies and vision continue to shape American politics and society
+# [[APUSH people]]

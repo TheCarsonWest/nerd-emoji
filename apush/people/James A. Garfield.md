@@ -33,3 +33,4 @@
 * He signed the Pendleton Civil Service Reform Act, which established a merit-based system for hiring federal employees.
 * However, his presidency was cut short when he was assassinated in 1881, only six months after taking office.
 * Garfield's assassination had a profound impact on the country, leading to increased calls for reform and the passage of the Pendleton Act.
+# [[APUSH people]]
