@@ -8,4 +8,5 @@
 - [[Demographic Transition Model]]
 - [[ETM]] Epidemiological Transition Model
 - [[population growth and decline]]
+- [[Natalist Policy]]
 

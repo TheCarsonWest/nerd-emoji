@@ -28,7 +28,7 @@ By June 2025 there will be a [full obsidian vault](https://obsidian.md/), (and n
 	- yt2gpt.py: makes notes off of video transcripts
 	- voiceAi.py: lets you talk to your microphone to make notes
 		- (wip as of 10/22/24)
-		- see [[voice-ai-test/kittens|kittens]] for an example
+		- see [[kittens]] for an example
 	- filemaker.py: makes a bunch of .md files with a set prompt and a title(useful for making APUSH flashcards)
 		- prompts.py: where all the various prompts ive used for filemaker.py are stored
 	- append.py: appends a string to all .md files in a folder and subfolders

@@ -15,4 +15,8 @@
 
  - [[Population Density]]
  - [[Ecumene]]
+ - [[Total Fertility Rate]]
+## Other
+- [[ETM]]
+- [[Demographic Transition Model]]
 

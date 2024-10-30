@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "octet.md",
+                "file": "APCHEM/octet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/people/Alexander Hamilton.md",
+                "file": "APHG/APHG Unit 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexander Hamilton"
+              "title": "APHG Unit 2"
+            }
+          },
+          {
+            "id": "d02439b96b3e13e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/people/Alexander Hamilton.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alexander Hamilton"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -130,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/people/Alexander Hamilton.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Alexander Hamilton"
+              "title": "Outline of README"
             }
           },
           {
@@ -142,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/people/Alexander Hamilton.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alexander Hamilton"
+              "title": "Outgoing links from README"
             }
           }
         ]
@@ -180,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "apush/people/Alexander Hamilton.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Alexander Hamilton"
+              "title": "Graph of README"
             }
           }
         ]
@@ -231,18 +246,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "62d0de3ba756c8b1",
+  "active": "d02439b96b3e13e3",
   "lastOpenFiles": [
+    "nexus.md",
+    "Untitled.md",
+    "APHG/APHG Unit 2.md",
+    "APHG/Natalist Policy.md",
+    "voice-ai-test/combined_1730202339_87537.md",
+    "APHG/Glossary.md",
+    "APHG/Total Fertility Rate.md",
+    "APHG/Map Types.md",
+    "APHG/Place Names.md",
+    "apush/people/Alexander Hamilton.md",
     "apush/APUSH people.md",
     "apush/APUSH Home.md",
     "apush/people/POTUS.md",
-    "nexus.md",
     "APCHEM/APCHEM Home.md",
     "APCHEM/Other important AP CHEM things.md",
-    "Pi Bond.md",
-    "Sigma bond.md",
+    "APCHEM/Pi Bond.md",
+    "APCHEM/Sigma bond.md",
     "APCHEM/Lewis structures.md",
-    "octet.md",
+    "APCHEM/octet.md",
     "apush/ids/u3/result/American Temperance Society.md",
     "Exceptions to the Octet rule.md",
     "voice-ai-test/1730120230.246381",
@@ -251,18 +275,9 @@
     "voice-ai-test/combined_1729881039_872261.md",
     "apush/ids/u3/result/Tariff of Abominations.md",
     "apush/ids/u3/result/Spoils System.md",
-    "apush/ids/u2/Sugar Act.md",
-    "apush/ids/u2/French and Indian War.md",
-    "apush/people/Alexander Hamilton.md",
-    "apush/people/Andrew Jackson.md",
     "brainrot/apush-brainrot",
     "brainrot",
     "apush-brainrot",
-    "apush/ids/u3/result/Jays Treaty.md",
-    "APHG/APHG Unit 2.md",
-    "APHG/Glossary.md",
-    "Untitled 1.md",
-    "APHG/Functional Region.md",
     "notes.txt",
     "voice-ai-test/1729645614.643156",
     "scripts/voiceAi.py",
