@@ -77,7 +77,7 @@ jobs:
 
 ### Related Python Concepts
 
-- [[Functions]]: CI/CD pipelines are often implemented using functions.
+- [[Functions]]: CI/CD pipelines are often implemented using [[functions]].
 - [[Web Scraping with BeautifulSoup]]: CI/CD pipelines can be used to automatically test web applications.
 - [[Building APIs with Flask or Django]]: CI/CD pipelines can be used to deploy APIs.
 - [[Unit Testing and Test-Driven Development]]: CI/CD pipelines typically include unit testing.

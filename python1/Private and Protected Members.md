@@ -42,9 +42,9 @@ class MyClass:
 ```
 
 ## Related Python Concepts
-- [[Encapsulation]]: Private and protected members are part of the encapsulation mechanism in Python.
+- [[Encapsulation]]: Private and protected members are part of the [[Encapsulation]] mechanism in Python.
 - [[Classes and Objects]]: Private and protected members are defined within classes.
 - [[Inheritance]]: Protected members can be accessed from subclasses.
 - [[Function Parameters]]: Private and protected methods can accept parameters like regular methods.
-- [[Return Values]]: Private and protected methods can return values like regular methods.
+- [[Return Values]]: Private and protected methods can [[Return Values]] like regular methods.
 # [[Python 1 Home]]

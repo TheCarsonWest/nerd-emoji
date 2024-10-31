@@ -65,6 +65,6 @@ client_socket.close()
 - [[File IO Modes]]: Sockets operate similarly to files in terms of reading and writing data.
 - [[Exception Handling]]: Socket operations can encounter errors, which can be handled using try/except blocks.
 - [[Concurrency and Multithreading]]: Socket programming often involves dealing with multiple connections in parallel, which requires understanding concurrency.
-- [[Multiprocessing]]: Socket programming can also benefit from multiprocessing for better resource utilization.
+- [[Multiprocessing]]: Socket programming can also benefit from [[Multiprocessing]] for better resource utilization.
 - [[Asynchronous Programming]]: Sockets can be used for asynchronous communication using libraries like asyncio.
 # [[Python 1 Home]]

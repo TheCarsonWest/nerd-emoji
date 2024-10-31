@@ -4,7 +4,7 @@
 Nested loops are a sequence of loops, where one or more loops are contained within another loop. They enable the execution of a nested block of code a specified number of times, depending on the conditions of the outer and inner loops.
 
 ### How to Use [[Nested Loops]]
-To create nested loops, use one or more for loops (or while loops) nested within another for loop (or while loop). The syntax is as follows:
+To create nested loops, use one or more [[For Loops]] (or [[While Loops]]) nested within another for loop (or while loop). The syntax is as follows:
 
 ```python
 for outer_variable in outer_sequence:
@@ -32,9 +32,9 @@ else:
 
 ### Related Python Concepts
 
-- [[For Loops]]: Nested loops are built using multiple for loops (or while loops).
+- [[For Loops]]: Nested loops are built using multiple [[For Loops]] (or [[While Loops]]).
 - [[Variables]]: The variables used in the nested loops represent the counters or iterators used to control the flow of execution.
 - [[Control Flow If Statements]]: Nested loops can be used in conjunction with if statements to conditionally execute code blocks.
 - [[Functions]]: Nested loops can be used to iterate over the elements of a list or dictionary passed as a parameter to a function.
-- [[List Comprehension]]: Nested loops can be used to create multi-dimensional lists using list comprehension.
+- [[List Comprehension]]: Nested loops can be used to create multi-dimensional [[Lists]] using [[List Comprehension]].
 # [[Python 1 Home]]

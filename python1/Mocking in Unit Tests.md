@@ -34,9 +34,9 @@ assert result == "Mocked Response"
 
 ### Related Python Concepts
 
-- [[Unit Testing and Test-Driven Development]]: Mocking is a technique used in unit testing to isolate and test individual functions or classes.
-- [[Functions]]: Mocks are used to substitute for other functions or objects.
+- [[Unit Testing and Test-Driven Development]]: Mocking is a technique used in unit testing to isolate and test individual [[Functions]] or classes.
+- [[Functions]]: Mocks are used to substitute for other [[Functions]] or objects.
 - [[Classes and Objects]]: Mocks can be used to create substitute objects for testing purposes.
 - [[Inheritance]]: Mocks can be used to create subclasses of existing classes with overridden methods for testing.
-- [[Polymorphism]]: Mocks provide a way to create objects that behave like other objects, enabling polymorphism in testing.
+- [[Polymorphism]]: Mocks provide a way to create objects that behave like other objects, enabling [[Polymorphism]] in testing.
 # [[Python 1 Home]]

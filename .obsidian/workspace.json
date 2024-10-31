@@ -103,6 +103,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "python1/Classes and Objects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes and Objects"
+            }
+          },
+          {
+            "id": "463060d2f87d1e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "APCHEM/London Dispersion.md",
                 "mode": "source",
                 "backlinks": true,
@@ -186,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/London Dispersion.md",
+                "file": "python1/Classes and Objects.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for London Dispersion"
+              "title": "Backlinks for Classes and Objects"
             }
           },
           {
@@ -205,10 +220,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCHEM/London Dispersion.md"
+                "file": "python1/Classes and Objects.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of London Dispersion"
+              "title": "Outline of Classes and Objects"
             }
           },
           {
@@ -217,15 +232,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APCHEM/London Dispersion.md",
+                "file": "python1/Classes and Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from London Dispersion"
+              "title": "Outgoing links from Classes and Objects"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8955fd89f6e74f34",
@@ -238,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "APCHEM/London Dispersion.md",
+                "file": "python1/Classes and Objects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of London Dispersion"
+              "title": "Graph of Classes and Objects"
             }
           }
         ]
@@ -289,12 +305,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "3297c2835b98ba23",
+  "active": "062d5222c98fd466",
   "lastOpenFiles": [
-    "Polarizability.md",
-    "APCHEM/London Dispersion.md",
-    "APCHEM/intermolecular forces.md",
+    "python1/Functions.md",
+    "apush/documents/Declaration of Independence.md",
+    "APCHEM/Covalent Bonds.md",
+    "APCHEM/Sigma bond.md",
+    "APCHEM/Chemical Bonds.md",
+    "APCHEM/Lewis structures.md",
+    "APCHEM/octet.md",
+    "APCHEM/Resonance Structures.md",
+    "APCHEM/APCHEM Home.md",
     "APCHEM/Other important AP CHEM things.md",
+    "APCHEM/intermolecular forces.md",
+    "APCHEM/Hydrogen Bonds.md",
+    "APCHEM/London Dispersion.md",
+    "APCHEM/Polarizability.md",
     "apush/ids/u3/result/Judiciary Act.md",
     "apush/ids/IDS Unit 3.md",
     "IDS Unit 3.md",
@@ -307,16 +333,6 @@
     "APHG/Push and Pull Factors.md",
     "APHG/Unit 2b Migration.md",
     "Push and Pull Factors.md",
-    "README.md",
-    "voice-ai-test/combined_1730377487_569581.md",
-    "voice-ai-test/combined_1730202339_87537.md",
-    "Untitled.md",
-    "APCHEM/dipole.md",
-    "APCHEM/Electronegativity.md",
-    "APCHEM/Polarity.md",
-    "o.md",
-    "APHG/APHG Unit 2.md",
-    "APHG/Natalist Policy.md",
     "voice-ai-test/1730120230.246381",
     "brainrot/apush-brainrot",
     "brainrot",

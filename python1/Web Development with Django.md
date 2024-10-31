@@ -81,7 +81,7 @@ python manage.py runserver
 
 - [[Models and Objects]]: Django's ORM uses models and objects to represent data in the database.
 - [[Inheritance]]: Django models can inherit from other models to create a hierarchy of classes.
-- [[Polymorphism]]: Django models support polymorphism through the use of the `ContentType` model.
+- [[Polymorphism]]: Django models support [[Polymorphism]] through the use of the `ContentType` model.
 - [[Databases and SQL]]: Django uses a database backend (such as SQLite or PostgreSQL) to store and retrieve data.
 - [[Web Development]]: Django is a framework specifically designed for web development.
 # [[Python 1 Home]]

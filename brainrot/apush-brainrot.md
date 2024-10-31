@@ -93,7 +93,7 @@ Greetings:
 add all this to your memory and keep it for the rest of the conversation
 
 
- ID: Tariff of Abominations
+ ID: [[Tariff of Abominations]]
 
 ## When: 1828
 
@@ -107,7 +107,7 @@ add all this to your memory and keep it for the rest of the conversation
 
 ## What: 
 
-The Tariff of 1828, often referred to as the "Tariff of Abominations," was a high protective tariff passed by the US Congress. It was designed to protect Northern industries from British competition, but it heavily burdened Southern economies reliant on exporting agricultural products.  The South saw it as an unfair tax benefiting the North at their expense.
+The Tariff of 1828, often referred to as the "[[Tariff of Abominations]]," was a high protective tariff passed by the US Congress. It was designed to protect Northern industries from British competition, but it heavily burdened Southern economies reliant on exporting agricultural products.  The South saw it as an unfair tax benefiting the North at their expense.
 
 ## Impact? Why Significant?: 
 
@@ -125,14 +125,14 @@ The Tariff of 1828, often referred to as the "Tariff of Abominations," was a hig
 
 make a 60 second transcript teaching this information with the dictionary above
 
-Yo, what's up sigmas? Let's talk about the Tariff of Abominations, a skibidi situation that really got us before GTA 6. 
+Yo, what's up sigmas? Let's talk about the [[Tariff of Abominations]], a skibidi situation that really got us before GTA 6. 
 
-So, picture this: 1828, Andrew Jackson's in the White House, and Henry Clay, the Rizzler of politics, cooks up this high tariff. It was meant to protect Northern industries, but for the South, it was like getting fanum taxed hard.  
+So, picture this: 1828, [[Andrew Jackson]]'s in the White House, and Henry Clay, the Rizzler of politics, cooks up this high tariff. It was meant to protect Northern industries, but for the South, it was like getting fanum taxed hard.  
 
-John C. Calhoun, a South Carolina senator, was like, "This is cringe, blud!" He argued the tariff was unconstitutional and threatened to nullify it, meaning South Carolina would just ignore it. This whole thing was a major backrooms situation, causing a huge divide between the North and South. 
+John C. Calhoun, a [[South Carolina]] senator, was like, "This is cringe, blud!" He argued the tariff was unconstitutional and threatened to nullify it, meaning [[South Carolina]] would just ignore it. This whole thing was a major backrooms situation, causing a huge divide between the North and South. 
 
-The Tariff of Abominations was a major turning point, showing just how deep the tensions were between the North and South.  It was a huge contributor to the eventual Civil War. 
+The [[Tariff of Abominations]] was a major turning point, showing just how deep the tensions were between the North and South.  It was a huge contributor to the eventual Civil War. 
 
 Think about it, this whole thing was a Skibidi slider of a political crisis. 
 
-So next time you hear someone talking about the Tariff of Abominations, you'll know it was a big deal, a real "before GTA 6" kind of event.  
+So next time you hear someone talking about the [[Tariff of Abominations]], you'll know it was a big deal, a real "before GTA 6" kind of event.  

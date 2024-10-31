@@ -1,7 +1,7 @@
 ## [[Regex Groups and Backreferences]]
 
 ### What are [[Regex Groups and Backreferences]]?
-Groups in regular expressions are used to capture substrings within the matched pattern. Backreferences allow referencing these captured substrings within the regular expression itself or in subsequent processing.
+Groups in [[Regular Expressions]] are used to capture substrings within the matched pattern. Backreferences allow referencing these captured substrings within the regular expression itself or in subsequent processing.
 
 ### How to Use Regex Groups
 To create a group in a regular expression, use parentheses:
@@ -34,9 +34,9 @@ phone_number = match.group(1)
 
 ### Related Python Concepts
 
-- [[Regular Expressions]]: Groups and backreferences are core components of regular expressions.
-- [[Functions]]: Regular expressions often use matching functions like `search` and `findall`.
-- [[Lambda [[Functions]]: Regular expressions can be used as arguments to lambda functions.
-- [[Sets]]: Groups can be used to construct sets of matched substrings.
-- [[Tuples]]: Backreferences return tuples containing the captured substrings.
+- [[Regular Expressions]]: Groups and backreferences are core components of [[Regular Expressions]].
+- [[Functions]]: [[Regular Expressions]] often use matching [[Functions]] like `search` and `findall`.
+- [[Lambda [[Functions]]: [[Regular Expressions]] can be used as arguments to [[Lambda Functions]].
+- [[Sets]]: Groups can be used to construct [[Sets]] of matched substrings.
+- [[Tuples]]: Backreferences return [[Tuples]] containing the captured substrings.
 # [[Python 1 Home]]

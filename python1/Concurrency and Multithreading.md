@@ -26,8 +26,8 @@ thread.join()
 
 ### Related Python Concepts
 
-- [[Functions]]: Multithreading involves creating and executing functions in separate threads.
-- [[Modules and Packages]]: The `threading` module is a pre-built module in Python that provides functions and classes for multithreading.
+- [[Functions]]: Multithreading involves creating and executing [[functions]] in separate threads.
+- [[Modules and Packages]]: The `threading` module is a pre-built module in Python that provides [[functions]] and classes for multithreading.
 - [[Concurrency and Multithreading]]: This topic is directly related to concurrency and multithreading in Python.
 - [[Multiprocessing]]: [[Multiprocessing]] is another approach for parallel execution, involving the creation of separate processes instead of threads.
 - [[Asynchronous Programming]]: Asynchronous programming allows for non-blocking I/O operations, which can be useful for concurrency.

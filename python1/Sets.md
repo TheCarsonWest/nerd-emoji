@@ -49,9 +49,9 @@ print(set6) # output: {'banana', 'cherry', 'google', 'microsoft'}
 
 ### Related Python Concepts
 
-- [[Lists]]: Similar to sets, lists are also a collection of elements, but they allow duplicates and maintain the order of insertion.
+- [[Lists]]: Similar to sets, [[Lists]] are also a collection of elements, but they allow duplicates and maintain the order of insertion.
 - [[Tuples]]: [[Tuples]] are immutable collections similar to sets but with a fixed order of elements.
 - [[Dictionaries]]: [[Dictionaries]] are mappings that associate keys to values, and they do not allow duplicate keys.
-- [[Frozen [[Sets]]: Frozen sets are immutable versions of sets, meaning their elements cannot be modified.
-- [[Set Comprehension]]: Set comprehension provides a concise way to create sets using a similar syntax to list comprehension.
+- [[Frozen [[Sets]]: [[Frozen Sets]] are immutable versions of sets, meaning their elements cannot be modified.
+- [[Set Comprehension]]: Set comprehension provides a concise way to create sets using a similar syntax to [[List Comprehension]].
 # [[Python 1 Home]]

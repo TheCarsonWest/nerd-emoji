@@ -31,7 +31,7 @@ print(obj.foo) # prints 'bar'
 
 ### Related Python Concepts
 
-- [[Classes and Objects]]: [[Metaclasses]] provide a way to customize the behavior of classes and objects.
+- [[Classes and Objects]]: [[Metaclasses]] provide a way to customize the behavior of [[Classes and Objects]].
 - [[Inheritance]]: [[Metaclasses]] can be used to create new classes that inherit from existing classes.
 - [[Polymorphism]]: [[Metaclasses]] can be used to change the behavior of methods and properties based on the class of an object.
 - [[Encapsulation]]: [[Metaclasses]] can be used to restrict access to attributes and methods of a class.

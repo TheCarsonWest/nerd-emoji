@@ -4,7 +4,7 @@
 Dynamic importing is a technique in Python that allows the importing of modules or packages at runtime based on a dynamically determined string. It is different from static importing, which imports modules or packages explicitly at the beginning of a script.
 
 ### How to Use [[Dynamic Importing]]
-The `importlib` module provides functions for dynamic importing:
+The `importlib` module provides [[functions]] for dynamic importing:
 
 - `importlib.import_module(module_name)`: Imports a module by its name and returns the module object.
 - `importlib.reload(module)`: Reloads a previously imported module.
@@ -36,7 +36,7 @@ print(json_data['name']) # Output: John
 - [[Modules and Packages]]: Dynamic importing provides a way to dynamically load modules and packages.
 - [[Importing Modules]]: Dynamic importing is an alternative to static importing.
 - [[Variables and Data Types]]: Dynamic importing relies on strings to represent module names.
-- [[Functions]]: The `importlib.import_module()` and `importlib.reload()` functions are used for dynamic importing.
+- [[Functions]]: The `importlib.import_module()` and `importlib.reload()` [[functions]] are used for dynamic importing.
 - [[Decorators]]: Dynamic importing can be used in conjunction with decorators to load modules based on runtime conditions.
 - [[Building and Distributing Python Packages]]
 - 

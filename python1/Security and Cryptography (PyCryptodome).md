@@ -5,7 +5,7 @@ PyCryptodome is a Python module that provides a robust set of cryptographic algo
 
 ### Usage
 
-PyCryptodome includes a wide range of cryptographic functions, each with specific parameters and usage. Here are some common functions and their parameters:
+PyCryptodome includes a wide range of cryptographic [[Functions]], each with specific parameters and usage. Here are some common [[Functions]] and their parameters:
 
 - **encrypt()**: Encrypts data using a specified algorithm and key. It takes the plaintext, key, and padding scheme as parameters.
  - `plaintext`: The original data to be encrypted.
@@ -55,7 +55,7 @@ print(digest.hex())
 
 - [[Variables and Data Types]]: Cryptographic operations involve handling binary data, requiring familiarity with data types like bytes and integers.
 - [[Operators]]: [[Operators]] like `+` and `==` are used to concatenate or compare cryptographic data.
-- [[Functions]]: PyCryptodome provides functions for encryption, decryption, hashing, and digital signatures.
+- [[Functions]]: PyCryptodome provides [[Functions]] for encryption, decryption, hashing, and digital signatures.
 - [[Modules and Packages]]: PyCryptodome is a third-party module that must be imported to use its functionalities.
 - [[File Handling]]: Cryptographic data can be written to or read from files for storage or transmission.
 # [[Python 1 Home]]

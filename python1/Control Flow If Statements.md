@@ -31,7 +31,7 @@ if user_is_admin():
 
 - [[Variables and Data Types]]: If statements rely on Boolean data types to evaluate conditions.
 - [[Operators]]: Comparison operators like `>` and `==` are used to create conditions in if statements.
-- [[Functions]]: If statements can be used to conditionally call functions.
+- [[Functions]]: If statements can be used to conditionally call [[functions]].
 - [[For Loops]]: If statements can be used to control the execution of for loops.
 - [[While Loops]]: If statements can be used to terminate or continue the execution of while loops.
 

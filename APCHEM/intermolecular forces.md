@@ -17,13 +17,7 @@ van der waals is a fancy way of saying these are the ones that exist between **i
 - Only occurs in polar molecules
 - HBr is a highly polar molecule, and the Br will be attracted to other molecules' hydrogens
 ## [[London Dispersion]]
-## Hydrogen Bonds: Dipole Dipole but with hydrogen
-- Only occurs in molecules with:
-	- A Highly electronegative([[Electronegativity]]) Element
-		- O N or F
-	- Hydrogen
-- $H_2O$ has a Oxygen, a very electronegative element, and hydrogen. The oxygen will attract the other molecules hydrogen
-
+## [[Hydrogen Bonds]]
 # Non Van Der Waals IMFs
 ## Ion Dipole: An ion attracts a [[dipole]]
 

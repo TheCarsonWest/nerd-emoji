@@ -1,4 +1,4 @@
-[[Other important AP CHEM things]]
+[[Chemical Bonds]]
 
 Lewis dot structures are a simple yet powerful tool in chemistry for visualizing the arrangement of valence electrons in atoms and molecules. They help us understand bonding, predict molecular shapes, and determine the reactivity of molecules. 
 

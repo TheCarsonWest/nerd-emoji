@@ -25,6 +25,6 @@ df = pd.DataFrame(arr)
 - [[NumPy]]: DataFrames rely on NumPy arrays for data storage.
 - [[Lists]]: DataFrames can be created from lists of dictionaries.
 - [[Dictionaries]]: DataFrames can be created from dictionaries.
-- [[Functions]]: Methods on DataFrames are essentially functions that operate on the data in the DataFrame.
+- [[Functions]]: Methods on DataFrames are essentially [[functions]] that operate on the data in the DataFrame.
 - [[Modules and Packages]]: Pandas is a module that provides the DataFrame data structure.
 # [[Python 1 Home]]

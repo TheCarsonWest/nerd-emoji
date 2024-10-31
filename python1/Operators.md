@@ -1,7 +1,7 @@
 ## Python [[Operators]]
 
 ### What are [[Operators]]?
- [[Operators]] are special symbols or functions that perform specific operations on values. They allow the manipulation, comparison, and modification of data in Python.
+ [[Operators]] are special symbols or [[Functions]] that perform specific operations on values. They allow the manipulation, comparison, and modification of data in Python.
 
 ### How to Use [[Operators]]
  [[Operators]] can be used in expressions along with variables, values, and other operators. The result of an operation depends on the types of operands and the operator itself.
@@ -47,5 +47,5 @@ x == 10
 - [[Control Flow If Statements]]: [[Operators]] are used in conditions to control the flow of a program.
 - [[For Loops]]: [[Operators]] can be used to modify loop variables.
 - [[While Loops]]: [[Operators]] are used to terminate or continue loops.
-- [[Bitwise Operators]]: Bitwise operators are specialized operators that perform operations on binary data.
+- [[Bitwise Operators]]: [[Bitwise Operators]] are specialized operators that perform operations on binary data.
 # [[Python 1 Home]]

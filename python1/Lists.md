@@ -10,7 +10,7 @@
 my_list = [1, 2, 3, 4, 5]
 ```
 
- [[Lists]] can also be created from other iterables, such as tuples and strings.
+ [[Lists]] can also be created from other iterables, such as [[Tuples]] and strings.
 
 ```python
 my_list = list((1, 2, 3, 4, 5))
@@ -50,7 +50,7 @@ numbers.sort()
 ### Related Python Concepts
 - [[Variables and Data Types]]: [[Lists]] are a type of data structure that can store multiple values.
 - [[Mutable vs Immutable Types]]: [[Lists]] are mutable, meaning their contents can be modified.
-- [[For Loops]]: For loops can be used to iterate over the elements of a list.
+- [[For Loops]]: [[For Loops]] can be used to iterate over the elements of a list.
 - [[List Comprehension]]: List comprehensions provide a concise way to create new lists based on existing lists.
 - [[Multidimensional [[Lists]]: [[Lists]] can be nested to create multidimensional data structures.
 # [[Python 1 Home]]

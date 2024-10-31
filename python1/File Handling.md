@@ -39,6 +39,6 @@ file.close()
 - [[Variables and Data Types]]: File handling operations involve working with strings and file objects.
 - [[Operators]]: File I/O operations use operators like `+` for string concatenation.
 - [[Control Flow If Statements]]: File handling operations often involve conditional execution.
-- [[Functions]]: File I/O operations can be encapsulated in functions for reuse.
+- [[Functions]]: File I/O operations can be encapsulated in [[functions]] for reuse.
 - [[File IO Modes]]: There are several different modes available for opening files, each with specific behavior.
 # [[Python 1 Home]]

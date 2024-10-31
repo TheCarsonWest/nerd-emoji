@@ -1,7 +1,7 @@
 ## [[Memoization in [[Recursion]]
 
 ### What is Memoization?
-Memoization is a technique used in recursion to optimize performance by storing the results of function calls in a cache. This prevents the function from recomputing the same values multiple times, resulting in significantly faster execution times.
+Memoization is a technique used in [[Recursion]] to optimize performance by storing the results of function calls in a cache. This prevents the function from recomputing the same values multiple times, resulting in significantly faster execution times.
 
 ### How to Use Memoization
 Memoization can be implemented using a decorator function, which wraps the original function and checks the cache for existing results before executing the function again.
@@ -35,9 +35,9 @@ def fibonacci(n):
 
 ### Related Python Concepts
 
-- [[Recursion]]: Memoization is directly related to recursion, as it optimizes recursive function calls.
+- [[Recursion]]: Memoization is directly related to [[Recursion]], as it optimizes recursive function calls.
 - [[Caches]]: Memoization involves the use of a cache to store the results of function calls.
 - [[Decorators]]: Memoization is implemented using a decorator function.
-- [[Dynamic Programming]]: Memoization is a key technique in dynamic programming, which optimizes recursive solutions by storing intermediate results.
-- [[Optimizations]]: Memoization is a method of optimizing the performance of recursive functions.
+- [[Dynamic Programming]]: Memoization is a key technique in dynamic programming, which optimizes recursive [[solutions]] by storing intermediate results.
+- [[Optimizations]]: Memoization is a method of optimizing the performance of recursive [[Functions]].
 # [[Python 1 Home]]

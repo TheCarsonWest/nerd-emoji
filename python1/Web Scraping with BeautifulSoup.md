@@ -46,7 +46,7 @@ title = title_element.text
 ### Related Python Concepts
 
 - [[Libraries like Requests Library]]: BeautifulSoup is often used in conjunction with libraries like Requests for fetching web pages.
-- [[Regular Expressions]]: BeautifulSoup uses regular expressions for extracting specific patterns from web pages.
+- [[Regular Expressions]]: BeautifulSoup uses [[Regular Expressions]] for extracting specific patterns from web pages.
 - [[HTML and XML]]: BeautifulSoup specifically parses HTML and XML documents.
 - [[Web Development with Django]]: Web scraping can be used to gather data for web development projects.
 - [[Handling APIs with Requests Library]]: Web scraping can be used to access data from APIs.

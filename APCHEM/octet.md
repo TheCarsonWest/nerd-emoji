@@ -29,7 +29,7 @@ The octet rule states that atoms tend to gain, lose, or share electrons to achie
 ### 2. Expanded Octet
 
 * **Elements:**  Elements in Period 3 and beyond (from P to the right) can accommodate more than eight electrons in their valence shell.
-* **Explanation:**  These elements have available *d* orbitals in their valence shell, which can participate in bonding. This allows them to form more than four covalent bonds and expand their octet.
+* **Explanation:**  These elements have available *d* orbitals in their valence shell, which can participate in bonding. This allows them to form more than four [[covalent bonds]] and expand their octet.
 * **Example:** Sulfur hexafluoride ($SF_6$). Sulfur has six valence electrons and forms six bonds with fluorine atoms. This results in 12 electrons around sulfur, exceeding the octet rule.
 
 ### 3. Odd Number of Electrons

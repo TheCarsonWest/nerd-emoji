@@ -3,8 +3,8 @@
 ### Explanation
 In Python, data types can be categorized as either mutable or immutable. Mutability refers to whether the value of a variable can be changed once it is created.
 
-- **Mutable Types:** Allow modification of their values after creation, such as lists, dictionaries, and sets.
-- **Immutable Types:** Do not allow modification of their values after creation, such as strings, tuples, and numbers (integers, floats, etc.).
+- **Mutable Types:** Allow modification of their values after creation, such as [[Lists]], [[Dictionaries]], and [[Sets]].
+- **Immutable Types:** Do not allow modification of their values after creation, such as strings, [[Tuples]], and numbers (integers, floats, etc.).
 
 ### How to Use It
 The mutability of a type is determined by its class. For example, `list()` is a mutable class, while `str()` is an immutable class.

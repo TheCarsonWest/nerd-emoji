@@ -35,9 +35,9 @@ cat.speak() # prints "Cat meows."
 ```
 
 ### Related Python Concepts
-- [[Classes and Objects]]: [[Polymorphism]] relies heavily on inheritance and objects of different classes.
+- [[Classes and Objects]]: [[Polymorphism]] relies heavily on [[Inheritance]] and objects of different classes.
 - [[Inheritance]]: Subclasses inherit the properties and methods of their parent class, allowing for method overriding and polymorphism.
 - [[Method Resolution Order (MRO)]]: Determines the order in which methods are searched within the class hierarchy during polymorphism.
 - [[Duck Typing]]: A variant of polymorphism where objects are classified by methods they implement rather than their class.
-- [[Higher-Order [[Functions]]: [[Functions]] that take other functions as arguments or return functions enable polymorphism by allowing runtime customization.
+- [[Higher-Order [[Functions]]: [[Functions]] that take other [[Functions]] as arguments or return [[Functions]] enable polymorphism by allowing runtime customization.
 # [[Python 1 Home]]

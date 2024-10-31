@@ -8,7 +8,7 @@ When implementing recursion, it is important to:
 
 - Define a base case: This is the stopping condition that prevents the function from recursing indefinitely.
 - Recursively call the function with simpler subproblems: The subproblems should have smaller inputs and gradually move towards the base case.
-- Return values from the recursive calls: The function returns values that are aggregated or used to calculate the final result.
+- [[Return Values]] from the recursive calls: The function returns values that are aggregated or used to calculate the final result.
 
 ### Code Examples
 
@@ -37,8 +37,8 @@ def fibonacci(n):
 ### Related Python Concepts
 
 - [[Functions]]: [[Recursion]] is a special case of function calls where the function calls itself.
-- [[Function Parameters]]: Recursive functions often use parameters to pass smaller subproblems to the recursive calls.
-- [[Return Values]]: Recursive functions return values that are used to calculate the final result.
-- [[Memoization in [[Recursion]]: Memoization techniques can optimize recursive functions by caching previously calculated results.
-- [[Higher-Order [[Functions]]: [[Recursion]] can be used to implement higher-order functions that accept and return other functions.
+- [[Function Parameters]]: Recursive [[Functions]] often use parameters to pass smaller subproblems to the recursive calls.
+- [[Return Values]]: Recursive [[Functions]] [[Return Values]] that are used to calculate the final result.
+- [[Memoization in [[Recursion]]: Memoization techniques can optimize recursive [[Functions]] by caching previously calculated results.
+- [[Higher-Order [[Functions]]: [[Recursion]] can be used to implement [[Higher-Order Functions]] that accept and return other [[Functions]].
 # [[Python 1 Home]]

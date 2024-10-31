@@ -41,9 +41,9 @@ deactivate
 
 ### Related Python Concepts
 
-- [[Modules and Packages]]: Virtual environments help manage and isolate different versions of Python modules and packages.
+- [[Modules and Packages]]: Virtual environments help manage and isolate different versions of Python [[Modules and Packages]].
 - [[Installing and Managing Modules]]: Virtual environments allow you to install and manage packages specific to a project without affecting the system-wide Python installation.
 - [[Python Package Index (PyPI) Publishing]]: Virtual environments help test and develop packages before publishing them to PyPI.
-- [[Building and Distributing Python Packages]]: Virtual environments provide a controlled environment for building and distributing Python packages.
+- [[Building and Distributing Python Packages]]: Virtual environments provide a controlled environment for [[Building and Distributing Python Packages]].
 - [[Concurrency and Multithreading]]: Virtual environments can be used to create isolated environments for running multithreaded or concurrent applications.
 # [[Python 1 Home]]

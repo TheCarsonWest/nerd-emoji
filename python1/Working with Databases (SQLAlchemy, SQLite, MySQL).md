@@ -54,8 +54,8 @@ engine = create_engine('mysql+mysqlconnector://[username]:[password]@[host]:[por
 
 ### Related Python Concepts
 - [[Variables and Data Types]]: Database connections and data are stored in variables.
-- [[Object-Oriented Programming]]: SQLAlchemy uses classes and objects to model database schemas.
+- [[Object-Oriented Programming]]: SQLAlchemy uses [[Classes and Objects]] to model database schemas.
 - [[List Comprehension]]: Database queries often utilize list comprehensions for data filtering and manipulation.
-- [[Generators]]: SQLAlchemy uses generators to lazily load data from databases.
+- [[Generators]]: SQLAlchemy uses [[Generators]] to lazily load data from databases.
 - [[File Handling]]: Database operations often involve reading and writing to files.
 # [[Python 1 Home]]

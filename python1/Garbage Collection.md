@@ -4,7 +4,7 @@
 Garbage collection is an automatic memory management mechanism in Python. It manages the memory allocated to objects and releases the memory when the objects are no longer in use. This ensures that Python programs can efficiently and effectively utilize memory resources.
 
 ### How to Use [[Garbage Collection]]
-Python's garbage collection is invoked automatically by the Python interpreter when necessary. There are no specific functions or parameters that need to be used to explicitly trigger garbage collection.
+Python's garbage collection is invoked automatically by the Python interpreter when necessary. There are no specific [[functions]] or parameters that need to be used to explicitly trigger garbage collection.
 
 ### Other Python Concepts Related to [[Garbage Collection]]
 - **Reference Counting:** Python uses reference counting to track the number of references to an object. When the reference count becomes zero, the object is considered garbage and can be collected.

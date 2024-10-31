@@ -1,3 +1,4 @@
+[[Chemical Bonds]]
 
 Resonance structures are multiple [[Lewis structures]] that represent the delocalization of electrons within a molecule or ion. These structures are not real, but rather theoretical representations that help us understand the distribution of electrons and predict molecular properties. 
 

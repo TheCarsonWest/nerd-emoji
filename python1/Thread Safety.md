@@ -82,5 +82,5 @@ thread_local = threading.local()
 - [[Locks]]: Locks are essential for achieving thread safety by controlling access to critical sections.
 - [[Multiprocessing]]: [[Multiprocessing]] offers an alternative to threads for parallel execution, but thread safety considerations still apply.
 - [[Synchronization]]: Thread safety requires proper synchronization mechanisms to ensure that multiple threads can access shared resources without conflict.
-- [[Asynchronous Programming]]: Asynchronous programming techniques can help avoid thread safety issues by leveraging event-based execution models.
+- [[Asynchronous Programming]]: [[Asynchronous Programming]] techniques can help avoid thread safety issues by leveraging event-based execution models.
 # [[Python 1 Home]]
