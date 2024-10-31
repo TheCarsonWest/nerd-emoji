@@ -2,7 +2,7 @@
 
 # TL DR: Just multiply the subscript by the molarity
 
-**Ion concentration** is the measure of the amount of ions present in a solution. It is typically expressed in units of molarity (M), which is defined as the number of moles of solute per liter of solution.
+**Ion concentration** is the measure of the amount of ions present in a solution. It is typically expressed in units of [[molarity]] (M), which is defined as the number of moles of solute per liter of solution.
 
 ### Steps to Calculate Ion Concentration
 
@@ -18,13 +18,13 @@ $$
 
 The following equations can be used to calculate ion concentration:
 
-* **Molarity (M) = moles of solute / liters of solution**
+* **[[molarity]] (M) = moles of solute / liters of solution**
 * **Moles of ions = moles of solute × number of ions produced per molecule of solute**
 * **Liters of solution = volume of solution / 1000 mL**
 
 ### Example
 
-Calculate the molarity of a solution that contains 5.85 g of NaCl in 250 mL of solution.
+Calculate the [[molarity]] of a solution that contains 5.85 g of NaCl in 250 mL of solution.
 
 **Step 1:** Calculate the moles of NaCl present in the solution.
 $$
@@ -40,7 +40,7 @@ $$
 $$
 **Step 4:** Divide the moles of ions by the volume of the solution to obtain the ion concentration.
 $$
-\text{molarity (M)} = \frac{0.200 \text{mol} }{ 0.250 \text{L}} = 0.800 \text{M}
+\text{[[molarity]] (M)} = \frac{0.200 \text{mol} }{ 0.250 \text{L}} = 0.800 \text{M}
 $$
 
-Therefore, the molarity of the solution is 0.800 M.
+Therefore, the [[molarity]] of the solution is 0.800 M.

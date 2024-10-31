@@ -20,7 +20,7 @@ Show spatial aspects of information or of a phenomenon
 Shows data in a color scale
 ### Chloropleths are bad
 - Outliers will turn an entire state dark
-	- Ex Atlanta's black neighborhoods make the whole state of georgia dark on a chloropleth scale
+	- Ex Atlanta's black neighborhoods make the whole state of [[Georgia]] dark on a chloropleth scale
 ## [[Dot distribution]]
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeFfDwgIRkaCVMbulO3D8PL7qnuXfbi-vh3lXGUzO-pN5IxJdgJH-COJJdMsAc4dqB1A4BNRISl0T5OPFYHq-TjbvWRFVq3eBeIrL4ryaqRG8krv3Gpg5vfSWXX3rBufgnlreBFQg3uK2o_Pr8IDV1Vog5enid2qClIxA=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
 - Shows the distribution of things

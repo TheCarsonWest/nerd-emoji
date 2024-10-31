@@ -1,12 +1,12 @@
 # ID: Bill of Rights
 ## When: December 15, 1791
 ## Who: 
-* **Authored by:** James Madison 
-* **Proposed by:**  The First United States Congress
+* **Authored by:** [[James Madison]] 
+* **Proposed by:**  The First [[United States]] Congress
 * **Ratified by:** The states 
 
 ## What:
-The first ten amendments to the United States Constitution. They guarantee essential rights and civil liberties to all citizens, including: 
+The first ten amendments to the [[United States]] Constitution. They guarantee essential rights and civil liberties to all citizens, including: 
 * Freedom of religion, speech, press, assembly, and petition (First Amendment)
 * Right to bear arms (Second Amendment)
 * Protection from unreasonable searches and seizures (Fourth Amendment)

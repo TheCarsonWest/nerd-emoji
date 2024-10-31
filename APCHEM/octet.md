@@ -23,7 +23,7 @@ The octet rule states that atoms tend to gain, lose, or share electrons to achie
 ### 1. Incomplete Octet
 
 * **Elements:**  Group 2 and 3 elements (Be, B, Al) often have fewer than eight electrons in their valence shell.
-* **Explanation:**  These elements have a low electronegativity and readily form bonds by sharing electrons. However, they may not achieve a full octet due to their limited number of valence electrons.
+* **Explanation:**  These elements have a low [[Electronegativity]] and readily form bonds by sharing electrons. However, they may not achieve a full octet due to their limited number of valence electrons.
 * **Example:** Boron trifluoride ($BF_3$). Boron has only three valence electrons, forming three bonds with fluorine atoms. This leaves boron with only six electrons in its valence shell.
 
 ### 2. Expanded Octet

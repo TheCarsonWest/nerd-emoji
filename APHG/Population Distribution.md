@@ -24,7 +24,7 @@
 - Dubai
 - Kuwait
 ### Geopolitical
-- People live in Alaska because we need to make sure Russia knows we are there
+- People live in [[Alaska]] because we need to make sure Russia knows we are there
 
 
 

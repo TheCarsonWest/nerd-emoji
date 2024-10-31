@@ -9,7 +9,7 @@
 	- Buy the cheapest cotton in Brazil
 	- Use an American factory to turn it into cloth
 	- send it off for Xiang Zhang(age 7) to make into a shirt at the Shein factory in China
-	- Sell it in France
+	- Sell it in [[France]]
 - Paying fees for crossing borders and transporting it is cheaper than doing the whole thing in one country
 ### The Internet
 - I can talk to محمد بن ابدلازيز اشتري شورما مع بابسي in Saudi Arabia right now on social media
@@ -63,7 +63,7 @@ Continue these style of notes, taking notes on this article
 ### Definition
 
 - Use of natural resources in a way that does not irreversibly deplete them
-- Essential theme in human geography, driving decisions about human interactions with geographic processes
+- Essential theme in human geography, driving decisions about human interactions with geographic [[Processes]]
 
 ### Sustainable Development
 - Development that meets present needs without compromising future generations' needs

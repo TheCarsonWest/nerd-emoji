@@ -8,4 +8,4 @@
 - Examples:
  - Catalonia ([[Spain]])
  - Quebec (Canada)
- - Basque Country ([[Spain]] and France)
+ - Basque Country ([[Spain]] and [[France]])

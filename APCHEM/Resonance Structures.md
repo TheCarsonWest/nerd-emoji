@@ -8,7 +8,7 @@ Resonance structures are multiple [[Lewis structures]] that represent the deloca
 * **Resonance Hybrid:** The actual structure of the molecule is a hybrid of all the contributing resonance structures, referred to as the resonance hybrid. The resonance hybrid is a weighted average of the contributing structures, with more stable structures contributing more to the overall structure.
 * **Stability:** Resonance structures that contribute more to the overall structure are more stable. Factors influencing stability include:
     * **Formal Charges:** Structures with smaller formal charges on atoms are more stable.
-    * **Octet Rule:** Structures where all atoms have a complete octet are more stable.
+    * **[[octet]] Rule:** Structures where all atoms have a complete [[octet]] are more stable.
     * **Negative Charge on More Electronegative Atom:** Structures with negative charge on a more electronegative atom are more stable.
 
 **Examples:**

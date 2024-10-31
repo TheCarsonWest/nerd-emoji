@@ -31,7 +31,7 @@
     * Most flows originate and/or end in Asia.
 ### Examples
 * Rust Belt
-	* Nobody wants to live in Gary Indiana so they left for the south
+	* Nobody wants to live in Gary [[Indiana]] so they left for the south
 * Gilded Age
 	* America: "trust me bro we are so much better than europe bro PLEASE move here I swear youll live better"
 	* Europeans actually believed this
@@ -43,8 +43,8 @@
 ### Examples
 * Mormons
 	* People didn't like the false prophet worshippers, and they frequently battled on the streets of the midwest
-		* Joseph Smith was hung for treason against the state of Illinois
-	* Those heretics got pushed out to Utah where their ancient hyperintellegent Israelite civilizations apparently lived
+		* Joseph Smith was hung for treason against the state of [[Illinois]]
+	* Those heretics got pushed out to [[Utah]] where their ancient hyperintellegent Israelite civilizations apparently lived
 	* List of Latter Day Saints in heaven:
 		* 
 		* 
@@ -63,7 +63,7 @@
 - Cuba
 	- Who tf wants to be communist
 	- Everyone leaves the first chance they get
-	- Now Cubans are a majority demographic in certain counties in Florida
+	- Now Cubans are a majority demographic in certain counties in [[Florida]]
 - China
 	- Communist
 	- A lot of olympians would defect the country from the olympics
@@ -80,7 +80,7 @@
 ### Examples:
 * Nepal earthquake, Tsunami in Japan, Tsunami in Indonesia: Displaced populations
 * Desertification: Deterioration of land to a desert-like condition due to human actions. This forces people to migrate from drylands in Africa.
-* Flooding: Events like the 2011 Mississippi River flooding and Jakarta, Indonesia flooding force people from their homes.
+* Flooding: Events like the 2011 [[Mississippi]] River flooding and Jakarta, Indonesia flooding force people from their homes.
 
 ## Demographic Push and Pull Factors
 
