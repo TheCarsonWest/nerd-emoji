@@ -1,4 +1,4 @@
-### Dipoles are covalent bonds with a high polarity
+### Dipoles are covalent bonds with a high [[polarity]]
 ### used in [[intermolecular forces]]
 
 ### Dipole Moment formula

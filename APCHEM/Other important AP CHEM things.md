@@ -8,4 +8,6 @@
 - [[octet]] rule
 - [[Sigma bond]]
 - [[Pi Bond]]
+- [[Polarizability]]
 - [[hybridization]]
+- 

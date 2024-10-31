@@ -51,9 +51,69 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "42072b440b39c5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APCHEM/intermolecular forces.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intermolecular forces"
+            }
+          },
+          {
+            "id": "6ff88ad7d5bc6270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apush/ids/u3/result/Tariff of Abominations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tariff of Abominations"
+            }
+          },
+          {
+            "id": "27a905995409abc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APCHEM/intermolecular forces.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intermolecular forces"
+            }
+          },
+          {
+            "id": "3297c2835b98ba23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APCHEM/London Dispersion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "London Dispersion"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "APCHEM/London Dispersion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +196,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for London Dispersion"
             }
           },
           {
@@ -145,10 +205,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "APCHEM/London Dispersion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of London Dispersion"
             }
           },
           {
@@ -157,12 +217,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "APCHEM/London Dispersion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from London Dispersion"
             }
           }
         ]
@@ -173,29 +233,12 @@
         "dimension": 45.25547445255474,
         "children": [
           {
-            "id": "0723e0a0d243e495",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/ids/IDS Unit 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "IDS Unit 3"
-            }
-          },
-          {
             "id": "c65d1e92f92b49de",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "APCHEM/London Dispersion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of London Dispersion"
             }
           }
         ]
@@ -246,35 +289,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d02439b96b3e13e3",
+  "active": "3297c2835b98ba23",
   "lastOpenFiles": [
+    "Polarizability.md",
+    "APCHEM/London Dispersion.md",
+    "APCHEM/intermolecular forces.md",
+    "APCHEM/Other important AP CHEM things.md",
+    "apush/ids/u3/result/Judiciary Act.md",
+    "apush/ids/IDS Unit 3.md",
+    "IDS Unit 3.md",
+    "apush/ids/u3/result/Tariff of Abominations.md",
+    "apush/ids/u3/result/American Colonization Society.md",
+    "apush/ID Home.md",
+    "apush/ids/IDs unit 2.md",
+    "apush/APUSH Home.md",
     "nexus.md",
+    "APHG/Push and Pull Factors.md",
+    "APHG/Unit 2b Migration.md",
+    "Push and Pull Factors.md",
+    "README.md",
+    "voice-ai-test/combined_1730377487_569581.md",
+    "voice-ai-test/combined_1730202339_87537.md",
     "Untitled.md",
+    "APCHEM/dipole.md",
+    "APCHEM/Electronegativity.md",
+    "APCHEM/Polarity.md",
+    "o.md",
     "APHG/APHG Unit 2.md",
     "APHG/Natalist Policy.md",
-    "voice-ai-test/combined_1730202339_87537.md",
-    "APHG/Glossary.md",
-    "APHG/Total Fertility Rate.md",
-    "APHG/Map Types.md",
-    "APHG/Place Names.md",
-    "apush/people/Alexander Hamilton.md",
-    "apush/APUSH people.md",
-    "apush/APUSH Home.md",
-    "apush/people/POTUS.md",
-    "APCHEM/APCHEM Home.md",
-    "APCHEM/Other important AP CHEM things.md",
-    "APCHEM/Pi Bond.md",
-    "APCHEM/Sigma bond.md",
-    "APCHEM/Lewis structures.md",
-    "APCHEM/octet.md",
-    "apush/ids/u3/result/American Temperance Society.md",
-    "Exceptions to the Octet rule.md",
     "voice-ai-test/1730120230.246381",
-    "voice-ai-test/combined_1730120050_051946.md",
-    "brainrot/apush-brainrot.md",
-    "voice-ai-test/combined_1729881039_872261.md",
-    "apush/ids/u3/result/Tariff of Abominations.md",
-    "apush/ids/u3/result/Spoils System.md",
     "brainrot/apush-brainrot",
     "brainrot",
     "apush-brainrot",
