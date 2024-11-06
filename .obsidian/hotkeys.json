@@ -6,5 +6,14 @@
       ],
       "key": "U"
     }
+  ],
+  "editor:save-file": [],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
