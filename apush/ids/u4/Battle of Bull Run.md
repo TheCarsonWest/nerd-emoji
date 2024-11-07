@@ -14,3 +14,5 @@ The Battle of Bull Run, also known as the First Battle of Manassas, was the firs
 * **Increased Confederate Morale:** The victory at Bull Run boosted Confederate morale and solidified support for the Confederacy. It also inspired the South to believe in the possibility of winning the war.
 * **Prolonged the War:** The battle's outcome undermined the Union's initial strategy and lengthened the conflict, which ultimately had devastating consequences for both sides.
 * **Led to the Recruitment of More Troops:**  The defeat at Bull Run spurred the Union to raise more troops and prepare for a longer war. It also prompted the Confederacy to expand its military force and strengthen its defenses. 
+
+# [[IDS Unit 4]]

@@ -8,3 +8,5 @@
 * **Economic growth in the South:**  Cotton became the dominant cash crop in the South, fueling economic growth and contributing to the development of a distinct Southern culture. 
 * **National tensions:** The expansion of slavery fueled growing tensions between the North and South, ultimately contributing to the outbreak of the Civil War. 
 * **Global impact:** The cotton gin helped to make cotton a major global commodity, impacting economies around the world. 
+
+# [[IDS Unit 4]]

@@ -19,3 +19,5 @@ The "Solid South" solidified a system of racial segregation and disenfranchiseme
 * **Perpetuation of Inequality:**  The South became a region of persistent poverty and limited economic opportunity for African Americans.
 * **National Divide:** The "Solid South" became a significant factor in national political divisions, particularly on issues of race and civil rights. 
 * **Legacy of Segregation:**  The "Solid South" solidified a racial caste system that was eventually overturned by the Civil Rights Movement in the 1950s and 1960s. 
+
+# [[IDS Unit 4]]

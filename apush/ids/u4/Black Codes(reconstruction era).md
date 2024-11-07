@@ -21,3 +21,5 @@
 * **Fueled Racial Tensions:** The codes intensified racial tensions and contributed to the rise of white supremacy.
 * **Led to Federal Intervention:** The Black Codes prompted Congress to pass the Civil Rights Act of 1866 and the 14th Amendment, which sought to protect Black citizens from discriminatory state laws.
 * **Shaped the Future of Race Relations:** The Black Codes set a dangerous precedent for racial discrimination and segregation, which would continue to plague the United States for decades to come. 
+
+# [[IDS Unit 4]]

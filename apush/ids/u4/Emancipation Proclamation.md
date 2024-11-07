@@ -11,3 +11,5 @@
 * **Strengthened the moral high ground:** The proclamation gave the Union cause a powerful moral justification, attracting support from abolitionists and international observers. 
 * **Weakened the Confederacy:** The Proclamation effectively freed slaves in Confederate-held areas, depriving the Confederacy of a significant labor force and military resource.
 * **Set the stage for Reconstruction:** The Emancipation Proclamation laid the groundwork for the 13th Amendment, which officially abolished slavery in the United States, and the subsequent Reconstruction era focused on integrating former slaves into American society. 
+
+# [[IDS Unit 4]]

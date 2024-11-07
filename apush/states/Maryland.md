@@ -8,8 +8,8 @@
 * **1788:** Ratifies the Constitution
 * **1812:** [[War of 1812]], Battle of Bladensburg
 * **1861:** Secedes from the Union and joins the Confederate States of America
-* **1863:** Battle of Antietam, a major battle of the Civil War
-* **1864:** Ratifies the 13th Amendment abolishing slavery
+* **1863:** [[Battle of Antietam]], a major battle of the Civil War
+* **1864:** Ratifies the [[13th amendment]] abolishing slavery
 * **1906:** Great Baltimore Fire
 * **1933:** Ratifies the 21st Amendment repealing Prohibition
 * **1954:** Brown v. Board of Education, a landmark Supreme Court case
@@ -21,8 +21,8 @@
 
 * **1649:** [[Maryland]] Toleration Act, guaranteeing religious freedom
 * **1816:** Charter of the Bank of [[Maryland]], establishing the state's first bank
-* **1851:** Fugitive Slave Act of 1851, requiring the return of escaped slaves
-* **1864:** Emancipation Proclamation, freeing slaves in [[Maryland]]
+* **1851:** [[Fugitive Slave Act]] of 1851, requiring the return of escaped slaves
+* **1864:** [[Emancipation Proclamation]], freeing slaves in [[Maryland]]
 * **1941:** World War II Draft Act, requiring all men aged 18-45 to register for military service
 * **1964:** Civil Rights Act of 1964, outlawing discrimination based on race, color, religion, sex, or national origin
 

@@ -26,7 +26,7 @@
 * Known as a "nationalist" and advocate for a strong central government
 * Promoted economic development through [[The American System]], which included infrastructure projects, tariffs, and a national bank
 * Signed the Indian Removal Act, which led to the forced displacement of thousands of Native Americans
-* His presidency was marked by political controversy and sectionalism, ultimately leading to his defeat in the [[Election of 1828]]
+* His presidency was marked by political controversy and [[sectionalism]], ultimately leading to his defeat in the [[Election of 1828]]
 * Served as a congressman after his presidency, where he continued to advocate for his beliefs and opposed the expansion of slavery
 * Regarded as a complex and influential figure in American history, known for his intellectualism, independence, and unwavering principles
 # [[APUSH people]]

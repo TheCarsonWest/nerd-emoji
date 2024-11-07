@@ -14,3 +14,5 @@ A short, but powerful speech delivered by President Lincoln at the dedication of
 * **Renewed Public Support for the Union:** Lincoln's eloquent words inspired and re-energized the North, bolstering morale and reinforcing the commitment to winning the war.
 * **Set a Foundation for Reconstruction:** The address laid the groundwork for the future of the United States, emphasizing the principles of equality and a united nation, which would later inform the policies of Reconstruction.
 * **Became a Cornerstone of American Rhetoric:** The Gettysburg Address has become one of the most iconic and powerful speeches in American history, celebrated for its eloquence, brevity, and timeless message. It continues to be studied and cited for its profound impact on American identity and values. 
+
+# [[IDS Unit 4]]

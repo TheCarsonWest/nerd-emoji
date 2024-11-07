@@ -15,3 +15,5 @@ The term "Free-Soldiers" refers to individuals who migrated to Kansas Territory 
 * **Contrived conflict:** The violence and bloodshed in Kansas played a crucial role in escalating the conflict over slavery and ultimately contributed to the outbreak of the Civil War.
 * **Political polarization:** The events in Kansas further polarized the nation, pushing the country toward an irreparable divide. 
 * **Shift in political landscape:** The Free-Soldiers' efforts contributed to the rise of the Republican Party, which became a prominent force in the fight against slavery.
+
+# [[IDS Unit 4]]

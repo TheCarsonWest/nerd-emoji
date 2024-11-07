@@ -18,3 +18,5 @@
 * **Rise of Jim Crow:**  With the end of Reconstruction, Southern states passed "Jim Crow" laws that severely limited African American rights and segregated society. 
 * **Economic Development in the South:**  The Compromise led to federal support for Southern infrastructure, which helped to boost the region's economy.
 * **Shift in Political Power:** The compromise helped to solidify the Republican Party's control over the national government, but it also alienated African Americans and gave the South more political autonomy. 
+
+# [[IDS Unit 4]]

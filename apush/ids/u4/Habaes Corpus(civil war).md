@@ -13,3 +13,5 @@
 * **Challenge to Civil Liberties:** The suspension of habeas corpus raised concerns about the government's ability to restrict individual liberties, particularly during times of conflict. 
 * **Legal Debate:** The suspension of habeas corpus led to a major legal debate about the balance of power between the executive and judicial branches, as well as the protection of individual rights during wartime.
 * **Post-War Legacy:** The Civil War suspension of habeas corpus continued to be a subject of debate in subsequent legal cases and acts of Congress, contributing to the ongoing discussion of the relationship between national security and civil liberties in the United States. 
+
+# [[IDS Unit 4]]

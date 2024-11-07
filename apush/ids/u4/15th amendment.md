@@ -11,3 +11,5 @@
 * **Reconstruction Era:**  The 15th Amendment was passed during the Reconstruction Era, a period following the Civil War when the U.S. government aimed to rebuild the South and integrate formerly enslaved people into society.
 * **Challenges and Limitations:**  Despite the amendment, widespread voter suppression tactics, including poll taxes, literacy tests, and intimidation, continued to disenfranchise many African Americans throughout the late 19th and early 20th centuries. 
 * **Legacy:**  The 15th Amendment remains a cornerstone of American democracy, and its fight for equal voting rights continues to inspire efforts towards a more just and inclusive society.  
+
+# [[IDS Unit 4]]

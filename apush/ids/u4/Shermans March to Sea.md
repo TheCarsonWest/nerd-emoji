@@ -16,3 +16,5 @@
 * **Psychological Impact:** The march had a profound psychological impact on the Confederate population, demoralizing the South and highlighting the Union's unwavering determination.
 * **Speeding the End of the War:** The march is considered a major factor in the Confederacy's ultimate defeat, as it crippled their ability to sustain the war effort.
 * **Controversial Legacy:**  The march continues to be a topic of debate due to its destructive nature and its impact on civilian populations. 
+
+# [[IDS Unit 4]]

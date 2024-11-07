@@ -9,3 +9,5 @@ The Freedmen's Bureau played a crucial role in the lives of millions of formerly
 
 * **Limited Success:** While impactful, it was underfunded and hampered by white Southern resistance.
 * **Legacy:**  It contributed to the development of African American communities and institutions.  It remains a symbol of the federal government's attempts to aid formerly enslaved people, and a reminder of the challenges of Reconstruction. 
+
+# [[IDS Unit 4]]

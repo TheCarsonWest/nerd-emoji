@@ -19,3 +19,5 @@ A system where farmers rented land from landowners, often with a sharecropping a
 * **Rural poverty and migration:** The cycle of poverty and limited opportunities drove many rural residents to seek opportunities in cities and urban areas. 
 
 Tenant farming significantly shaped the economic and social landscape of the South after the Civil War, contributing to the rise of rural poverty and the ongoing struggle for racial equality. 
+
+# [[IDS Unit 4]]

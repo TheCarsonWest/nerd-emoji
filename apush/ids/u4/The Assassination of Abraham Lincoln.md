@@ -15,3 +15,5 @@ John Wilkes Booth, a Confederate sympathizer, assassinated President Abraham Lin
 * **Significantly impacted the Reconstruction Era.** Lincoln's assassination left a void in leadership at a critical time for the nation. Johnson's Reconstruction policies differed significantly from Lincoln's, leading to a more lenient approach towards the South.
 * **Elevated Lincoln to the status of a martyr.** His assassination solidified his place in history as a great leader and a symbol of the Union's victory.
 * **Led to increased efforts to apprehend Booth and his co-conspirators.**  The assassination prompted a widespread manhunt for Booth and his accomplices, resulting in their capture and trial.
+
+# [[IDS Unit 4]]

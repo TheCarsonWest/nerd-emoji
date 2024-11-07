@@ -18,3 +18,5 @@ The Anaconda Plan significantly impacted the course of the Civil War. It:
 * **Prolonged the War:** While effective, the strategy was slow, leading to a long and bloody conflict. 
 
 The Anaconda Plan, though initially criticized for its slow pace, proved highly effective in bringing about the Union victory in the Civil War. 
+
+# [[IDS Unit 4]]

@@ -19,3 +19,5 @@
 * **Increased pressure for peace**: The battle's high casualties spurred calls for peace from both sides, leading to preliminary peace talks (which ultimately failed).
 
 Overall, the Battle of Antietam was a pivotal moment in the Civil War, marking a turning point in the war's strategic and political landscape. It cemented the Union's resolve, strengthened Lincoln's leadership, and set the stage for the eventual emancipation of slaves. 
+
+# [[IDS Unit 4]]

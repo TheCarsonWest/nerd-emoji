@@ -17,3 +17,5 @@ The formation of the Republican Party marked a major turning point in American p
 * **Led to the election of Abraham Lincoln:** Lincoln's victory in the 1860 election, largely due to Republican support, ignited the secession of Southern states and triggered the Civil War.
 
 The Republican Party, despite its initial focus on the issue of slavery, would ultimately become a major force in American politics, shaping the nation's future for decades to come. 
+
+# [[IDS Unit 4]]

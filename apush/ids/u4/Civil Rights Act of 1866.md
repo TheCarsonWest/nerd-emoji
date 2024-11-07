@@ -16,3 +16,5 @@ The Civil Rights Act of 1866 was a landmark piece of legislation that declared a
 * **Symbolic Victory for Equality:** The passage of the Act represented a significant victory for the cause of racial equality and demonstrated the commitment of the federal government to protect the rights of all citizens.
 * **Limited Enforcement:** Despite its importance, the Act faced significant challenges in implementation due to resistance from Southern states and limited enforcement capabilities. 
 * **Legal Battles and Precedent:** The act fueled ongoing legal battles over civil rights and set a precedent for future legislation aimed at promoting racial equality. 
+
+# [[IDS Unit 4]]

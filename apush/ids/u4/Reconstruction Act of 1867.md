@@ -17,3 +17,5 @@ The Reconstruction Act had a profound impact on the South:
 * **Reconstruction Governments:** It led to the establishment of Reconstruction governments in the South, characterized by attempts to reform the region's political and social landscape, including establishing public schools and social welfare programs.
 * **Increased Conflict:** The act significantly increased tensions between the North and South, leading to violent resistance from white Southerners. 
 * **Legacy:**  The Reconstruction Act laid the groundwork for the advancement of civil rights for African Americans, but it also led to the rise of white supremacist organizations that would ultimately undermine the efforts of Reconstruction. 
+
+# [[IDS Unit 4]]

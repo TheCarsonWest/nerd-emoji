@@ -7,7 +7,7 @@
 * **1701:** Became a separate royal colony.
 * **1775:** Played a leading role in the American Revolution, having supplied troops and materials to the Continental Army.
 * **1820:** Passed the [[Missouri]] Compromise, which kept [[Missouri]] as a slave state but prohibited slavery in the remaining [[Louisiana]] Territory north of latitude 36°30´.
-* **1854:** Enacted the Fugitive Slave Act, which required Northern states to assist in capturing and returning runaway slaves.
+* **1854:** Enacted the [[Fugitive Slave Act]], which required Northern states to assist in capturing and returning runaway slaves.
 * **1861:** Seceded from the Union and joined the Confederacy.
 * **1865:** Rejoined the Union after the Civil War.
 * **1875:** Passed the Civil Rights Act of 1875, which outlawed discrimination in public accommodations.
@@ -18,7 +18,7 @@
 
 * **Fundamental Orders (1639):** Established a representative government and guaranteed certain rights to citizens.
 * **[[Missouri]] Compromise (1820):** Settled the debate over slavery in the new territories.
-* **Fugitive Slave Act (1854):** Attempted to appease Southern states by strengthening the enforcement of slavery laws in the North.
+* **[[Fugitive Slave Act]] (1854):** Attempted to appease Southern states by strengthening the enforcement of slavery laws in the North.
 * **Civil Rights Act of 1875:** Prohibited discrimination in public accommodations.
 
 **Important Court Cases:**

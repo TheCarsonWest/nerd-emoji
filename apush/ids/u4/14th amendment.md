@@ -18,3 +18,5 @@
 * **Subsequent Amendments:** It laid the foundation for other amendments addressing civil rights, such as the 15th, 19th, and 26th Amendments.
 * **Judicial Interpretation:** The 14th Amendment has been the subject of numerous Supreme Court cases and continues to be a source of ongoing debate about the meaning of "equal protection" and "due process."
 * **Foundation of American Identity:** This amendment helps define the core principles of American citizenship and the ideal of equality under the law. 
+
+# [[IDS Unit 4]]

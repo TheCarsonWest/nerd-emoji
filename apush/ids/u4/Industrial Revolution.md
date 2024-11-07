@@ -1,7 +1,7 @@
 ## ID: Industrial Revolution
 ## When:  Late 18th Century to Early 20th Century (c. 1760-1914) 
 ## Who: 
-* **Innovators:** Eli Whitney, Samuel Slater, Robert Fulton, Henry Ford, Andrew Carnegie, John D. Rockefeller, etc.
+* **Innovators:** Eli Whitney, [[Samuel Slater]], Robert Fulton, Henry Ford, Andrew Carnegie, John D. Rockefeller, etc.
 * **Workers:**  Immigrants, women, and children (especially in factories)
 ## What: 
 A period of rapid technological advancement, primarily in Great Britain, that transitioned societies from agrarian economies to industrial ones. Key developments included:
@@ -18,3 +18,5 @@ A period of rapid technological advancement, primarily in Great Britain, that tr
 * **Political Shifts:**  Industrialization contributed to the rise of political movements advocating for workers' rights and social welfare.
 * **Nationalism & Expansion:**  Industrialization spurred economic competition and fueled U.S. expansionism. 
 * **Transformation of Society:** The Industrial Revolution permanently changed the United States, leading to a more complex and interconnected society with both opportunities and challenges. 
+
+# [[IDS Unit 4]]
