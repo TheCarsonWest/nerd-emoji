@@ -1,4 +1,4 @@
-**[[Joe Biden]]: AP [[United States]] History Rundown**
+**[[Joe Biden]]: [[POTUS]]
 
 **Early Life and Career:**
 
@@ -18,13 +18,14 @@
 
 * Became [[Barack Obama]]'s vice president after winning the 2008 election
 * Played a significant role in Domestic policy, including healthcare, education, and gun control
-* Oversaw the passage of the Affordable Care Act
+* Oversaw the passage of the [[Affordable Care Act]]
 
 **President (2021-present)**
 
 * Inaugurated as the 46th [[POTUS]] on January 20, 2021
 * His presidency has been marked by the COVID-19 pandemic and its economic impact
 * Signed into law the American Rescue Plan Act, the Infrastructure Investment and Jobs Act, and the Bipartisan Safer Communities Act
+* 2024: After winning the democratic party primary, Joe Biden went to debate republican candidate [[Donald Trump]], losing in an embarrassing fashion, and was replaced by his vice president Kamala Harris
 
 **Important Legislation Signed:**
 
@@ -33,6 +34,7 @@
 * American Rescue Plan Act (2021)
 * Infrastructure Investment and Jobs Act (2021)
 * Bipartisan Safer Communities Act (2022)
+* Inflation Reduction Act (2022)
 
 **Groups Associated With:**
 

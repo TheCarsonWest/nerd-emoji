@@ -9,6 +9,8 @@
 - [[Pi Bond]]
 - [[Polarizability]]
 - [[hybridization]]
+- [[vapor pressure]]
+- 
 # [[Polarity]]
 # [[Alloys]]
 

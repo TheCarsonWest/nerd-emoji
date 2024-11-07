@@ -48,7 +48,6 @@
 	* List of Latter Day Saints in heaven:
 		* 
 		* 
-
 * Holocaust
 	* Nazi Germany didn't want Jewish people anymore
 	* Jews left as not to be killed
@@ -88,10 +87,4 @@
     * Gender:  Young adults may migrate due to unbalanced sex ratios, difficulty finding a spouse.
     * Overpopulation: A young population can strain resources and lead to migration.
 
-# Intervening Obstacles
-
-* Barriers that make reaching a destination more difficult:
-    * Economic: Lack of funds to reach destination.
-    * Social: Marriage to someone along the migration route, leading to settlement.
-    * Political: Inability to obtain a visa.
-    * Environmental: Inability to cross a sea, desert, or mountain range. 
+# [[Intervening Obstacles]]

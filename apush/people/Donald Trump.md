@@ -7,11 +7,16 @@
 * **Tax Cuts and Jobs Act of 2017:** Signed into law, significantly reducing corporate and individual taxes.
 * **First Travel Ban:** Implemented a 90-day ban on travel from several Muslim-majority countries.
 * **Withdrawal from the Trans-Pacific Partnership:** Announced the withdrawal of the [[United States]] from the trade agreement.
-* **Withdrawal from the Paris Agreement:** Withdrew the [[United States]] from the international climate change agreement.
-* **NAFTA Renegotiation:** Negotiated a new trade agreement with Mexico and Canada, known as the [[United States]]-Mexico-Canada Agreement (USMCA).
+* **Withdrawal from the [[Paris Agreement]]:** Withdrew the [[United States]] from the international climate change agreement.
+* **[[NAFTA]] Renegotiation:** Negotiated a new trade agreement with Mexico and Canada, known as the [[United States]]-Mexico-Canada Agreement (USMCA).
 * **Recognition of Jerusalem as Israel's Capital:** Recognized Jerusalem as the capital of Israel and promised to move the U.S. embassy there.
 * **COVID-19 Pandemic:** Declared a national emergency due to the COVID-19 pandemic in 2020.
 * **2021 Presidential Election:** Lost the election to Democratic nominee [[Joe Biden]].
+* Jan 6 2021: some insurrection nonsense
+* **2024 Presidential Election**: Defeated Democratic party selected candidate and Former Vice President Kamala Harris in a landslide
+	* Became the second president to serve two non-consecutive terms ([[Grover Cleveland]])
+	* cry harder liberals
+
 
 **Important Legislation Signed**
 
@@ -27,6 +32,7 @@
 * **Trump Organization:** Family-owned real estate company.
 * **Trump Foundation:** Charitable foundation closed in 2018 after allegations of misuse of funds.
 * **Trump Media & Technology Group (TMTG):** Company that launched the social media platform Truth Social.
+	* Stock ticker DJT
 
 **Impact on the Country**
 
