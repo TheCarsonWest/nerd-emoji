@@ -63,7 +63,7 @@ Continue these style of notes, taking notes on this article
 ### Definition
 
 - Use of natural resources in a way that does not irreversibly deplete them
-- Essential theme in human geography, driving decisions about human interactions with geographic [[Processes]]
+- Essential theme in human geography, driving decisions about human interactions with geographic Processes
 
 ### Sustainable Development
 - Development that meets present needs without compromising future generations' needs

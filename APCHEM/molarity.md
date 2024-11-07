@@ -17,7 +17,7 @@ If you have 0.5 moles of NaCl dissolved in 2 liters of water, the [[molarity]] o
 Molarity = 0.5 moles / 2 liters = 0.25 mol/L
 ```
 
-### **Diluting Solutions**
+### **Diluting [[Solutions]]**
 
 When diluting a solution, the total number of moles of solute remains the same. However, the volume of the solution increases, resulting in a decrease in [[molarity]].
 
