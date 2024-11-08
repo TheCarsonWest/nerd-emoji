@@ -27,7 +27,7 @@
 
 **Groups and Associations:**
 
-* Democratic Party
+* [[Democrats]]
 * Mason
 
 **Impact on the Country:**

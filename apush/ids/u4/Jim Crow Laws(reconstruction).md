@@ -1,7 +1,7 @@
 # ID: Jim Crow Laws
 ## When: 1877-1965 (Post-Reconstruction Era) 
 ## Who:  
-Southern White Democrats (primarily, but some Black people were involved in the system as well) 
+Southern White [[Democrats]] (primarily, but some Black people were involved in the system as well) 
 ## What:
 A system of state and local laws enacted in the Southern and some border states of the United States between 1877 and the mid-1960s. These laws were designed to disenfranchise and segregate African Americans. They included:
 * **Voting Restrictions:** Poll taxes, literacy tests, grandfather clauses, and white primaries. 

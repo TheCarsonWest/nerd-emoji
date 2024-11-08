@@ -15,7 +15,7 @@
 
 **Important Legislation:**
 
-* **1850:** Compromise of 1850: [[Utah]] Territory is established, allowing [[Utah]] residents to decide the issue of slavery within their borders.
+* **1850:** [[Compromise of 1850]]: [[Utah]] Territory is established, allowing [[Utah]] residents to decide the issue of slavery within their borders.
 * **1862:** Morrill Land-Grant Act: Provides federal funding for land-grant colleges, including the University of [[Utah]].
 * **1896:** Enabling Act: [[Utah]] becomes a state with its current boundaries.
 * **1907:** Reed Smoot Hearings: U.S. Senate investigates the role of the Mormon Church in [[Utah]]'s political system.

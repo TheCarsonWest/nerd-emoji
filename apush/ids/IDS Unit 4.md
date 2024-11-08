@@ -9,7 +9,7 @@
 
 ## Causes of the Civil War
 6. [[Free-soldiers]]
-7. [[sectionalism]]
+7.  [[sectionalism]] 
 8. [[Wilmot Proviso]]
 9. [[Compromise of 1850]]
 10. [[Fugitive Slave Act]]

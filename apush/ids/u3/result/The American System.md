@@ -17,7 +17,7 @@ A set of interconnected economic proposals aimed at promoting national economic 
 ## IMPACT: Why Significant?: 
 
 * **Economic Growth:** The American System contributed to a period of significant economic expansion in the [[United States]], particularly in the North.
-* **Sectionalism:** While the North generally benefited, the South argued that the system favored Northern industries at their expense. This heightened sectional tensions.
+* **[[Sectionalism]]:** While the North generally benefited, the South argued that the system favored Northern industries at their expense. This heightened sectional tensions.
 * **Political Debate:** The American System sparked major debates about the role of the federal government in the economy, issues of states' rights vs. national power, and the interpretation of the Constitution. This debate would continue throughout the 19th century. 
 * **Legacy:** Many aspects of the American System, such as support for infrastructure and a national bank, would continue to influence American economic policy for years to come. 
 

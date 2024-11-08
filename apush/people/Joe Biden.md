@@ -25,7 +25,7 @@
 * Inaugurated as the 46th [[POTUS]] on January 20, 2021
 * His presidency has been marked by the COVID-19 pandemic and its economic impact
 * Signed into law the American Rescue Plan Act, the Infrastructure Investment and Jobs Act, and the Bipartisan Safer Communities Act
-* 2024: After winning the democratic party primary, Joe Biden went to debate republican candidate [[Donald Trump]], losing in an embarrassing fashion, and was replaced by his vice president Kamala Harris
+* 2024: After winning the [[Democrats]] primary, Joe Biden went to debate republican candidate [[Donald Trump]], losing in an embarrassing fashion, and was replaced by his vice president Kamala Harris
 
 **Important Legislation Signed:**
 
@@ -38,7 +38,7 @@
 
 **Groups Associated With:**
 
-* Democratic Party
+* [[Democrats]]
 * Senate Judiciary Committee
 * Vice President's National Security Council
 

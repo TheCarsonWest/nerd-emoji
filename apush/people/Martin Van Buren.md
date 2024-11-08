@@ -20,7 +20,7 @@
 
 * **Expansion of Democracy:** Van Buren supported universal white male suffrage and the expansion of democracy, aligning with Jackson's "common man" ideology.
 * **Economic Impact:** The Independent Treasury System helped stabilize the economy after the Panic of 1837.
-* **Political Leadership:** Van Buren was a skilled politician and served in various high-level positions, contributing to the development of the Democratic Party.
+* **Political Leadership:** Van Buren was a skilled politician and served in various high-level positions, contributing to the development of the [[Democrats]].
 * **Slavery:** Van Buren was a moderate on slavery, believing it should be confined to the South.
 
 **Additional Notes:**

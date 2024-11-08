@@ -4,7 +4,7 @@
 
 ## Who:  
 * **Advocates:**  Abraham Lincoln, Stephen Douglas, Northern Whigs and Republicans
-* **Opponents:** Southern Democrats, Pro-Slavery advocates
+* **Opponents:** Southern [[Democrats]], Pro-Slavery advocates
 
 ## What: 
 Popular sovereignty was the idea that residents of a territory should decide for themselves whether or not to allow slavery. It was championed as a compromise solution to the escalating conflict over slavery's expansion. This concept was put into practice through the Kansas-Nebraska Act of 1854.

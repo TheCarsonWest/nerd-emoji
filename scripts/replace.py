@@ -24,9 +24,9 @@ def replace_string_in_folder(folder_path, search_string, replace_string):
                 replace_string_in_file(file_path, search_string, replace_string)
 
 if __name__ == '__main__':
-    folder_paths = ['./nerd-emoji/apush/']
-    search_string = "president of the [[United States]]"
-    replace_string = '[[President of the United States]]'
+    folder_paths = ['./../apush/']
+    search_string = "  [[sectionalism]]  "
+    replace_string = ' [[sectionalism]] '
 
     for folder_path in folder_paths:
         replace_string_in_folder(folder_path, search_string, replace_string)

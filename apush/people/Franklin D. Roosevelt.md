@@ -17,7 +17,7 @@
 
 **Groups Involved With:**
 
-* Democratic Party
+* [[Democrats]]
 * American Legion
 * Navy Secretary under [[Woodrow Wilson]]
 

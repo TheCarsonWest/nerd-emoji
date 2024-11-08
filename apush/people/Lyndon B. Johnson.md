@@ -32,7 +32,7 @@
 
 **Groups Associated With:**
 
-* Democratic Party
+* [[Democrats]]
 * New Deal Coalition (alliance of Southern whites, African Americans, and labor unions)
 * National Association for the Advancement of Colored People (NAACP)
 * Southern Christian Leadership Conference (SCLC)

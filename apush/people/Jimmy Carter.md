@@ -28,7 +28,7 @@
 
 **Groups and Affiliations:**
 
-* [[Democratic Party]]
+* [[Democrats]]
 * Southern Baptist Convention
 
 **Impact on the Country:**

@@ -16,6 +16,6 @@ A period in American history characterized by a sense of national unity and purp
 * **Political Harmony:** The absence of strong partisan battles created an atmosphere of cooperation. However, this masked growing sectional tensions that would later erupt.
 * **National Identity:** This era contributed to the development of a stronger American identity and sense of unity.
 * **Expansion and Development:**  Policies like the [[Monroe Doctrine]] and the acquisition of [[Florida]] expanded US territory and influence.
-* **Seeds of Sectionalism:** Despite the surface harmony, issues like slavery and tariffs continued to simmer, eventually contributing to the rise of sectionalism and the demise of this era. 
+* **Seeds of  [[Sectionalism]] :** Despite the surface harmony, issues like slavery and tariffs continued to simmer, eventually contributing to the rise of [[sectionalism]] and the demise of this era. 
 
 # [[IDS Unit 3]]

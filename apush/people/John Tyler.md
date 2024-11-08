@@ -18,7 +18,7 @@
 **Groups:**
 
 * Whig Party (initially)
-* Democratic Party (later)
+* [[Democrats]] (later)
 
 **Impact on the Country:**
 

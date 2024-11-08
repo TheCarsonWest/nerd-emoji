@@ -1,7 +1,7 @@
 ## ID: Fugitive Slave Act
 ## When: 1850 
 ## Who: 
-Part of the Compromise of 1850, drafted by Henry Clay and passed by Congress
+Part of the [[Compromise of 1850]], drafted by Henry Clay and passed by Congress
 ## What:
 A law requiring citizens to return runaway slaves to their owners. It strengthened the previous Fugitive Slave Act of 1793 and made it a federal crime to help a runaway slave.
 ## Impact? Why Significant?: 

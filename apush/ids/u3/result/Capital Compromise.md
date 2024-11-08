@@ -1,4 +1,4 @@
-# ID: Compromise of 1850
+# ID: [[Compromise of 1850]]
 ## When:  September 1850
 ## Who: 
 * **Henry Clay:** Proposed the compromise (though it was ultimately passed in separate bills by Stephen Douglas).
@@ -16,7 +16,7 @@ A series of five bills passed by Congress to address the issue of slavery in new
 
 ## Impact? Why Significant?: 
 * **Delayed the Civil War:** The compromise temporarily eased sectional tensions by offering concessions to both the North and South.
-* **Increased Sectionalism:** Ultimately, the Compromise of 1850 exacerbated tensions over slavery due to the controversial Fugitive Slave Act, which further divided the nation and led to increased abolitionist activity. 
+* **Increased  [[Sectionalism]] :** Ultimately, the [[Compromise of 1850]] exacerbated tensions over slavery due to the controversial Fugitive Slave Act, which further divided the nation and led to increased abolitionist activity. 
 * **Showed the fragility of compromise:**  The Compromise demonstrated the increasing difficulty of finding peaceful solutions to the issue of slavery. 
 
 # [[IDS Unit 3]]

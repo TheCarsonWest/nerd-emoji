@@ -12,7 +12,7 @@ The first major financial crisis in the [[United States]], characterized by wide
 ## Impact? Why Significant?: 
 - **Exposed weaknesses in the banking system:** Highlighted the dangers of unregulated state banks and unsound lending practices. 
 - **Fueled resentment against the national bank:** Many blamed the Second Bank of the [[United States]] for its role in the crisis, strengthening opposition to a strong national bank. This sentiment would later contribute to [[Andrew Jackson]]'s successful campaign against the Bank.
-- **Contributed to sectionalism:** The Panic hit different regions unevenly, with the South experiencing a more severe and prolonged downturn. This intensified sectional tensions over economic issues like tariffs and internal improvements. 
+- **Contributed to  [[sectionalism]] :** The Panic hit different regions unevenly, with the South experiencing a more severe and prolonged downturn. This intensified sectional tensions over economic issues like tariffs and internal improvements. 
 - **Marked a shift in American economic life:**  The Panic marked a transition from a period of rapid expansion and speculation to one of greater economic uncertainty and caution.
 
 # [[IDS Unit 3]]

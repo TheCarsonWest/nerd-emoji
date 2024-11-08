@@ -1,6 +1,6 @@
 **[[Grover Cleveland]]**
 
-**Political Affiliation:** Democrat
+**Political Affiliation:** [[Democrats]]
 
 **Terms in Office:** Two non-consecutive terms (1885-1889, 1893-1897)
 
@@ -20,8 +20,8 @@
 
 **Groups Associated With:**
 
-* Democratic Party
-* Bourbon Democrats (fiscally conservative Democrats)
+* [[Democrats]]
+* Bourbon [[Democrats]] (fiscally conservative [[Democrats]])
 * Civil Service Reform Movement
 
 **Impact on the Country:**

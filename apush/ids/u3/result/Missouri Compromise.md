@@ -17,7 +17,7 @@ A series of laws enacted by Congress to address the issue of slavery in new terr
 
 ## Impact? Why Significant?: 
 * **Temporary solution:** The Compromise temporarily defused the sectional crisis over slavery but ultimately failed to resolve the underlying tensions.
-* **Precedent for sectionalism:** It established a pattern of sectional compromises that characterized the antebellum period. 
+* **Precedent for  [[sectionalism]] :** It established a pattern of sectional compromises that characterized the antebellum period. 
 * **Strengthened abolitionist movement:**  The debate surrounding the compromise fueled the growth of the abolitionist movement in the North.
 * **Foreshadowed future conflict:**  The [[Missouri]] Compromise served as a precursor to the more significant crises over slavery that would culminate in the Civil War. 
 

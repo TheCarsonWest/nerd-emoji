@@ -13,7 +13,7 @@
 * **COVID-19 Pandemic:** Declared a national emergency due to the COVID-19 pandemic in 2020.
 * **2021 Presidential Election:** Lost the election to Democratic nominee [[Joe Biden]].
 * Jan 6 2021: some insurrection nonsense
-* **2024 Presidential Election**: Defeated Democratic party selected candidate and Former Vice President Kamala Harris in a landslide
+* **2024 Presidential Election**: Defeated [[Democrats]] selected candidate and Former Vice President Kamala Harris in a landslide
 	* Became the second president to serve two non-consecutive terms ([[Grover Cleveland]])
 	* cry harder liberals
 

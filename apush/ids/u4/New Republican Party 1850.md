@@ -3,7 +3,7 @@
 ## When: 1854
 
 ## Who: 
-* **Founders:**  Anti-slavery Whigs, Democrats, and Free Soilers
+* **Founders:**  Anti-slavery Whigs, [[Democrats]], and Free Soilers
 * **Key Leaders:** Salmon P. Chase,  Abraham Lincoln,  and Horace Greeley
 
 ## What:

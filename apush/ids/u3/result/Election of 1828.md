@@ -11,9 +11,9 @@
 A highly contested presidential election marked by intense campaigning and mudslinging. Jackson emerged victorious with a landslide victory.
 
 ## Impact: 
-* **Rise of the Second Party System:** The election solidified the emergence of two major political parties, the Democrats and the Whigs, with Jackson as the leader of the Democratic Party. 
+* **Rise of the Second Party System:** The election solidified the emergence of two major political parties, the [[Democrats]] and the Whigs, with Jackson as the leader of the [[Democrats]]. 
 * **Expansion of suffrage:** Jackson's victory signified the rise of a more democratic and populist politics, expanding suffrage to more white men and increasing voter participation.
-* **Rise of sectionalism:**  Jackson's election and presidency fueled sectional tensions between the North and South, particularly over issues like tariffs and slavery. 
+* **Rise of  [[sectionalism]] :**  Jackson's election and presidency fueled sectional tensions between the North and South, particularly over issues like tariffs and slavery. 
 * **"Era of the Common Man":**  Jackson's presidency ushered in an era of populist politics, favoring the interests of the "common man" over the elite. 
 * **[[Spoils System]]:** Jackson's practice of rewarding his political supporters with government positions, known as the "[[Spoils System]]," became a defining feature of his presidency. 
 
