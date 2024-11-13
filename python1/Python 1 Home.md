@@ -18,7 +18,7 @@ Theres a whole lot of messed up links around here, so dont be suprised
  - [[Lists]]
  - [[Tuples]]
  - [[Dictionaries]]
- - [[Sets]]
+ - [[Python Sets]]
  - [[List Comprehension]]
  - [[File Handling]]
  - [[Exception Handling]]

@@ -5,7 +5,7 @@
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "Google GenerativeAI (Langchain)",
-  "max_tokens": 1000,
+  "max_tokens": 600,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "showStatusBar": true,

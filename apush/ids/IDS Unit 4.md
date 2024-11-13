@@ -1,6 +1,6 @@
 # [[ID Home]]
 
-## Industrilization
+## Industrialization
 1. [[Samuel Slater]]
 2. [[Market Revolution]]
 3. [[Industrial Revolution]]

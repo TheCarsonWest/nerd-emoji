@@ -28,9 +28,9 @@ ax.plot(x_data, y_data)
 #### Customizing Plots
 Matplotlib offers extensive customization options to control the appearance of plots. Some of the commonly used customization methods include:
 
-- `title()`: [[Sets]] the plot title.
-- `xlabel()`: [[Sets]] the x-axis label.
-- `ylabel()`: [[Sets]] the y-axis label.
+- `title()`: [[Python Sets]] the plot title.
+- `xlabel()`: [[Python Sets]] the x-axis label.
+- `ylabel()`: [[Python Sets]] the y-axis label.
 - `legend()`: Adds a legend to the plot.
 - `show()`: Displays the plot.
 

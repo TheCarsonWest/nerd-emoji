@@ -14,9 +14,9 @@ This piece explores the often-misunderstood process of seeking asylum in the Uni
 
 **A Historical Perspective:**
 
-* The 1951 UN Refugee Convention defined a refugee as someone fleeing persecution based on race, religion, nationality, political opinion, or membership in a particular social group.  This was largely a response to the post-World War II refugee crisis and the failure of many countries to accept Jewish refugees fleeing the Holocaust.
-* The U.S. Refugee Act of 1980 differentiated between refugees (vetted before arrival) and asylum seekers (applying at the border or within the U.S. on a temporary visa).
-* While the president sets annual refugee quotas, there's no limit on asylum grants.
+* The 1951 UN [[Refugee]] Convention defined a [[refugee]] as someone fleeing persecution based on race, religion, nationality, political opinion, or membership in a particular social group.  This was largely a response to the post-World War II [[refugee]] crisis and the failure of many countries to accept Jewish refugees fleeing the Holocaust.
+* The U.S. [[Refugee]] Act of 1980 differentiated between refugees (vetted before arrival) and asylum seekers (applying at the border or within the U.S. on a temporary visa).
+* While the president sets annual [[refugee]] quotas, there's no limit on asylum grants.
 
 **The Asylum Process and its Challenges:**
 

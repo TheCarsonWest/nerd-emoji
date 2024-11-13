@@ -22,6 +22,11 @@ Key Laws:
 	- [Beirut Explosion](https://www.youtube.com/watch?v=Inzz0iKcB9c) + Inflation + bank run, people leave the country
 	- Things are stablilizing so people came back
 	- Hezbollah decided to poke the lion's balls and now they are involved with the Hamas War, so everyone is back to being gone
+- Chain Migration
+	- Outlier
+	- When one person leaves, and then the whole squad comes over
+		- Dad leaves for job
+		- Mom comes back with the kids
 # 5: Most migrants are young adults: 
 - This reflects the life cycle stage where individuals are most likely to be seeking employment, education, or family opportunities.
 # 6: Males are more likely to migrate than females:
