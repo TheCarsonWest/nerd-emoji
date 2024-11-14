@@ -1,4 +1,4 @@
-**[[John F]]. Kennedy (1961-1963)**
+**[[John F. Kennedy]] (1961-1963)**
 
 **Events:**
 

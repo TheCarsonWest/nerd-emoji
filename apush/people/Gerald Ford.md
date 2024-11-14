@@ -1,7 +1,6 @@
 **[[Gerald Ford]] (1974-1977)**
 
-**Events Associated With:**
-
+# The only unelected president ever
 * Watergate scandal and Nixon's resignation
 * Vietnam War
 * Economic recession
@@ -15,6 +14,7 @@
 **Groups Affiliated With:**
 
 * Republican Party
+* **The warren commission(The people who 'investigated' the [[John F. Kennedy]] asssaination)**
 * House of Representatives (1949-1973)
 * House Minority Leader (1965-1973)
 
