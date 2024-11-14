@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Van der Waals Gas Equation.md",
+                "file": "APCHEM Gasses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Van der Waals Gas Equation"
+              "title": "APCHEM Gasses"
             }
           }
         ],
@@ -243,16 +243,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Van der Waals Gas Equation.md",
+                "file": "APCHEM Gasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Van der Waals Gas Equation"
+              "title": "Outgoing links from APCHEM Gasses"
+            }
+          },
+          {
+            "id": "d02d193fd4dbb53f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8955fd89f6e74f34",
@@ -302,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Van der Waals Gas Equation.md",
+                "file": "APCHEM Gasses.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -312,7 +322,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Van der Waals Gas Equation"
+              "title": "Backlinks for APCHEM Gasses"
             }
           }
         ],
@@ -333,14 +343,20 @@
       "random-note:Open random note": false,
       "obisidian-note-linker:Note Linker": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6eb10bbd3a702870",
   "lastOpenFiles": [
+    "Universal Gas Constant.md",
+    "APCHEM/Ideal Gas Laws.md",
+    "APCHEM Gasses.md",
+    "APCHEM/Combined Gas Law.md",
+    "APCHEM/Chemistry Laws.md",
+    "APCHEM/APCHEM Home.md",
     "Deviations from Ideal Behavior(gasses).md",
     "Van der Waals Gas Equation.md",
-    "APCHEM Gasses.md",
     "nexus.md",
     "griddy.md",
     "apush/apush groups/Democrats.md",
@@ -349,10 +365,6 @@
     "APHG/APHG Home.md",
     "aphg strats.md",
     "APHG/CER Strategy.md",
-    "APCHEM/Ideal Gas Laws.md",
-    "APCHEM/Chemistry Laws.md",
-    "APCHEM/Combined Gas Law.md",
-    "APCHEM/APCHEM Home.md",
     "APCHEM/Chemical Bonds.md",
     "APCHEM/Other important AP CHEM things.md",
     "APCHEM/Chemistry Constants.md",
@@ -363,7 +375,6 @@
     "APHG/Glossary.md",
     "Refugee.md",
     "apush/APUSH Home.md",
-    "README.md",
     "Pasted image 20241112212013.png",
     "apush/apush groups",
     "apush/ids/u4",

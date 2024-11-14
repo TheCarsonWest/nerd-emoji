@@ -1,9 +1,10 @@
-# [[Chemistry Laws]]
+# [[APCHEM Gasses]]
+## [[Chemistry Laws]]
 
 # $$PV = nRT$$
-- P = Pressure (Must be the same unit as the Gas Constant)
+- P = Pressure (Must be the same unit as the [[Universal Gas Constant]])
 - V = Volume (Liters)
 - n = Moles
-- R = [[Gas Constant]]
+- R = [[Universal Gas Constant]]
 	- 
 - T = Temperature (Kelvin)

@@ -1,9 +1,9 @@
 # [[nexus]]
+
+# [[APCHEM Gasses]]
 # [[Chemical Bonds]]
 # [[Chemistry Constants]]
 # [[Periodic Trends]]
 # [[Chemistry Laws]]
-# [[AP CHEM Experiments]]
-# [[AP Chem Labs]]
 # [[Reactions Types]]
 # [[Other important AP CHEM things]]

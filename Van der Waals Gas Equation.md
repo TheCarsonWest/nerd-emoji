@@ -6,6 +6,6 @@
 ## n: Moles
 ## a: Gas constant a
 ## b: Gas Constant b
-## R: [[Gas Constant]]
+## R: [[Universal Gas Constant]]
 
 The van der Waals equation, named for its originator, the Dutch physicist Johannes Diderik van der Waals, is an equation of state that extends the ideal gas law to include the non-zero size of gas molecules and the interactions between them
