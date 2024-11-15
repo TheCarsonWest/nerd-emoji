@@ -3,11 +3,11 @@
 ## When: August - October 1858
 
 ## Who:
-* **Abraham Lincoln:** Republican candidate for the U.S. Senate in Illinois
-* **Stephen Douglas:** Democratic incumbent U.S. Senator from Illinois
+* **[[Abraham Lincoln]]:** Republican candidate for the U.S. Senate in [[Illinois]]
+* **Stephen Douglas:** Democratic incumbent U.S. Senator from [[Illinois]]
 
 ## What:
-* A series of seven public debates held across Illinois during the 1858 U.S. Senate election campaign.
+* A series of seven public debates held across [[Illinois]] during the 1858 U.S. Senate election campaign.
 * The debates focused on the controversial issue of slavery, particularly the question of whether it should be allowed to expand into new territories.
 * Lincoln argued against the expansion of slavery, while Douglas defended the popular sovereignty doctrine, which allowed residents of territories to decide whether to allow slavery.
 

@@ -7,8 +7,8 @@
 * Ratified by the states in 1868
 
 ## What:
-* Defined citizenship: All persons born or naturalized in the United States, and subject to its jurisdiction, are citizens of the United States and of the State wherein they reside.
-* Guaranteed equal protection of the laws:  No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+* Defined citizenship: All persons born or naturalized in the [[United States]], and subject to its jurisdiction, are citizens of the [[United States]] and of the State wherein they reside.
+* Guaranteed equal protection of the laws:  No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the [[United States]]; nor shall any state deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 * Disqualified former Confederate officials from holding office unless Congress approved.
 * Reduced representation for states that denied voting rights to male citizens.
 

@@ -22,7 +22,7 @@
 
 **Important Legislation:**
 
-* Tenure of Office Act (1867): Restricted the president's ability to remove cabinet members without Senate approval
+* [[Tenure of Office Act]] (1867): Restricted the president's ability to remove cabinet members without Senate approval
 * Reconstruction Acts (1867): Divided the South into military districts and granted freedmen the right to vote
 
 **Groups and Associations:**

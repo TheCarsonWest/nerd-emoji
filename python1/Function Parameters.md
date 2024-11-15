@@ -27,7 +27,7 @@ greet_person(age=25, name="John")
 
 - [[Python Functions]]: Function parameters are an integral part of defining and using [[Python Functions]].
 - [[Return Values]]: Parameters enable [[Python Functions]] to receive input and return meaningful values.
-- [[Default Parameters]]: Default parameters can be specified to provide default values for optional parameters.
+- [[Default Parameters]]: [[Default Parameters]] can be specified to provide default values for optional parameters.
 - [[Variable Scope]]: Parameters introduce variables that are local to the function's scope.
 - [[Recursion]]: [[Python Functions]] can have parameters that refer to themselves, enabling recursive execution.
 # [[Python 1 Home]]

@@ -46,7 +46,7 @@ except FileNotFoundException as e:
 
 ### Related Python Concepts
 
-- [[Exception Handling]]: Custom exceptions are part of the exception handling mechanism that allows catching and handling specific exceptions.
+- [[Exception Handling]]: Custom exceptions are part of the [[Exception Handling]] mechanism that allows catching and handling specific exceptions.
 - [[Classes and Objects]]: Custom exceptions are defined as classes and can have custom attributes and methods.
 - [[Inheritance]]: Custom exceptions inherit from the `Exception` base class to gain its functionality.
 - [[Function Parameters]]: The constructor of a custom exception class can take additional parameters for error handling.

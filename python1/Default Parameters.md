@@ -22,7 +22,7 @@ greet("John")
 
 ### Other Related Python Concepts
 
-- [[Function Parameters]]: Default parameters extend the functionality of function parameters.
+- [[Function Parameters]]: Default parameters extend the functionality of [[Function Parameters]].
 - [[Variables and Data Types]]: Default parameter values can be of any data type.
 - [[Control Flow If Statements]]: Default parameters can help simplify conditional statements in some cases.
 - [[For Loops]]: Default parameters can reduce the need for explicit checks before entering loops.

@@ -21,7 +21,7 @@ To distribute your package, you can use the Python Package Index ([[Python Packa
 ### Other Python Concepts Related to Packages
 - [[Modules and Packages]]: Packages are a higher-level organization of modules.
 - [[Importing Modules]]: Packages can be imported using the `import` statement.
-- [[Virtual Environments]]: Packages can be installed and used within virtual environments.
+- [[Virtual Environments]]: Packages can be installed and used within [[Virtual Environments]].
 - [[Dynamic Importing]]: Packages can be imported dynamically at runtime.
 - [[Command Line Interface (CLI) Programs]]: Packages can be used to create command-line tools.
 # [[Python 1 Home]]

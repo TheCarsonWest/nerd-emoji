@@ -10,7 +10,7 @@
 * **1842:** The Dorr Rebellion, a dispute over voting rights, leads to the suspension of the state's charter.
 * **1843:** A new constitution is adopted, expanding the franchise and abolishing property requirements for voting.
 * **1861:** [[Rhode Island]] secedes from the Union at the outbreak of the Civil War.
-* **1865:** [[Rhode Island]] rejoins the Union and ratifies the 13th Amendment, abolishing slavery.
+* **1865:** [[Rhode Island]] rejoins the Union and ratifies the [[13th amendment]], abolishing slavery.
 
 **Important Legislation:**
 

@@ -8,7 +8,7 @@ Function overloading is a feature that allows multiple [[Python Functions]] with
 
 Python does not directly support function overloading. However, there are ways to mimic its behavior:
 
-- ** [[Default Parameters]]**: Using default parameters allows for variation in the number of input arguments.
+- ** [[Default Parameters]]**: Using [[Default Parameters]] allows for variation in the number of input arguments.
  - Example:
  ```python
  def calculate_area(length, width=1):
@@ -42,8 +42,8 @@ print(calculate_average(10, 20, 30)) # 20.0
 ## Related Python Concepts
 
 - [[Python Functions]]: Function overloading mimics the behavior of multiple [[Python Functions]] with the same name.
-- [[Default Parameters]]: Default parameters permitem [[Python Functions]] to have optional input arguments.
+- [[Default Parameters]]: [[Default Parameters]] permitem [[Python Functions]] to have optional input arguments.
 - [[Function Parameters]]: Overloaded [[Python Functions]] require different sets of parameters.
 - [[Variable and Data Types]]: Overloaded [[Python Functions]] may accept different types of input arguments.
-- [[Polymorphism]]: Function overloading can be seen as a form of polymorphism.
+- [[Polymorphism]]: Function overloading can be seen as a form of [[Polymorphism]].
 # [[Python 1 Home]]

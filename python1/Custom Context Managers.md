@@ -1,7 +1,7 @@
 ## [[Custom [[Context Managers]]
 
 ### What are [[Custom [[Context Managers]]?
-Custom context managers provide a way to define a block of code that should be executed before and after a specific operation. They are used to automate resource management tasks, such as opening and closing files or acquiring and releasing locks.
+Custom [[Context Managers]] provide a way to define a block of code that should be executed before and after a specific operation. They are used to automate resource management tasks, such as opening and closing files or acquiring and releasing locks.
 
 ### How to Use [[Custom [[Context Managers]]
 To create a custom context manager, you need to define a class that implements the __enter__ and __exit__ methods. The __enter__ method is called when the context manager is entered, and the __exit__ method is called when the context manager is exited (regardless of whether an exception was raised).
@@ -26,9 +26,9 @@ with MyContextManager() as obj:
 
 ### Related Python Concepts
 
-- [[Context Managers]]: Custom context managers extend the functionality of built-in context managers.
-- [[File Handling]]: Custom context managers can be used to open and close files automatically.
-- [[Exception Handling]]: Custom context managers can be used to handle exceptions gracefully.
-- [[Classes and Objects]]: Custom context managers are implemented as classes.
-- [[Decorators]]: Custom context managers can be implemented using decorators (@contextmanager).
+- [[Context Managers]]: Custom [[Context Managers]] extend the functionality of built-in [[Context Managers]].
+- [[File Handling]]: Custom [[Context Managers]] can be used to open and close files automatically.
+- [[Exception Handling]]: Custom [[Context Managers]] can be used to handle exceptions gracefully.
+- [[Classes and Objects]]: Custom [[Context Managers]] are implemented as classes.
+- [[Decorators]]: Custom [[Context Managers]] can be implemented using [[Decorators]] (@contextmanager).
 # [[Python 1 Home]]

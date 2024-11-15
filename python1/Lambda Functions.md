@@ -33,6 +33,6 @@ print(numbers) # Output: [2, 4, 1, 3, 5]
 - [[Python Functions]]: Lambda [[Python Functions]] are essentially simplified versions of regular [[Python Functions]].
 - [[Function Parameters]]: Lambda [[Python Functions]] can receive arguments just like regular [[Python Functions]].
 - [[Higher-Order [[Python Functions]]: Lambda [[Python Functions]] are often used as arguments to higher-order [[Python Functions]].
-- [[Closures]]: Lambda [[Python Functions]] can access variables from the enclosing scope, creating closures.
+- [[Closures]]: Lambda [[Python Functions]] can access variables from the enclosing scope, creating [[Closures]].
 - [[Map, Filter, and Reduce]]: Lambda [[Python Functions]] commonly appear in these built-in [[Python Functions]].
 # [[Python 1 Home]]

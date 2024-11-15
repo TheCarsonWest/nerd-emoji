@@ -24,7 +24,7 @@ where:
 * $\Delta H_{vap}$ is the enthalpy of vaporization.
 * R is the ideal gas constant.
 
-* **Intermolecular Forces:** Stronger intermolecular forces (like hydrogen bonding) require more energy to overcome, resulting in lower vapor pressure at a given temperature. For example, water has a higher boiling point and lower vapor pressure than diethyl ether due to its strong hydrogen bonding.
+* **[[intermolecular forces]]:** Stronger [[intermolecular forces]] (like hydrogen bonding) require more energy to overcome, resulting in lower vapor pressure at a given temperature. For example, water has a higher boiling point and lower vapor pressure than diethyl ether due to its strong hydrogen bonding.
 
 * **Surface Area:** A larger surface area of the liquid exposes more molecules to the vapor phase, leading to a higher vapor pressure.
 

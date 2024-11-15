@@ -1,7 +1,7 @@
 # ID: 15th Amendment
 ## When:  February 3, 1870
 ## Who:  
-* **Proposed:**  39th United States Congress
+* **Proposed:**  39th [[United States]] Congress
 * **Ratified:**  States of the Union 
 ## What:
 * **The 15th Amendment** to the U.S. Constitution granted African American men the right to vote. 

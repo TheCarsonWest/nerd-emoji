@@ -18,8 +18,8 @@ class Person:
 
 ### Related Python Concepts
 - [[Classes and Objects]]: [[Encapsulation]] is a fundamental aspect of object-oriented programming.
-- [[Private and Protected Members]]: [[Encapsulation]] is achieved by using private and protected members.
+- [[Private and Protected Members]]: [[Encapsulation]] is achieved by using [[Private and Protected Members]].
 - [[Inheritance]]: [[Encapsulation]] ensures that private attributes are not inherited by subclasses.
 - [[Polymorphism]]: Encapsulated methods can be overridden in subclasses, allowing for polymorphic behavior.
-- [[Descriptors]]: [[Encapsulation]] can be implemented using descriptors to control attribute access.
+- [[Descriptors]]: [[Encapsulation]] can be implemented using [[Descriptors]] to control attribute access.
 # [[Python 1 Home]]

@@ -31,9 +31,9 @@ with TemporaryDirectory() as tmp_dir:
 
 ### Related Python Concepts
 
-- [[File Handling]]: Context managers are commonly used for file handling operations.
+- [[File Handling]]: Context managers are commonly used for [[File Handling]] operations.
 - [[Exception Handling]]: Context managers can be used to handle exceptions within a specific scope.
-- [[Generators]]: Context managers can be implemented using generators.
-- [[Decorators]]: Context managers can be implemented using decorators.
-- [[Custom [[Context Managers]]: You can create your own custom context managers to manage your resources.
+- [[Generators]]: Context managers can be implemented using [[Generators]].
+- [[Decorators]]: Context managers can be implemented using [[Decorators]].
+- [[Custom [[Context Managers]]: You can create your own [[Custom Context Managers]] to manage your resources.
 # [[Python 1 Home]]

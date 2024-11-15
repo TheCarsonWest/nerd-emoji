@@ -53,7 +53,7 @@ class Square(Shape):
 
 - [[Classes and Objects]]: Abstract classes introduce the concept of abstraction in object-oriented programming.
 - [[Inheritance]]: Derived classes inherit the abstract methods from their abstract class.
-- [[Polymorphism]]: Abstract methods encourage polymorphism by allowing derived classes to provide different implementations of the same method.
+- [[Polymorphism]]: Abstract methods encourage [[Polymorphism]] by allowing derived classes to provide different implementations of the same method.
 - [[Type Hinting]]: Type annotations can be used to specify the expected type of the abstract methods.
 - [[Mutable vs Immutable Types]]: Abstract classes are typically considered immutable, as their methods cannot be modified.
 # [[Python 1 Home]]

@@ -30,7 +30,7 @@
 
 ### **Historical Trends in the [[United States]]:**
 * **1500-1700:** European colonization of North America.
-* **1700:** England, France, and Spain claim most of North America.
+* **1700:** England, [[France]], and [[Spain]] claim most of North America.
 * **1600s-1808:** Enslaved Africans arrive in North America.
 * **1808-1890:** Migrants from northern and western Europe.
 * **1890-1914:** Migrants from southern and eastern Europe.

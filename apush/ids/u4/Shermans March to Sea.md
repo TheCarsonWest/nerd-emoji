@@ -7,8 +7,8 @@
 
 ## What:
 * A devastating military campaign conducted by Union forces, led by General Sherman, during the American Civil War. 
-* The march began in Atlanta, Georgia, and proceeded across the state to Savannah on the Atlantic coast.
-* Sherman's objective was to destroy the Confederate Army's ability to wage war in Georgia, targeting military and civilian infrastructure.  
+* The march began in Atlanta, [[Georgia]], and proceeded across the state to Savannah on the Atlantic coast.
+* Sherman's objective was to destroy the Confederate Army's ability to wage war in [[Georgia]], targeting military and civilian infrastructure.  
 * This included railroads, bridges, factories, and farms. The march also included the destruction of private property and the displacement of civilians.
 
 ## Impact: Why Significant?:

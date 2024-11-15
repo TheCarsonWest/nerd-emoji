@@ -1,10 +1,10 @@
 ## [[Bitwise [[Operators]]
 
 ### What are [[Bitwise [[Operators]]?
-Bitwise operators perform operations on the binary representations of integers. They allow manipulation of individual bits, providing precise control over the binary-level details of data.
+Bitwise [[Operators]] perform operations on the binary representations of integers. They allow manipulation of individual bits, providing precise control over the binary-level details of data.
 
 ### How to Use [[Bitwise [[Operators]]
-Bitwise operators are represented by symbols that indicate the specific operation to be performed on the bits of the operands. The operands must be integers or bitwise expressions. The result is a new integer that represents the modified binary value.
+Bitwise [[Operators]] are represented by symbols that indicate the specific operation to be performed on the bits of the operands. The operands must be integers or bitwise expressions. The result is a new integer that represents the modified binary value.
 
 ### Common [[Bitwise [[Operators]]
 
@@ -19,9 +19,9 @@ Bitwise operators are represented by symbols that indicate the specific operatio
 
 ### Related Python Concepts
 
-- [[Variables and Data Types]]: Bitwise operators operate on integers and bitwise expressions.
-- [[Operators]]: Bitwise operators are a type of operator, distinct from arithmetic and logical operators.
-- [[Lists]]: Bitwise operators can be applied to elements of lists containing integers.
-- [[Tuples]]: Bitwise operators can be applied to elements of tuples containing integers.
-- [[Python Sets]]: Bitwise operators can be applied to elements of sets containing integers.
+- [[Variables and Data Types]]: Bitwise [[Operators]] operate on integers and bitwise expressions.
+- [[Operators]]: Bitwise [[Operators]] are a type of operator, distinct from arithmetic and logical [[Operators]].
+- [[Lists]]: Bitwise [[Operators]] can be applied to elements of [[Lists]] containing integers.
+- [[Tuples]]: Bitwise [[Operators]] can be applied to elements of [[Tuples]] containing integers.
+- [[Python Sets]]: Bitwise [[Operators]] can be applied to elements of sets containing integers.
 # [[Python 1 Home]]

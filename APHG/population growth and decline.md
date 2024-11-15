@@ -21,7 +21,7 @@
 * **Development Level:**
     * Developed countries: TFR generally below 2.1 (e.g., US - 2, Japan - under 2).
     * Developing countries: TFR generally higher (4-6 or more).
-* **Industrial Revolution:** Led to increased food production, lower death rates, and eventually lower TFRs in Europe.
+* **[[Industrial Revolution]]:** Led to increased food production, lower death rates, and eventually lower TFRs in Europe.
 * **Women's Education and Empowerment:** 
     * Increased education and workplace equality correlate with lower TFRs (e.g., Japan).
     * Example: Between 1990-2007, TFR in developing nations dropped significantly as female education levels rose.

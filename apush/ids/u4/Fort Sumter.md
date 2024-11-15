@@ -7,7 +7,7 @@
 * **Union Forces:** Under the command of Major Robert Anderson 
 
 ## What: 
-* The Confederate forces bombarded Fort Sumter in Charleston Harbor, South Carolina, for 34 hours, ultimately forcing the Union garrison to surrender. 
+* The Confederate forces bombarded Fort Sumter in Charleston Harbor, [[South Carolina]], for 34 hours, ultimately forcing the Union garrison to surrender. 
 * This marked the beginning of the American Civil War. 
 
 ## Impact: Why Significant?: 

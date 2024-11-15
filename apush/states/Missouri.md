@@ -7,7 +7,7 @@
 * **1849:** [[California]] Gold Rush brings thousands of prospectors through [[Missouri]].
 * **1861:** [[Missouri]] remains in the Union during the Civil War, despite strong Confederate sympathies.
 * **1865:** Slavery is abolished in [[Missouri]].
-* **1870:** [[Missouri]] Compromise is overturned by the 14th Amendment.
+* **1870:** [[Missouri]] Compromise is overturned by the [[14th amendment]].
 * **1875:** Grangers' Revolt highlights economic disparities in [[Missouri]].
 * **1893:** World's Columbian Exposition held in Chicago, featuring [[Missouri]] exhibits.
 * **1904:** [[Louisiana]] Purchase]] Exposition held in St. Louis, showcasing [[Missouri]]'s progress.

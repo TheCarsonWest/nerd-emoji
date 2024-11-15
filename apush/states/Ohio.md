@@ -10,8 +10,8 @@
 * **1854:** [[Kansas]]-[[Nebraska]] Act passes, repealing the [[Missouri]] Compromise and opening [[Ohio]] to slavery.
 * **1857:** Oberlin-Wellington Rescue, a raid on a slave jail.
 * **1861:** [[Ohio]] secedes from the Union and joins the Confederacy during the Civil War.
-* **1863:** Emancipation Proclamation issued, freeing slaves in [[Ohio]].
-* **1865:** [[Ohio]] ratifies the 13th Amendment, abolishing slavery.
+* **1863:** [[Emancipation Proclamation]] issued, freeing slaves in [[Ohio]].
+* **1865:** [[Ohio]] ratifies the [[13th amendment]], abolishing slavery.
 * **1912:** Wright brothers make the first successful airplane flight in [[Ohio]].
 * **1936:** Congress passes the Soil Conservation and Domestic Allotment Act, providing financial assistance to [[Ohio]] farmers.
 * **1954:** Supreme Court rules in Brown v. Board of Education that racial segregation in public schools is unconstitutional.

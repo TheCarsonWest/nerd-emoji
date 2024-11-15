@@ -59,7 +59,7 @@ print(nonlocal_var) # Output: 11
 
 - [[Variables and Data Types]]: Global and nonlocal variables are examples of variable scope in Python.
 - [[Python Functions]]: Global and nonlocal variables are used within [[Python Functions]].
-- [[Function Parameters]]: Global and nonlocal variables can interact with function parameters.
-- [[Default Parameters]]: Global and nonlocal variables can be used as default values for function parameters.
-- [[Closures]]: Global and nonlocal variables can be captured by closures.
+- [[Function Parameters]]: Global and nonlocal variables can interact with [[Function Parameters]].
+- [[Default Parameters]]: Global and nonlocal variables can be used as default values for [[Function Parameters]].
+- [[Closures]]: Global and nonlocal variables can be captured by [[Closures]].
 # [[Python 1 Home]]

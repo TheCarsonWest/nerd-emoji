@@ -1,10 +1,10 @@
 # Chaining [[Decorators]]
 
 ## What are Chaining [[Decorators]]?
-Chaining decorators is a technique in Python that allows multiple decorators to be applied to a single function or class. By chaining decorators, you can combine the functionalities of different decorators in a sequential manner, allowing you to enhance the behavior of the decorated function or class in a more modular and flexible way.
+Chaining [[Decorators]] is a technique in Python that allows multiple [[Decorators]] to be applied to a single function or class. By chaining [[Decorators]], you can combine the functionalities of different [[Decorators]] in a sequential manner, allowing you to enhance the behavior of the decorated function or class in a more modular and flexible way.
 
 ## How to Use Chaining [[Decorators]]
-To chain decorators, simply use the `@` symbol before each decorator function you want to apply, in the order you wish to apply them. The syntax is as follows:
+To chain [[Decorators]], simply use the `@` symbol before each decorator function you want to apply, in the order you wish to apply them. The syntax is as follows:
 
 ```python
 @decorator1
@@ -15,7 +15,7 @@ def function_name(parameters):
  # function body
 ```
 
-Note that the decorators are applied from top to bottom, so the inner-most decorator is applied first, followed by the next-inner decorator, and so on.
+Note that the [[Decorators]] are applied from top to bottom, so the inner-most decorator is applied first, followed by the next-inner decorator, and so on.
 
 ## Code Examples
 ```python
@@ -85,9 +85,9 @@ def update_user(self, new_data):
 ```
 
 ## Related Python Concepts
-- [[Decorators]]: Chaining decorators is an advanced technique that builds upon the concept of decorators.
+- [[Decorators]]: Chaining [[Decorators]] is an advanced technique that builds upon the concept of [[Decorators]].
 - [[Python Functions]]: [[Decorators]] are applied to functions to modify their behavior.
 - [[Higher-Order [[Python Functions]]: [[Decorators]] are higher-order [[Python Functions]] that take a function as an argument and return a new function.
-- [[Closures]]: [[Decorators]] create closures that remember and have access to the variables defined in their scope.
-- [[Metaclasses]]: Chaining decorators can be used to create custom metaclasses that modify the behavior of classes and their instances.
+- [[Closures]]: [[Decorators]] create [[Closures]] that remember and have access to the variables defined in their scope.
+- [[Metaclasses]]: Chaining [[Decorators]] can be used to create custom [[Metaclasses]] that modify the behavior of classes and their instances.
 # [[Python 1 Home]]

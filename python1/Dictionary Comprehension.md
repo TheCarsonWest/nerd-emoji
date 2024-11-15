@@ -1,7 +1,7 @@
 ## Python [[Dictionary Comprehension]]
 
 ### What is [[Dictionary Comprehension]]?
-Dictionary comprehension is a concise syntax in Python that allows for the creation of dictionaries from iterable sequences. It provides a convenient way to generate dictionaries where the keys and values are derived from the input iterables.
+Dictionary comprehension is a concise syntax in Python that allows for the creation of [[Dictionaries]] from iterable sequences. It provides a convenient way to generate [[Dictionaries]] where the keys and values are derived from the input iterables.
 
 ### How to Use [[Dictionary Comprehension]]
 Dictionary comprehension is expressed in the following format:
@@ -25,9 +25,9 @@ ages = {name: age for name, age in data}
 ```
 
 ### Related Python Concepts
-- [[List Comprehension]]: Similar to dictionary comprehension, but used for creating lists.
+- [[List Comprehension]]: Similar to dictionary comprehension, but used for creating [[Lists]].
 - [[Generators]]: Can be used to create iterables for dictionary comprehension.
 - [[Python Functions]]: Lambda [[Python Functions]] can be used as expressions for keys and values.
 - [[For Loops]]: Dictionary comprehension can be seen as a concise form of a for loop.
-- [[Operators]]: Conditional and mathematical operators can be used in the key or value expressions.
+- [[Operators]]: Conditional and mathematical [[Operators]] can be used in the key or value expressions.
 # [[Python 1 Home]]

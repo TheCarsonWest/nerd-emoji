@@ -43,8 +43,8 @@ element = WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.ID
 
 ### Related Python Concepts
 - [[Variables and Data Types]]: Variables are used to store WebDriver instances and web elements.
-- [[Operators]]: Comparison operators are used to check conditions in WebDriver methods.
+- [[Operators]]: Comparison [[Operators]] are used to check conditions in WebDriver methods.
 - [[Control Flow If Statements]]: If statements can be used to conditionally execute WebDriver actions based on element visibility or other criteria.
-- [[For Loops]]: For loops can be used to iterate over multiple web elements on a page.
-- [[While Loops]]: While loops can be used to repeatedly perform actions on a page until a certain condition is met.
+- [[For Loops]]: [[For Loops]] can be used to iterate over multiple web elements on a page.
+- [[While Loops]]: [[While Loops]] can be used to repeatedly perform actions on a page until a certain condition is met.
 # [[Python 1 Home]]

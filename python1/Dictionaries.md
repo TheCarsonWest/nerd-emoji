@@ -31,8 +31,8 @@ for name, age in students.items():
 ### Related Python Concepts
 
 - [[Variables and Data Types]]: [[Dictionaries]] are stored as variables and can contain different data types.
-- [[Lists]]: [[Lists]] and dictionaries are both sequence data structures, but lists are ordered and mutable while dictionaries are unordered and mutable.
-- [[Tuples]]: [[Tuples]] and dictionaries are both mutable data structures, but tuples are immutable.
+- [[Lists]]: [[Lists]] and dictionaries are both sequence data structures, but [[Lists]] are ordered and mutable while dictionaries are unordered and mutable.
+- [[Tuples]]: [[Tuples]] and dictionaries are both mutable data structures, but [[Tuples]] are immutable.
 - [[Python Sets]]: [[Python Sets]] are similar to dictionaries but only store unique keys.
 - [[Python Functions]]: [[Python Functions]] can be used to create and modify dictionaries.
 # [[Python 1 Home]]

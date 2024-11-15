@@ -7,7 +7,7 @@
 * **Confederacy:** General P.G.T. Beauregard, General Joseph E. Johnston, General Thomas J. Jackson
 
 ## What:
-The Battle of Bull Run, also known as the First Battle of Manassas, was the first major battle of the American Civil War. It took place near Manassas Junction, Virginia. The battle was a Confederate victory, shattering the Union's initial hopes for a swift and decisive victory.  
+The Battle of Bull Run, also known as the First Battle of Manassas, was the first major battle of the American Civil War. It took place near Manassas Junction, [[Virginia]]. The battle was a Confederate victory, shattering the Union's initial hopes for a swift and decisive victory.  
 
 ## Impact: Why Significant? 
 * **Shattered Union Confidence:** The Union's defeat at Bull Run, which was expected to be a quick victory, shocked the North and demonstrated the strength of the Confederate Army. It led to widespread disillusionment with the war effort and a realization that the conflict would be long and bloody.

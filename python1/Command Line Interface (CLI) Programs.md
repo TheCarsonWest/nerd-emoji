@@ -75,8 +75,8 @@ Output:
 ### Python Concepts Most Closely Related
 
 - [[Variables and Data Types]]: CLI programs use variables to store data and data types to define the type of data stored in variables.
-- [[Operators]]: CLI programs use operators to perform mathematical and logical operations on data.
+- [[Operators]]: CLI programs use [[Operators]] to perform mathematical and logical operations on data.
 - [[Control Flow If Statements]]: CLI programs use if statements to conditionally execute code based on a given condition.
-- [[For Loops]]: CLI programs use for loops to iterate over sequences and perform actions for each element.
+- [[For Loops]]: CLI programs use [[For Loops]] to iterate over sequences and perform actions for each element.
 - [[Python Functions]]: CLI programs often use [[Python Functions]] to organize code and perform specific tasks.
 # [[Python 1 Home]]

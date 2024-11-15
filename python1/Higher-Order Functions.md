@@ -43,7 +43,7 @@ print(result) # 15
 ### Related Python Concepts
 
 - [[Lambda [[Python Functions]]: Lambda [[Python Functions]] are anonymous [[Python Functions]] that can be used within HOFs.
-- [[Python Functions]]: HOFs utilize [[Python Functions]] as arguments or return values.
+- [[Python Functions]]: HOFs utilize [[Python Functions]] as arguments or [[Return Values]].
 - [[Map, Filter, and Reduce]]: These are built-in HOFs that perform common operations on iterables.
 - [[Closures]]: [[Closures]] allow HOFs to retain access to variables outside their scope.
 - [[Decorators]]: [[Decorators]] are HOFs that modify the behavior of other [[Python Functions]].

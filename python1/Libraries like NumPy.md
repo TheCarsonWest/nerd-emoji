@@ -55,8 +55,8 @@ print(total)
 
 ### Related Python Concepts
 - [[Variables and Data Types]]: NumPy arrays are stored using NumPy's own data types.
-- [[Operators]]: NumPy provides operators for array operations like element-wise addition and multiplication.
+- [[Operators]]: NumPy provides [[Operators]] for array operations like element-wise addition and multiplication.
 - [[Python Functions]]: NumPy provides a rich set of mathematical [[Python Functions]] for numerical computations.
-- [[Lists]]: NumPy arrays can be converted to and from Python lists.
+- [[Lists]]: NumPy arrays can be converted to and from Python [[Lists]].
 - [[Modules and Packages]]: NumPy is a third-party library that is installed as a package.
 # [[Python 1 Home]]
