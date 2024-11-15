@@ -1,7 +1,7 @@
 ## [[Libraries like NumPy]]
 
 ### What is NumPy?
-NumPy (Numerical Python) is a powerful Python library for scientific computing that provides a comprehensive collection of [[functions]] and data structures for numerical operations and linear algebra. It enables efficient handling of multidimensional arrays and offers a wide range of mathematical [[functions]] for numerical computations.
+NumPy (Numerical Python) is a powerful Python library for scientific computing that provides a comprehensive collection of [[Python Functions]] and data structures for numerical operations and linear algebra. It enables efficient handling of multidimensional arrays and offers a wide range of mathematical [[Python Functions]] for numerical computations.
 
 ### How to Use NumPy
 To use NumPy in your Python programs, you first need to import the library using the following statement:
@@ -10,7 +10,7 @@ To use NumPy in your Python programs, you first need to import the library using
 import numpy as np
 ```
 
-Once imported, you can access the [[functions]] and classes provided by NumPy.
+Once imported, you can access the [[Python Functions]] and classes provided by NumPy.
 
 **Creating Arrays:**
 - `np.array(object)`: Converts a Python object to a NumPy array.
@@ -25,7 +25,7 @@ Once imported, you can access the [[functions]] and classes provided by NumPy.
 - `arr * arr2`: Element-wise multiplication of two arrays.
 - `np.sum(arr)`: Computes the sum of all elements in an array.
 
-**Mathematical [[Functions]]:**
+**Mathematical [[Python Functions]]:**
 - `np.sin(x)`: Computes the sine of x.
 - `np.cos(x)`: Computes the cosine of x.
 - `np.log(x)`: Computes the natural logarithm of x.
@@ -56,7 +56,7 @@ print(total)
 ### Related Python Concepts
 - [[Variables and Data Types]]: NumPy arrays are stored using NumPy's own data types.
 - [[Operators]]: NumPy provides operators for array operations like element-wise addition and multiplication.
-- [[Functions]]: NumPy provides a rich set of mathematical [[functions]] for numerical computations.
+- [[Python Functions]]: NumPy provides a rich set of mathematical [[Python Functions]] for numerical computations.
 - [[Lists]]: NumPy arrays can be converted to and from Python lists.
 - [[Modules and Packages]]: NumPy is a third-party library that is installed as a package.
 # [[Python 1 Home]]

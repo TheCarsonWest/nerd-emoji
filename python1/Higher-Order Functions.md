@@ -1,9 +1,9 @@
-## Higher-Order [[Functions]]
+## Higher-Order [[Python Functions]]
 
 ### Explanation
-Higher-Order [[Functions]] (HOFs) are [[functions]] that can take other [[functions]] as arguments or return [[functions]] as their results. They allow for a powerful level of abstraction and code reuse by enabling the passing of behavior as data.
+Higher-Order [[Python Functions]] (HOFs) are [[Python Functions]] that can take other [[Python Functions]] as arguments or return [[Python Functions]] as their results. They allow for a powerful level of abstraction and code reuse by enabling the passing of behavior as data.
 
-### How to Use Higher-Order [[Functions]]
+### How to Use Higher-Order [[Python Functions]]
 When using HOFs, there are two main scenarios:
 
 - **Passing a function as an argument:** This is achieved by assigning a function to a variable and passing it to the HOF.
@@ -42,9 +42,9 @@ print(result) # 15
 
 ### Related Python Concepts
 
-- [[Lambda [[Functions]]: Lambda [[functions]] are anonymous [[functions]] that can be used within HOFs.
-- [[Functions]]: HOFs utilize [[functions]] as arguments or return values.
+- [[Lambda [[Python Functions]]: Lambda [[Python Functions]] are anonymous [[Python Functions]] that can be used within HOFs.
+- [[Python Functions]]: HOFs utilize [[Python Functions]] as arguments or return values.
 - [[Map, Filter, and Reduce]]: These are built-in HOFs that perform common operations on iterables.
 - [[Closures]]: [[Closures]] allow HOFs to retain access to variables outside their scope.
-- [[Decorators]]: [[Decorators]] are HOFs that modify the behavior of other [[functions]].
+- [[Decorators]]: [[Decorators]] are HOFs that modify the behavior of other [[Python Functions]].
 # [[Python 1 Home]]

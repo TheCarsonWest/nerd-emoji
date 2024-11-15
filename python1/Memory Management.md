@@ -26,7 +26,7 @@ Python objects have reference counts that keep track of the number of references
 **Related Python Concepts:**
 
 - [[Variables and Data Types]]: Objects in Python occupy memory and have reference counts.
-- [[Functions]]: Nested [[Functions]] within a larger function can create reference cycles that make it difficult for the garbage collector to reclaim memory.
+- [[Python Functions]]: Nested [[Python Functions]] within a larger function can create reference cycles that make it difficult for the garbage collector to reclaim memory.
 - [[Closures]]: [[Closures]] can retain references to variables in their enclosing scope, potentially keeping objects alive longer than necessary.
 - [[Garbage Collection]]: The garbage collector is a key component of Python's memory management system.
 - [[Thread Safety]]: Multithreaded applications need to consider memory management issues related to [[Thread Safety]] and synchronization.

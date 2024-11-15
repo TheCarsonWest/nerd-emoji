@@ -1,4 +1,4 @@
-[[solutions]]
+[[AP CHEM solutions]]
 
 Electrolytes are substances that, when dissolved in water or other solvents, dissociate into ions and become electrically conductive.
 

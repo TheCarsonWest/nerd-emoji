@@ -23,6 +23,6 @@ names.add("Dave")
 - [[Python Sets]]: Frozen sets are an immutable type of set data structure.
 - [[Mutable vs Immutable Types]]: Frozen sets are immutable, while sets are mutable.
 - [[Variables and Data Types]]: Frozen sets store unique elements of various types.
-- [[Functions]]: The `frozenset()` function is used to create frozen sets.
+- [[Python Functions]]: The `frozenset()` function is used to create frozen sets.
 - [[For Loops]]: Frozen sets can be iterated over using for loops.
 # [[Python 1 Home]]

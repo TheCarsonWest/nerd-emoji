@@ -4,7 +4,7 @@
 
 **Modules:**
 - Self-contained Python code stored in a file (`*.py`).
-- Contain [[Functions]], classes, or variables that can be imported and used in other Python scripts.
+- Contain [[Python Functions]], classes, or variables that can be imported and used in other Python scripts.
 - Used to organize and reuse code.
 
 **Packages:**
@@ -24,7 +24,7 @@ Imports the specified module, allowing access to its contents.
 ```python
 from module_name import element1, element2
 ```
-Imports specific elements (e.g., [[Functions]], classes) from a module.
+Imports specific elements (e.g., [[Python Functions]], classes) from a module.
 
 **Importing a Package:**
 ```python
@@ -58,12 +58,12 @@ subpackage.my_function()
 
 ### Related Python Concepts
 
-- [[Functions]]: Modules and packages provide a way to organize and reuse [[Functions]].
+- [[Python Functions]]: Modules and packages provide a way to organize and reuse [[Python Functions]].
 - [[Importing Modules]]: The import statement is used to import modules and packages.
 - [[Libraries like NumPy]]: NumPy is a package that provides scientific computing capabilities.
 - [[Libraries like Pandas]]: Pandas is a package that provides data analysis and manipulation tools.
 - [[Libraries like Matplotlib]]: Matplotlib is a package that provides data visualization capabilities. [[Dynamic Importing]]
-- [[Functions]]
+- [[Python Functions]]
 - [[Python Package Index (PyPI) Publishing]]
 - [[Virtual Environments]]
 

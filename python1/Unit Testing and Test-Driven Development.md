@@ -1,7 +1,7 @@
 ## [[Unit Testing and Test-Driven Development]]
 
 ### What is [[Unit Testing and Test-Driven Development]]?
-Unit testing is a methodology for testing individual units of code, typically [[Functions]] or methods, to ensure their correct functionality. Test-driven development (TDD) is an agile development approach that emphasizes writing tests before writing the actual code, ensuring that the code meets the requirements from the outset.
+Unit testing is a methodology for testing individual units of code, typically [[Python Functions]] or methods, to ensure their correct functionality. Test-driven development (TDD) is an agile development approach that emphasizes writing tests before writing the actual code, ensuring that the code meets the requirements from the outset.
 
 ### How to Use Unit Testing in Python
 Python's unit testing framework, `unittest`, provides a comprehensive set of tools for creating and running tests. Here's how to use it:
@@ -45,9 +45,9 @@ Run the test again to verify that it now passes, confirming the correct implemen
 
 ### Related Python Concepts
 
-- [[Functions]]: Unit tests primarily target [[Functions]] or methods.
+- [[Python Functions]]: Unit tests primarily target [[Python Functions]] or methods.
 - [[Modules and Packages]]: Unit tests can be organized into separate files as modules or packages.
 - [[Exceptions]]: Unit tests can check for the correct handling of exceptions.
 - [[Mocks]]: Unit tests often use mocks to simulate the behavior of external dependencies.
-- [[Type Hinting]]: Type hints in test [[Functions]] help ensure the correct types of inputs and outputs.
+- [[Type Hinting]]: Type hints in test [[Python Functions]] help ensure the correct types of inputs and outputs.
 # [[Python 1 Home]]

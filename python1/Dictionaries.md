@@ -34,5 +34,5 @@ for name, age in students.items():
 - [[Lists]]: [[Lists]] and dictionaries are both sequence data structures, but lists are ordered and mutable while dictionaries are unordered and mutable.
 - [[Tuples]]: [[Tuples]] and dictionaries are both mutable data structures, but tuples are immutable.
 - [[Python Sets]]: [[Python Sets]] are similar to dictionaries but only store unique keys.
-- [[Functions]]: [[Functions]] can be used to create and modify dictionaries.
+- [[Python Functions]]: [[Python Functions]] can be used to create and modify dictionaries.
 # [[Python 1 Home]]

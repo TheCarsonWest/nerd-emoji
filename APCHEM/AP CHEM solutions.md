@@ -12,7 +12,7 @@ A solution is a homogeneous mixture of two or more substances. The substance pre
 The concentration of a solution is a measure of the amount of solute present in a given amount of solvent. There are several ways to express concentration, including:
 
 * **[[Molarity]] (M):** Moles of solute per liter of solution
-$$\text{Molarity} = \frac{\text{Moles of solute}}{\text{Liters of solution}}$$
+$$\text{[[Molarity]]} = \frac{\text{Moles of solute}}{\text{Liters of solution}}$$
 * **Molality (m):** Moles of solute per kilogram of solvent
 $$\text{Molality} = \frac{\text{Moles of solute}}{\text{Kilograms of solvent}}$$
 * **Mass percent (% m/m):** Grams of solute per 100 grams of solution
@@ -24,7 +24,7 @@ $$\text{Volume percent} = \frac{\text{Milliliters of solute}}{\text{Milliliters 
 
 Colligative properties are properties of solutions that depend only on the concentration of the solute, not on its identity. These properties include:
 
-* **Vapor pressure lowering:** The vapor pressure of a solution is lower than that of the pure solvent.
+* **[[Vapor pressure]] lowering:** The [[vapor pressure]] of a solution is lower than that of the pure solvent.
 * **Boiling point elevation:** The boiling point of a solution is higher than that of the pure solvent.
 * **Freezing point depression:** The freezing point of a solution is lower than that of the pure solvent.
 * **Osmotic pressure:** The osmotic pressure of a solution is the pressure that must be applied to the solution to prevent water from flowing into it from a pure solvent.

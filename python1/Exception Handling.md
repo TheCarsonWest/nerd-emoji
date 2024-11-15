@@ -39,7 +39,7 @@ except FileNotFoundError:
 
 - [[Variables and Data Types]]: Exception handling involves identifying and managing exceptions, which are objects that represent errors.
 - [[Operators]]: The `try` and `except` blocks are control flow constructs used for error handling.
-- [[Functions]]: Exception handling is often used in conjunction with [[functions]] to handle errors that occur during function calls.
+- [[Python Functions]]: Exception handling is often used in conjunction with [[Python Functions]] to handle errors that occur during function calls.
 - [[For Loops]]: Exception handling can be used to detect and handle errors that occur within loops.
 - [[While Loops]]: Similar to for loops, exception handling can be used to handle errors in while loops.
 # [[Python 1 Home]]

@@ -82,6 +82,6 @@ predictions = model.predict(new_data)
 - [[Libraries like NumPy]]: NumPy is used for numerical operations and multidimensional data manipulation in deep learning.
 - [[Lists]]: [[Lists]] are used to represent sequences of data in deep learning models.
 - [[Dictionaries]]: [[Dictionaries]] are used to store and retrieve data by keys in deep learning models.
-- [[Functions]]: [[Functions]] are used to create custom layers and training methods in deep learning.
-- [[Lambda [[Functions]]: Lambda [[functions]] are used to create anonymous [[functions]] that can be used as layers or training callbacks in deep learning.
+- [[Python Functions]]: [[Python Functions]] are used to create custom layers and training methods in deep learning.
+- [[Lambda [[Python Functions]]: Lambda [[Python Functions]] are used to create anonymous [[Python Functions]] that can be used as layers or training callbacks in deep learning.
 # [[Python 1 Home]]

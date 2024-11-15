@@ -1,7 +1,7 @@
 ## Python [[Operators]]
 
 ### What are [[Operators]]?
- [[Operators]] are special symbols or [[Functions]] that perform specific operations on values. They allow the manipulation, comparison, and modification of data in Python.
+ [[Operators]] are special symbols or [[Python Functions]] that perform specific operations on values. They allow the manipulation, comparison, and modification of data in Python.
 
 ### How to Use [[Operators]]
  [[Operators]] can be used in expressions along with variables, values, and other operators. The result of an operation depends on the types of operands and the operator itself.

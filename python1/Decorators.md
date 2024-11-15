@@ -1,7 +1,7 @@
 ## Python [[Decorators]]
 
 ### Introduction
- [[Decorators]] are a powerful feature of Python that allow you to enhance the behavior of [[functions]], classes, and other objects. They provide a way to add functionality or modify the behavior of an existing object without modifying its source code.
+ [[Decorators]] are a powerful feature of Python that allow you to enhance the behavior of [[Python Functions]], classes, and other objects. They provide a way to add functionality or modify the behavior of an existing object without modifying its source code.
 
 ### How to Use [[Decorators]]
  [[Decorators]] are defined using the `@` symbol followed by the decorator function. The decorator function takes the target object (a function or class) as an argument and returns a modified version of that object.
@@ -53,9 +53,9 @@ def target_object():
 
 ### Related Python Concepts
 
-- [[Functions]]: [[Decorators]] enhance the functionality of [[functions]].
+- [[Python Functions]]: [[Decorators]] enhance the functionality of [[Python Functions]].
 - [[Classes and Objects]]: [[Decorators]] can be used to modify the behavior of [[classes and objects]].
-- [[Higher-Order [[Functions]]: [[Decorators]] are higher-order [[functions]] that take a function as an argument and return a modified function.
-- [[Function Parameters]]: Decorator [[functions]] can accept parameters, allowing for customization of the decoration behavior.
-- [[Lambda [[Functions]]: Lambda [[functions]] can be used as decorators to define simple inline modifications.
+- [[Higher-Order [[Python Functions]]: [[Decorators]] are higher-order [[Python Functions]] that take a function as an argument and return a modified function.
+- [[Function Parameters]]: Decorator [[Python Functions]] can accept parameters, allowing for customization of the decoration behavior.
+- [[Lambda [[Python Functions]]: Lambda [[Python Functions]] can be used as decorators to define simple inline modifications.
 # [[Python 1 Home]]

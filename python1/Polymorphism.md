@@ -39,5 +39,5 @@ cat.speak() # prints "Cat meows."
 - [[Inheritance]]: Subclasses inherit the properties and methods of their parent class, allowing for method overriding and polymorphism.
 - [[Method Resolution Order (MRO)]]: Determines the order in which methods are searched within the class hierarchy during polymorphism.
 - [[Duck Typing]]: A variant of polymorphism where objects are classified by methods they implement rather than their class.
-- [[Higher-Order [[Functions]]: [[Functions]] that take other [[Functions]] as arguments or return [[Functions]] enable polymorphism by allowing runtime customization.
+- [[Higher-Order [[Python Functions]]: [[Python Functions]] that take other [[Python Functions]] as arguments or return [[Python Functions]] enable polymorphism by allowing runtime customization.
 # [[Python 1 Home]]

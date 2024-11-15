@@ -62,6 +62,6 @@ df = spark.createDataFrame(data, ["name", "age"])
 - [[Libraries like Pandas]]: PySpark is similar to Pandas but designed for handling larger datasets.
 - [[Big Data]]: PySpark is specifically designed for working with large datasets.
 - [[Map, Filter, and Reduce]]: PySpark transformations can be implemented using these [[Higher-Order Functions]].
-- [[Lambda [[Functions]]: [[Lambda Functions]] can be used to define anonymous [[Functions]] for PySpark transformations.
+- [[Lambda [[Python Functions]]: [[Lambda Functions]] can be used to define anonymous [[Python Functions]] for PySpark transformations.
 - [[Concurrency and Multithreading]]: PySpark leverages multithreading and distributed computing for efficient data processing.
 # [[Python 1 Home]]

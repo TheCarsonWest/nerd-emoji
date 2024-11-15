@@ -34,7 +34,7 @@ Flask and Django are popular Python frameworks for building web applications and
 ## Related Python Concepts
 
 - [[Variables and Data Types]]: Flask and Django use variables to store data in routes, views, and models.
-- [[Functions]]: Routes and views are essentially functions that handle HTTP requests and responses.
+- [[Python Functions]]: Routes and views are essentially functions that handle HTTP requests and responses.
 - [[Classes and Objects]]: Django models are classes that represent database entities as objects.
 - [[Modules and Packages]]: Flask and Django are modules that can be imported into Python scripts.
 - [[Web Development with Django]]: Django is a comprehensive framework specifically designed for web development.

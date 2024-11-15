@@ -37,7 +37,7 @@ new_string = re.sub(r' ', '_', 'Hello World')
 
 - [[Variables and Data Types]]: Regular expressions can be stored in string variables.
 - [[Operators]]: Comparison [[Operators]] (`==`) can be used to test the result of a regex match.
-- [[Functions]]: Regular expression [[Functions]] like `re.search()` and `re.findall()` are used to perform string matching and manipulation.
+- [[Python Functions]]: Regular expression [[Python Functions]] like `re.search()` and `re.findall()` are used to perform string matching and manipulation.
 - [[For Loops]]: Regex patterns can be iterated over using the `re.finditer()` function.
 - [[While Loops]]: Regular expressions can be used to control the execution of [[While Loops]] based on matching conditions.
 # [[Python 1 Home]]

@@ -46,6 +46,6 @@ else:
 - [[Control Flow If Statements]]: Nested if statements are an extension of regular if statements.
 - [[For Loops]]: Nested if statements can be used within [[For Loops]] to make decisions based on looped elements.
 - [[While Loops]]: Similarly, nested if statements can be used within [[While Loops]] to control loop execution.
-- [[Functions]]: Nested if statements can be used to conditionally call [[Functions]] or determine function behavior.
+- [[Python Functions]]: Nested if statements can be used to conditionally call [[Python Functions]] or determine function behavior.
 - [[Boolean Logic]]: Nested if statements rely on Boolean logic [[Operators]] (e.g., and, or, not) for conditional evaluations.
 # [[Python 1 Home]]

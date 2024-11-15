@@ -35,8 +35,8 @@ phone_number = match.group(1)
 ### Related Python Concepts
 
 - [[Regular Expressions]]: Groups and backreferences are core components of [[Regular Expressions]].
-- [[Functions]]: [[Regular Expressions]] often use matching [[Functions]] like `search` and `findall`.
-- [[Lambda [[Functions]]: [[Regular Expressions]] can be used as arguments to [[Lambda Functions]].
+- [[Python Functions]]: [[Regular Expressions]] often use matching [[Python Functions]] like `search` and `findall`.
+- [[Lambda [[Python Functions]]: [[Regular Expressions]] can be used as arguments to [[Lambda Functions]].
 - [[Python Sets]]: Groups can be used to construct [[Python Sets]] of matched substrings.
 - [[Tuples]]: Backreferences return [[Tuples]] containing the captured substrings.
 # [[Python 1 Home]]

@@ -33,8 +33,8 @@ if __name__ == '__main__':
 
 ### Related Python Concepts
 - [[Concurrency and Multithreading]]: [[Multiprocessing]] is an extension of multithreading that allows Processes to run on different CPUs.
-- [[Functions]]: [[Multiprocessing]] uses [[Functions]] as targets for Processes to execute.
-- [[Function Parameters]]: Arguments and keyword arguments can be passed to target [[Functions]] in multiprocessing.
+- [[Python Functions]]: [[Multiprocessing]] uses [[Python Functions]] as targets for Processes to execute.
+- [[Function Parameters]]: Arguments and keyword arguments can be passed to target [[Python Functions]] in multiprocessing.
 - [[Return Values]]: The `join()` method of a `Process` object can be used to retrieve the return value of the target function.
 - [[Threading]]: Multithreading is another way of achieving concurrency in Python, but it operates on a single CPU.
 # [[Python 1 Home]]

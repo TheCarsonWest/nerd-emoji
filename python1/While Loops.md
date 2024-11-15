@@ -36,5 +36,5 @@ while True:
 - [[Operators]]: Comparison [[Operators]] like `>` and `==` are used to create conditions in while loops.
 - [[Control Flow If Statements]]: If statements can be used to control the flow of execution within while loops.
 - [[For Loops]]: While loops can be used to implement the same functionality as [[For Loops]], but they provide more flexibility in controlling the iteration.
-- [[Recursion]]: While loops can be used as the base case in recursive [[Functions]].
+- [[Recursion]]: While loops can be used as the base case in recursive [[Python Functions]].
 # [[Python 1 Home]]

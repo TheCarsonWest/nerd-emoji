@@ -42,6 +42,6 @@ for number in gen_even():
 - [[For Loops]]: [[Generators]] are commonly used in for loops to iterate over a sequence of values.
 - [[Yield]]: The `yield` keyword is used to create a generator function.
 - [[Return Values]]: [[Generators]] return a `generator` object instead of a single value.
-- [[Functions]]: [[Generators]] are a type of function.
+- [[Python Functions]]: [[Generators]] are a type of function.
 - [[List Comprehension]]: [[Generators]] can be used as an alternative to list comprehensions for creating sequences.
 # [[Python 1 Home]]

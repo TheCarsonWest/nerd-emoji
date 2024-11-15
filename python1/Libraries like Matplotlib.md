@@ -61,7 +61,7 @@ plt.show()
 
 ### Related Python Concepts
 
-- [[Functions]]: Matplotlib [[functions]] like `plot()` and `title()` are used to create and customize plots.
+- [[Python Functions]]: Matplotlib [[Python Functions]] like `plot()` and `title()` are used to create and customize plots.
 - [[DataFrames in Pandas]]: Matplotlib can be used in conjunction with Pandas to plot dataframes.
 - [[Plot Customization in Matplotlib]]: Matplotlib has advanced features for customizing plots.
 - [[Data Visualization with Seaborn]]: Seaborn is a higher-level library built on Matplotlib that provides a more user-friendly interface for creating visualizations.

@@ -9,7 +9,7 @@ Theres a whole lot of messed up links around here, so dont be suprised
  - [[Control Flow If Statements]]
  - [[For Loops]]
  - [[While Loops]]
- - [[Functions]]
+ - [[Python Functions]]
  - [[Function Parameters]]
  - [[Return Values]]
  - [[Default Parameters]]

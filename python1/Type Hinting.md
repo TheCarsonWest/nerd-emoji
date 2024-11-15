@@ -6,7 +6,7 @@ Type hinting is a feature of Python that allows developers to include type annot
 ### How to Use [[Type Hinting]]
 Type hints are added using type annotations, which are special comments written with a colon (:) at the end of a line of code.
 
-#### [[Functions]]
+#### [[Python Functions]]
 **Parameters:**
 ```python
 def add_numbers(a: int, b: int) -> int:
@@ -64,8 +64,8 @@ names: list[str] = ["John", "Jane", "Mike"]
 ### Related Python Concepts
 
 - [[Variables and Data Types]]: Type hints explicitly specify the expected data types.
-- [[Functions]]: Type hints describe the data types of function arguments and [[Return Values]].
+- [[Python Functions]]: Type hints describe the data types of function arguments and [[Return Values]].
 - [[Function Parameters]]: Type hints provide type information for [[Function Parameters]].
-- [[Return Values]]: Type hints indicate the expected return type of [[Functions]].
+- [[Return Values]]: Type hints indicate the expected return type of [[Python Functions]].
 - [[Mutable vs Immutable Types]]: Type hints can help distinguish between mutable and immutable types.
 # [[Python 1 Home]]

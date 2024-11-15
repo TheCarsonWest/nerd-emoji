@@ -5,7 +5,7 @@ Pandas is an open-source Python library that provides high-performance, data man
 
 ### How to Use Pandas
 
-Pandas provides a wide range of [[Functions]] and methods for manipulating and analyzing data. Some of the most commonly used [[Functions]] include:
+Pandas provides a wide range of [[Python Functions]] and methods for manipulating and analyzing data. Some of the most commonly used [[Python Functions]] include:
 
 - `read_csv()`: Reads a Comma-Separated Values (CSV) file into a DataFrame.
 - `head()`: Displays the first few rows of a DataFrame.
@@ -33,7 +33,7 @@ df.sort_values('age')
 
 - [[Lists]]: DataFrames are a specialized type of list that holds data in a tabular format.
 - [[Dictionaries]]: DataFrames can be created from [[Dictionaries]], where the keys become column names and the values become rows.
-- [[File Handling]]: Pandas [[Functions]] like `read_csv()` and `to_csv()` allow for reading and writing data from and to files.
+- [[File Handling]]: Pandas [[Python Functions]] like `read_csv()` and `to_csv()` allow for reading and writing data from and to files.
 - [[DataFrames in Pandas]]: DataFrames are the primary data structure used in Pandas for representing and manipulating tabular data.
 - [[NumPy Broadcasting]]: Pandas leverages NumPy for efficient data manipulation and numerical operations.
 # [[Python 1 Home]]

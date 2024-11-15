@@ -52,7 +52,7 @@ print(f"Name: {name}") # output: Name: Mary
 
 - [[Operators]]: [[Operators]] can be used to perform operations on variables of different data types.
 - [[Control Flow If Statements]]: Variables and data types influence the flow of control in if statements based on the values stored in the variables.
-- [[Functions]]: [[Functions]] can take arguments of specific data types and [[Return Values]] of specific types.
+- [[Python Functions]]: [[Python Functions]] can take arguments of specific data types and [[Return Values]] of specific types.
 - [[Lists]]: [[Lists]] are mutable collections that can store a variety of data types.
 - [[Dictionaries]]: [[Dictionaries]] are mutable collections that store key-value pairs, where the keys and values can be of different data types.
 # [[Python 1 Home]]

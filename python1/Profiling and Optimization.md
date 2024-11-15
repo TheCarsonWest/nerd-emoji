@@ -29,9 +29,9 @@ The profiling report will show you where the code is spending the most time. Onc
 
 ### Related Python Concepts
 
-- [[Functions]]: Profiling is used to measure the performance of [[Functions]].
+- [[Python Functions]]: Profiling is used to measure the performance of [[Python Functions]].
 - [[For Loops]]: Profiling can be used to optimize loops.
 - [[While Loops]]: Profiling can be used to optimize loops.
-- [[Recursion]]: Profiling can be used to optimize recursive [[Functions]].
+- [[Recursion]]: Profiling can be used to optimize recursive [[Python Functions]].
 - [[File IO Modes]]: Profiling can be used to optimize file input/output operations.
 # [[Python 1 Home]]

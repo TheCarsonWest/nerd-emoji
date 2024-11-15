@@ -1,4 +1,4 @@
 # [[APCHEM Home]]
 
-- [[solutions]]
+- [[AP CHEM solutions]]
 - [[ion concentration]]

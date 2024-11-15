@@ -16,7 +16,7 @@
 
 **Important Legislation:**
 
-* **1836:** The [[Texas]] [[Declaration of Independence]]
+* **1836:** The [[Texas]] Declaration of Independence
 * **1845:** The Joint Resolution for the Annexation of [[Texas]]
 * **1957:** The [[Texas]] Education Agency Act
 * **1964:** The Civil Rights Act
@@ -38,4 +38,3 @@
 
 * [[Texas]] has played a significant role in American history, including the Civil War, the civil rights movement, and the energy industry.
 * [[Texas]] is a major political and economic powerhouse, with its large population and diverse economy.
-* [[Texas]]'s conservative politics have had a national impact, especially in areas such as abortion, education, and gun laws.
