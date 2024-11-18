@@ -4,7 +4,7 @@
 
 ## Who:
 * **[[Abraham Lincoln]] (Republican)** -  Won the election despite not being on the ballot in all states.
-* **Stephen Douglas (Northern [[Democrats]])** - Supported popular sovereignty (allowing territories to decide on slavery). 
+* **Stephen Douglas (Northern [[Democrats]])** - Supported [[popular sovereignty]] (allowing territories to decide on slavery). 
 * **John Breckinridge (Southern [[Democrats]])** - Advocated for federal protection of slavery.
 * **John Bell (Constitutional Union)** - Focused on maintaining the Union, avoiding the issue of slavery.
 

@@ -6,7 +6,7 @@ Local linearity is a fundamental concept in calculus that describes how a functi
 
 ## [[Tangent Lines]]
 
-A tangent line to a curve at a point is a line that "touches" the curve at that point and has the same slope as the curve at that point. 
+A tangent line to a curve at point is a line that "touches" the curve at that point and has the same slope as the curve at that point. 
 
 **Definition:**
 

@@ -14,8 +14,8 @@
 **Important Legislation:**
 
 * Articles of Secession (1861)
-* Black Codes (1865-1877)
-* Jim Crow laws (post-Reconstruction era)
+* [[Black Codes]] (1865-1877)
+* [[Jim Crow laws]] (post-Reconstruction era)
 * Civil Rights Act of 1963
 * Voting Rights Act of 1965
 

@@ -24,9 +24,9 @@ def replace_string_in_folder(folder_path, search_string, replace_string):
                 replace_string_in_file(file_path, search_string, replace_string)
 
 if __name__ == '__main__':
-    folder_paths = ['./../apush/']
-    search_string = "  [[sectionalism]]  "
-    replace_string = ' [[sectionalism]] '
+    folder_paths = ['./../Calc/']
+    search_string = "[[Calc home 1]]"
+    replace_string = '[[Calc home]]'
 
     for folder_path in folder_paths:
         replace_string_in_folder(folder_path, search_string, replace_string)

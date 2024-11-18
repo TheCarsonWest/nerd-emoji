@@ -3,7 +3,7 @@
 **Timeline of Events**
 
 * 1803: [[Kansas]] Territory acquired by the [[Louisiana]] Purchase]]
-* 1854: [[Kansas]]-[[Nebraska]] Act allows for popular sovereignty in the territories over the issue of slavery
+* 1854: [[Kansas]]-[[Nebraska]] Act allows for [[popular sovereignty]] in the territories over the issue of slavery
 * 1855-1861: "Bleeding [[Kansas]]" era marked by violence and turmoil over slavery
 * 1861: [[Kansas]] becomes a free state
 * 1863: Quantrill's Raid on Lawrence, [[Kansas]]

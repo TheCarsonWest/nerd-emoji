@@ -9,7 +9,7 @@
 
 ## What: 
 The "Solid South" refers to the formerly Confederate states that, after Reconstruction, became unified in their political support for the [[Democrats]].  This was due to a combination of factors, including: 
-* **White Supremacy:**  Southern whites sought to maintain their social and economic dominance over African Americans, using tactics like Jim Crow laws and voter suppression.
+* **White Supremacy:**  Southern whites sought to maintain their social and economic dominance over African Americans, using tactics like [[Jim Crow laws]] and voter suppression.
 * **Economic Interests:** The [[Democrats]] often aligned with Southern economic interests, particularly those tied to agriculture and the sharecropping system.
 * **Opposition to Federal Intervention:** Southerners resented federal intervention in their affairs, especially during Reconstruction.
 

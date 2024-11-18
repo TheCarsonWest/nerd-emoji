@@ -8,7 +8,7 @@
 
 * A pamphlet advocating for American independence from British rule.
 * Argued for the natural rights of man, including liberty and self-governance.
-* Proposed a revolutionary government based on popular sovereignty.
+* Proposed a revolutionary government based on [[popular sovereignty]].
 
 **Impact:**
 

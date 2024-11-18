@@ -8,67 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b01d687ebbabe0a",
+            "id": "ca346512b4bc6b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Calc AB/Contextual Applications of Derivatives.md",
+                "file": "nexus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contextual Applications of Derivatives"
-            }
-          },
-          {
-            "id": "97d22b454f3ab958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Calc AB/Analyzing Functions with the first derivative.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Analyzing Functions with the first derivative"
-            }
-          },
-          {
-            "id": "72ede295fa3ee4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Calc AB/Local Linearity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Linearity"
-            }
-          },
-          {
-            "id": "43edf4ae46a695b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Calc AB/Local Linearity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Linearity"
+              "title": "nexus"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,10 +95,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Calc AB/Local Linearity.md"
+                "file": "nexus.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Local Linearity"
+              "title": "Outline of nexus"
             }
           },
           {
@@ -153,12 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Calc AB/Local Linearity.md",
+                "file": "nexus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Local Linearity"
+              "title": "Outgoing links from nexus"
             }
           },
           {
@@ -172,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8955fd89f6e74f34",
@@ -222,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Calc AB/Local Linearity.md",
+                "file": "nexus.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,7 +186,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Local Linearity"
+              "title": "Backlinks for nexus"
             }
           }
         ],
@@ -257,34 +211,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43edf4ae46a695b9",
+  "active": "d02d193fd4dbb53f",
   "lastOpenFiles": [
-    "AP Calc AB/Local Linear Approximation.md",
-    "AP Calc AB/Local Linearity.md",
-    "AP Calc AB/Test for the Accuracy of Local Linearity.md",
-    "AP Calc AB/Calc home.md",
-    "AP Calc AB/Derivative.md",
-    "AP Calc AB/Differentiability.md",
-    "AP Calc AB/Rolles Theorem.md",
-    "AP Calc AB/LHopitals Rule.md",
-    "AP Calc AB/Analyzing Functions with the first derivative.md",
-    "AP Calc AB/Test for Concavity.md",
-    "AP Calc AB/Inflection Points.md",
-    "AP Calc AB/Critical Point.md",
-    "AP Calc AB/Analyzing Functions with the second derivative.md",
-    "AP Calc AB/Calc Rules and theorems.md",
-    "AP Calc AB/Mean Value Theorem.md",
-    "AP Calc AB/Extreme Value Theorem.md",
-    "templates/Calc rundown.md",
+    "Calc home 1.md",
     "nexus.md",
-    "AP Calc AB/Implicit Differentiation.md",
-    "AP Calc AB/Indeterminate Forms.md",
-    "AP Calc AB/Contextual Applications of Derivatives.md",
-    "Related Rates.md",
-    "AP Calc AB/Calculus Limits.md",
-    "AP Calc AB/Tangent Lines.md",
-    "APCHEM/APCHEM Gasses.md",
-    "APCHEM/Deviations from Ideal Behavior(gasses).md",
+    "Calc/Calc home.md",
+    "AP Calc AB/integrals.md",
+    "Calc/integrals.md",
+    "Calc/Trigonometric Derivatives.md",
+    "Calc/Trapezoidal Rule.md",
+    "Calc/Test for the Accuracy of Local Linearity.md",
+    "Calc/Test for Concavity.md",
+    "Calc/Techniques of Integration.md",
+    "Calc/Tangent Lines.md",
+    "Calc/Straight Line motion.md",
+    "Calc/Squeeze Theorem.md",
+    "Calc/Rolles Theorem.md",
+    "Calc/Riemann Sums.md",
+    "Calc/Quotient Rule.md",
+    "Calc/Product Rule.md",
+    "Calc/Power Rule.md",
+    "Calc/Natural Log Rule.md",
+    "Calc/Mean Value Theorem.md",
+    "Calc/Log Rule.md",
+    "Calc/Local Linearity.md",
+    "Calc/Local Linear Approximation.md",
+    "Calc/LHopitals Rule.md",
+    "Calc/Inverse rule.md",
+    "Calc/Inverse Differentiation.md",
+    "Calc",
     "Pasted image 20241112212013.png",
     "apush/apush groups",
     "apush/ids/u4",
@@ -295,7 +250,6 @@
     "voice-ai-test/1730120230.246381",
     "brainrot/apush-brainrot",
     "apush-brainrot",
-    "notes.txt",
     "Pasted image 20241017082733.png",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_23.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_22.jpg",

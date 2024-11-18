@@ -43,7 +43,7 @@ Continuity is a fundamental concept in calculus that is essential for understand
 
 * **Derivatives:** The derivative of a function at a point is defined as the limit of the difference quotient as $x$ approaches that point. This limit only exists if the function is continuous at that point.
 
-* **Integrals:** The integral of a function over an interval is defined as the limit of a sum of areas of rectangles as the width of the rectangles approaches zero. This limit only exists if the function is continuous on the interval.
+* **[[integrals]]:** The integral of a function over an interval is defined as the limit of a sum of areas of rectangles as the width of the rectangles approaches zero. This limit only exists if the function is continuous on the interval.
 
 * **Differential equations:** Many differential equations involve continuous functions, and the solutions to these equations are also often continuous functions.
 
