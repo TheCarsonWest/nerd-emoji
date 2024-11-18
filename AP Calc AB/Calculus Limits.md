@@ -21,7 +21,7 @@ There are several techniques for evaluating limits:
 * **Direct substitution:** If the function is continuous at $a$, we can simply substitute $a$ into the function.
 * **Factoring and simplifying:**  We can factor the expression and cancel common factors to simplify the function.
 * **Rationalizing:** If the function involves radicals, we can rationalize the numerator or denominator.
-* **[[L'Hopital's Rule]]:** This rule applies when the limit results in an indeterminate form (such as $\frac{0}{0}$ or $\frac{\infty}{\infty}$).
+* **[[LHopitals Rule]]:** This rule applies when the limit results in an indeterminate form (such as $\frac{0}{0}$ or $\frac{\infty}{\infty}$).
 
 ### [[Limits at Infinity]]
 

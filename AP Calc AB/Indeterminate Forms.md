@@ -7,6 +7,6 @@ An indeterminate form is a limit expression that cannot be determined directly. 
 * **0/0:**  The limit of a fraction where both the numerator and denominator approach zero.
 * **∞/∞:** The limit of a fraction where both the numerator and denominator approach infinity.
 
-When encountering these indeterminate forms, we can't simply substitute the value the variable is approaching because the result is undefined. This is where [[L'Hopital's Rule]] comes in.
+When encountering these indeterminate forms, we can't simply substitute the value the variable is approaching because the result is undefined. This is where [[LHopitals Rule]] comes in.
 
-# [[L'Hopital's Rule]]
+# [[LHopitals Rule]]

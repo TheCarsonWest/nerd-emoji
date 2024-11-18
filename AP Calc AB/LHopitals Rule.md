@@ -7,7 +7,7 @@ $$\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$$
 
 **provided that the limit on the right-hand side exists or is $\pm \infty$.**
 
-**In simpler terms:**  To evaluate the limit of a fraction that results in an indeterminate form, take the derivative of both the numerator and denominator separately, and then evaluate the limit again.
+**In simpler terms:**  To evaluate the limit of a fraction that results in an indeterminate form, take the [[derivative]] of both the numerator and denominator separately, and then evaluate the limit again.
 
 ### Important Notes
 

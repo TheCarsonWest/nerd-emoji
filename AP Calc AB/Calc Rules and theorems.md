@@ -1,9 +1,9 @@
 # [[Calc home]]
 
 ## [[Derivative Rules]]
-## [[L'Hopital's Rule]]
+## [[LHopitals Rule]]
 ## [[Squeeze Theorem]]
 ## [[Intermediate Value Theorem]]
 ## [[Mean Value Theorem]]
 ## [[Extreme Value Theorem]]
-## [[Rolle's Theorem]]
+## [[Rolles Theorem]]

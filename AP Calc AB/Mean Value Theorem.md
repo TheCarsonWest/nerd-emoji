@@ -31,11 +31,11 @@ y = 1.5x
 In the above graph, the curve represents $f(x) = x^2$, the interval is $[0,2]$. The red line represents the secant line, and the blue line represents the tangent line at the point $c$ where the MVT holds.
 
 
-## 3.  [[Rolle's Theorem]]
+## 3.  [[Rolles Theorem]]
 
-[[Rolle's Theorem]] is a special case of the Mean Value Theorem where $f(a) = f(b)$.  In this case, the average rate of change is 0, and the theorem states that there exists at least one point $c$ in $(a, b)$ such that $f'(c) = 0$.  This means there's a horizontal tangent line somewhere in the interval.
+[[Rolles Theorem]] is a special case of the Mean Value Theorem where $f(a) = f(b)$.  In this case, the average rate of change is 0, and the theorem states that there exists at least one point $c$ in $(a, b)$ such that $f'(c) = 0$.  This means there's a horizontal tangent line somewhere in the interval.
 
-**Statement of [[Rolle's Theorem]]:**
+**Statement of [[Rolles Theorem]]:**
 
 Let $f$ be a function that satisfies the following hypotheses:
 
@@ -48,7 +48,7 @@ Then there exists a number $c$ in $(a, b)$ such that $f'(c) = 0$.
 
 ## 4.  [[Proof of the Mean Value Theorem]]
 
-The Mean Value Theorem can be proven using [[Rolle's Theorem]].  The proof involves constructing an auxiliary function that satisfies the conditions of [[Rolle's Theorem]] and then applying [[Rolle's Theorem]] to find the point $c$.  The detailed proof is beyond the scope of a concise rundown, but it relies on carefully constructing a line that connects the endpoints of the function and then subtracting that line from the original function to create a new function that satisfies [[Rolle's Theorem]].
+The Mean Value Theorem can be proven using [[Rolles Theorem]].  The proof involves constructing an auxiliary function that satisfies the conditions of [[Rolles Theorem]] and then applying [[Rolles Theorem]] to find the point $c$.  The detailed proof is beyond the scope of a concise rundown, but it relies on carefully constructing a line that connects the endpoints of the function and then subtracting that line from the original function to create a new function that satisfies [[Rolles Theorem]].
 
 
 ## 5.  Applications of the Mean Value Theorem
