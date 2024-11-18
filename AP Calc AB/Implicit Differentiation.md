@@ -1,13 +1,13 @@
 [[Calc home]]
 ## Implicit Differentiation
 
-Implicit differentiation is a technique used to find the derivative of a function that is defined implicitly, meaning that it is not explicitly solved for one variable in terms of the other. 
+Implicit differentiation is a technique used to find the [[derivative]] of a function that is defined implicitly, meaning that it is not explicitly solved for one variable in terms of the other. 
 
 ### The Basics
 
 Let's consider an equation relating $x$ and $y$, such as:
 # $$x^2 + y^2 = 25$$
-We can't easily solve this equation for $y$ in terms of $x$. However, we can still find the derivative $\frac{dy}{dx}$ by using implicit differentiation.
+We can't easily solve this equation for $y$ in terms of $x$. However, we can still find the [[derivative]] $\frac{dy}{dx}$ by using implicit differentiation.
 
 **The key idea is to differentiate both sides of the equation with respect to $x$, treating $y$ as a function of $x$.** This means we'll use the [[chain rule]] whenever we encounter a term involving $y$.
 
@@ -30,7 +30,7 @@ Let's find $\frac{dy}{dx}$ for the equation $x^2 + y^2 = 25$.
 
 ### [[Chain Rule]]
 
-The [[chain rule]] is essential for implicit differentiation. It states that the derivative of a composite function is the product of the derivative of the outer function and the derivative of the inner function.
+The [[chain rule]] is essential for implicit differentiation. It states that the [[derivative]] of a composite function is the product of the [[derivative]] of the outer function and the [[derivative]] of the inner function.
 
 **In the context of implicit differentiation, the inner function is often $y$, which is a function of $x$.** 
 
@@ -38,7 +38,7 @@ For example, if we have a term like $y^3$, we differentiate it as follows:
 
 $$\frac{d}{dx}(y^3) = 3y^2 \cdot \frac{dy}{dx}$$
 
-Here, $y^3$ is the outer function, $y$ is the inner function, and $\frac{dy}{dx}$ represents the derivative of the inner function.
+Here, $y^3$ is the outer function, $y$ is the inner function, and $\frac{dy}{dx}$ represents the [[derivative]] of the inner function.
 ### Applications of Implicit Differentiation
 
 Implicit differentiation has various applications, including:

@@ -7,7 +7,7 @@
 * **Anti-slavery forces:** Free-Staters, abolitionists, New England Emigrant Aid Company
 
 ## What:
-A period of violent conflict in Kansas Territory over whether it would be admitted to the Union as a free or slave state. This occurred after the passage of the Kansas-Nebraska Act, which repealed the [[Missouri Compromise]] and allowed for popular sovereignty to decide the status of slavery in new territories.
+A period of violent conflict in Kansas Territory over whether it would be admitted to the Union as a free or slave state. This occurred after the passage of the [[Kansas-Nebraska Act]], which repealed the [[Missouri Compromise]] and allowed for popular sovereignty to decide the status of slavery in new territories.
 
 ## Impact: Why Significant?: 
 * **Heightened sectional tensions:** Bleeding Kansas significantly inflamed tensions between the North and South, pushing the nation closer to Civil War.

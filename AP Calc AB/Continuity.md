@@ -33,7 +33,7 @@ Continuous functions have several important properties:
 
 1. **[[Intermediate Value Theorem]]:** If $f(x)$ is continuous on the closed interval $[a, b]$, and $k$ is any number between $f(a)$ and $f(b)$, then there exists at least one number $c$ in the interval $[a, b]$ such that $f(c) = k$.
 
-2. **Extreme Value Theorem:** If $f(x)$ is continuous on the closed interval $[a, b]$, then $f(x)$ has both an absolute maximum and an absolute minimum on that interval.
+2. **[[Extreme Value Theorem]]:** If $f(x)$ is continuous on the closed interval $[a, b]$, then $f(x)$ has both an absolute maximum and an absolute minimum on that interval.
 
 3. **Boundedness Theorem:** If $f(x)$ is continuous on the closed interval $[a, b]$, then $f(x)$ is bounded on that interval.
 

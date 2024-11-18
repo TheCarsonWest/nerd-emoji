@@ -7,7 +7,7 @@
 * **Key Leaders:** Salmon P. Chase,  [[Abraham Lincoln]],  and Horace Greeley
 
 ## What:
-The Republican Party was formed as a direct response to the Kansas-Nebraska Act, which allowed for the potential expansion of slavery into new territories. The party advocated for a platform based on opposing the expansion of slavery,  supporting free labor, and promoting economic development. 
+The Republican Party was formed as a direct response to the [[Kansas-Nebraska Act]], which allowed for the potential expansion of slavery into new territories. The party advocated for a platform based on opposing the expansion of slavery,  supporting free labor, and promoting economic development. 
 
 ## Impact: Why Significant?:
 The formation of the Republican Party marked a major turning point in American politics. It:

@@ -45,7 +45,7 @@ The [[Intermediate Value Theorem]] states that if a function $f(x)$ is continuou
 
 Limits have numerous applications in calculus and other areas of mathematics, including:
 
-* **[[Derivatives]]:** The derivative of a function at a point is defined as the limit of the difference quotient.
+* **[[Derivative]]:** The derivative of a function at a point is defined as the limit of the difference quotient.
 * **[[Integrals]]:** The definite integral of a function over an interval is defined as the limit of a Riemann sum.
 * **[[Continuity]]:** Limits are used to define and understand [[Continuity]], which is a fundamental concept in calculus and analysis.
 * **Optimization:** Limits can be used to find the maximum or minimum values of a function.

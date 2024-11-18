@@ -15,7 +15,7 @@
 10. [[Fugitive Slave Act]]
 11. [[Popular Sovereignty(antebellum)]]
 12. [[Uncle Toms Cabin]]
-13. [[Kansas Nebraska Act]]
+13. [[Kansas-Nebraska Act]]
 14. [[Bleeding Kansas]]
 15. [[Dred Scott v Sandford]]
 16. [[New Republican Party 1850]]
