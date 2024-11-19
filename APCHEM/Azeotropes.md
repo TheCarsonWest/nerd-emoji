@@ -11,9 +11,9 @@ There are two main types:
 * **Maximum-boiling azeotropes:** These boil at a higher temperature than either of their pure components.  Stronger [[intermolecular forces]] between the components than within the pure components result in a higher boiling point.  An example is hydrochloric acid and water.
 
 
-## [[Vapor Pressure]] and [[Raoult's Law]] Deviation
+## [[Vapor Pressure]] and [[Raoults Law]] Deviation
 
-Understanding azeotropes requires examining deviations from [[Raoult's Law]].  [[Raoult's Law]] states that the [[partial pressure]] of a component in an ideal solution is proportional to its mole fraction and its [[vapor pressure]] in the pure state:
+Understanding azeotropes requires examining deviations from [[Raoults Law]].  [[Raoults Law]] states that the [[partial pressure]] of a component in an ideal solution is proportional to its mole fraction and its [[vapor pressure]] in the pure state:
 
 $P_i = x_i P_i^*$
 
@@ -23,11 +23,11 @@ where:
 * $x_i$ is the mole fraction of component $i$
 * $P_i^*$ is the [[vapor pressure]] of pure component $i$
 
-Azeotropes form because of significant deviations from [[Raoult's Law]].  These deviations can be:
+Azeotropes form because of significant deviations from [[Raoults Law]].  These deviations can be:
 
-* **Positive deviations:**  The [[intermolecular forces]] between unlike molecules are weaker than those between like molecules.  This leads to a higher total [[vapor pressure]] than predicted by [[Raoult's Law]], resulting in minimum-boiling azeotropes.
+* **Positive deviations:**  The [[intermolecular forces]] between unlike molecules are weaker than those between like molecules.  This leads to a higher total [[vapor pressure]] than predicted by [[Raoults Law]], resulting in minimum-boiling azeotropes.
 
-* **Negative deviations:** The [[intermolecular forces]] between unlike molecules are stronger than those between like molecules. This leads to a lower total [[vapor pressure]] than predicted by [[Raoult's Law]], resulting in maximum-boiling azeotropes.
+* **Negative deviations:** The [[intermolecular forces]] between unlike molecules are stronger than those between like molecules. This leads to a lower total [[vapor pressure]] than predicted by [[Raoults Law]], resulting in maximum-boiling azeotropes.
 
 
 ## Breaking Azeotropes
@@ -41,4 +41,4 @@ Since simple [[Distillation]] fails, other methods are needed to separate azeotr
 * **Membrane separation:**  Utilizing selective membranes to separate components based on differences in their size or properties.
 
 
-[[Raoult's Law]]  [[Intermolecular Forces]]
+[[Raoults Law]]  [[Intermolecular Forces]]

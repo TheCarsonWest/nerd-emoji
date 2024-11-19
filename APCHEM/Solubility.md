@@ -7,7 +7,7 @@ Several factors influence solubility, including:
 
 * **Nature of the Solute and Solvent:**  [[Polarity]] and [[Intermolecular Forces]] play a crucial role. "Like dissolves like."
 * **Temperature:**  Generally, the solubility of solids in liquids increases with temperature, while the solubility of gases in liquids decreases with temperature.
-* **Pressure:**  Pressure primarily affects the solubility of gases in liquids.  [[Henry's Law]] describes this relationship.
+* **Pressure:**  Pressure primarily affects the solubility of gases in liquids.  [[Henrys Law]] describes this relationship.
 * **Presence of Other Substances:**  The presence of common ions can affect solubility through the [[Common Ion Effect]].
 
 
@@ -49,6 +49,6 @@ While not directly related to solubility calculations, calculus concepts are cru
 
 * **[[Polarity]]:**  Discuss the concept of [[polarity]] and how it influences solubility.
 * **[[Intermolecular Forces]]:** Explain the different types of [[intermolecular forces]] and their role in solubility.
-* **[[Henry's Law]]:** Describe Henry's Law, which relates the solubility of a gas to its [[partial pressure]].
+* **[[Henrys Law]]:** Describe Henry's Law, which relates the solubility of a gas to its [[partial pressure]].
 * **[[Common Ion Effect]]:** Explain how the presence of a common ion affects solubility.
 * **[[Differential Equation]]:**  Provide a brief overview of differential equations and how they are solved, particularly using separation of variables.

@@ -4,15 +4,15 @@ Gas [[solubility]] refers to the ability of a gas to dissolve in a liquid.  Unli
 
 ##  Calculating Gas Solubility
 
-Using [[Henry's Law]], we can calculate the concentration of a dissolved gas given its [[partial pressure]] and [[Henry's Law]] constant.  For example, if the [[partial pressure]] of $CO_2$ above a soda is 2 atm and $k_H$ for $CO_2$ in water at a given temperature is 0.034 mol/L·atm, the concentration of dissolved $CO_2$ would be:
+Using [[Henrys Law]], we can calculate the concentration of a dissolved gas given its [[partial pressure]] and [[Henrys Law]] constant.  For example, if the [[partial pressure]] of $CO_2$ above a soda is 2 atm and $k_H$ for $CO_2$ in water at a given temperature is 0.034 mol/L·atm, the concentration of dissolved $CO_2$ would be:
 
 $C = k_H P = (0.034 \text{ mol/L·atm}) (2 \text{ atm}) = 0.068 \text{ mol/L}$
 
 
-This calculation provides a simplified model.  In reality, deviations from [[Henry's Law]] can occur at higher pressures or when the gas is highly soluble.
+This calculation provides a simplified model.  In reality, deviations from [[Henrys Law]] can occur at higher pressures or when the gas is highly soluble.
 ## Factors Affecting Gas Solubility
 
-### 1. Pressure: [[Henry's Law]]
+### 1. Pressure: [[Henrys Law]]
 
 ### 2. Temperature
 Generally, the solubility of gases in liquids *decreases* with increasing temperature.  As temperature rises, the kinetic energy of the gas molecules increases, allowing them to overcome the [[intermolecular forces]] holding them in solution and escape into the gaseous phase.  This is why a warm soda goes flat faster than a cold one.

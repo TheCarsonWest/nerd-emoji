@@ -6,7 +6,7 @@ Distillation is a separation technique used to purify liquids based on differenc
 * **[[Vapor Pressure]]:** [[Vapor Pressure]]  The pressure exerted by a vapor in thermodynamic equilibrium with its condensed phases (liquid or solid) at a given temperature in a closed system.
 * **Boiling Point:** The temperature at which the [[vapor pressure]] of a liquid equals the external pressure surrounding the liquid.
 * **[[partial pressure]]:**  In a mixture of gases, each gas exerts its own [[partial pressure]].  The total pressure is the sum of the partial pressures of all the gases present.  
-* **[[Raoult's Law]]:**  [[Raoult's Law]] For an ideal solution, the [[partial pressure]] of each component is equal to the product of the pure component's [[vapor pressure]] and its mole fraction in the liquid mixture.  Mathematically:
+* **[[Raoults Law]]:**  [[Raoults Law]] For an ideal solution, the [[partial pressure]] of each component is equal to the product of the pure component's [[vapor pressure]] and its mole fraction in the liquid mixture.  Mathematically:
 
 ### $$P_A = x_A P_A^*$$
 
