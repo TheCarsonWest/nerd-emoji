@@ -36,6 +36,6 @@ where:
 
 **Applications**
 
-* **Distillation:** Vapor pressure differences are used in distillation to separate components of a mixture based on their boiling points.
+* **[[Distillation]]:** Vapor pressure differences are used in [[Distillation]] to separate components of a mixture based on their boiling points.
 * **Refrigeration:** Refrigerants utilize the vapor pressure of a fluid to absorb heat and cool a system.
 * **Atmospheric Chemistry:** Vapor pressure plays a crucial role in understanding the behavior of volatile organic compounds in the atmosphere.

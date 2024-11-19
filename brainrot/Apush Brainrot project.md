@@ -1,1 +1,0 @@
-[[tarriff of abominations brainrot]]

@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"AP Calc AB\"  ",
+      "query": "path:Calc ",
       "color": {
         "a": 1,
         "rgb": 6073814
@@ -60,6 +60,6 @@
   "repelStrength": 13.7526438828899,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 1.1641074762625045,
+  "scale": 2.0918060028135237,
   "close": true
 }

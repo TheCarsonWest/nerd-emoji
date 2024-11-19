@@ -3,7 +3,7 @@
   "obsidian-latex-suite",
   "note-refactor-obsidian",
   "obisidian-note-linker",
-  "obsidian-textgenerator-plugin",
   "obsidian-desmos",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-textgenerator-plugin"
 ]

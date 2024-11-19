@@ -34,7 +34,7 @@ Hybridization is a theoretical concept in chemistry that explains the bonding pa
 
 * **Explains Molecular Geometry:** Hybridization helps predict the shape of molecules and bond angles.
 * **Predicts Bonding Properties:** It explains the formation of sigma and pi bonds, influencing the strength and reactivity of molecules.
-* **Understanding Molecular Properties:** Hybridization plays a crucial role in understanding the physical and chemical properties of molecules, such as [[polarity]] and solubility.
+* **Understanding Molecular Properties:** Hybridization plays a crucial role in understanding the physical and chemical properties of molecules, such as [[polarity]] and [[Solubility]].
 
 **Limitations:**
 

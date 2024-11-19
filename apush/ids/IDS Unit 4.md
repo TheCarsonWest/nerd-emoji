@@ -1,12 +1,12 @@
 # [[ID Home]]
 
 ## Industrialization
-1. [[Samuel Slater]]
+1. [[Samuel Slater]] 
 2. [[Market Revolution]]
 3. [[Industrial Revolution]]
 4. [[Lowell Textile Mill]]
 5. [[Cotton Gin]]
-
+ 
 ## Causes of the Civil War
 6. [[Free-soldiers]]
 7.  [[sectionalism]] 

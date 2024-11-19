@@ -56,7 +56,7 @@ Inverse functions have a wide range of applications in various fields, including
 
 ### Key Points to Remember
 
-* The derivative of an inverse function is the reciprocal of the derivative of the original function evaluated at the inverse function.
+* The derivative of an inverse function is the reciprocal of the [[derivative]] of the original function evaluated at the inverse function.
 * Not all functions have inverses.
 * The domain of the inverse function is the range of the original function, and vice versa.
 

@@ -3,7 +3,7 @@
 # Unit 1
 ### [[Calculus Limits]]
 ### [[Indeterminate Forms]]
-# Unit 2/3 - derivative stuff
+# Unit 2/3 - [[derivative]] stuff
 
 ### [[Implicit Differentiation]]
 

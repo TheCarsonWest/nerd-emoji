@@ -6,7 +6,7 @@ We want to find an interval around $x=1$ where the tangent line approximation is
 
 ### Find the tangent line:
 
-First, we find the derivative of $f(x)$:
+First, we find the [[derivative]] of $f(x)$:
 $f'(x) = 3x^2 - 2$
 
 At $x=1$, the function value is $f(1) = 1^3 - 2(1) + 1 = 0$, and the slope of the tangent line is $f'(1) = 3(1)^2 - 2 = 1$.

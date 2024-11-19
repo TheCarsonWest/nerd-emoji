@@ -1,1 +1,1 @@
-write an AP chemstry rundown on {name}, include examples, and use the MathJax notation to depict chemical equations, do NOT use code blocks
+Make a AP Chemistry rundown on ____  in markdown format(make use of headings), use the LaTeX equation library format when writing equations. For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]], make sure they are just short titles for seperate notes)

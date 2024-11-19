@@ -1,4 +1,4 @@
 # [[APCHEM Home]]
-
-[[Preparing a standard Solution]]
-[[Acid Versus Hydrogen titration]]
+# Solutions
+## [[Chromatography]]
+## [[Distillation]]

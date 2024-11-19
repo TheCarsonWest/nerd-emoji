@@ -39,7 +39,7 @@ The exact value of the integral is $\frac{x^3}{3} \Big|_1^3 = \frac{27}{3} - \fr
 
 ## Error Analysis [[Error Bounds]]
 
-The error in the Trapezoidal Rule depends on the second derivative of the function and the width of the subintervals. A smaller $\Delta x$ (larger $n$) generally leads to a smaller error.  There are formulas to estimate the error bound, but they are beyond the scope of a basic Calculus AB course.
+The error in the Trapezoidal Rule depends on the second [[derivative]] of the function and the width of the subintervals. A smaller $\Delta x$ (larger $n$) generally leads to a smaller error.  There are formulas to estimate the error bound, but they are beyond the scope of a basic Calculus AB course.
 
 ## Comparison with Riemann Sums [[Riemann Sums]]
 

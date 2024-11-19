@@ -40,9 +40,9 @@ where:
 **Applications:**
 
 * **Predicting the stability of ionic compounds:** Compounds with higher lattice energy are generally more stable.
-* **Understanding the solubility of ionic compounds:** Compounds with lower lattice energy are more likely to dissolve in water.
+* **Understanding the [[Solubility]] of ionic compounds:** Compounds with lower lattice energy are more likely to dissolve in water.
 * **Designing new materials with specific properties:** By manipulating the factors influencing lattice energy, we can synthesize materials with desired properties.
 
 **Conclusion:**
 
-Lattice energy is a crucial concept in understanding the properties of ionic compounds. It quantifies the strength of electrostatic attractions between ions in a crystal lattice, influencing stability, solubility, and other material properties. The Born-Haber cycle provides a powerful tool to calculate and analyze lattice energies.
+Lattice energy is a crucial concept in understanding the properties of ionic compounds. It quantifies the strength of electrostatic attractions between ions in a crystal lattice, influencing stability, [[Solubility]], and other material properties. The Born-Haber cycle provides a powerful tool to calculate and analyze lattice energies.

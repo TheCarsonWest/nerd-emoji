@@ -1,7 +1,7 @@
 {
-  "version": "0.7.11",
+  "version": "0.7.42",
   "endpoint": "https://api.openai.com/v1",
-  "models": {},
+  "models": [],
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "Google GenerativeAI (Langchain)",
@@ -19,10 +19,10 @@
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,
   "context": {
-    "customInstructEnabled": false,
+    "customInstructEnabled": true,
     "includeClipboard": true,
-    "customInstruct": "\t {{tg_selection}}",
-    "contextTemplate": "Title: {{title}}\n\n{{starredBlocks}}\n\t  \n{{tg_selection}}\nalways use LaTeX math notation when writing equations!"
+    "customInstruct": "Title: {{title}}\n  \nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}",
+    "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
   },
   "requestTimeout": 300000,
   "options": {
@@ -38,6 +38,7 @@
     "open-playground": true,
     "set_max_tokens": true,
     "set-llm": true,
+    "set-model": true,
     "packageManager": true,
     "create-template": false,
     "get-title": true,
@@ -50,11 +51,13 @@
     "generate-in-right-click-menu": false,
     "batch-generate-in-right-click-files-menu": true,
     "tg-block-processor": true,
-    "reload": true
+    "reload": true,
+    "disable-ribbon-icons": false
   },
   "advancedOptions": {
     "generateTitleInstructEnabled": false,
-    "generateTitleInstruct": "Generate a title for the current document (do not use * \" \\ / < > : | ? .):\n{{substring content 0 255}}"
+    "generateTitleInstruct": "Generate a title for the current document (do not use * \" \\ / < > : | ? .):\n{{substring content 0 255}}",
+    "includeAttachmentsInRequest": false
   },
   "autoSuggestOptions": {
     "customInstructEnabled": true,
@@ -71,7 +74,7 @@
     "overrideTrigger": " "
   },
   "slashSuggestOptions": {
-    "isEnabled": true,
+    "isEnabled": false,
     "triggerPhrase": "/"
   },
   "extractorsOptions": {
@@ -87,21 +90,20 @@
   "LLMProviderOptions": {
     "whisper": {
       "base_path": "https://api.openai.com/v1",
-      "model": "whisper-1"
+      "model": "whisper-1",
+      "api_key": ""
     },
     "OpenAI Chat (Langchain)": {
-      "basePath": "https://api.openai.com/v1",
-      "api_key": "",
-      "model": "gpt-3.5-turbo"
+      "basePath": "https://api.openai.com/v1"
     },
     "Google GenerativeAI (Langchain)": {
-      "model": "models/gemini-1.5-flash",
+      "model": "gemini-1.5-flash-002",
       "api_key": ""
     }
   },
   "LLMProviderOptionsKeysHashed": {
-    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyCxM-nLEG89oe-m46vCLADPkNakJNp8x2I",
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-EwAUhp07yRCVbyWXWavTbk2St7uqeMY1W5fjkPsaYBzGsFl3abKWhAck_ihxM5x2T1ddYsEptxT3BlbkFJ1xXJIGhfKlyoTPs-cBPojRLGBhgoxC7t82K4YvpVnx0kcZqmqltQPu7a3n73-pXjx5J6rdoKEA"
+    "whisper.api_key": "__@#key_prefix#@__",
+    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyCxM-nLEG89oe-m46vCLADPkNakJNp8x2I"
   },
-  "api_key_encrypted": "__@#key_prefix#@__sk-proj-EwAUhp07yRCVbyWXWavTbk2St7uqeMY1W5fjkPsaYBzGsFl3abKWhAck_ihxM5x2T1ddYsEptxT3BlbkFJ1xXJIGhfKlyoTPs-cBPojRLGBhgoxC7t82K4YvpVnx0kcZqmqltQPu7a3n73-pXjx5J6rdoKEA"
+  "api_key_encrypted": "__@#key_prefix#@__"
 }

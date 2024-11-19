@@ -1,5 +1,5 @@
 # [[nexus]]
-
+# [[AP CHEM solutions]]
 # [[APCHEM Gasses]]
 # [[Chemical Bonds]]
 # [[Chemistry Constants]]
@@ -7,3 +7,4 @@
 # [[Chemistry Laws]]
 # [[Reactions Types]]
 # [[Other important AP CHEM things]]
+# [[AP CHEM solutions]]
