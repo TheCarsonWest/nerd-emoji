@@ -23,17 +23,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APCHEM/Henrys Law.md",
+                "file": "nexus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Henrys Law"
+              "title": "nexus"
+            }
+          },
+          {
+            "id": "665bb16202ca9c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beer-Lambert Law.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beer-Lambert Law"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,10 +121,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Henrys Law.md"
+                "file": "Beer-Lambert Law.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Henrys Law"
+              "title": "Outline of Beer-Lambert Law"
             }
           },
           {
@@ -118,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Henrys Law.md",
+                "file": "Beer-Lambert Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Henrys Law"
+              "title": "Outgoing links from Beer-Lambert Law"
             }
           },
           {
@@ -187,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCHEM/Henrys Law.md",
+                "file": "Beer-Lambert Law.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +212,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Henrys Law"
+              "title": "Backlinks for Beer-Lambert Law"
             }
           },
           {
@@ -239,34 +254,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e1e3c5b0f16240e6",
+  "active": "665bb16202ca9c9e",
   "lastOpenFiles": [
+    "apush/ids/u4/Wilmot Proviso.md",
+    "APCHEM/AP CHEM solutions.md",
+    "APCHEM/Solubility.md",
+    "Solubility Rules.md",
+    "Beer-Lambert Law.md",
+    "apush/ids/IDS Unit 4.md",
+    "apush/ids/u4/sectionalism.md",
+    "apush/ids/u4/Free-soilers.md",
+    "Untitled.md",
+    "nexus.md",
     "APCHEM/Raoults Law.md",
+    "Henrys Law.md",
+    "APCHEM/Saturation.md",
+    "APCHEM/Henrys Law.md",
+    "APCHEM/Gas Solubility.md",
     "README.md",
     "APCHEM/Van der Waals Gas Equation.md",
     "APCHEM/APCHEM Home.md",
     "APCHEM/Chemistry Laws.md",
-    "APCHEM/AP CHEM solutions.md",
-    "APCHEM/Henrys Law.md",
-    "APCHEM/Saturation.md",
-    "APCHEM/Solubility.md",
-    "APCHEM/Gas Solubility.md",
+    "Saturation.md",
+    "Gas Solubility.md",
     "APCHEM/partial pressure.md",
     "APCHEM/Azeotropes.md",
     "APCHEM/Distillation.md",
     "Dalton's Law.md",
-    "nexus.md",
     "templates/apchem rundown.md",
-    "templates/APHG Glossary.md",
-    "templates/apush person.md",
-    "templates/Calc rundown.md",
-    "APCHEM/APCHEM Gasses.md",
-    "APCHEM/AP Chem Labs.md",
-    "Calc/Derivative.md",
-    "Calc/Calc home.md",
-    "APCHEM/Particulate Diagrams of Solutions.md",
-    "APCHEM/Chromatography.md",
-    "APCHEM/Dilution Calculations.md",
     "images/Pasted image 20240829075856.png",
     "Calc",
     "Pasted image 20241112212013.png",
