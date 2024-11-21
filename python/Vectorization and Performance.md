@@ -1,11 +1,11 @@
 # [[ndarray Explained]]
 # Vectorization and Performance
 
-Vectorization is a powerful technique in Python (especially when working with libraries like NumPy) that significantly boosts performance by performing operations on entire arrays at once, rather than iterating through individual elements. This avoids the overhead of explicit loops, leading to substantial speed improvements.
+Vectorization is a powerful technique in Python (especially when working with [[Libraries like NumPy]]) that significantly boosts performance by performing operations on entire arrays at once, rather than iterating through individual elements. This avoids the overhead of explicit loops, leading to substantial speed improvements.
 
 **Key Concepts:**
 
-* **NumPy Arrays:**  Vectorization relies heavily on NumPy arrays.  These are efficient, homogenous data structures optimized for numerical operations. [[NumPy Arrays]]
+* **[[NumPy Arrays]]:**  Vectorization relies heavily on [[NumPy Arrays]].  These are efficient, homogenous data structures optimized for numerical operations. [[NumPy Arrays]]
 
 * **Broadcasting:**  NumPy's broadcasting rules allow operations between arrays of different shapes (under certain conditions).  Understanding broadcasting is crucial for writing efficient vectorized code. [[NumPy Broadcasting]]
 

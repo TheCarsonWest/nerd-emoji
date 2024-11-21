@@ -62,7 +62,7 @@ print(len(my_list))
 
 **Further Exploration:**
 
-* [[Operator Overloading]]:  Focuses on `__add__`, `__eq__`, `__mul__`, etc.  How to customize arithmetic and comparison operators.
+* [[Operator Overloading]]:  Focuses on `__add__`, `__eq__`, `__mul__`, etc.  How to customize arithmetic and comparison [[Operators]].
 * [[Iterators and Generators]]:  Detailed explanation of how to create iterable classes using `__iter__` and `__next__`.
 * [[Context Managers]]: Explanation of `__enter__` and `__exit__` methods for managing resources.
 * [[Object Lifecycle]]:  A deeper dive into object creation, destruction, and garbage collection.  How these special methods interact with the Python interpreter.

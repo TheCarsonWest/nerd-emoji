@@ -1,3 +1,8 @@
+---
+node_size: "100"
+---
+
+
 # See [[README]]
 
 # [[APHG Home]]

@@ -51,4 +51,4 @@ if phone_number:
 
 [[Regex Metacharacters]] A comprehensive overview of metacharacters used in regex beyond special sequences.
 
-[[Regex Methods in Python's `re` module]] A complete reference to all methods within Python's `re` module for working with regular expressions.
+[[Regex Methods in Python's `re` module]] A complete reference to all methods within Python's `re` module for working with [[Regular Expressions]].

@@ -1,7 +1,7 @@
 # [[Dictionary Comprehension]]
 # Zip Function
 
-The `zip()` function in Python takes iterables (like lists, tuples, or strings) as input and returns an iterator of tuples.  Each tuple contains the i-th element from each of the input iterables.  The iterator stops when the shortest input iterable is exhausted.
+The `zip()` function in Python takes [[Iterables]] (like [[Lists]], [[Tuples]], or strings) as input and returns an iterator of [[Tuples]].  Each tuple contains the i-th element from each of the input [[Iterables]].  The iterator stops when the shortest input iterable is exhausted.
 
 ```python
 list1 = [1, 2, 3]
@@ -35,7 +35,7 @@ print(list(zipped4)) #Output: [('a', 'd'), ('b', 'e'), ('c', 'f')]
 [[Iterables]]
 
 
-If you need to zip iterables of different lengths and want to pad the shorter iterables with a fill value, you can use `itertools.zip_longest()`:
+If you need to zip [[Iterables]] of different lengths and want to pad the shorter [[Iterables]] with a fill value, you can use `itertools.zip_longest()`:
 
 ```python
 from itertools import zip_longest
@@ -50,7 +50,7 @@ print(zipped_longest) #Output: [(1, 'a'), (2, 'b'), (3, '-'), (4, '-'), (5, '-')
 
 **Common Use Cases:**
 
-* Creating dictionaries from lists of keys and values.
+* Creating [[Dictionaries]] from [[Lists]] of keys and values.
 * Processing multiple datasets in parallel.
 * Combining data from multiple sources.
 

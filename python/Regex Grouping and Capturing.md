@@ -1,7 +1,7 @@
 # [[Regex Metacharacters]]
 # Regex Grouping and Capturing
 
-This note covers grouping and capturing in regular expressions using Python's `re` module.
+This note covers grouping and capturing in [[Regular Expressions]] using Python's `re` module.
 
 **Core Concepts:**
 

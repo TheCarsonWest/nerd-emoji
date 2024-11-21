@@ -29,7 +29,7 @@ another_function() # prints 20
 print(y) # prints 20
 ```
 
-* **Enclosing Function Locals (Nested Functions):**  If you have nested functions, inner functions can access variables from their enclosing (outer) functions, but not vice-versa.  This is called *closure*.
+* **Enclosing Function Locals ([[Nested Functions]]):**  If you have [[Nested Functions]], inner functions can access variables from their enclosing (outer) functions, but not vice-versa.  This is called *closure*.
 
 ```python
 def outer_function():
@@ -58,7 +58,7 @@ modify_global()
 print(global_var)  # Output: 100
 ```
 
-* **`nonlocal` keyword:** Similar to `global`, but for variables in enclosing functions (nested functions).
+* **`nonlocal` keyword:** Similar to `global`, but for variables in enclosing functions ([[Nested Functions]]).
 
 
 ```python

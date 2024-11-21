@@ -16,7 +16,7 @@ The loop continues until `count` is no longer less than 5.  We must ensure the c
 
 **Important Considerations:**
 
-* **Infinite Loops:**  If the condition never evaluates to `False`, the loop will run indefinitely.  This is a common error.
+* **[[Infinite Loops]]:**  If the condition never evaluates to `False`, the loop will run indefinitely.  This is a common error.
 * **Break Statement:** The `break` statement can be used to exit a `while` loop prematurely, regardless of the condition.
 * **Continue Statement:** The `continue` statement skips the rest of the current iteration and proceeds to the next iteration.
 

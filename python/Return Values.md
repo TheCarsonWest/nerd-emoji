@@ -26,10 +26,10 @@ print(returned_value)
 
 ```
 
-[[Python Functions]]  (link to a note about the general concept of Python functions)
-[[Function Parameters]] (link to a note about function parameters)
+[[Python Functions]]  (link to a note about the general concept of [[Python Functions]])
+[[Function Parameters]] (link to a note about [[Function Parameters]])
 
-The `return` statement immediately exits the function and sends the specified value back to the caller.  If a function doesn't have a `return` statement, it implicitly returns `None`.  Multiple return values are possible using tuples:
+The `return` statement immediately exits the function and sends the specified value back to the caller.  If a function doesn't have a `return` statement, it implicitly returns `None`.  Multiple return values are possible using [[Tuples]]:
 
 ```python
 def multiple_returns(a, b):
@@ -40,4 +40,4 @@ print(x, y)
 
 ```
 
-[[Tuples]] (link to a note on tuples)
+[[Tuples]] (link to a note on [[Tuples]])

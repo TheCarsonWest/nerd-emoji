@@ -36,7 +36,7 @@ if = 1             # Uses a reserved keyword (invalid)
 
 **Further Notes:**
 
-* [[Data Types]]  (Understanding data types helps in choosing appropriate variable names.)
+* [[Data Types]]  (Understanding [[Data Types]] helps in choosing appropriate variable names.)
 * [[Code Style Guides]] (PEP 8 provides detailed guidelines on Python style, including variable naming.)
 
 **Example of referencing another note:**

@@ -1,7 +1,7 @@
 # [[Regex Flags]]
 # Regex Special Characters
 
-These notes cover special characters used in regular expressions within Python.  Remember to import the `re` module before using any regex functions.  `import re`
+These notes cover special characters used in [[Regular Expressions]] within Python.  Remember to import the `re` module before using any regex functions.  `import re`
 
 [[Regex Metacharacters]]  These are symbols with special meanings in regex.
 
@@ -23,7 +23,7 @@ These notes cover special characters used in regular expressions within Python. 
 
 * **`\|` (Vertical Bar):** Acts as an "or" operator.  e.g., `cat|dog` matches either "cat" or "dog".
 
-* **`\` (Backslash):** Escapes special characters.  e.g., `\.` matches a literal dot, `\(` matches a literal opening parenthesis.  It's also used for special escape sequences like `\d` (digit), `\w` (alphanumeric), `\s` (whitespace).
+* **`\` (Backslash):** Escapes special characters.  e.g., `\.` matches a literal dot, `\(` matches a literal opening parenthesis.  It's also used for special escape [[Sequences]] like `\d` (digit), `\w` (alphanumeric), `\s` (whitespace).
 
 
 [[Regex Quantifiers]]  These characters control how many times a preceding element should appear.  (Already mentioned some above, but details here are crucial)

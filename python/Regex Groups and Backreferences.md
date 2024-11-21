@@ -1,7 +1,7 @@
 # [[Regular Expressions]]
 # Regex Groups and Backreferences
 
-These notes cover how to use groups and backreferences in regular expressions within Python.
+These notes cover how to use groups and backreferences in [[Regular Expressions]] within Python.
 
 The core idea is to create groups within a regex pattern to capture specific parts of the matched string.  These captured parts can then be reused (backreferenced) within the same pattern or accessed after the match is made.
 
@@ -54,4 +54,4 @@ if match:
 [[Regex Metacharacters]]  ([[Python's `re` Module]])
 
 
-This is useful for extracting specific parts of a matched string in a structured way.  Refer to [[Regex Metacharacters]] for more information on the basic building blocks of regular expressions used in these examples.  The [[Python's `re` Module]] note will cover the different functions available within Python's `re` module for working with regular expressions.
+This is useful for extracting specific parts of a matched string in a structured way.  Refer to [[Regex Metacharacters]] for more information on the basic building blocks of [[Regular Expressions]] used in these examples.  The [[Python's `re` Module]] note will cover the different functions available within Python's `re` module for working with [[Regular Expressions]].

@@ -1,11 +1,11 @@
 # [[Python Sets - Examples]]
 # Python Sets - Advanced Techniques
 
-This note covers advanced techniques related to Python sets beyond basic creation and operations.  We'll assume basic set understanding (see [[Python Sets - Basics]]).
+This note covers advanced techniques related to [[Python Sets]] beyond basic creation and operations.  We'll assume basic set understanding (see [[Python Sets - Basics]]).
 
 ## Set Comprehensions
 
-Similar to list comprehensions, set comprehensions provide a concise way to create sets.
+Similar to [[List Comprehensions]], set comprehensions provide a concise way to create sets.
 
 ```python
 # Create a set of squares of even numbers

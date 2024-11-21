@@ -15,20 +15,20 @@ my_tuple = (4, 5, 6) # Tuple
 my_dict = {"a": 1, "b": 2} # Dictionary
 ```
 
-**Data Types:**
+**[[Data Types]]:**
 
 * **Integer (int):** Whole numbers (e.g., 10, -5, 0).
 * **Float (float):**  Numbers with decimal points (e.g., 3.14, -2.5).
-* **String (str):** Sequences of characters (e.g., "Hello", 'Python').  Strings are immutable (cannot be changed in place).
+* **String (str):** [[Sequences]] of characters (e.g., "Hello", 'Python').  Strings are immutable (cannot be changed in place).
 * **Boolean (bool):** Represents truth values; either `True` or `False`.
-* **List (list):** Ordered, mutable (changeable) sequences of items.  Items can be of different data types.
-* **Tuple (tuple):** Ordered, immutable sequences of items. Items can be of different data types.
-* **Dictionary (dict):**  Unordered collections of key-value pairs.  Keys must be immutable (e.g., strings, numbers, tuples), but values can be of any type.
+* **List (list):** Ordered, mutable (changeable) [[Sequences]] of items.  Items can be of different [[Data Types]].
+* **Tuple (tuple):** Ordered, immutable [[Sequences]] of items. Items can be of different [[Data Types]].
+* **Dictionary (dict):**  Unordered collections of key-value pairs.  Keys must be immutable (e.g., strings, numbers, [[Tuples]]), but values can be of any type.
 
 
 **Type Conversion (Casting):**
 
-You can convert between data types using built-in functions:
+You can convert between [[Data Types]] using built-in functions:
 
 ```python
 x = 10

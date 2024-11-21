@@ -7,7 +7,7 @@ Key Features:
 * Defined using curly braces `{}` or the `set()` constructor.
 * Mutable (can be changed after creation).
 * Do not allow duplicate elements; attempting to add a duplicate has no effect.
-* Support mathematical set operations (union, intersection, difference, etc.).
+* Support mathematical [[Set Operations]] (union, intersection, difference, etc.).
 
 
 **Creating Sets:**
@@ -49,7 +49,7 @@ print(my_set) #Output: set()
 
 ```
 
-**Set Operations:**
+**[[Set Operations]]:**
 
 ```python
 set1 = {1, 2, 3}

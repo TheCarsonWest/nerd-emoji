@@ -1,7 +1,7 @@
 # [[Python 1 Home]]
 # Recursion
 
-Recursion in Python involves a function calling itself within its own definition.  This allows for elegant solutions to problems that can be broken down into smaller, self-similar subproblems.
+[[Recursion in Python]] involves a function calling itself within its own definition.  This allows for elegant solutions to problems that can be broken down into smaller, self-similar subproblems.
 
 **Key Concepts:**
 

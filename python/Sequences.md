@@ -12,14 +12,14 @@ Key characteristics:
 
 **Common Sequence Types:**
 
-* **Lists:** Mutable (changeable) sequences. `[1, 2, 'a', True]`
+* **[[Lists]]:** Mutable (changeable) sequences. `[1, 2, 'a', True]`
 ```python
 my_list = [1, 2, 3]
 my_list.append(4)  # Add an item
 my_list[0] = 10   # Change an item
 ```
 
-* **Tuples:** Immutable (unchangeable) sequences. `(1, 2, 'a', True)`
+* **[[Tuples]]:** Immutable (unchangeable) sequences. `(1, 2, 'a', True)`
 ```python
 my_tuple = (1, 2, 3)
 # my_tuple.append(4)  # This would raise an error because tuples are immutable

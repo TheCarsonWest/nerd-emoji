@@ -1,7 +1,7 @@
 # [[Python Sets]]
 # Python Sets - Examples
 
-This note covers examples of using Python sets.  Remember to consult [[Python Sets - Basics]] for foundational information.
+This note covers examples of using [[Python Sets]].  Remember to consult [[Python Sets - Basics]] for foundational information.
 
 **Creating Sets:**
 
@@ -32,7 +32,7 @@ my_set = set(my_tuple)
 print(my_set)
 ```
 
-*Set operations*
+*[[Set Operations]]*
 
 ```python
 set1 = {1, 2, 3}

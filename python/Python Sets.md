@@ -14,7 +14,7 @@ empty_set = set() #Creating an empty set.  Note: {} creates an empty dictionary.
 print(empty_set) #Output: set()
 ```
 
-**Key Set Operations:**
+**Key [[Set Operations]]:**
 
 * **`union()` or `|`:** Combines elements from two sets.
 ```python
@@ -60,7 +60,7 @@ print(my_set)
 [[Frozen Sets]]
 [[Python Sets - Examples]]
 
-**Set Comprehension:** Similar to list comprehension, but creates a set.
+**Set Comprehension:** Similar to [[List Comprehension]], but creates a set.
 
 ```python
 squares = {x**2 for x in range(5)}

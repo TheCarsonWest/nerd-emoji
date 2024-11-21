@@ -1,7 +1,7 @@
 # [[Libraries like NumPy]]
 # ndarray Explained
 
-NumPy's `ndarray` (N-dimensional array) is the fundamental data structure for numerical computation in Python.  It's a powerful tool offering significant performance advantages over standard Python lists, especially for large datasets.
+NumPy's `ndarray` (N-dimensional array) is the fundamental data structure for numerical computation in Python.  It's a powerful tool offering significant performance advantages over standard Python [[Lists]], especially for large datasets.
 
 Key characteristics:
 
@@ -13,7 +13,7 @@ Key characteristics:
 
 * **Broadcasting:**  NumPy's broadcasting rules allow operations between arrays of different shapes under certain conditions, simplifying code and improving performance.  [[Broadcasting Explained]]
 
-* **Memory efficiency:**  `ndarrays` store data in contiguous memory locations, unlike Python lists which can be scattered. This improves data access speeds and reduces memory overhead.
+* **Memory efficiency:**  `ndarrays` store data in contiguous memory locations, unlike Python [[Lists]] which can be scattered. This improves data access speeds and reduces memory overhead.
 
 * **Slicing and indexing:**  Powerful slicing and indexing mechanisms allow for easy selection and manipulation of array elements and subarrays.
 

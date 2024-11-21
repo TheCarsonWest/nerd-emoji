@@ -54,7 +54,7 @@ print(packed_data_little_endian)
 | `d`       | double              | float               | 8             |
 
 
-**Error Handling:**
+**[[Error Handling]]:**
 
 `struct.error` is raised if there's an issue with the format string or data.
 

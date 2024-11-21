@@ -53,7 +53,7 @@ print(match) # ['Hello']
 ```
 
 
-* `re.VERBOSE` (or `re.X`): Allows you to write more readable regular expressions by ignoring whitespace and adding comments.
+* `re.VERBOSE` (or `re.X`): Allows you to write more readable [[Regular Expressions]] by ignoring whitespace and adding comments.
 
 ```python
 import re

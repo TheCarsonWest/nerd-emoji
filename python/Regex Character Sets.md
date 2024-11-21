@@ -9,7 +9,7 @@ These notes cover Python's regular expression character sets.  Character sets al
 
 * **Negation:** A caret `^` at the beginning of a character set negates it. `[^abc]` matches any character *except* 'a', 'b', or 'c'.  `[^0-9]` matches any non-digit character.
 
-* **Special Characters:** Inside character sets, most regex metacharacters lose their special meaning *except* for `\` (backslash), `^` (caret - when at the beginning), and `-` (hyphen).  To match a literal `]` (closing square bracket), place it first or escape it with a backslash `\]`. To match a literal `-`, place it at the beginning or end, or escape it with `\-`. To match a literal `^`, place it anywhere other than the beginning, or escape it.
+* **Special Characters:** Inside character sets, most [[Regex Metacharacters]] lose their special meaning *except* for `\` (backslash), `^` (caret - when at the beginning), and `-` (hyphen).  To match a literal `]` (closing square bracket), place it first or escape it with a backslash `\]`. To match a literal `-`, place it at the beginning or end, or escape it with `\-`. To match a literal `^`, place it anywhere other than the beginning, or escape it.
 
 
 * **Examples:**

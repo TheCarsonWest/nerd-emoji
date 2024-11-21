@@ -1,7 +1,7 @@
 # [[Data Type Conversions]]
 # Type Hinting in Python
 
-Type hinting in Python allows you to specify the expected data types of variables, function arguments, and return values.  This improves code readability, helps catch errors during development (using tools like MyPy), and aids in better code understanding and maintainability.
+Type hinting in Python allows you to specify the expected [[Data Types]] of variables, function arguments, and [[Return Values]].  This improves code readability, helps catch errors during development (using tools like MyPy), and aids in better code understanding and maintainability.
 
 **Basic Syntax:**
 
@@ -57,6 +57,6 @@ MyPy will then report any type errors found in your code.
 * **Type Unions:**  Specify multiple possible types for a variable.  Example: `x: int | str`
 * **Generics:**  Define types that can work with different underlying types. Example: `List[T]` (where `T` is a type parameter)
 * **Type Var:** Define type variables used in generics.
-* [[Type Checking Decorators]] (separate note needed) – Using decorators to enforce type checking at runtime
+* [[Type Checking Decorators]] (separate note needed) – Using [[Decorators]] to enforce type checking at runtime
 
 This concludes the basic overview of type hinting in python. Remember to consult the official python documentation for the most up-to-date and thorough explanation.
