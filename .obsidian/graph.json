@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:python1  ",
+      "query": "path:python ",
       "color": {
         "a": 1,
         "rgb": 16769838
@@ -60,6 +60,6 @@
   "repelStrength": 13.7526438828899,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.215249884494657,
+  "scale": 0.09696837496789154,
   "close": true
 }

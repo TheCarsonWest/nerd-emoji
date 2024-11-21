@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "c0d2aed686bb3e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec42f55ec2382202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a72718775cf7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "913373b9c3c486f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc04772a1d16546c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce2c31e3393a8fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9a85b43af88e636",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "067b27b31b46b942",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e15ebb2db0e4a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "8569f92bd2f8e049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f730cc396fb39ab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python Functions"
+            }
+          },
+          {
+            "id": "456f4d8d087e5867",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41bcf6ec0a3f3a23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python Functions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Functions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7fd4bbd95d40edc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a87cb2615f9b05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3a72718775cf7a7",
+  "lastOpenFiles": [
+    "Python 1 Home.md",
+    "Libraries like Pandas.md",
+    "1, 'A'], [2, 'B'], [3, 'C'.md",
+    "ndarray Explained.md",
+    "Vectorization and Performance.md",
+    "Indexing and Slicing Deep Dive.md",
+    "Array Creation Methods.md",
+    "Broadcasting Explained.md",
+    "Regular Expressions.md",
+    "Regex Groups and Backreferences.md",
+    "Regex Flags.md",
+    "Regex Compilation.md",
+    "Regex Special Characters.md",
+    "Regex Metacharacters.md",
+    "Regex Special Sequences.md",
+    "Regex Grouping and Capturing.md",
+    "Regex Character Sets.md",
+    "Context Managers.md",
+    "Custom Context Managers.md",
+    "Resource Management.md",
+    "Decorators.md",
+    "Chaining Decorators.md",
+    "Function Scope and Closures.md",
+    "Decorators with Arguments.md",
+    "Function Wrappers.md",
+    "Decorator Basics.md"
+  ]
+}
