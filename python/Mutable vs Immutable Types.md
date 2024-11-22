@@ -13,7 +13,7 @@ This refers to the ability of an object to change its value after it's created.
     my_tuple = (1, 2, 3)
     #my_tuple[0] = 4  # This will raise a TypeError because tuples are immutable.
     ```
-    [[Immutable Types: Deeper Dive]]
+    [[Immutable Types Deeper Dive]]
 
 
 * **Mutable Types:** Their value can be changed after creation.
@@ -26,7 +26,7 @@ This refers to the ability of an object to change its value after it's created.
     my_dict = {"a": 1, "b": 2}
     my_dict["c"] = 3  # Modifies the dictionary in place.
     ```
-    [[Mutable Types: Deeper Dive]]
+    [[Mutable Types Deeper Dive]]
 
 
 * **Implications:**
