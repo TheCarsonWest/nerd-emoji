@@ -1,6 +1,8 @@
 # [[AP CHEM solutions]]
 Chromatography is a laboratory technique used to separate the components of a mixture. The mixture is dissolved in a fluid called the mobile phase, which carries it through a structure holding another material called the stationary phase. The various constituents of the mixture travel at different speeds, causing them to separate. The separation is based on differential partitioning between the mobile and stationary phases.
 
+![](https://cdn.kastatic.org/ka-perseus-images/a01e1bdd9b93a539cde80ecfcd8264f4e31f7616.svg)
+
 ## Basic Principles
 
 Chromatography relies on the principle that different molecules in a mixture will have different affinities for the mobile and stationary phases.  A molecule with a high affinity for the stationary phase will spend more time adsorbed on it and will therefore move more slowly through the system. Conversely, a molecule with a high affinity for the mobile phase will spend more time dissolved in it and will move more quickly.
@@ -20,7 +22,7 @@ In paper and thin-layer chromatography, the retention factor (Rf) is a measure o
 
 $R_f = \frac{\text{Distance traveled by component}}{\text{Distance traveled by solvent front}}$
 
-The Rf value is always between 0 and 1. A component with a high affinity for the stationary phase will have a low Rf value, while a component with a high affinity for the mobile phase will have a high Rf value.
+The [[Rf value]] is always between 0 and 1. A component with a high affinity for the stationary phase will have a low [[Rf value]], while a component with a high affinity for the mobile phase will have a high [[Rf value]].
 
 ## Analyzing Chromatograms
 
