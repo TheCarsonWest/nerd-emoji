@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Mutable Types Deeper Dive.md",
+                "file": "APHG/APHG Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutable Types Deeper Dive"
+              "title": "APHG Home"
             }
           }
         ],
@@ -106,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Mutable Types Deeper Dive.md"
+                "file": "APHG/APHG Home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mutable Types Deeper Dive"
+              "title": "Outline of APHG Home"
             }
           },
           {
@@ -118,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Mutable Types Deeper Dive.md",
+                "file": "APHG/APHG Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mutable Types Deeper Dive"
+              "title": "Outgoing links from APHG Home"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Mutable Types Deeper Dive.md",
+                "file": "APHG/APHG Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mutable Types Deeper Dive"
+              "title": "Backlinks for APHG Home"
             }
           },
           {
@@ -241,20 +241,23 @@
   },
   "active": "90b413136bbcc08a",
   "lastOpenFiles": [
+    "nexus.md",
+    "APCHEM/RF Value.md",
+    "Untitled.md",
+    "Calc/Mean Value Theorem.md",
+    "python/Mutable Types Deeper Dive.md",
     "python/Immutable Types Deeper Dive.md",
-    "Immutable Types.md",
+    "python/Immutable Types.md",
     "python/Mutable vs Immutable Types.md",
     "README.md",
     "python/Twos Complement.md",
     "APCHEM/Chemical Bonds.md",
-    "Electrical Conductivity of Molecules.md",
+    "APCHEM/Electrical Conductivity of Molecules.md",
     "APCHEM/APCHEM Home.md",
     "APCHEM/AP CHEM solutions.md",
     "APCHEM/Chromatography.md",
-    "RF Value.md",
     "APCHEM/APCHEM Gasses.md",
-    "Effusion Rate.md",
-    "nexus.md",
+    "APCHEM/Effusion Rate.md",
     "python/Exception Handling.md",
     "python/Exception Handling Examples.md",
     "python/Python Exceptions.md",
@@ -266,9 +269,6 @@
     "python/While Loops.md",
     "python/Virtual Environments.md",
     "python/Vectorization and Performance.md",
-    "python/Variables and Data Types.md",
-    "python/Variable-Length Arguments.md",
-    "python/Variable Scope and Lifetime.md",
     "python",
     "images/Pasted image 20240829075856.png",
     "Calc",

@@ -22,7 +22,7 @@ In paper and thin-layer chromatography, the retention factor (Rf) is a measure o
 
 $R_f = \frac{\text{Distance traveled by component}}{\text{Distance traveled by solvent front}}$
 
-The [[Rf value]] is always between 0 and 1. A component with a high affinity for the stationary phase will have a low [[Rf value]], while a component with a high affinity for the mobile phase will have a high [[Rf value]].
+The [[RF Value]] is always between 0 and 1. A component with a high affinity for the stationary phase will have a low [[RF Value]], while a component with a high affinity for the mobile phase will have a high [[RF Value]].
 
 ## Analyzing Chromatograms
 
