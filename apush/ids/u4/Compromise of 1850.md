@@ -7,7 +7,7 @@
 * **Daniel Webster** (spoke in favor of the compromise)
 * **John C. Calhoun** (opposed the compromise)
 * **Stephen Douglas** (helped pass the compromise)
-* **[[[[Zachary Taylor]]|[[Zachary Tayl]]or]]** (President at the time)
+* **[[Zachary Taylor]]** (President at the time)
 
 ## What: 
 A series of five bills passed by Congress to ease tensions between the North and South over the issue of slavery. The Compromise included:

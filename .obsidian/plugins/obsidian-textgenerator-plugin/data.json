@@ -5,7 +5,7 @@
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "Google GenerativeAI (Langchain)",
-  "max_tokens": 1000,
+  "max_tokens": 1500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "showStatusBar": true,
@@ -97,7 +97,7 @@
       "basePath": "https://api.openai.com/v1"
     },
     "Google GenerativeAI (Langchain)": {
-      "model": "gemini-1.5-pro",
+      "model": "gemini-1.5-flash-002",
       "api_key": ""
     }
   },

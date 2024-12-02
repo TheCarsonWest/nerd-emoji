@@ -34,7 +34,7 @@ Where:
 While widely applicable, the Beer-Lambert Law has limitations:
 
 *   **High Concentrations:** At high concentrations, interactions between analyte molecules can affect the absorbance, causing deviations from linearity.
-*   **Chemical Changes:**  If the analyte undergoes chemical reactions or changes its form during the measurement, the absorbance will not accurately reflect the initial concentration.
+*   **Chemical Changes:**  If the analyte undergoes [[chemical reactions]] or changes its form during the measurement, the absorbance will not accurately reflect the initial concentration.
 *   **Scattering:**  If the sample scatters light significantly (e.g., due to suspended particles), the measured absorbance will be affected.
 *   **Stray Light:**  Light that reaches the detector without passing through the sample can lead to errors in absorbance measurements.
 

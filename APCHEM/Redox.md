@@ -1,6 +1,6 @@
 
 ## **Definition:**
-[[Redox]] reactions are chemical reactions involving the transfer of electrons between atoms or molecules.
+[[Redox]] reactions are [[chemical reactions]] involving the transfer of electrons between atoms or molecules.
 
 ## **Key Concepts:**
 * **Oxidation:** Loss of electrons

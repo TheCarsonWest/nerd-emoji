@@ -52,7 +52,13 @@ video_id = input("Enter the YouTube video ID: ")
 transcript = get_transcript_without_timestamps(video_id)
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + '\nThis an extremly poorly formatted transcript. Try to reformat it to be easily legible'
+  prompt = transcript + """\nAnswer the following questions based on this transcript
+  
+When the author first talks about her stories that she writes as a young child, how do her stories differ from her background?
+Why do her stories differ from her background and culture?
+How does her college roommate react when they first meet?
+Complete the chart below by writing examples of ethnocentrism and cultural relativism from the video.  
+  """
 
   # Generate text using your chosen library (replace `ai_text` if needed)
   article_text = ai_text(prompt)

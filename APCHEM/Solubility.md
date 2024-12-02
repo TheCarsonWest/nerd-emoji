@@ -42,7 +42,7 @@ Supersaturation is a state where the concentration of a solute exceeds its equil
 
 While not directly related to solubility calculations, calculus concepts are crucial for understanding related topics like:
 
-* **Chemical Kinetics:**  Reaction rates and rate laws often involve differential equations.
+* **Chemical Kinetics:**  [[Reaction Rates]] and [[Rate Laws]] often involve differential equations.
 * **Equilibrium:**  Changes in equilibrium concentrations can be analyzed using calculus.
 * **[[Titration]] Curves:**  The inflection point of a [[titration]] curve can be determined using derivatives.
 

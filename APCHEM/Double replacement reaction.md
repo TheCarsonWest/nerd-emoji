@@ -1,6 +1,6 @@
 
 ### [[Reactions Types]]
-Double replacement reactions, also known as metathesis reactions, are chemical reactions in which the cations and anions of two ionic compounds exchange places to form two new ionic compounds. The general equation for a double replacement reaction is:
+Double replacement reactions, also known as metathesis reactions, are [[chemical reactions]] in which the cations and anions of two ionic compounds exchange places to form two new ionic compounds. The general equation for a double replacement reaction is:
 
 $$
 AB + CD → AD + CB
