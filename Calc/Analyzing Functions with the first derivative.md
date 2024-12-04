@@ -69,4 +69,3 @@ y = x^3 - 3x
 
 ## 4. Concavity and [[Inflection Points]]
 
-[[Concavity
