@@ -25,7 +25,7 @@
 - [[Mentifacts]]
 - [[Popular Culture]]
 - [[Traditional Culture]]
-- [[Cultural Norms]]
+- [[APHG/Cultural Norms]]
 - [[Ethnocentrism]]
 - [[Cultural Relativism]]
 - [[Cultural Landscape]]
