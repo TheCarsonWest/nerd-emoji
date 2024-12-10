@@ -7,7 +7,7 @@
 * **Increased Migration:** European exploration led to a dramatic increase in migration across the globe.
 * **Cultural Diffusion:** European culture spread worldwide, impacting indigenous populations.
 * **Indigenous Displacement:** European diseases decimated indigenous populations, leading to their cultural replacement.
-* **Dominant Languages and Religion:** European languages and Christianity became dominant in the Western Hemisphere.
+* **Dominant Languages and [[Religion]]:** European languages and Christianity became dominant in the Western Hemisphere.
 * **Columbian Exchange:** Exchange of goods and ideas between Europeans and their colonies.
 
 ### **Forced Migration:**

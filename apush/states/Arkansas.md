@@ -18,7 +18,7 @@
 
 **Important Legislation:**
 
-* **1983:** [[Arkansas]] Fair Housing Act prohibits discrimination in housing based on race, color, religion, sex, familial status, national origin, disability, or handicap
+* **1983:** [[Arkansas]] Fair Housing Act prohibits discrimination in housing based on race, color, [[Religion]], sex, familial status, national origin, disability, or handicap
 * **1995:** [[Arkansas]] Medical Marijuana Act allows for the use of medical marijuana for certain conditions
 * **2005:** [[Arkansas]] Child Abuse, Neglect, and Dependency Act reforms the state's child welfare system
 * **2013:** [[Arkansas]] HB 1228, the Religious Freedom Restoration Act, allows businesses to refuse service to individuals based on religious beliefs

@@ -33,5 +33,5 @@
 **Impact on the Rest of the Country:**
 
 * [[Connecticut]] has played a pivotal role in American history as a center of intellectual and economic activity.
-* Its contributions to the American Revolution and the abolition of slavery have shaped the nation's identity.
+* Its contributions to the American Revolution and the abolition of slavery have shaped the nation's [[Identity]].
 * The state's strong economy and commitment to innovation continue to impact the rest of the country.

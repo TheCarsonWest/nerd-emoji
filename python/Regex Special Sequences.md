@@ -1,7 +1,7 @@
 # [[Regex Metacharacters]]
 # Regex Special Sequences
 
-This note covers Python's regular expression special sequences.  These sequences provide shortcuts for commonly used patterns.
+This note covers Python's regular expression special [[Sequences]].  These [[Sequences]] provide shortcuts for commonly used patterns.
 
 **Important Note:** Remember to import the `re` module before using any of these.  `import re`
 
@@ -9,7 +9,7 @@ This note covers Python's regular expression special sequences.  These sequences
 import re
 ```
 
-Here's a breakdown of common special sequences:
+Here's a breakdown of common special [[Sequences]]:
 
 * `\d`: Matches any decimal digit (0-9).  Equivalent to `[0-9]`.
 * `\D`: Matches any non-digit character. Equivalent to `[^0-9]`.
@@ -41,7 +41,7 @@ if phone_number:
     print(f"Phone number: {phone_number.group(0)}")
 ```
 
-[[Character Sets]]  These provide an alternative way of defining patterns, often in conjunction with special sequences.
+[[Character Sets]]  These provide an alternative way of defining patterns, often in conjunction with special [[Sequences]].
 
 [[Quantifiers]]  These are used to specify how many times a character or group should appear.  (e.g., `+`, `*`, `?`, `{n}`, `{n,}`, `{n,m}`)
 

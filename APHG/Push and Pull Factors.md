@@ -39,7 +39,7 @@
 
 ## Social Push and Pull Factors
 
-* Discrimination and persecution based on ethnicity, race, gender, or religion can drive migration.
+* Discrimination and persecution based on ethnicity, race, gender, or [[religion]] can drive migration.
 ### Examples
 * Mormons
 	* People didn't like the false prophet worshippers, and they frequently battled on the streets of the midwest

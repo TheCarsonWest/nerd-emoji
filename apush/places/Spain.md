@@ -16,7 +16,7 @@ Create an AP [[United States]] History rundown on {Spain}. Include American Hist
 * **1492:** Christopher Columbus, funded by Spain, reaches the Americas, marking the beginning of European colonization in the Western Hemisphere.
 * **1513:** Juan Ponce de León claims [[Florida]] for Spain, establishing the first European claim in what is now the continental [[United States]].
 * **1565:** St. Augustine, [[Florida]], is founded by Spain, becoming the oldest continuously inhabited European-established settlement in the continental U.S.
-* **16th-18th Centuries:** Spain establishes missions and settlements throughout the Southwest ([[California]], [[Arizona]], [[New Mexico]], [[Texas]]), influencing the development of these regions with their culture, language, and religion.
+* **16th-18th Centuries:** Spain establishes missions and settlements throughout the Southwest ([[California]], [[Arizona]], [[New Mexico]], [[Texas]]), influencing the development of these regions with their culture, language, and [[religion]].
 
 **Conflict and Shifting Power:**
 

@@ -23,7 +23,7 @@
 
 **Important Legislation Signed:**
 
-* Civil Rights Act of 1964: Outlawed discrimination based on race, color, religion, sex, or national origin.
+* Civil Rights Act of 1964: Outlawed discrimination based on race, color, [[religion]], sex, or national origin.
 * Voting Rights Act of 1965: Prohibited racial discrimination in voting.
 * Medicare and Medicaid Act of 1965: Provided health insurance to the elderly and poor.
 * Elementary and Secondary Education Act of 1965: Expanded federal aid to education.

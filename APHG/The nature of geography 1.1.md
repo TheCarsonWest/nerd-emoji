@@ -8,7 +8,7 @@
 - Physical – elements of the physical environment (weather and climate) 
 - Human – spatial characteristics of humans and human activities
 - Population – health, births, migration, etc.
-- Culture – language, religion, popular music, etc.
+- Culture – language, [[religion]], popular music, etc.
 - Economics – agriculture, level of development, wealth, etc.
 - Urban areas – cities, suburbs, challenges from growth, etc.
 - Political - local government, nations, distribution of power, etc.

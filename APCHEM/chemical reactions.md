@@ -4,3 +4,5 @@
 - [[Activation Energy]]
 - [[Rate Laws]]
 - [[Factors affecting rate of reaction]]
+- [[Reaction Mechanisms]]
+- 

@@ -18,7 +18,7 @@
 
 * **1844:** School Law, establishing a statewide public education system.
 * **1920:** Bone Dry Amendment, prohibiting the sale of alcoholic beverages.
-* **1947:** Fair Housing Act, banning discrimination in housing based on race, religion, or national origin.
+* **1947:** Fair Housing Act, banning discrimination in housing based on race, [[religion]], or national origin.
 * **1960:** Tort Claims Act, allowing citizens to sue state and local governments.
 * **1975:** [[New Jersey]] Supreme Court rules that the state constitution guarantees the right to abortion.
 

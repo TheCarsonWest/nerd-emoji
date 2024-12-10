@@ -3,7 +3,7 @@
 # [[ESPN]]: List of consequences
 ## E   = Economics (money, currency, trading, etc.)
 
-## S = Social (interactions, language, religion, culture, people, etc.)
+## S = Social (interactions, language, [[religion]], culture, people, etc.)
 
 ## P  = Political (government, laws, regulations, policies, etc.)
 

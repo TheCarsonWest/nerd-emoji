@@ -24,7 +24,7 @@
 * **1851:** [[Fugitive Slave Act]] of 1851, requiring the return of escaped slaves
 * **1864:** [[Emancipation Proclamation]], freeing slaves in [[Maryland]]
 * **1941:** World War II Draft Act, requiring all men aged 18-45 to register for military service
-* **1964:** Civil Rights Act of 1964, outlawing discrimination based on race, color, religion, sex, or national origin
+* **1964:** Civil Rights Act of 1964, outlawing discrimination based on race, color, [[religion]], sex, or national origin
 
 **Important Court Cases**
 

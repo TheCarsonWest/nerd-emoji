@@ -19,7 +19,7 @@
 
 * **[[North Carolina]] Constitution (1776):** Established a framework for state government and declared the rights of citizens.
 * **Reconstruction Amendments (1865-1870):** Abolished slavery, granted citizenship to former slaves, and protected their civil rights.
-* **Civil Rights Act of 1964:** Prohibited discrimination based on race, color, religion, sex, or national origin.
+* **Civil Rights Act of 1964:** Prohibited discrimination based on race, color, [[religion]], sex, or national origin.
 * **Voter Rights Act of 1965:** Enforced the right to vote for all citizens regardless of race.
 
 **Important Court Cases:**

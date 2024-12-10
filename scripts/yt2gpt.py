@@ -53,11 +53,10 @@ transcript = get_transcript_without_timestamps(video_id)
 if transcript:
   # Prepare the prompt for text generation
   prompt = transcript + """\nAnswer the following questions based on this transcript
-  
-When the author first talks about her stories that she writes as a young child, how do her stories differ from her background?
-Why do her stories differ from her background and culture?
-How does her college roommate react when they first meet?
-Complete the chart below by writing examples of ethnocentrism and cultural relativism from the video.  
+  Discuss the impact of American influence of culture in Japan.
+How is this tradition different from those in the US?
+Describe the origin of this tradition.
+
   """
 
   # Generate text using your chosen library (replace `ai_text` if needed)

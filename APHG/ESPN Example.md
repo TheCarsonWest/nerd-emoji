@@ -5,7 +5,7 @@ Destroyed Western NC
 Broke Power-producing dams
 Flooded much of [[North Carolina]]
 
-## S = Social (interactions, language, religion, culture, people, etc.)
+## S = Social (interactions, language, [[religion]], culture, people, etc.)
 - Brought people together to help
 - Broke apart families
 ## P  = Political (government, laws, regulations, policies, etc.)

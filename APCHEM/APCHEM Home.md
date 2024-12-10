@@ -1,4 +1,5 @@
 # [[nexus]]
+# [[chemical reactions]]
 # [[AP CHEM solutions]]
 # [[APCHEM Gasses]]
 # [[Chemical Bonds]]

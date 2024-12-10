@@ -20,7 +20,7 @@
 * **1095-1270:** Crusades.
 * **1337-1453:** Hundred Years' War with England.
 * **1515-1547:** Reign of Francis I, who promoted the Renaissance in [[France]].
-* **1562-1598:** French Wars of Religion.
+* **1562-1598:** French Wars of [[Religion]].
 * **1610:** Founding of Quebec by Samuel de Champlain.
 * **1643:** Death of Cardinal Richelieu, chief minister to Louis XIII.
 * **1661-1715:** Reign of Louis XIV, the "Sun King."

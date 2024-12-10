@@ -15,7 +15,7 @@
 
 * **La Follette Code (1911):** Progressive reforms including a primary election system, voter initiative and referendum, workers' compensation, and railroad regulation
 * **Unemployment Insurance Law (1924):** The first unemployment insurance law in the [[United States]]
-* **Fair Employment Act (1945):** Prohibits discrimination in employment based on race, religion, color, national origin, ancestry, sex, age, or physical or mental disability
+* **Fair Employment Act (1945):** Prohibits discrimination in employment based on race, [[religion]], color, national origin, ancestry, sex, age, or physical or mental disability
 * **Government Accountability Act (1993):** Requires state legislators to disclose their income and assets
 
 **Important Court Cases**
