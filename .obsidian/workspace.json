@@ -46,9 +46,39 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7670b79d81f73365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APHG/Diffusion of Culture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diffusion of Culture"
+            }
+          },
+          {
+            "id": "f5559e0d122bf435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APHG/Diffusion of Culture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diffusion of Culture"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,9 +150,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "APHG/Diffusion of Culture.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Diffusion of Culture"
             }
           },
           {
@@ -131,11 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "APHG/Diffusion of Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Diffusion of Culture"
             }
           },
           {
@@ -199,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "APHG/Diffusion of Culture.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +242,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Diffusion of Culture"
             }
           },
           {
@@ -229,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,8 +284,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e78bf8ccfb01898e",
+  "active": "f5559e0d122bf435",
   "lastOpenFiles": [
+    "APHG/Unit 3.md",
+    "Cultural Diversion.md",
+    "APHG/Diffusion of Culture.md",
+    "apush/ids/u4/Emancipation Proclamation.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "apush/ids/IDS Unit 4.md",
+    "apush/ids/u4/Battle of Antietam.md",
+    "apush/ids/u4/Battle of Gettsyburg.md",
+    "apush/ids/u4/Habaes Corpus civil war.md",
+    "apush/ids/u4/Battle of Bull Run.md",
+    "apush/ids/u4/Anaconda Plan.md",
+    "apush/ids/u4/Fort Sumter.md",
+    "apush/ids/u4/Election of 1860.md",
     "APHG/Religion.md",
     "apush/ids/u3/result/Second Great Awakening.md",
     "Calc/Analyzing Functions with the second derivative.md",
@@ -262,22 +310,8 @@
     "APCHEM/Rate Laws.md",
     "APCHEM/APCHEM Home.md",
     "nexus.md",
-    "APHG/Unit 3.md",
     "APCHEM/Reaction Mechanisms.md",
     "scripts/1733834473.4178078.md",
-    "scripts/1733834341.6100469.md",
-    "APCHEM/Order of Reaction.md",
-    "APCHEM/Finding reaction order.md",
-    "Untitled 1.md",
-    "APHG/Artifacts.md",
-    "APCHEM/Effusion Rate.md",
-    "Calc/First Derivative Test.md",
-    "APHG/Cultural Norms 1.md",
-    "Calc/Calc home.md",
-    "apush/ids/u4/Industrial Revolution.md",
-    "apush/ids/IDS Unit 4.md",
-    "apush/ids/u4/Market Revolution.md",
-    "Calc/Inflection Points.md",
     "python/recursion.py",
     "python/api.txt",
     "python",

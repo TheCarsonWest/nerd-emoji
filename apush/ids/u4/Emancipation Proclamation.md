@@ -4,7 +4,8 @@
 
 ## Who: President Abraham Lincoln
 
-## What: A presidential proclamation issued during the Civil War that declared all slaves in Confederate-held territory to be free. It did not apply to slaves in border states loyal to the Union.
+## What: 
+A presidential proclamation issued during the Civil War that declared all slaves in Confederate-held territory to be free. It did not apply to slaves in border states loyal to the Union.
 
 ## Impact: 
 * **Shifted the purpose of the war:**  The Emancipation Proclamation transformed the Civil War from a conflict primarily about preserving the Union into a fight for the abolition of slavery. 
