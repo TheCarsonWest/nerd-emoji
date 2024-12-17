@@ -23,22 +23,26 @@ def create_files(file_names, file_extension):
         prompt = f"""
 Create a notecard on the APUSH topic {file_name}, using this following format:
 WHEN: (exact date if possible, if not narrow it down to a specific time period...acts/laws, specific events, etc should have specific dates. AP exam questions are ALWAYS broken down into certain time frames; timelines will be very important)
+Here is a good example
+## ID: Battle of Gettysburg
 
-WHO: (who is involved or who started the event or concept; if a person - who is the person, President, Doctor, lawyer, etc. that would be important to know) 
+## When: July 1-3, 1863
 
-WHAT: (answer what the concept is or what the person did exactly or what happened specifically during an event 
-
-IMPACT:Why is that significant? What did it lead to? What impact did the person or event or law have on the United States?
-
-Here is an example:
-# ID: Constitutional Convention
-## When: May -September 1787
 ## Who: 
-55 delegates, including James Madison, George W, and Alexander Hamilton (originally 70) from  12 states except for RI
-## What:
-Meeting held in Philadelphia Pennsylvania, to revise and fix the Articles of Confederation after weaknesses were exposed by Shays Rebellion
-## Impact? Why Significant?: 
-Decided to set aside the AOC due to its many weaknesses and create a new US Constitution
+* **Union:**  General George Meade and the Army of the Potomac
+* **Confederate:** General Robert E. Lee and the Army of Northern [[Virginia]]
+
+## What: 
+A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]]. It involved three days of intense fighting between Union and Confederate forces. The battle culminated in a decisive Union victory, marking a turning point in the war.
+
+## Impact: Why Significant?: 
+* **Turning Point:**  The Battle of Gettysburg marked the beginning of the end for the Confederacy. It crippled Lee's army and forced him to retreat back to [[Virginia]].
+* **Union Momentum:** The victory boosted Union morale and strengthened the resolve to continue the war.
+* **Increased Casualties:** Both sides suffered significant casualties, highlighting the immense human cost of the war.
+* **Lincoln's [[Gettysburg Address]]:** Delivered on November 19, 1863, Lincoln's famous speech redefined the purpose of the war as a fight for freedom and equality, solidifying the importance of the Union victory.
+* **Strategic Significance:** Gettysburg stopped Lee's invasion of the North, preventing a major victory for the Confederates and ultimately leading to the Union's success.
+
+# [[IDS Unit 4]]
 """
         # Generate the text using the prompt
         response = ai_text(prompt)
@@ -50,53 +54,7 @@ Decided to set aside the AOC due to its many weaknesses and create a new US Cons
         sleep(1)
         i += 1
 
-file_names = ["Samuel Slater",
-"Market Revolution",
-"Industrial Revolution",
-"Lowell Textile Mill",
-"Cotton Gin",
-"Free-soldiers",
-"sectionalism",
-"Wilmot Proviso",
-"Compromise of 1850",
-"Fugitive Slave Act",
-"Popular Sovereignty(antebellum)",
-"Uncle Toms Cabin",
-"Kansas Nebraska Act",
-"Bleeding Kansas",
-"Dred Scott v Sandford",
-"New Republican Party 1850",
-"Freeport Doctrine",
-"Lincoln Douglas Debates",
-"Harpers Ferry Raid",
-"Election of 1860",
-"Fort Sumter",
-"Anaconda Plan",
-"Battle of Bull Run",
-"Habaes Corpus(civil war)",
-"Battle of Antietam",
-"Emancipation Proclamation",
-"Battle of Gettsyburg",
-"Gettysburg Address",
-"Shermans March to Sea",
-"Surrender at Appomattox Courthouse",
-"The Assassination of Abraham Lincoln",
-"13th amendment",
-"14th amendment",
-"15th amendment",
-"Radical Republicans(reconstruction era)",
-"Black Codes(reconstruction era)",
-"Civil Rights Act of 1866",
-"Reconstruction Act of 1867",
-"Scalawag(reconstruction era)",
-"Carpetbagger",
-"Tenure of Office Act",
-"Freedmans Bureau",
-"Tenant Farming",
-"Sharecroppers(reconstruction)",
-"Compromise of 1877",
-"Jim Crow Laws(reconstruction)",
-"Solid south(reconstruction)"]
+file_names = ['House of Burgesses', 'Bacon’s Rebellion', 'Treaty of Paris 1776', 'Pequot War', 'Triangular Trade', 'Stono Rebellion', 'Battle of Yorktown', 'Proclamation of 1763', 'Mayflower Compact', 'Letters from a Farmer in Pennsylvania', 'Second Continental Congress', 'Headright System', 'French and Indian War', 'Indentured Servitude', 'Common Sense', 'Boston Massacre', 'Olive Branch Petition', 'The Wealth of Nations', 'Stamp Act', 'Puritans', 'Great Awakening', 'King Philip’s War', 'filemaker', 'Battle of Saratoga', 'Sugar Act', 'Committees of Correspondence', 'First Continental Congress', 'Boston Tea Party', 'Tea Act', 'Intolerable Acts', 'Enlightenment', 'Lees Resolution', 'Townshend Act', 'Sons of Liberty', 'Battle of Bunker Hill', 'Albany Plan of Union', 'Salutary Neglect', 'Valley Forge']
 file_extension = "md"  # Change to your desired file type
 
 create_files(file_names, file_extension)

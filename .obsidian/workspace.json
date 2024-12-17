@@ -128,13 +128,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/ids/u4/Emancipation Proclamation.md",
+                "file": "apush/states/Pennsylvania.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emancipation Proclamation"
+              "title": "Pennsylvania"
             }
           }
         ],
@@ -211,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apush/ids/u4/Emancipation Proclamation.md"
+                "file": "apush/states/Pennsylvania.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Emancipation Proclamation"
+              "title": "Outline of Pennsylvania"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apush/ids/u4/Emancipation Proclamation.md",
+                "file": "apush/states/Pennsylvania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Emancipation Proclamation"
+              "title": "Outgoing links from Pennsylvania"
             }
           },
           {
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apush/ids/u4/Emancipation Proclamation.md",
+                "file": "apush/states/Pennsylvania.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -302,7 +302,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Emancipation Proclamation"
+              "title": "Backlinks for Pennsylvania"
             }
           },
           {
@@ -346,32 +346,32 @@
   },
   "active": "ebf50fae11087adc",
   "lastOpenFiles": [
-    "APHG/Glossary.md",
-    "APHG/Third Place.md",
-    "Untitled.md",
-    "Calc/Test for Concavity.md",
-    "Calc/Mean Value Theorem.md",
-    "units of reaction constant.md",
-    "Rate from Reaction mechanism.md",
-    "APCHEM/Rate Laws.md",
-    "APCHEM/Finding reaction order.md",
-    "APCHEM/Order of Reaction.md",
-    "Languages.md",
-    "Smartphone debate.md",
-    "apush/ids/u4/Shermans March to Sea.md",
-    "apush/ids/IDS Unit 4.md",
-    "apush/ids/u4/Gettysburg Address.md",
-    "apush/ids/u4/Battle of Gettsyburg.md",
-    "apush/ids/u4/Emancipation Proclamation.md",
-    "Cultural Diversion.md",
-    "APHG/Unit 3.md",
-    "APHG/Diffusion of Culture.md",
-    "Untitled 2.md",
-    "apush/ids/u4/Battle of Antietam.md",
-    "apush/ids/u4/Habaes Corpus civil war.md",
-    "apush/ids/u4/Battle of Bull Run.md",
-    "apush/ids/u4/Anaconda Plan.md",
-    "apush/ids/u4/Fort Sumter.md",
+    "apush/ids/u2/filemaker.md",
+    "scripts/result/Valley Forge.md",
+    "scripts/result/Salutary Neglect.md",
+    "scripts/result/Albany Plan of Union.md",
+    "scripts/result/Battle of Bunker Hill.md",
+    "scripts/result/Sons of Liberty.md",
+    "scripts/result/Townshend Act.md",
+    "scripts/result/Lees Resolution.md",
+    "scripts/result/Enlightenment.md",
+    "scripts/result/Intolerable Acts.md",
+    "scripts/result/Tea Act.md",
+    "scripts/result/Boston Tea Party.md",
+    "scripts/result/First Continental Congress.md",
+    "scripts/result/Committees of Correspondence.md",
+    "scripts/result/Sugar Act.md",
+    "scripts/result/Battle of Saratoga.md",
+    "scripts/result/filemaker.md",
+    "scripts/result/King Philip’s War.md",
+    "scripts/result/Great Awakening.md",
+    "scripts/result/Puritans.md",
+    "scripts/result/Stamp Act.md",
+    "scripts/result/The Wealth of Nations.md",
+    "scripts/result/Olive Branch Petition.md",
+    "scripts/result/Boston Massacre.md",
+    "scripts/result/Common Sense.md",
+    "scripts/result/Indentured Servitude.md",
     "python/recursion.py",
     "python/api.txt",
     "python",
