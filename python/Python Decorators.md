@@ -1,6 +1,5 @@
 # [[Python Functions]]
-# Python Decorators
-
+# [[Python Decorators]] 
 Python decorators are a powerful and expressive feature that allows you to modify or enhance functions and methods in a clean and readable way.  They use the `@` symbol followed by the decorator function name, placed above the function definition.
 
 **Basic Syntax:**
@@ -24,8 +23,7 @@ This code shows a simple decorator. `my_decorator` takes a function (`func`) as 
 
 
 **Decorator with Arguments:**
-
-Decorators can also accept arguments.  This requires a bit more complexity:
+ [[Decorators]] can also accept arguments.  This requires a bit more complexity:
 
 ```python
 def repeat(num_times):
@@ -57,7 +55,7 @@ Here, `repeat` is a decorator factory – it returns a decorator.  The inner fun
 
 **Advanced Topics:**
 
-* **Class Decorators:** Decorators can also be applied to classes. [[Class Decorators]]
+* **Class Decorators:** [[Decorators]] can also be applied to classes. [[Class Decorators]]
 * **Decorator Arguments and Order:** Understanding how arguments are passed and the order of multiple decorators is crucial. [[Decorator Arguments and Order]]
 
 **Further Reading:**

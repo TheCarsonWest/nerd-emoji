@@ -1,5 +1,4 @@
-# ID: Utopian Societies
-## When: 1820s-1850s (Antebellum Period)
+# ID: [[Utopian Societies]] ## When: 1820s-1850s (Antebellum Period)
 ## Who: 
 Various groups and individuals, including:
 * **Robert Owen (New Harmony, [[Indiana]]):**  Advocate of social reform and founder of New Harmony.

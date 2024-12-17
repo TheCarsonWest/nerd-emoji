@@ -1,7 +1,5 @@
 [[APUSH Home]]
-
-States list
-- [[Alabama]]
+ [[States list]] - [[Alabama]]
 - [[Alaska]]
 - [[Arizona]]
 - [[Arkansas]]

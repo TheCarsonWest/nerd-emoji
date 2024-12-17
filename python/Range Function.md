@@ -1,6 +1,5 @@
 # [[For Loop Examples]]
-# Range Function
-
+# [[Range Function]] 
 The `range()` function in Python is a built-in function that generates a sequence of numbers.  It's commonly used in loops to iterate a specific number of times.
 
 **Syntax:**

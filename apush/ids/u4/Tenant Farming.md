@@ -1,5 +1,4 @@
-## ID: Tenant Farming
-
+## ID: [[Tenant Farming]] 
 ## When:  Late 19th Century, especially after the Civil War (1865)
 
 ## Who:  

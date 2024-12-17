@@ -3,8 +3,7 @@
 - [[intermolecular forces]]
 
 ## More polarizability = more london dispersion = more clumping = higher bp
-
-Polarizability refers to ==a molecule's tendency to develop a [[dipole]] moment when exposed to an electric field==, essentially meaning how easily its electron cloud can be distorted by an external electric field; the greater the polarizability, the more readily the electron cloud can be displaced, creating a temporary [[dipole]] moment. 
+ [[Polarizability]] refers to ==a molecule's tendency to develop a [[dipole]] moment when exposed to an electric field==, essentially meaning how easily its electron cloud can be distorted by an external electric field; the greater the polarizability, the more readily the electron cloud can be displaced, creating a temporary [[dipole]] moment. 
 
 Key points about polarizability:
 

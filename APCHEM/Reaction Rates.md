@@ -4,8 +4,7 @@
 
 Chemical kinetics is the study of reaction rates, which is the speed at which reactants are converted into products. Understanding reaction rates is crucial for controlling [[chemical reactions]] and optimizing industrial processes. Several factors influence reaction rates, including reactant concentrations, temperature, surface area, and the presence of catalysts.
 
-## Factors Affecting Reaction Rates
-
+## Factors Affecting [[Reaction Rates]] 
 ### Reactant Concentration
 
 Higher reactant concentrations generally lead to faster reaction rates.  More reactant molecules in a given volume increase the probability of successful collisions, leading to product formation.  This relationship is often expressed mathematically through [[Rate Laws]]. [[Rate Laws]]

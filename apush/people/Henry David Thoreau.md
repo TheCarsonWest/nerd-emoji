@@ -28,6 +28,6 @@ Dude was a little nuts in the head, but really smart(went to [[Harvard]]). One d
 * **Environmentalism:** Thoreau's love for nature and his writings about the natural world helped to foster an appreciation for the environment and laid the groundwork for future conservation efforts.
 * **Literary Legacy:** Thoreau's writings remain influential in American literature, inspiring writers and poets to explore themes of nature, individualism, and social justice.
 
-**Overall, Henry David Thoreau was a complex and influential figure who challenged societal norms and promoted individual freedom, nonviolent resistance, and a deep respect for the natural world. His writings continue to resonate with readers today, offering timeless insights on the human condition and the importance of living a meaningful life.** 
+**Overall, [[Henry David Thoreau]] was a complex and influential figure who challenged societal norms and promoted individual freedom, nonviolent resistance, and a deep respect for the natural world. His writings continue to resonate with readers today, offering timeless insights on the human condition and the importance of living a meaningful life.** 
 
 # [[APUSH people]]

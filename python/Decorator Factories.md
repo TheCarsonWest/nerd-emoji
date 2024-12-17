@@ -1,6 +1,5 @@
 # [[Decorators]]
-# Decorator Factories
-
+# [[Decorator Factories]] 
 Decorator factories are functions that return decorators.  They allow for creating decorators with parameters.  This is useful when you need a decorator that can be configured at runtime.
 
 

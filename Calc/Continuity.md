@@ -1,13 +1,11 @@
-Make a calculus AB rundown on Continuity in markdown format(make use of headings), use the LaTeX equation library format when writing equations. For any topic that you believe needs its own independent explanation, enclose it in TWO brackets
+Make a calculus AB rundown on [[Continuity]] in markdown format(make use of headings), use the LaTeX equation library format when writing equations. For any topic that you believe needs its own independent explanation, enclose it in TWO brackets
 
-## Continuity in Calculus AB
+## [[Continuity]] in Calculus AB
 
 ### Introduction
+ [[Continuity]] is a fundamental concept in calculus that describes the "smoothness" of a function.  A continuous function is one that can be drawn without lifting your pen from the paper. In other words, there are no breaks or jumps in the graph.
 
-Continuity is a fundamental concept in calculus that describes the "smoothness" of a function.  A continuous function is one that can be drawn without lifting your pen from the paper. In other words, there are no breaks or jumps in the graph.
-
-### Definition of Continuity
-
+### Definition of [[Continuity]] 
 A function $f(x)$ is **continuous at a point** $x = a$ if the following three conditions are met:
 
 1. **$f(a)$ is defined:** The function must have a value at $x = a$.
@@ -37,9 +35,7 @@ Continuous functions have several important properties:
 
 3. **Boundedness Theorem:** If $f(x)$ is continuous on the closed interval $[a, b]$, then $f(x)$ is bounded on that interval.
 
-### Applications of Continuity
-
-Continuity is a fundamental concept in calculus that is essential for understanding many important theorems and concepts, including:
+### Applications of [[Continuity]]  [[Continuity]] is a fundamental concept in calculus that is essential for understanding many important theorems and concepts, including:
 
 * **Derivatives:** The derivative of a function at a point is defined as the limit of the difference quotient as $x$ approaches that point. This limit only exists if the function is continuous at that point.
 
@@ -48,5 +44,4 @@ Continuity is a fundamental concept in calculus that is essential for understand
 * **Differential equations:** Many differential equations involve continuous functions, and the solutions to these equations are also often continuous functions.
 
 ### Conclusion
-
-Continuity is a fundamental concept in calculus that is essential for understanding many important theorems and concepts. It is also an important concept in other areas of mathematics, such as topology and real analysis.
+ [[Continuity]] is a fundamental concept in calculus that is essential for understanding many important theorems and concepts. It is also an important concept in other areas of mathematics, such as topology and real analysis.

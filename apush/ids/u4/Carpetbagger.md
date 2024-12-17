@@ -1,5 +1,4 @@
-## ID: Carpetbagger
-
+## ID: [[Carpetbagger]] 
 ## When:  1865-1877 (Reconstruction Era)
 
 ## Who: 

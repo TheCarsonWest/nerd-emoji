@@ -1,6 +1,6 @@
 # [[Calc home]]
 # [[Calc Rules and theorems]]
-The Fundamental Theorem of Calculus connects the seemingly disparate concepts of derivatives and integrals. It essentially states that differentiation and integration are inverse operations.  It's broken down into two parts:
+The [[Fundamental Theorem of Calculus]] connects the seemingly disparate concepts of derivatives and integrals. It essentially states that differentiation and integration are inverse operations.  It's broken down into two parts:
 
 ## Part 1: The FTC and Accumulation Functions
 
@@ -63,4 +63,4 @@ The graph shows $y=x^2$ (blue) and its accumulation function from 0 to x (red). 
 The FTC applies to continuous functions on a closed interval $[a, b]$.  While many functions encountered in AP Calculus AB satisfy this condition, it's crucial to be aware of this limitation.
 
 
-This rundown provides a concise overview of the Fundamental Theorem of Calculus for AP Calculus AB. Remember to practice applying both parts to various functions to solidify your understanding.
+This rundown provides a concise overview of the [[Fundamental Theorem of Calculus]] for AP Calculus AB. Remember to practice applying both parts to various functions to solidify your understanding.

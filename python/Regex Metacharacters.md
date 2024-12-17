@@ -1,6 +1,5 @@
 # [[Regular Expressions]]
-# Regex Metacharacters
-
+# [[Regex Metacharacters]] 
 These characters have special meaning within [[Regular Expressions]] and are not treated literally.  They modify the behavior of other characters or patterns.  It's crucial to understand them for effective regex use.
 
 **List of Common Metacharacters:**

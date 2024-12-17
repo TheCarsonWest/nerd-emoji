@@ -1,6 +1,5 @@
 # [[For Loop Examples]]
-# List Comprehensions
-
+# [[List Comprehensions]] 
 List comprehensions provide a concise way to create lists in Python.  They're essentially a shorthand for a `for` loop combined with an optional conditional statement.
 
 **Basic Syntax:**

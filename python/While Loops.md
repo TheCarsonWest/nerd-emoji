@@ -1,6 +1,5 @@
 # [[Python 1 Home]]
-# While Loops
-
+# [[While Loops]] 
 While loops in Python execute a block of code repeatedly as long as a given condition is true.
 
 ```python

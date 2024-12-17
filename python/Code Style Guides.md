@@ -1,6 +1,5 @@
 # [[Variable Naming Conventions]]
-# Python: Code Style Guides
-
+# Python: [[Code Style Guides]] 
 These notes cover Python code style guides, focusing on best practices and tools for ensuring consistent and readable code.
 
 

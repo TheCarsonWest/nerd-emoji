@@ -1,6 +1,5 @@
 # [[Data Type Conversions]]
-# Error Handling
-
+# [[Error Handling]] 
 Python uses `try-except` blocks to handle errors gracefully.  This prevents your program from crashing when unexpected situations occur.
 
 ```python

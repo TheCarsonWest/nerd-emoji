@@ -1,4 +1,4 @@
-# ID: Whiskey Rebellion 
+# ID: [[Whiskey Rebellion]] 
 
 ## WHEN: 1791-1794 (rebellion itself mainly in 1794)
 

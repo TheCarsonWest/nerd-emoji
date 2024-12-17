@@ -1,6 +1,5 @@
 # [[Variable Naming Conventions]]
-# Choosing Descriptive Variable Names
-
+# [[Choosing Descriptive Variable Names]] 
 This note covers best practices for choosing descriptive variable names in Python.  The goal is to write code that is readable and maintainable.
 
 **Key Principles:**
@@ -41,5 +40,5 @@ l = True         # What does 'l' mean?
 
 * [[Data Types in Python]] - Understanding different data types helps choose appropriately descriptive names.
 * [[Python Style Guide (PEP 8)]] -  Provides detailed guidance on naming conventions and other style recommendations.
-* [[Working with Lists in Python]] -  Shows how descriptive names can improve readability when working with lists.
+* [[Working with [[Lists]] in Python]] -  Shows how descriptive names can improve readability when working with lists.
 

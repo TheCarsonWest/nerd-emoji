@@ -1,6 +1,5 @@
 # [[Classes and Objects]]
-# Constructors
-
+# [[Constructors]] 
 Python doesn't have constructors in the same way as languages like Java or C++.  Instead, we use the `__init__` method.
 
 *   `__init__` is a special method (a "dunder" method because of the double underscores) that gets called automatically when you create an instance of a class.

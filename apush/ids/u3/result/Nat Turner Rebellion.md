@@ -1,5 +1,4 @@
-# ID: Nat Turner Rebellion
-## When: August 21-23, 1831
+# ID: [[Nat Turner Rebellion]] ## When: August 21-23, 1831
 ## Who: 
 Nat Turner, a slave preacher and religious mystic, and about 70 enslaved people
 ## What: 

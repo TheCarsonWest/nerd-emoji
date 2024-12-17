@@ -1,6 +1,5 @@
 # [[Regular Expressions]]
-# Regex Flags
-
+# [[Regex Flags]] 
 Python's `re` module offers several flags that modify the behavior of regular expression operations.  These flags are used as optional arguments to functions like `re.compile()`, `re.search()`, `re.findall()`, etc. They are combined using the bitwise OR operator (`|`).
 
 

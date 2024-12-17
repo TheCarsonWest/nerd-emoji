@@ -1,6 +1,5 @@
 # [[Python Functions]]
-# Recursion in Python
-
+# [[Recursion in Python]] 
 [[Recursion]] is a powerful technique where a function calls itself within its own definition.  It's crucial to have a base case to stop the recursion, otherwise, it will lead to a `RecursionError` (stack overflow).
 
 **Key Components:**

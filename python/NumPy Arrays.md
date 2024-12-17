@@ -1,6 +1,5 @@
 # [[Multidimensional Lists]]
-# NumPy Arrays
-
+# [[NumPy Arrays]] 
 NumPy arrays are the fundamental data structure for numerical computation in Python.  They provide efficient storage and manipulation of numerical data.  Key advantages over standard Python lists include:
 
 * **Homogeneous data type:** All elements in a NumPy array must be of the same data type. This allows for optimized memory usage and faster computations.

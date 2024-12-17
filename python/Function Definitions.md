@@ -1,6 +1,5 @@
 # [[Return Values]]
-# Function Definitions
-
+# [[Function Definitions]] 
 Python functions are defined using the `def` keyword, followed by the function name, parentheses `()`, and a colon `:`.  The function body is indented.
 
 ```python

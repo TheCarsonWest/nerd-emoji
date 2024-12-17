@@ -43,4 +43,4 @@ Hybridization is a theoretical concept in chemistry that explains the bonding pa
 
 **Conclusion:**
 
-Hybridization is a fundamental concept in chemistry that helps explain the bonding patterns and shapes of molecules. It is a powerful tool for understanding the properties and reactivity of molecules. By understanding the hybridization of atoms, we can better predict and explain the behavior of molecules.
+Hybridization is a fundamental concept in chemistry that helps explain the bonding patterns and shapes of molecules. It is a powerful tool for understanding the properties and reactivity of molecules. By understanding the [[hybridization]] of atoms, we can better predict and explain the behavior of molecules.

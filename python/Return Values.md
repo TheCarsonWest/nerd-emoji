@@ -1,6 +1,5 @@
 # [[Python 1 Home]]
-# Return Values
-
+# [[Return Values]] 
 Return values are the data sent back by a function after it has completed its execution.  A function can return any data type, including `None` (if no explicit return statement is used).
 
 ```python

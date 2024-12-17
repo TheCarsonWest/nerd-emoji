@@ -1,6 +1,5 @@
 [[Calc home]]
-## Implicit Differentiation
-
+## [[Implicit Differentiation]] 
 Implicit differentiation is a technique used to find the [[derivative]] of a function that is defined implicitly, meaning that it is not explicitly solved for one variable in terms of the other. 
 
 ### The Basics
@@ -11,8 +10,7 @@ We can't easily solve this equation for $y$ in terms of $x$. However, we can sti
 
 **The key idea is to differentiate both sides of the equation with respect to $x$, treating $y$ as a function of $x$.** This means we'll use the [[chain rule]] whenever we encounter a term involving $y$.
 
-# Steps for Implicit Differentiation
-
+# Steps for [[Implicit Differentiation]] 
 1. **Differentiate both sides of the equation with respect to $x$.** Remember to use the [[chain rule]] when differentiating terms involving $y$. 
 2. **Solve the resulting equation for $\frac{dy}{dx}$.** This may involve algebraic manipulation.
 
@@ -39,8 +37,7 @@ For example, if we have a term like $y^3$, we differentiate it as follows:
 $$\frac{d}{dx}(y^3) = 3y^2 \cdot \frac{dy}{dx}$$
 
 Here, $y^3$ is the outer function, $y$ is the inner function, and $\frac{dy}{dx}$ represents the [[derivative]] of the inner function.
-### Applications of Implicit Differentiation
-
+### Applications of [[Implicit Differentiation]] 
 Implicit differentiation has various applications, including:
 
 * **Finding the slope of a tangent line to a curve defined implicitly.**

@@ -4,7 +4,7 @@ The Beer-Lambert Law, also known as the Beer-Lambert-Bouguer law, describes the 
 
 ## The Equation
 
-The Beer-Lambert Law is mathematically expressed as:
+The [[Beer-Lambert Law]] is mathematically expressed as:
 
 # $$A = \epsilon l c$$
 
@@ -29,18 +29,16 @@ Where:
 *   **Concentration (c):** This is the concentration of the absorbing species in the solution.  The higher the concentration, the more light will be absorbed.
 
 
-## Limitations of the Beer-Lambert Law
-
-While widely applicable, the Beer-Lambert Law has limitations:
+## Limitations of the [[Beer-Lambert Law]] 
+While widely applicable, the [[Beer-Lambert Law]] has limitations:
 
 *   **High Concentrations:** At high concentrations, interactions between analyte molecules can affect the absorbance, causing deviations from linearity.
 *   **Chemical Changes:**  If the analyte undergoes [[chemical reactions]] or changes its form during the measurement, the absorbance will not accurately reflect the initial concentration.
 *   **Scattering:**  If the sample scatters light significantly (e.g., due to suspended particles), the measured absorbance will be affected.
 *   **Stray Light:**  Light that reaches the detector without passing through the sample can lead to errors in absorbance measurements.
 
-## Applications of Beer-Lambert Law
-
-The Beer-Lambert Law has numerous applications in various fields:
+## Applications of [[Beer-Lambert Law]] 
+The [[Beer-Lambert Law]] has numerous applications in various fields:
 
 *   **Quantitative Analysis:** Determining the concentration of an unknown substance in a solution.
 *   **Spectrophotometry:**  Measuring the absorbance of light at different wavelengths to identify and quantify substances.
@@ -50,8 +48,8 @@ The Beer-Lambert Law has numerous applications in various fields:
 
 ## [[Logarithms and Absorbance]]: A Quick Note
 
-The use of logarithms in the Beer-Lambert Law is crucial because it allows us to express a wide range of absorbance values in a manageable scale. A small change in absorbance corresponds to a large change in the ratio of incident to transmitted light.  Understanding logarithmic scales is essential for interpreting absorbance data.
+The use of logarithms in the [[Beer-Lambert Law]] is crucial because it allows us to express a wide range of absorbance values in a manageable scale. A small change in absorbance corresponds to a large change in the ratio of incident to transmitted light.  Understanding logarithmic scales is essential for interpreting absorbance data.
 
 ## [[Wavelength and Light Absorption]]: A Quick Note
 
-Different substances absorb different wavelengths of light.  The molar absorptivity (ε) is wavelength-dependent, meaning its value changes with the wavelength of the incident light.  A substance's absorption spectrum shows its absorbance at various wavelengths, providing a characteristic "fingerprint" that can be used for identification.  The Beer-Lambert Law is only valid for monochromatic light (light of a single wavelength).
+Different substances absorb different wavelengths of light.  The molar absorptivity (ε) is wavelength-dependent, meaning its value changes with the wavelength of the incident light.  A substance's absorption spectrum shows its absorbance at various wavelengths, providing a characteristic "fingerprint" that can be used for identification.  The [[Beer-Lambert Law]] is only valid for monochromatic light (light of a single wavelength).

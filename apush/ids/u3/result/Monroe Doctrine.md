@@ -1,5 +1,4 @@
-# ID: Monroe Doctrine
-
+# ID: [[Monroe Doctrine]] 
 ## When: December 2, 1823
 
 ## Who: 
@@ -16,7 +15,7 @@ A foreign policy statement declaring that:
 
 * **Established the U.S. as a dominant power in the Western Hemisphere.** 
 * **Asserted American neutrality in European conflicts,** signaling a departure from its previous involvement in European affairs.
-* **Laid the groundwork for future U.S. interventionism in Latin America.** While initially about protecting the Americas from Europe, the Monroe Doctrine would later be used to justify U.S. interventions in Latin American countries.
+* **Laid the groundwork for future U.S. interventionism in Latin America.** While initially about protecting the Americas from Europe, the [[Monroe Doctrine]] would later be used to justify U.S. interventions in Latin American countries.
 * **Had little impact at the time** as the U.S. lacked the military strength to enforce it. Its significance grew later in the 19th century as the U.S. became a stronger nation. 
 * **Remains a cornerstone of U.S. foreign policy today**, though its interpretation and application have evolved over time. 
 

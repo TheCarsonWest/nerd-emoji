@@ -1,4 +1,4 @@
-## ID: Reconstruction Act of 1867 
+## ID: [[Reconstruction Act of 1867]] 
 
 ## When: March 2, 1867
 
@@ -7,7 +7,7 @@
 * **President [[Andrew Johnson]]:** He strongly opposed the act and vetoed it, but Congress overrode his veto.
 
 ## What: 
-The Reconstruction Act of 1867 divided the South into five military districts, each governed by a Union general. It mandated the establishment of new state governments based on universal male suffrage (excluding former Confederate officials and soldiers). This effectively disenfranchised most white Southerners and allowed Black men to participate in the political process for the first time.
+The [[Reconstruction Act of 1867]] divided the South into five military districts, each governed by a Union general. It mandated the establishment of new state governments based on universal male suffrage (excluding former Confederate officials and soldiers). This effectively disenfranchised most white Southerners and allowed Black men to participate in the political process for the first time.
 
 ## Impact: 
 The Reconstruction Act had a profound impact on the South:

@@ -1,5 +1,5 @@
 [[Glossary]]
-## Refugee (AP Human Geography Definition)
+## [[Refugee]] (AP Human Geography Definition)
 
 * **A person who has been forced to leave their country due to persecution, war, or violence.**
 * **They are unable or unwilling to return due to fear of persecution.**

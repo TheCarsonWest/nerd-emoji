@@ -9,8 +9,7 @@ $F'(x) = f(x)$
 In simpler terms, the derivative of the antiderivative is the original function.  Note that antiderivatives are not unique. If $F(x)$ is an antiderivative of $f(x)$, then so is $F(x) + C$, where $C$ is any constant. This is because the derivative of a constant is always zero.
 
 
-## Finding Antiderivatives
-
+## Finding [[Antiderivatives]] 
 Finding antiderivatives often involves reversing the rules of differentiation.  Here are some basic examples:
 
 * **Power Rule:** If $f(x) = x^n$, then $F(x) = \frac{x^{n+1}}{n+1} + C$ for $n \neq -1$.

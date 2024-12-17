@@ -1,6 +1,5 @@
 # [[Python 1 Home]]
-# Importing Modules
-
+# [[Importing Modules]] 
 This note covers importing modules in Python.
 
 Modules are files containing Python definitions and statements.  They provide a way to organize and reuse code.

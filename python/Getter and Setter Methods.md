@@ -1,6 +1,5 @@
 # [[Private and Protected Members]]
-# Getter and Setter Methods
-
+# [[Getter and Setter Methods]] 
 These methods provide controlled access to an object's attributes.  They are crucial for encapsulation and data integrity.
 
 **Why use them?**

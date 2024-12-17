@@ -1,6 +1,6 @@
 # [[Calc home]]
 
-The Extreme Value Theorem is a fundamental concept in calculus that guarantees the existence of maximum and minimum values for a continuous function over a closed interval.
+The [[Extreme Value Theorem]] is a fundamental concept in calculus that guarantees the existence of maximum and minimum values for a continuous function over a closed interval.
 ## Theorem Statement
 
 #### Let $f$ be a continuous function on a closed interval $[a, b]$. Then $f$ attains both an absolute maximum value $f(c)$ and an absolute minimum value $f(d)$ at some numbers $c$ and $d$ in $[a, b]$.
@@ -49,4 +49,4 @@ The EVT only guarantees the existence of absolute extrema; it doesn't provide a 
 
 ## Summary
 
-The Extreme Value Theorem is a powerful tool for analyzing the behavior of continuous functions on closed intervals.  By understanding its conditions and applying the steps outlined above, you can confidently locate the absolute maximum and minimum values of many functions.
+The [[Extreme Value Theorem]] is a powerful tool for analyzing the behavior of continuous functions on closed intervals.  By understanding its conditions and applying the steps outlined above, you can confidently locate the absolute maximum and minimum values of many functions.

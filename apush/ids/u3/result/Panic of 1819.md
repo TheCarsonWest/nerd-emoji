@@ -1,5 +1,4 @@
-# ID: Panic of 1819
-## When: 1819 (economic downturn lasting until about 1821)
+# ID: [[Panic of 1819]] ## When: 1819 (economic downturn lasting until about 1821)
 ## Who: 
 - **Affected:** Farmers, land speculators, banks, and average citizens across the [[United States]]. 
 - **Key Figures:** President [[James Monroe]] (his policies indirectly contributed to the Panic)

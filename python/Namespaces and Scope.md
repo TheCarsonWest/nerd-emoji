@@ -1,6 +1,5 @@
 # [[Importing Modules]]
-# Namespaces and Scope
-
+# [[Namespaces and Scope]] 
 Namespaces are basically containers that hold names (variables, functions, classes, etc.).  They help prevent naming conflicts.  Python uses namespaces to manage the organization of names, ensuring that names are unique and accessible within their intended context.
 
 There are several types of namespaces:

@@ -1,6 +1,5 @@
 # [[List Comprehension]]
-# For Loops in Python
-
+# [[For Loops in Python]] 
 Basic Syntax:
 
 ```python

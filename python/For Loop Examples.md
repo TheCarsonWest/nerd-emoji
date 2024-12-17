@@ -1,6 +1,5 @@
 # [[For Loops]]
-# For Loop Examples
-
+# [[For Loop Examples]] 
 This note covers examples of using `for` loops in Python.
 
 * **Basic Iteration:**

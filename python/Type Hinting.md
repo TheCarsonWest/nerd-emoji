@@ -1,5 +1,5 @@
 # [[Data Type Conversions]]
-# Type Hinting in Python
+# [[Type Hinting]] in Python
 
 Type hinting in Python allows you to specify the expected [[Data Types]] of variables, function arguments, and [[Return Values]].  This improves code readability, helps catch errors during development (using tools like MyPy), and aids in better code understanding and maintainability.
 

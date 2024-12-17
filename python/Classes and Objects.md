@@ -1,6 +1,5 @@
 # [[Python 1 Home]]
-# Classes and Objects
-
+# [[Classes and Objects]] 
 Python uses classes to create user-defined data types.  A class is a blueprint for creating objects.  Objects are instances of a class.
 
 ```python

@@ -1,6 +1,5 @@
 # [[ndarray Explained]]
-# Broadcasting Explained
-
+# [[Broadcasting Explained]] 
 Broadcasting is a powerful feature in NumPy that allows for efficient operations between arrays of different shapes.  It avoids explicit looping and significantly speeds up computations.  The core idea is that NumPy attempts to *stretch* smaller arrays to match the shape of larger arrays before performing element-wise operations.
 
 **Rules of Broadcasting:**

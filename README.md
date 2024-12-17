@@ -18,7 +18,7 @@ By June 2025 there will be a [full obsidian vault](https://obsidian.md/), (and n
 	- Bro doesnt let me use my macbook in class
 - AP Human Geography (Yes)
 	- Whatever we cover in class
-- AP English Language and Composition (Not Really)
+- AP English [[Language]] and Composition (Not Really)
 	- Some speeches and debates copy pasted so i have quick access to them myself
 - Arabic 2(Kinda)
 	- Only when I feel like it

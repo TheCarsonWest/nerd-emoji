@@ -1,5 +1,5 @@
 # [[Handling Binary Files]]
-# Struct Module Notes
+# [[Struct Module]] Notes
 
 The `struct` module in Python is used for packing and unpacking data in binary format.  It's particularly useful when dealing with binary files, network communication, or interacting with C code or libraries.
 

@@ -1,5 +1,5 @@
 # [[Function Parameters]]
-# Parameter Ordering in Python
+# [[Parameter Ordering]] in Python
 
 Python's function parameter ordering follows a specific pattern which can sometimes be confusing, especially when dealing with many parameters. Understanding this order is crucial for writing readable and maintainable code.
 

@@ -1,5 +1,4 @@
-# The Democrats
-### Symbol: donkey, because they are ass
+# The [[Democrats]] ### Symbol: donkey, because they are ass
 The Democratic Party, one of the two major political parties in the [[United States]], boasts a long and complex history, evolving alongside the nation itself. Its roots trace back to the \
 Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Adams]] in the [[election of 1824]], where he and his people split from the [[Democratic-Republican]]s
 
@@ -11,20 +10,20 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 ## **The Jacksonian Era (1828-1850s):**
 
 * **States' Rights:** The Democratic Party of this era championed states' rights, opposing federal intervention in matters like slavery and tariffs.
-* **Expansionism:**  Driven by **Manifest Destiny**, Democrats supported westward expansion, leading to the acquisition of vast territories and the Mexican-American War.
-* **Slavery:** The issue of slavery increasingly divided the party, with Southern Democrats defending it and Northern Democrats advocating for gradual abolition or restriction.
+* **Expansionism:**  Driven by **Manifest Destiny**, [[Democrats]] supported westward expansion, leading to the acquisition of vast territories and the Mexican-American War.
+* **Slavery:** The issue of slavery increasingly divided the party, with Southern [[Democrats]] defending it and Northern [[Democrats]] advocating for gradual abolition or restriction.
 
 ## **The Civil War and Reconstruction (1860-1877):**
 
 * **Division:** The split over slavery led to the formation of the **Republican Party** in 1854, and the Democratic Party fractured into Northern and Southern factions.
-* **Confederacy:**  Southern Democrats supported secession and formed the Confederate States of America.
+* **Confederacy:**  Southern [[Democrats]] supported secession and formed the Confederate States of America.
 * **Reconstruction:** After the Civil War, the Democratic Party, though weakened, opposed Reconstruction efforts, seeking to limit the rights of former slaves.
 
 ## **The Gilded Age and Progressivism (1877-1917):**
 
 * **Industrialization:** The Democratic Party grappled with the challenges of industrialization, often supporting labor unions and advocating for reform.
 * **Populism:** The party embraced populist movements, such as the **Populist Party** in the 1890s, which championed farmers' rights and challenged corporate power.
-* **Progressivism:**  Some Democrats embraced the Progressive movement, advocating for social justice and government regulation.
+* **Progressivism:**  Some [[Democrats]] embraced the Progressive movement, advocating for social justice and government regulation.
 
 ## **The 20th Century:**
 

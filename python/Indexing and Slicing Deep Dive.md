@@ -1,6 +1,5 @@
 # [[ndarray Explained]]
-# Indexing and Slicing Deep Dive
-
+# [[Indexing and Slicing Deep Dive]] 
 This note covers advanced techniques and nuances of indexing and slicing in Python sequences (lists, tuples, strings).
 
 **Basic Indexing:**

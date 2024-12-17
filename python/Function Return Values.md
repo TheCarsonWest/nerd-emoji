@@ -1,6 +1,5 @@
 # [[Python Functions]]
-# Function Return Values
-
+# [[Function Return Values]] 
 Python functions can return values using the `return` statement.  The returned value can be of any data type (integer, string, list, dictionary, another function, etc.), or it can be `None` if no explicit return statement is provided.
 
 ```python

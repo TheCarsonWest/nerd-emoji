@@ -1,5 +1,4 @@
-## ID: Election of 1860
-
+## ID: [[Election of 1860]] 
 ## When: November 6, 1860
 
 ## Who:

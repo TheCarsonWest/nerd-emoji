@@ -1,6 +1,5 @@
 # [[Data Type Conversions]]
-# JSON Conversion
-
+# [[JSON Conversion]] 
 This note covers JSON conversion in Python.
 
 Key modules:  `json`

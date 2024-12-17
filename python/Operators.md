@@ -1,6 +1,5 @@
 # [[Control Flow If Statements]]
-# Python Operators
-
+# Python [[Operators]] 
 This note covers Python operators.  Further notes will be needed for subtopics.
 
 **Types of Operators:**

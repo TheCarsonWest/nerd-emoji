@@ -1,5 +1,4 @@
-# ID: Bill of Rights
-## When: December 15, 1791
+# ID: [[Bill of Rights]] ## When: December 15, 1791
 ## Who: 
 * **Authored by:** [[James Madison]] 
 * **Proposed by:**  The First [[United States]] Congress

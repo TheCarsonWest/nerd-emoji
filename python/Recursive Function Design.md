@@ -1,6 +1,5 @@
 # [[Memoization in Recursion]]
-# Recursive Function Design
-
+# [[Recursive Function Design]] 
 Recursive functions call themselves within their own definition.  This allows for elegant solutions to problems that can be broken down into smaller, self-similar subproblems.
 
 **Key Components:**

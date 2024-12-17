@@ -1,6 +1,5 @@
 # [[File Handling]]
-# File IO Modes
-
+# [[File IO Modes]] 
 Python's built-in `open()` function allows for various file access modes, influencing how the file is handled during operations.  These modes are specified as a second argument to `open()`.
 
 Common Modes:

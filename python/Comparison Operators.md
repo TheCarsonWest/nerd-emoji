@@ -1,6 +1,5 @@
 # [[Control Flow If Statements]]
-# Comparison Operators
-
+# [[Comparison Operators]] 
 Python's comparison operators are used to compare values and return a Boolean result (`True` or `False`).
 
 ```python

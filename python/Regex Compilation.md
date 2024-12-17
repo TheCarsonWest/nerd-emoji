@@ -1,6 +1,5 @@
 # [[Regex Flags]]
-# Regex Compilation
-
+# [[Regex Compilation]] 
 Regex compilation is the process of transforming a regular expression string into a compiled pattern object. This object can then be used for efficient matching against multiple strings.  This is generally faster than repeatedly compiling the same regex string.
 
 

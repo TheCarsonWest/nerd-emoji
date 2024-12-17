@@ -1,6 +1,5 @@
 # [[Regular Expressions]]
-# Regex Groups and Backreferences
-
+# [[Regex Groups and Backreferences]] 
 These notes cover how to use groups and backreferences in [[Regular Expressions]] within Python.
 
 The core idea is to create groups within a regex pattern to capture specific parts of the matched string.  These captured parts can then be reused (backreferenced) within the same pattern or accessed after the match is made.

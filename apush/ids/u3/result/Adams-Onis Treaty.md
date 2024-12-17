@@ -1,4 +1,4 @@
-# ID: Adams-Onis Treaty 
+# ID: [[Adams-Onis Treaty]] 
 ## When: February 22, 1819
 ## Who: 
 * **[[John Quincy Adams]]:** [[United States]] Secretary of State 

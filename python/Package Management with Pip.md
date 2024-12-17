@@ -1,6 +1,5 @@
 # [[Virtual Environments]]
-# Package Management with Pip
-
+# [[Package Management with Pip]] 
 Pip is the standard package manager for Python.  It allows you to install, manage, and uninstall packages (libraries) easily.
 
 **Key Commands:**

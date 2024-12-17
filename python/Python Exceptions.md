@@ -1,7 +1,5 @@
 # [[Exception Handling Examples]]
-# Python Exceptions
-
-Python Exceptions are events that occur during the execution of a program that disrupt the normal flow of instructions.  They are a way for Python to signal that something unexpected or erroneous has happened.  Handling exceptions gracefully is crucial for writing robust and reliable code.
+# [[Python Exceptions]]  [[Python Exceptions]] are events that occur during the execution of a program that disrupt the normal flow of instructions.  They are a way for Python to signal that something unexpected or erroneous has happened.  Handling exceptions gracefully is crucial for writing robust and reliable code.
 
 Key Concepts:
 

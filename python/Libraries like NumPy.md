@@ -1,8 +1,6 @@
 # [[Modules and Packages]]
-# Python Notes: Libraries like NumPy
-
-**Current String:** Libraries like NumPy
-
+# Python Notes: [[Libraries like NumPy]] 
+**Current String:** [[Libraries like NumPy]] 
 NumPy is a fundamental library for numerical computing in Python.  It provides powerful tools for working with arrays and matrices, significantly speeding up numerical operations compared to using standard Python lists.
 
 Key Features:

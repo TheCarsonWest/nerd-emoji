@@ -1,5 +1,4 @@
-## ID: Battle of Bull Run
-
+## ID: [[Battle of Bull Run]] 
 ## When: July 21, 1861
 
 ## Who:

@@ -15,7 +15,7 @@ For example, consider the function $f(x) = 2x + 1$. Its inverse is $f^{-1}(x) = 
 * $f(f^{-1}(x)) = f\left(\frac{x-1}{2}\right) = 2\left(\frac{x-1}{2}\right) + 1 = x$
 * $f^{-1}(f(x)) = f^{-1}(2x + 1) = \frac{(2x+1)-1}{2} = x$
 
-# The Derivative of an Inverse Function
+# The [[Derivative]] of an Inverse Function
 
 The derivative of an inverse function can be found using the following formula:
 

@@ -1,6 +1,5 @@
 # [[Variable Naming Conventions]]
-# Data Types
-
+# [[Data Types]] 
 Python has several built-in data types.  Here's a breakdown:
 
 * **Numeric Types:**

@@ -1,4 +1,4 @@
-# ID: Proclamation of Neutrality 
+# ID: [[Proclamation of Neutrality]] 
 ## When: April 22, 1793
 ## Who: 
 Issued by President George [[Washington]] 

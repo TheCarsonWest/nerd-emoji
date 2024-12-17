@@ -1,6 +1,5 @@
 # [[Function Parameters]]
-# Python Functions
-
+# [[Python Functions]] 
 These notes cover the basics of Python functions.
 
 **Defining Functions:**

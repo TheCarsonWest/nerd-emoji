@@ -1,6 +1,5 @@
 # [[Lists]]
-# Multidimensional Lists
-
+# [[Multidimensional Lists]] 
 Multidimensional lists in Python are lists within lists, creating a structure that can represent matrices, tables, or other higher-dimensional data.  The number of dimensions is limited only by memory and practicality.
 
 **Example:**

@@ -1,6 +1,5 @@
 # [[Async Generators]]
-# Coroutine Explained
-
+# [[Coroutine Explained]] 
 A coroutine is a specialized type of function that can be paused and resumed at various points.  Unlike regular functions which run to completion, coroutines can yield control back to the caller, and later resume execution from where they left off.  This is achieved using the `async` and `await` keywords (introduced in Python 3.5).
 
 Key features:

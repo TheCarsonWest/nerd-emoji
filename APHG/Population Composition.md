@@ -3,8 +3,7 @@
 # Population Composition: What a population is made of 
 
 ## Things populations are made of
-### Ethnicity
-- You get Chinatowns and little italies everywhere
+### [[Ethnicity]] - You get Chinatowns and little italies everywhere
 - You get your black neighborhoods and your white neighborhoods
 - Basically people just like to cluster with people who are similar to them
 ### Scales and distribution

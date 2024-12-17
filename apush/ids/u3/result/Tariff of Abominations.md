@@ -1,5 +1,4 @@
-# ID: Tariff of Abominations
-## When: 1828
+# ID: [[Tariff of Abominations]] ## When: 1828
 ## Who:  
 * **[[Andrew Jackson]]:** President at the time, though he opposed the tariff.
 * **Henry Clay:** Architect of the tariff and Secretary of State.

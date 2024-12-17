@@ -1,15 +1,15 @@
 # [[IDs unit 4]]
 # ID: Free-Soilers
 
-## When: 1840s - 1850s (Specifically active during the period leading up to the [[Compromise of 1850]] and the Kansas-Nebraska Act of 1854)
+## When: 1840s - 1850s (Specifically active during the period leading up to the [[Compromise of 1850]] and the [[Kansas-Nebraska Act]] of 1854)
 
 ## Who:
 
 A diverse group including:
 
-* **Northern Democrats and Whigs:**  Many were initially members of existing parties but found common ground on the issue of opposing the expansion of slavery.
+* **Northern [[Democrats]] and Whigs:**  Many were initially members of existing parties but found common ground on the issue of opposing the expansion of slavery.
 * **Abolitionists (some):** While some abolitionists were involved, many were critical of the Free-Soil Party's focus on limiting expansion rather than immediate abolition.
-* **Notable Figures:**  Salmon P. Chase (later Chief Justice), William H. Seward (later Secretary of State), and Martin Van Buren (former President).
+* **Notable Figures:**  Salmon P. Chase (later Chief Justice), William H. Seward (later Secretary of State), and [[Martin Van Buren]] (former President).
 
 ## What:
 

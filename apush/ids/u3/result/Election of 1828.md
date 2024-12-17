@@ -1,5 +1,4 @@
-## ID: Election of 1828
-
+## ID: [[Election of 1828]] 
 ## When: November 1828
 
 ## Who: 

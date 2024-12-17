@@ -1,6 +1,5 @@
 # [[Abstract Classes]]
-# Python Notes: ABC Module
-
+# Python Notes: [[ABC Module]] 
 **Current String:** `ABC Module`
 
 **Full List:** `['ABC Module']`

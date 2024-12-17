@@ -1,7 +1,6 @@
 
 [[Calc home]]
-### Indeterminate Forms
-
+### [[Indeterminate Forms]] 
 An indeterminate form is a limit expression that cannot be determined directly. These forms include:
 
 * **0/0:**  The limit of a fraction where both the numerator and denominator approach zero.

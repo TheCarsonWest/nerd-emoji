@@ -1,6 +1,5 @@
 # [[Iterables]]
-# Iterators
-
+# [[Iterators]] 
 An iterator is an object that allows you to traverse through a sequence of data one element at a time.  It doesn't load the entire sequence into memory at once, making it memory-efficient for large datasets.
 
 Key characteristics:

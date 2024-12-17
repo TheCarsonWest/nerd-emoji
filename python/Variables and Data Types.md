@@ -1,6 +1,5 @@
 # [[Operators]]
-# Variables and Data Types
-
+# [[Variables and Data Types]] 
 Python uses variables to store data.  A variable is essentially a named location in the computer's memory where you can store a value.  You don't need to explicitly declare the data type of a variable in Python; it's dynamically typed.
 
 **Variable Assignment:**

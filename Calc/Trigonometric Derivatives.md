@@ -6,7 +6,7 @@
 ## $$\frac{d}{dx} \sec(x) = \sec(x) \tan(x)$$
 ## $$\frac{d}{dx} \cot(x) = -\csc^2(x)$$
 
-## Inverse Trigonometric Derivatives 
+## Inverse [[Trigonometric Derivatives]] 
 # $$\frac{d}{dx} \arcsin(x) = \frac{1}{\sqrt{1-x^2}}$$
 # $$\frac{d}{dx} \arccos(x) = -\frac{1}{\sqrt{1-x^2}}$$
 # $$\frac{d}{dx} \arctan(x) = \frac{1}{1+x^2}$$

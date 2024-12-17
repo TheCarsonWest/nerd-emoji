@@ -1,4 +1,4 @@
-# ID: American Temperance Society 
+# ID: [[American Temperance Society]] 
 ## When: 1826
 ## Who: 
 Founded by Lyman Beecher, a prominent Protestant minister, and other evangelical reformers.

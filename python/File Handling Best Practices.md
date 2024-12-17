@@ -1,6 +1,5 @@
 # [[File IO Modes]]
-# File Handling Best Practices
-
+# [[File Handling Best Practices]] 
 These notes cover best practices for file handling in Python.
 
 **Key Areas:**

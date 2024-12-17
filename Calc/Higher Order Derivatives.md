@@ -11,7 +11,7 @@ The second derivative, $f''(x)$ or $\frac{d^2f}{dx^2}$, is the derivative of the
     * $f''(x) > 0$:  The graph of $f(x)$ is concave up (shaped like a cup).
     * $f''(x) < 0$:  The graph of $f(x)$ is concave down (shaped like a frown).
 * **Inflection Points:**  Points where the concavity changes are called inflection points.  These occur where $f''(x) = 0$ or is undefined.
-### Third Derivative and Beyond: $f'''(x)$ or $\frac{d^3f}{dx^3}$
+### Third [[Derivative]] and Beyond: $f'''(x)$ or $\frac{d^3f}{dx^3}$
 
 The third derivative, $f'''(x)$ or $\frac{d^3f}{dx^3}$, is the derivative of the second derivative.  It tells us the rate of change of the concavity.
 

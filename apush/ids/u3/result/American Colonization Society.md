@@ -1,5 +1,4 @@
-# ID: American Colonization Society
-## When: 1816
+# ID: [[American Colonization Society]] ## When: 1816
 ## Who: 
 - **Founded by:** Robert Finley (Presbyterian minister) 
 - **Prominent members:** Henry Clay (Speaker of the House), John Randolph (Senator), Richard Bland Lee (Congressman and future US Attorney General), Francis Scott Key (lawyer and author of "The Star-Spangled Banner")

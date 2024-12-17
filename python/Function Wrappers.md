@@ -1,6 +1,5 @@
 # [[Chaining Decorators]]
-# Function Wrappers
-
+# [[Function Wrappers]] 
 Function wrappers are a powerful technique in Python that allows you to extend or modify the behavior of a function without modifying its core functionality.  This is achieved by creating a new function that wraps around the original function, executing additional code before or after the original function's execution.
 
 Key aspects:

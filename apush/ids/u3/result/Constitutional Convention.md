@@ -1,4 +1,4 @@
-# ID: Constitutional Convention 
+# ID: [[Constitutional Convention]] 
 ## WHEN: May 25 - September 17, 1787 
 ## WHO: 55 delegates (from 12 states, [[Rhode Island]] did not participate) including:
 * **[[James Madison]]** ("Father of the Constitution" for his role in drafting and promoting the document)

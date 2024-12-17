@@ -1,6 +1,5 @@
 # [[Libraries like Pandas]]
-# Data Visualization with Matplotlib
-
+# [[Data Visualization with Matplotlib]] 
 This note covers the basics of data visualization using the Matplotlib library in Python.
 
 Key aspects to cover:

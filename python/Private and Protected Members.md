@@ -1,6 +1,5 @@
 # [[Classes and Objects]]
-# Private and Protected Members
-
+# [[Private and Protected Members]] 
 Python doesn't have true private members in the same way as some other languages (like Java or C++).  Instead, it uses a naming convention to indicate that an attribute or method should be treated as private or protected.
 
 **Name Mangling:**  Python uses name mangling to achieve a form of privacy.  If you prefix an attribute or method name with double underscores (`__`),  it undergoes name mangling. This makes it harder (but not impossible) to access it from outside the class.

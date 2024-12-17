@@ -1,5 +1,4 @@
-# ID: Jim Crow Laws
-## When: 1877-1965 (Post-Reconstruction Era) 
+# ID: [[Jim Crow Laws]] ## When: 1877-1965 (Post-Reconstruction Era) 
 ## Who:  
 Southern White [[Democrats]] (primarily, but some Black people were involved in the system as well) 
 ## What:

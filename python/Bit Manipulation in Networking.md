@@ -1,11 +1,10 @@
 # [[Bitwise Operators]]
-# Bit Manipulation in Networking
-
+# [[Bit Manipulation in Networking]] 
 This topic is vast and needs breaking down.
 
 * **Core Concepts:**
     * [[Binary Numbers and their Representation]]
-    * [[Bitwise Operators in Python]]  (AND, OR, XOR, NOT, left/right shift)
+    * [[Bitwise [[Operators]] in Python]]  (AND, OR, XOR, NOT, left/right shift)
     * [[Boolean Algebra and Logic Gates]] (Underlying principles)
 
 * **Networking Applications:**

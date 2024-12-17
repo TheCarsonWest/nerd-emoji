@@ -1,6 +1,5 @@
 # [[Libraries like Pandas]]
-# Pandas Data Structures
-
+# [[Pandas Data Structures]] 
 Pandas primarily uses two data structures:  `Series` and `DataFrame`.
 
 * **Series:**  A one-dimensional labeled array capable of holding any data type (integers, strings, floating point numbers, Python objects, etc.).  The labels are collectively called the *index*.

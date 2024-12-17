@@ -1,6 +1,5 @@
 # [[Variables and Data Types]]
-# Data Type Conversions
-
+# [[Data Type Conversions]] 
 Python offers various ways to convert data from one type to another.  This is crucial for flexibility and performing operations requiring specific data types.  Incorrect conversions can lead to errors.
 
 **Common Conversions:**

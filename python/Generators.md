@@ -1,7 +1,5 @@
 # [[Python 1 Home]]
-# Generators
-
-Generators are a powerful feature in Python that allows you to create iterators in a concise and efficient way.  Instead of creating a whole list in memory at once, generators produce values one at a time, only when requested. This makes them memory-efficient, especially when dealing with large datasets or infinite sequences.
+# [[Generators]]  [[Generators]] are a powerful feature in Python that allows you to create iterators in a concise and efficient way.  Instead of creating a whole list in memory at once, generators produce values one at a time, only when requested. This makes them memory-efficient, especially when dealing with large datasets or infinite sequences.
 
 Key characteristics:
 
@@ -11,8 +9,7 @@ Key characteristics:
 
 
 **Creating Generators:**
-
-Generators are defined using functions, but instead of a `return` statement, they use the `yield` keyword.  `yield` pauses execution and returns a value, preserving the generator's state.  The next time the generator is called, it resumes from where it left off.
+ [[Generators]] are defined using functions, but instead of a `return` statement, they use the `yield` keyword.  `yield` pauses execution and returns a value, preserving the generator's state.  The next time the generator is called, it resumes from where it left off.
 
 ```python
 def my_generator(n):

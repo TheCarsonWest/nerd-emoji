@@ -1,6 +1,5 @@
 # [[Importing Modules]]
-# Common Python Modules
-
+# [[Common Python Modules]] 
 These notes cover commonly used Python modules.  Further details on specific modules will be in separate notes.
 
 **Key Modules & Functionality:**

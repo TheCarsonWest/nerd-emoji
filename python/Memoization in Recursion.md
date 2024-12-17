@@ -1,6 +1,5 @@
 # [[Recursion]]
-# Memoization in Recursion
-
+# [[Memoization in Recursion]] 
 Memoization is an optimization technique used to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.  This is particularly useful in recursive functions where the same subproblems are calculated repeatedly.
 
 **How it works:**

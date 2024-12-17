@@ -1,6 +1,5 @@
 # [[Libraries like NumPy]]
-# Performance Optimization in Python
-
+# [[Performance Optimization in Python]] 
 **Goal:**  Understand and apply techniques to improve Python code performance.
 
 **Key Areas:**
@@ -14,7 +13,7 @@ cProfile.run('my_slow_function()')
 
 * **Algorithmic Optimization:** Often the biggest performance gains come from choosing better algorithms.  [[Algorithm Complexity Analysis]]
 
-* **Data Structures:**  Using the right data structure can drastically impact speed.  Dictionaries (`dict`) for fast lookups, sets for membership testing, etc.  [[Python Data Structures: Performance Tradeoffs]]
+* **Data Structures:**  Using the right data structure can drastically impact speed.  [[Dictionaries]] (`dict`) for fast lookups, sets for membership testing, etc.  [[Python Data Structures: Performance Tradeoffs]]
 
 * **List Comprehensions and Generator Expressions:**  Often faster than explicit loops.
 

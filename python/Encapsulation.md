@@ -1,7 +1,5 @@
 # [[Python 1 Home]]
-# Encapsulation
-
-Encapsulation is one of the fundamental principles of object-oriented programming (OOP).  It's all about bundling data (attributes) and methods (functions) that operate on that data within a single unit – a class.  The goal is to protect the data from outside access and misuse, and to control how that data is modified.
+# [[Encapsulation]]  [[Encapsulation]] is one of the fundamental principles of object-oriented programming (OOP).  It's all about bundling data (attributes) and methods (functions) that operate on that data within a single unit – a class.  The goal is to protect the data from outside access and misuse, and to control how that data is modified.
 
 This is achieved primarily through access modifiers (although Python doesn't have strict private/public keywords like Java or C++).  We use naming conventions to indicate the intended level of access:
 

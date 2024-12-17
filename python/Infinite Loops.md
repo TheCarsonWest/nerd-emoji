@@ -1,6 +1,5 @@
 # [[While Loops]]
-# Infinite Loops
-
+# [[Infinite Loops]] 
 An infinite loop is a loop that never terminates, meaning it continues to execute indefinitely.  This usually happens due to a logical error in the loop's condition.  It can freeze your program and require manual intervention (like pressing Ctrl+C) to stop it.
 
 

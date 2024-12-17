@@ -1,5 +1,4 @@
-## Constant rule
-### $$ \frac{d}{dx}[C] = 0 $$
+## [[Constant rule]] ### $$ \frac{d}{dx}[C] = 0 $$
 
 
 

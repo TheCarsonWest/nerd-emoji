@@ -1,6 +1,5 @@
 # [[Python Sets - Examples]]
-# Python Sets - Advanced Techniques
-
+# [[Python Sets - Advanced Techniques]] 
 This note covers advanced techniques related to [[Python Sets]] beyond basic creation and operations.  We'll assume basic set understanding (see [[Python Sets - Basics]]).
 
 ## Set Comprehensions
@@ -17,7 +16,7 @@ unique_chars = {char for char in "abracadabra"}
 print(unique_chars)  # Output: {'a', 'b', 'r', 'c', 'd'}
 ```
 
-## Set Operations on Multiple Sets
+## [[Set Operations]] on Multiple Sets
 
 Python supports efficient operations on multiple sets.
 
@@ -44,8 +43,7 @@ print(f"Symmetric Difference: {symmetric_difference_set}") # Output: {1, 2, 4, 5
 ```
 
 
-## Frozen Sets
-
+## [[Frozen Sets]] 
 Frozen sets are immutable versions of sets.  Once created, their elements cannot be added or removed.  Useful when a set needs to be used as a key in a dictionary or as an element in another set.
 
 ```python

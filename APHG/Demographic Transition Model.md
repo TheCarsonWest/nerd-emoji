@@ -1,4 +1,4 @@
-### 1. Demographic Transition Model 
+### 1. [[Demographic Transition Model]] 
 
 ![](https://populationeducation.org/wp-content/uploads/2014/10/dtm.png)
 

@@ -1,14 +1,13 @@
 # [[Memoization in Recursion]]
-# Python Dictionaries
-
+# [[Python Dictionaries]] 
 Python dictionaries are unordered collections of key-value pairs.  Keys must be immutable (e.g., strings, numbers, tuples), while values can be of any data type.
 
 **Key Features:**
 
 * **Key-Value Pairs:**  Data is stored as key-value pairs, allowing for efficient lookups using keys.
-* **Mutability:** Dictionaries are mutable, meaning you can add, remove, or modify elements after creation.
+* **Mutability:** [[Dictionaries]] are mutable, meaning you can add, remove, or modify elements after creation.
 * **Unordered:**  Prior to Python 3.7, dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
-* **Hashing:** Dictionaries utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O(1) on average.
+* **Hashing:** [[Dictionaries]] utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O(1) on average.
 
 
 **Creating Dictionaries:**
@@ -84,10 +83,9 @@ for key, value in my_dict.items():
 [[Dictionary Methods]]  (This will be a separate note)
 
 **Common Use Cases:**
+ [[Dictionaries]] are frequently used to represent structured data, such as configurations, data from JSON or other APIs, and more.
 
-Dictionaries are frequently used to represent structured data, such as configurations, data from JSON or other APIs, and more.
-
-[[Dictionary vs. Lists and Tuples]] (This will be a separate note)
+[[Dictionary vs. [[Lists]] and Tuples]] (This will be a separate note)
 
 
 **Example:**

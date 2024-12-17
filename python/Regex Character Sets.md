@@ -1,6 +1,5 @@
 # [[Regex Metacharacters]]
-# Regex Character Sets
-
+# [[Regex Character Sets]] 
 These notes cover Python's regular expression character sets.  Character sets allow you to match one character from a specified group.
 
 * **Basic Syntax:**  Character sets are defined using square brackets `[]`.  For example, `[abc]` matches 'a', 'b', or 'c'.

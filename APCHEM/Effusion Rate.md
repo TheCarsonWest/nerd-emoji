@@ -1,5 +1,5 @@
 # [[APCHEM Gasses]]
-# Effusion Rate (AP Chemistry Rundown)
+# [[Effusion Rate]] (AP Chemistry Rundown)
 
 ## Introduction
 

@@ -1,5 +1,4 @@
-# ID: Embargo Act of 1807
-## When: December 22, 1807
+# ID: [[Embargo Act of 1807]] ## When: December 22, 1807
 ## Who: 
 * **Proposed by:** President [[Thomas Jefferson]]
 * **Passed by:** U.S. Congress

@@ -1,6 +1,5 @@
 # [[Abstract Classes]]
-# Method Overriding
-
+# [[Method Overriding]] 
 Method overriding in Python occurs when a subclass provides a specific implementation for a method that is already defined in its superclass.  This allows subclasses to modify or extend the behavior of inherited methods.  Unlike some other languages (like Java), Python doesn't have explicit keywords like `override` to denote overriding.  It's purely based on inheritance and method signature matching.
 
 **Key points:**

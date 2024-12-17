@@ -1,6 +1,5 @@
 # [[Namespaces and Scope]]
-# Global vs Local Variables
-
+# [[Global vs Local Variables]] 
 **Scope:**  The scope of a variable determines where in your code that variable is accessible.
 
 * **Global Variables:** Declared outside of any function. Accessible from anywhere in the program *after* its declaration.

@@ -1,5 +1,4 @@
-# ID: Missouri Compromise
-
+# ID: [[Missouri Compromise]] 
 ## When: March 1820
 
 ## Who: 

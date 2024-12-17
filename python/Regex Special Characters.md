@@ -1,6 +1,5 @@
 # [[Regex Flags]]
-# Regex Special Characters
-
+# [[Regex Special Characters]] 
 These notes cover special characters used in [[Regular Expressions]] within Python.  Remember to import the `re` module before using any regex functions.  `import re`
 
 [[Regex Metacharacters]]  These are symbols with special meanings in regex.

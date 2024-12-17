@@ -1,5 +1,4 @@
-### Local Linear Approximation
-
+### [[Local Linear Approximation]] 
 The concept of [[Local Linearity]] allows us to approximate the value of a function near a point using the tangent line at that point. This is called the **local linear approximation**.
 
 **Idea:**

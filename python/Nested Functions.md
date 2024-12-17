@@ -1,6 +1,5 @@
 # [[Namespaces and Scope]]
-# Nested Functions
-
+# [[Nested Functions]] 
 Nested functions are functions defined inside other functions.  They have access to the variables in their enclosing scope (the outer function's scope), even after the outer function has finished executing (closure). This is a powerful feature for creating specialized functions or encapsulating logic.
 
 

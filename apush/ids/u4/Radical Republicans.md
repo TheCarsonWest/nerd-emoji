@@ -1,4 +1,4 @@
-# ID: Radical Republicans 
+# ID: [[Radical Republicans]] 
 
 ## When: 1864-1877 (Reconstruction Era) 
 

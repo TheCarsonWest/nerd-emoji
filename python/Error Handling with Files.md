@@ -1,6 +1,5 @@
 # [[File IO Modes]]
-# Error Handling with Files
-
+# [[Error Handling with Files]] 
 This note covers error handling specifically when working with files in Python.  Crucially, it focuses on anticipating and gracefully managing potential issues that might arise during file operations.
 
 Key potential errors:

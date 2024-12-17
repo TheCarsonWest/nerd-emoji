@@ -1,4 +1,4 @@
-# ID: Treaty of Greenville 
+# ID: [[Treaty of Greenville]] 
 
 ## When: August 3, 1795
 

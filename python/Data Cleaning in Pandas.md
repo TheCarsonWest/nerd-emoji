@@ -1,6 +1,5 @@
 # [[Libraries like Pandas]]
-# Data Cleaning in Pandas
-
+# [[Data Cleaning in Pandas]] 
 This note covers data cleaning techniques within the Pandas library.  Focus will be on practical application and common issues.
 
 Key areas to cover:

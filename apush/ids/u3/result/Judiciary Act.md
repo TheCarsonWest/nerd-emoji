@@ -1,4 +1,4 @@
-## ID: Judiciary Act of 1789
+## ID: [[Judiciary Act]] of 1789
 
 ## When: September 24, 1789
 

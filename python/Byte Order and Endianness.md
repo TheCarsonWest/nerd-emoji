@@ -1,6 +1,5 @@
 # [[Handling Binary Files]]
-# Byte Order and Endianness
-
+# [[Byte Order and Endianness]] 
 This note covers byte order and endianness in Python.
 
 Python, being a high-level language, mostly abstracts away the details of byte order.  However, understanding endianness is crucial when working with binary data, network programming, or interacting with lower-level systems.

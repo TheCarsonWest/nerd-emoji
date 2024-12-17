@@ -51,7 +51,11 @@ The graph above shows several functions of the family $y = x^2 + C$ for differen
 ## Importance of the Constant of Integration
 
 While seemingly minor, forgetting the constant of integration can lead to significant errors in solving differential equations and other applications of calculus.  It's a crucial detail that ensures we capture the complete solution and not just a specific case.  Always remember to include the $+C$ when finding indefinite integrals.
-# [[Constant of Integration]]
+
+
+
+
+# [[Constant of Integration]]
 ## 2. Definite Integrals
 
 The definite integral, denoted by $\int_a^b f(x) \, dx$, represents the *signed* area between the curve $y = f(x)$ and the x-axis, from $x = a$ to $x = b$.  The area above the x-axis is positive, and the area below is negative.
@@ -70,8 +74,7 @@ The Fundamental Theorem of Calculus connects differentiation and integration.  I
 This theorem provides a powerful method for evaluating definite integrals.
 
 
-## 3. Techniques of Integration
-
+## 3. [[Techniques of Integration]] 
 Calculus AB primarily focuses on these basic integration techniques:
 
 * **[[Power Rule]]:** $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$  (for $n \neq -1$)

@@ -1,6 +1,5 @@
 # [[Exception Handling]]
-# Exception Handling Examples
-
+# [[Exception Handling Examples]] 
 This note covers examples of exception handling in Python.  The core concept is using `try...except` blocks to gracefully handle errors that might occur during program execution.  Refer to [[Python Exceptions]] for a comprehensive list of built-in exceptions.
 
 **Example 1: Handling `FileNotFoundError`**
@@ -78,7 +77,7 @@ except Exception as e:
 
 **Further Reading:**
 
-* [[Python Error Handling Best Practices]]
+* [[Python [[Error Handling]] Best Practices]]
 * [[Context Managers]] (for more elegant resource management)
 
 

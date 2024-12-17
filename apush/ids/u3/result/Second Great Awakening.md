@@ -1,5 +1,4 @@
-# ID: Second Great Awakening
-## When: 1790s - 1840s
+# ID: [[Second Great Awakening]] ## When: 1790s - 1840s
 ## Who: 
 - **Key Preachers:** Charles Grandison Finney, Lyman Beecher, Barton Stone, Peter Cartwright, Richard Allen
 - **Various Protestant denominations:** Baptists, Methodists, Presbyterians 

@@ -1,7 +1,6 @@
 # [[Iterables]]
-# Sequences in Python
-
-Sequences are a fundamental data structure in Python.  They are ordered collections of items, meaning that the order in which items are added matters, and each item has a specific index.  Several built-in types in Python are sequences.
+# [[Sequences]] in Python
+ [[Sequences]] are a fundamental data structure in Python.  They are ordered collections of items, meaning that the order in which items are added matters, and each item has a specific index.  Several built-in types in Python are sequences.
 
 Key characteristics:
 
@@ -25,19 +24,19 @@ my_tuple = (1, 2, 3)
 # my_tuple.append(4)  # This would raise an error because tuples are immutable
 ```
 
-* **Strings:** Sequences of characters. `"Hello, world!"`
+* **Strings:** [[Sequences]] of characters. `"Hello, world!"`
 ```python
 my_string = "Python"
 my_string[0]  # Accesses 'P'
 ```
 
-* **Ranges:**  Sequences of numbers.  `range(10)` generates numbers 0-9.
+* **Ranges:**  [[Sequences]] of numbers.  `range(10)` generates numbers 0-9.
 ```python
 for i in range(5):
     print(i) # prints 0, 1, 2, 3, 4
 ```
 
-* **bytes** and **bytearrays**:  Sequences of bytes.
+* **bytes** and **bytearrays**:  [[Sequences]] of bytes.
 
 **Sequence Operations:**
 

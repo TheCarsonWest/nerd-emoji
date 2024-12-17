@@ -1,6 +1,5 @@
 # [[List Comprehension]]
-# Iterables in Python
-
+# [[Iterables in Python]] 
 An iterable is an object capable of returning its members one at a time, permitting iteration over its contents.  They are fundamental to Python's looping constructs and support many built-in functions.
 
 Key characteristics:

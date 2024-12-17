@@ -1,7 +1,5 @@
 # [[Python 1 Home]]
-# Lists
-
-Lists are ordered, mutable (changeable) sequences of items.  They can contain items of different data types.
+# [[Lists]]  [[Lists]] are ordered, mutable (changeable) sequences of items.  They can contain items of different data types.
 
 **Creating Lists:**
 
@@ -11,8 +9,7 @@ empty_list = []
 ```
 
 **Accessing Elements:**
-
-Lists are zero-indexed.
+ [[Lists]] are zero-indexed.
 
 ```python
 first_element = my_list[0]  # 1

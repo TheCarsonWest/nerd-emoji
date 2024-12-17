@@ -1,6 +1,5 @@
 # [[Method Resolution Order (MRO)]]
-# Inheritance in Python
-
+# [[Inheritance in Python]] 
 **Definition:** Inheritance is a mechanism that allows a class (the *child class* or *subclass*) to inherit attributes and methods from another class (the *parent class* or *superclass*).  This promotes code reusability and establishes an "is-a" relationship between classes.
 
 **Syntax:**
@@ -48,7 +47,7 @@ When a child class provides a method with the same name and signature as a metho
 
 **Method Resolution Order (MRO):**
 
-In multiple inheritance, the MRO determines the order in which methods are searched for when called. Python uses the C3 linearization algorithm to determine the MRO.  ([[Method Resolution Order (MRO)]])
+In multiple inheritance, the [[MRO]] determines the order in which methods are searched for when called. Python uses the C3 linearization algorithm to determine the MRO.  ([[Method Resolution Order (MRO)]])
 
 
 

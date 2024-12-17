@@ -1,6 +1,5 @@
 # [[Importing Modules]]
-# Packages in Python
-
+# [[Packages in Python]] 
 Packages are a way of organizing related modules into a directory hierarchy.  This helps to avoid naming conflicts and makes it easier to manage large collections of code.
 
 A package is essentially a directory containing an `__init__.py` file (can be empty, but it's required to tell Python that the directory is a package) and other modules (`.py` files).

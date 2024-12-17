@@ -1,6 +1,5 @@
 # [[Libraries like NumPy]]
-# NumPy Broadcasting
-
+# [[NumPy Broadcasting]] 
 NumPy broadcasting is a powerful mechanism that allows NumPy to perform operations on arrays of different shapes, under certain conditions.  It avoids explicit looping and significantly speeds up computations.
 
 **Core Idea:** Broadcasting allows binary operations (like +, -, *, /) to be applied between arrays of different shapes, provided that certain rules are met.  The smaller array is implicitly "stretched" or "copied" to match the shape of the larger array before the operation is performed.

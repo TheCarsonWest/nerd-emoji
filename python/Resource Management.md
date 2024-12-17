@@ -1,5 +1,5 @@
 # [[Custom Context Managers]]
-# Resource Management in Python
+# [[Resource Management]] in Python
 
 This note covers resource management in Python, focusing on efficient and safe handling of system resources.
 

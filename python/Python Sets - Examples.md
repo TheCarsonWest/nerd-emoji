@@ -1,6 +1,5 @@
 # [[Python Sets]]
-# Python Sets - Examples
-
+# [[Python Sets - Examples]] 
 This note covers examples of using [[Python Sets]].  Remember to consult [[Python Sets - Basics]] for foundational information.
 
 **Creating Sets:**

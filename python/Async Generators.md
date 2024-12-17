@@ -1,6 +1,5 @@
 # [[Generators]]
-# Async Generators
-
+# [[Async Generators]] 
 Async generators are a powerful feature in Python that allows you to create asynchronous iterators.  They are similar to regular generators, but they use the `async` and `await` keywords to handle asynchronous operations. This allows you to yield values asynchronously without blocking the main thread.
 
 Key differences from regular generators:

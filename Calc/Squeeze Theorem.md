@@ -38,7 +38,7 @@ $\lim_{x \to 0} x^2 \sin(\frac{1}{x}) = 0$
 
 ### Applications
 
-The Squeeze Theorem is particularly useful when dealing with functions that are difficult to evaluate directly. It is often used to:
+The [[Squeeze Theorem]] is particularly useful when dealing with functions that are difficult to evaluate directly. It is often used to:
 
 *  Find limits involving trigonometric functions.
 *  Prove the limit of a sequence.
@@ -46,8 +46,8 @@ The Squeeze Theorem is particularly useful when dealing with functions that are 
 
 ### Key Points
 
-*  The Squeeze Theorem only works if the bounding functions have the same limit.
+*  The [[Squeeze Theorem]] only works if the bounding functions have the same limit.
 *  The inequality $g(x) \leq f(x) \leq h(x)$ must hold for all values of $x$ in the interval, except possibly at $x=a$.
-*  The Squeeze Theorem can be used to find limits of functions that are otherwise difficult to evaluate.
+*  The [[Squeeze Theorem]] can be used to find limits of functions that are otherwise difficult to evaluate.
 
 By understanding the Squeeze Theorem, you gain a valuable tool for solving a variety of calculus problems.

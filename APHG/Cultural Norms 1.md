@@ -31,8 +31,7 @@ Here's an analysis of the essay and a revised version incorporating edits to max
 
 **Revised Essay with Edits (bolded):**
 
-Title: Cultural Norms
-
+Title: [[Cultural Norms]] 
 This is an essay
 
 If Willy Wonka’s plan with his golden tickets was to pick out the most successful heir to his company following his retirement, contrary to how it played out in the movies, it could be argued that Mike Teevee would be the most effective leader of Wonka’s chocolate empire.  **This is not simply due to his technological aptitude, but because** Mike Teevee’s superior intelligence, his current lack of purpose, and his inherent curiosity coupled with risk-taking behavior **align perfectly with the demands of leading** one of the most innovative companies on the planet.

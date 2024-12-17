@@ -1,5 +1,4 @@
-## ID: Democracy in America
-## When: 1830s-1840s
+## ID: [[Democracy in America]] ## When: 1830s-1840s
 ## Who: Alexis de Tocqueville, French political scientist and historian.
 ## What: 
 A two-volume work published in 1835 and 1840 that analyzed American democracy, society, and culture. Tocqueville observed and analyzed various aspects of American life, including its political institutions, social customs, and the spirit of its people. He was particularly fascinated by the role of individualism, equality, and the prevalence of democratic values in American society.

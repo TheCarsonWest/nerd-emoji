@@ -47,8 +47,7 @@ In this mechanism:
 The rate law derived from this mechanism is complex and not simply based on the stoichiometry of the overall reaction. This highlights the importance of considering the mechanism to understand the reaction kinetics.
 
 
-##  Determining Reaction Mechanisms
-
+##  Determining [[Reaction Mechanisms]] 
 Determining the precise mechanism of a reaction is challenging.  Experimental techniques such as:
 
 * **Kinetic studies:** Measuring reaction rates under varying conditions (concentrations, temperature) to determine the rate law.

@@ -1,6 +1,5 @@
 # [[Namespaces and Scope]]
-# Modules and Packages
-
+# [[Modules and Packages]] 
 Python's modularity is a key strength.  It allows for code reusability and organization.
 
 * **Modules:**  A single Python file (`.py`) containing functions, classes, and variables.  Think of it as a toolbox with specific tools.

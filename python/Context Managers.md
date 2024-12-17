@@ -1,6 +1,5 @@
 # [[Python 1 Home]]
-# Context Managers
-
+# [[Context Managers]] 
 Context managers in Python provide a clean and efficient way to manage resources.  They ensure that resources are properly acquired and released, even in the presence of exceptions.  The most common way to use a context manager is with the `with` statement.
 
 ```python

@@ -1,6 +1,5 @@
 # [[Libraries like NumPy]]
-# ndarray Explained
-
+# [[ndarray Explained]] 
 NumPy's `ndarray` (N-dimensional array) is the fundamental data structure for numerical computation in Python.  It's a powerful tool offering significant performance advantages over standard Python [[Lists]], especially for large datasets.
 
 Key characteristics:

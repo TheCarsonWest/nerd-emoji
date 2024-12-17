@@ -25,8 +25,7 @@
 
 * **Voluntary migration is the most common type of migration**, driven by the desire for a better life.
 * **The decision to migrate usually involves push factors** (reasons for leaving) and pull factors (reasons for going).
-## Economic Push and Pull Factors
-* **Lack of jobs** and economic opportunities are the most common reasons for migration.
+## Economic [[Push and Pull Factors]] * **Lack of jobs** and economic opportunities are the most common reasons for migration.
 * Largest country-to-country migration flows (2005-2010):
     * Most flows originate and/or end in Asia.
 ### Examples
@@ -37,8 +36,7 @@
 	* Europeans actually believed this
 	* Now everyone lives in a windowless apartment in the Bronx with 15 hour shifts in a  cotton mill
 
-## Social Push and Pull Factors
-
+## Social [[Push and Pull Factors]] 
 * Discrimination and persecution based on ethnicity, race, gender, or [[religion]] can drive migration.
 ### Examples
 * Mormons
@@ -55,8 +53,7 @@
 	* The short people killed the tall people
 	* Very recent
 
-## Political Push and Pull Factors
-
+## Political [[Push and Pull Factors]] 
 * Persecution, arrest, and discrimination due to opposing government policies can lead to migration.
 ### Examples
 - Cuba
@@ -72,8 +69,7 @@
 	- Communist
 	- A lot of olympians would defect the country from the olympics
 
-## Environmental Push and Pull Factors
-
+## Environmental [[Push and Pull Factors]] 
 * Natural disasters, drought, and unfavorable conditions can force people to migrate.
 
 ### Examples:
@@ -81,8 +77,7 @@
 * Desertification: Deterioration of land to a desert-like condition due to human actions. This forces people to migrate from drylands in Africa.
 * Flooding: Events like the 2011 [[Mississippi]] River flooding and Jakarta, Indonesia flooding force people from their homes.
 
-## Demographic Push and Pull Factors
-
+## Demographic [[Push and Pull Factors]] 
 * Demographic imbalances can influence migration:
     * Gender:  Young adults may migrate due to unbalanced sex ratios, difficulty finding a spouse.
     * Overpopulation: A young population can strain resources and lead to migration.

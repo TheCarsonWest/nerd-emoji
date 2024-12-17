@@ -1,5 +1,4 @@
-# ID: Report on the Public Credit
-## When: January 1790
+# ID: [[Report on the Public Credit]] ## When: January 1790
 ## Who: 
 - **Proposed by:** [[Alexander Hamilton]], the first Secretary of the Treasury
 - **Presented to:** Congress

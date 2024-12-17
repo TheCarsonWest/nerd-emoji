@@ -1,5 +1,4 @@
-# ID: Samuel Slater
-
+# ID: [[Samuel Slater]] 
 ## When: 1789
 
 ## Who: Samuel Slater, a British textile worker

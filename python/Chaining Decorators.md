@@ -1,6 +1,5 @@
 # [[Decorators]]
-# Chaining Decorators
-
+# [[Chaining Decorators]] 
 Chaining decorators in Python means applying multiple decorators to a single function.  The order of application matters, as decorators are applied from the inside out (bottom to top).
 
 ```python

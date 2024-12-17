@@ -1,6 +1,5 @@
 # [[Mutable vs Immutable Types]]
-# Common Pitfalls with Mutability and Immutability
-
+# [[Common Pitfalls with Mutability and Immutability]] 
 Mutable vs. Immutable types:  A core concept in Python. Understanding this is crucial to avoid unexpected behavior.
 
 * **Immutable:**  These objects cannot be changed after creation.  Changes create a *new* object. Examples include:
@@ -56,7 +55,7 @@ Mutable vs. Immutable types:  A core concept in Python. Understanding this is cr
 
 4. **Tuple containing mutable objects:**
 
-    Tuples themselves are immutable, but they can contain mutable objects.  Modifying the contained mutable object still changes the tuple's content (because the tuple only holds a reference to the object).
+    [[Tuples]] themselves are immutable, but they can contain mutable objects.  Modifying the contained mutable object still changes the tuple's content (because the tuple only holds a reference to the object).
 
     ```python
     my_tuple = ([1, 2], 3)

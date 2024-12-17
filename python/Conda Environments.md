@@ -1,6 +1,5 @@
 # [[Virtual Environments]]
-# Conda Environments
-
+# [[Conda Environments]] 
 Conda environments are isolated spaces that allow you to manage different project dependencies without conflicts.  This is crucial when working on multiple projects that require different versions of Python or packages.
 
 Key features:

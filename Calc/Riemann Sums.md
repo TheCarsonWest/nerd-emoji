@@ -1,8 +1,7 @@
 # [[Calc home]]
 Riemann sums are used to approximate the definite integral of a function, which represents the area under the curve.  They provide a foundational understanding of integration before moving on to more sophisticated techniques.
 
-## Types of Riemann Sums
-
+## Types of [[Riemann Sums]] 
 There are three main types of Riemann sums, each differing in how the rectangle heights are determined:
 
 1. Left Riemann Sum: The height of each rectangle is determined by the function's value at the *left endpoint* of the subinterval.
@@ -12,8 +11,7 @@ There are three main types of Riemann sums, each differing in how the rectangle 
 3. Midpoint Riemann Sum: The height of each rectangle is determined by the function's value at the *midpoint* of the subinterval.
 
 
-##  Calculating Riemann Sums
-
+##  Calculating [[Riemann Sums]] 
 Let's consider a function $f(x)$ on the interval $[a, b]$. We divide this interval into $n$ subintervals of equal width, $\Delta x = \frac{b-a}{n}$.  The $i$-th subinterval is $[x_{i-1}, x_i]$, where $x_i = a + i\Delta x$.
 
 The general formula for a Riemann sum is:

@@ -1,5 +1,4 @@
-# ID: Compromise of 1850
-
+# ID: [[Compromise of 1850]] 
 ## When: September 9, 1850
 
 ## Who: 
@@ -19,11 +18,11 @@ A series of five bills passed by Congress to ease tensions between the North and
 * **[[Popular Sovereignty]] in the territories:** This allowed residents of territories to decide for themselves whether or not to allow slavery.
 
 ## Impact: Why Significant?:
-The Compromise of 1850 temporarily quelled the growing sectional tensions that threatened to tear the country apart. However, it also sowed the seeds for future conflict:
+The [[Compromise of 1850]] temporarily quelled the growing sectional tensions that threatened to tear the country apart. However, it also sowed the seeds for future conflict:
 
 * **Increased tensions between North and South:** The [[Fugitive Slave Act]], in particular, sparked outrage in the North and contributed to the rise of the abolitionist movement.
 * **Failure to address the core issue of slavery:** The compromise merely postponed the inevitable confrontation over slavery.
 * **Rise of sectional parties:** The compromise led to the formation of the Free Soil Party in the North and the Know-Nothing Party, which opposed the influx of immigrants from Catholic countries.
-* **Contributed to the outbreak of the Civil War:** The Compromise of 1850 ultimately failed to prevent the Civil War, as the issue of slavery remained unresolved. 
+* **Contributed to the outbreak of the Civil War:** The [[Compromise of 1850]] ultimately failed to prevent the Civil War, as the issue of slavery remained unresolved. 
 
 # [[IDS Unit 4]]

@@ -1,6 +1,5 @@
 # [[Nested If Statements]]
-# Code Readability and Refactoring
-
+# [[Code Readability and Refactoring]] 
 **Goal:**  Improve understanding and maintainability of Python code.
 
 **Key Aspects:**

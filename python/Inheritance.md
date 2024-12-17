@@ -1,7 +1,5 @@
 # [[Python 1 Home]]
-# Inheritance
-
-Inheritance is a powerful mechanism in object-oriented programming (OOP) that allows you to create new classes (child classes or subclasses) based on existing classes (parent classes or superclasses).  The child class inherits the attributes (variables) and methods (functions) of the parent class, and can also add its own unique attributes and methods, or override existing ones.
+# [[Inheritance]]  [[Inheritance]] is a powerful mechanism in object-oriented programming (OOP) that allows you to create new classes (child classes or subclasses) based on existing classes (parent classes or superclasses).  The child class inherits the attributes (variables) and methods (functions) of the parent class, and can also add its own unique attributes and methods, or override existing ones.
 
 **Benefits of Inheritance:**
 

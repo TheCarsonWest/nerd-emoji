@@ -1,4 +1,4 @@
-# ID: Treaty of Ghent 
+# ID: [[Treaty of Ghent]] 
 
 ## WHEN: December 24, 1814
 
@@ -7,7 +7,7 @@
 * **[[Great Britain]]** 
 
 ## WHAT:
-The Treaty of Ghent was signed in Ghent, Belgium, ending the [[War of 1812]]. 
+The [[Treaty of Ghent]] was signed in Ghent, Belgium, ending the [[War of 1812]]. 
 
 ## IMPACT? Why Significant?: 
 * **Return to Status Quo Ante Bellum:**  The treaty essentially restored pre-war boundaries and did not address the original causes of the conflict, such as impressment or neutral trading rights.

@@ -1,6 +1,5 @@
 # [[Default Parameters]]
-# Mutable Objects in Python
-
+# [[Mutable Objects in Python]] 
 Mutable objects in Python are objects whose internal state can be changed after they are created.  This means you can modify their contents without creating a new object.  In contrast, immutable objects cannot be changed after creation; any operation that appears to modify them actually creates a new object.
 
 Key characteristics of mutable objects:

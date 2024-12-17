@@ -1,6 +1,5 @@
 # [[Libraries like NumPy]]
-# NumPy Fourier Transforms
-
+# [[NumPy Fourier Transforms]] 
 These notes cover the use of NumPy's functions for performing Fourier Transforms.  NumPy provides efficient implementations for these crucial signal processing operations.
 
 Key functions:

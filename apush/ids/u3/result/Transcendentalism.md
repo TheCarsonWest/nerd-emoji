@@ -1,5 +1,4 @@
-# ID: Transcendentalism
-## When: 1830s-1850s (peaked in the 1840s)
+# ID: [[Transcendentalism]] ## When: 1830s-1850s (peaked in the 1840s)
 ## Who: 
 * **Key Figures:** Ralph Waldo Emerson, [[Henry David Thoreau]], Margaret Fuller, Amos Bronson Alcott
 * **Influenced by:**  Romanticism, German Idealism, and Eastern Religions
@@ -12,7 +11,7 @@ A philosophical and literary movement that emphasized:
 ## Impact: Why Significant?:
 * **Shaped American Literature and Culture:** Transcendentalist writers produced influential works that explored themes of individualism, nature, and spirituality, including "Nature" (Emerson), "Walden" ([[Henry David Thoreau]]), and "Woman in the Nineteenth Century" (Fuller).
 * **Inspired Social Reform Movements:** Transcendentalists were deeply concerned with social justice and reform, advocating for abolitionism, women's rights, and education reform. 
-* **Influenced Later Thinkers:** Transcendentalism laid the groundwork for later philosophical and literary movements, including  American Romanticism and the counterculture movement of the 1960s. 
+* **Influenced Later Thinkers:** [[Transcendentalism]] laid the groundwork for later philosophical and literary movements, including  American Romanticism and the counterculture movement of the 1960s. 
 * **Enduring Legacy:** The core tenets of Transcendentalism, such as self-reliance, individual responsibility, and the importance of nature, continue to resonate with American culture today. 
 
 # [[IDS Unit 3]]

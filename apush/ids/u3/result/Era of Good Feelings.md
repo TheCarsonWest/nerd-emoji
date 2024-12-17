@@ -1,5 +1,4 @@
-# ID: Era of Good Feelings
-## When: 1817-1825 (approximately)
+# ID: [[Era of Good Feelings]] ## When: 1817-1825 (approximately)
 ## Who: 
 * **President [[James Monroe]]** (his presidency is strongly associated with the era)
 * **Democratic-Republicans:** The dominant political party at the time.

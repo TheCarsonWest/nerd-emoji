@@ -1,6 +1,5 @@
 # [[ndarray Explained]]
-# Array Creation Methods
-
+# [[Array Creation Methods]] 
 Different ways to create arrays in Python, focusing primarily on NumPy arrays which are the most common type of array used for numerical computation.  Standard Python lists are less efficient for numerical operations.
 
 [[NumPy Arrays]] -  A separate note dedicated to explaining NumPy arrays in detail.  This will cover data types, dimensions, and other core concepts.

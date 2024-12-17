@@ -1,6 +1,5 @@
 # [[Libraries like Pandas]]
-# Pandas Data Manipulation
-
+# [[Pandas Data Manipulation]] 
 This note covers data manipulation using the Pandas library in Python.
 
 Key functionalities:

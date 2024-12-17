@@ -1,4 +1,4 @@
-## ID: Popular Sovereignty (Antebellum)
+## ID: [[Popular Sovereignty]] (Antebellum)
 
 ## When: 1840s-1860s
 
