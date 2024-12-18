@@ -6,8 +6,7 @@
 * **1818:** [[Illinois]] admitted to the Union as the 21st state
 * **1833:** Black Hawk War fought between settlers and Native Americans
 * **1854:** [[Kansas]]-[[Nebraska]] Act, passed in part by [[Illinois]] Senator Stephen Douglas, which allowed slavery in the territories
-* **1861:** [[Illinois]] sends a record number of troops to fight in the Civil War
-* **1868:** University of [[Illinois]] at Urbana-Champaign founded
+* **1861:** [[Illinois]] sends a record number of troops to fight in the [[Civil War]] * **1868:** University of [[Illinois]] at Urbana-Champaign founded
 * **1886:** Haymarket Massacre, a labor protest that turned violent, results in the deaths of several workers and police officers
 * **1893:** Columbian Exposition (World's Fair) held in Chicago
 * **1911:** University of Chicago Law School founded
@@ -37,7 +36,7 @@
 
 **Impact on the Rest of the Country:**
 
-* [[Illinois]] was a key battleground in the Civil War and contributed significantly to the Union cause.
+* [[Illinois]] was a key battleground in the [[Civil War]] and contributed significantly to the Union cause.
 * [[Illinois]] played a major role in the development of the American labor movement and the fight for civil rights.
 * Chicago became a major economic and cultural center in the late 19th and early 20th centuries.
 * [[Illinois]] remains a pivotal state in American politics and is often a bellwether for national elections.

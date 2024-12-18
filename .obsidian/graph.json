@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"Home pages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
       "query": "path:APCHEM  ",
       "color": {
         "a": 1,
@@ -60,6 +67,6 @@
   "repelStrength": 14.7884114583333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7112803174885566,
+  "scale": 0.15053597091881546,
   "close": true
 }

@@ -13,7 +13,7 @@ A highly contested presidential election that marked a turning point in the grow
 ## Impact: Why Significant?:
 * **Secession of Southern States:** The election of a Republican president who opposed the expansion of slavery led to the secession of [[South Carolina]], followed by other Southern states, forming the Confederate States of America.
 * **Civil War:**  The secession and formation of the Confederacy ignited the American Civil War, a devastating conflict over slavery and the future of the nation.
-* **End of Slavery:** The Civil War ultimately led to the abolition of slavery in the [[United States]], transforming the social, economic, and political landscape.
+* **End of Slavery:** The [[Civil War]] ultimately led to the abolition of slavery in the [[United States]], transforming the social, economic, and political landscape.
 * **Transformation of the US:** The election and its aftermath marked a dramatic shift in American politics and society, highlighting the deep divisions over slavery and the struggle for national unity. 
 
 # [[IDS Unit 4]]

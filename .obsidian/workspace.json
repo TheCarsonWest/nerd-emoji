@@ -111,29 +111,29 @@
             "id": "55467252cab516f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APCHEM/Rate Laws.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rate Laws"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "ebf50fae11087adc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "apush/places/France.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "France"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,6 @@
       {
         "id": "03752f9e506457c7",
         "type": "tabs",
-        "dimension": 54.74452554744526,
         "children": [
           {
             "id": "824f0a381a11ee9f",
@@ -232,22 +231,31 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8955fd89f6e74f34",
-        "type": "tabs",
-        "dimension": 45.25547445255474,
-        "children": [
+          },
+          {
+            "id": "4e913aff4047e6fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
           {
             "id": "c65d1e92f92b49de",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,25 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
-            }
-          },
-          {
-            "id": "4e913aff4047e6fc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Graph view"
             }
           },
           {
@@ -303,7 +293,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apush/ids/IDS Unit 4.md",
+                "file": "Home pages/IDS Unit 4.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -335,11 +325,26 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ebf50fae11087adc",
+  "active": "d02d193fd4dbb53f",
   "lastOpenFiles": [
+    "Home pages/APUSH Home.md",
+    "apush/places/United States.md",
+    "Home pages/Calc home.md",
+    "Home pages/Python 1 Home.md",
+    "apush/Civil War.md",
+    "apush/ids/u3/result/Constitutional Convention.md",
+    "apush/ids/u4/Carpetbagger.md",
+    "APHG/Toponyms.md",
+    "Home pages/APCHEM Home.md",
+    "Home pages/APHG Home.md",
+    "Home pages/APUSH Groups.md",
+    "Home pages/IDS Unit 4.md",
+    "Home pages",
+    "Calc/Antiderivatives.md",
+    "APCHEM/Rate Laws.md",
+    "apush/places/France.md",
     "nexus.md",
     "APHG/Unit 3.md",
-    "APHG/APHG Home.md",
     "APHG/Glossary.md",
     "APHG/Language.md",
     "APHG/Languages.md",
@@ -349,20 +354,6 @@
     "apush/ids/u2/filemaker.md",
     "scripts/result/Valley Forge.md",
     "scripts/result/Salutary Neglect.md",
-    "scripts/result/Albany Plan of Union.md",
-    "scripts/result/Battle of Bunker Hill.md",
-    "scripts/result/Sons of Liberty.md",
-    "scripts/result/Townshend Act.md",
-    "scripts/result/Lees Resolution.md",
-    "scripts/result/Enlightenment.md",
-    "scripts/result/Intolerable Acts.md",
-    "scripts/result/Tea Act.md",
-    "scripts/result/Boston Tea Party.md",
-    "scripts/result/First Continental Congress.md",
-    "scripts/result/Committees of Correspondence.md",
-    "scripts/result/Sugar Act.md",
-    "scripts/result/Battle of Saratoga.md",
-    "scripts/result/filemaker.md",
     "python/recursion.py",
     "python/api.txt",
     "python",
@@ -374,7 +365,6 @@
     "scripts/result",
     "not done",
     "brainrot",
-    "python1",
     "Pasted image 20241017082733.png",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_23.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_22.jpg",

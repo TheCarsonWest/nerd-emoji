@@ -3,8 +3,7 @@
 **Timeline**
 
 * **1848:** [[Wisconsin]] becomes the 30th state
-* **1861-1865:** [[Wisconsin]] contributes over 91,000 troops to the Union Army during the Civil War
-* **1870s:** [[Wisconsin]] becomes a major center for farming, lumber, and mining
+* **1861-1865:** [[Wisconsin]] contributes over 91,000 troops to the Union Army during the [[Civil War]] * **1870s:** [[Wisconsin]] becomes a major center for farming, lumber, and mining
 * **1903:** Robert M. La Follette Sr. is elected governor, beginning a progressive era in [[Wisconsin]]
 * **1911:** [[Wisconsin]] passes the "La Follette Code," a series of progressive reforms
 * **1924:** [[Wisconsin]] enacts the first unemployment insurance law in the [[United States]]
@@ -34,6 +33,5 @@
 **Impact on the Rest of the Country**
 
 * [[Wisconsin]]'s progressive reforms in the early 20th century served as a model for other states
-* [[Wisconsin]] was a major contributor to the Union victory in the Civil War
-* [[Wisconsin]]'s agricultural and manufacturing industries have played a significant role in the nation's economy
+* [[Wisconsin]] was a major contributor to the Union victory in the [[Civil War]] * [[Wisconsin]]'s agricultural and manufacturing industries have played a significant role in the nation's economy
 * [[Wisconsin]]'s court cases have had a major impact on the development of constitutional law in the [[United States]]

@@ -3,8 +3,7 @@
 **Life and Career:**
 
 * Born in Niles, [[Ohio]], January 29, 1843
-* Served in the Union Army during the Civil War
-* Republican congressman from [[Ohio]] (1876-1891)
+* Served in the Union Army during the [[Civil War]] * Republican congressman from [[Ohio]] (1876-1891)
 * Governor of [[Ohio]] (1892-1896)
 * Elected [[POTUS]] in 1896
 

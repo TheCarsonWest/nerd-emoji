@@ -1,5 +1,5 @@
 ## ID: [[Tenant Farming]] 
-## When:  Late 19th Century, especially after the Civil War (1865)
+## When:  Late 19th Century, especially after the [[Civil War]] (1865)
 
 ## Who:  
 * **Former enslaved people:** Seeking economic independence and land ownership, often faced limited opportunities and were forced to become tenants.

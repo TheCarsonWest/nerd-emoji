@@ -3,8 +3,7 @@
 **Background:**
 - Born: October 4, 1822, [[Delaware]], [[Ohio]]
 - Lawyer and politician
-- Union general during the Civil War
-
+- Union general during the [[Civil War]] 
 **Election of 1876:**
 - Elected in a contentious election against Samuel J. Tilden
 - Resulted in the [[Compromise of 1877]], ending Reconstruction in the South

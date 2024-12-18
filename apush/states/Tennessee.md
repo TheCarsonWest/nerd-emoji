@@ -15,7 +15,7 @@
 **Important Legislation:**
 
 * 1847: Women's Rights Act: Granted women the right to own and control property.
-* 1865: Reconstruction Era legislation: Enacted during the Civil War and Reconstruction period to address the status of former slaves and rebuild the South.
+* 1865: Reconstruction Era legislation: Enacted during the [[Civil War]] and Reconstruction period to address the status of former slaves and rebuild the South.
 
 **Important Court Cases:**
 

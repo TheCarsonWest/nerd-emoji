@@ -5,8 +5,7 @@
 * Born in Raleigh, [[North Carolina]] to a poor family
 * Self-educated; became a successful tailor and politician
 * Served in the [[Tennessee]] legislature and U.S. House of Representatives
-* Governor of [[Tennessee]] during the Civil War
-
+* Governor of [[Tennessee]] during the [[Civil War]] 
 **Civil War and Reconstruction:**
 
 * Military governor of [[Tennessee]] after its capture by Union forces

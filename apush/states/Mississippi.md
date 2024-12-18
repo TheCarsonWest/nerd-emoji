@@ -32,6 +32,6 @@
 
 **Impact on the Rest of the Country:**
 
-* [[Mississippi]]'s secession and role in the Civil War had a profound impact on the nation's history.
+* [[Mississippi]]'s secession and role in the [[Civil War]] had a profound impact on the nation's history.
 * The state's resistance to desegregation and civil rights contributed to the national debate over race relations.
 * [[Mississippi]]'s agricultural industry has played a significant role in the U.S. food supply.

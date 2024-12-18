@@ -41,6 +41,6 @@
 
 * Regarded as one of the greatest military commanders in American history.
 * His presidency is often seen as having both successes and failures.
-* Credited with winning the Civil War and preserving the Union.
+* Credited with winning the [[Civil War]] and preserving the Union.
 * Criticized for his harsh Reconstruction policies.
 # [[APUSH people]]

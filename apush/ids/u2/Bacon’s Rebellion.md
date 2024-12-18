@@ -21,4 +21,4 @@ An armed rebellion in the [[Virginia]] Colony led by Nathaniel Bacon against Gov
 * **Development of a more structured colonial government:** In response to the rebellion, the [[Virginia]] government became more centralized and efficient to prevent future uprisings.
 * **Long-term impact on labor systems in the colonies:** The rebellion demonstrated the inherent instability of the system of indentured servitude and paved the way for the rise of chattel slavery.
 
-# [[IDS Unit 2]]
+# [[IDs unit 2]]

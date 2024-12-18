@@ -13,7 +13,7 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 * **Expansionism:**  Driven by **Manifest Destiny**, [[Democrats]] supported westward expansion, leading to the acquisition of vast territories and the Mexican-American War.
 * **Slavery:** The issue of slavery increasingly divided the party, with Southern [[Democrats]] defending it and Northern [[Democrats]] advocating for gradual abolition or restriction.
 
-## **The Civil War and Reconstruction (1860-1877):**
+## **The [[Civil War]] and Reconstruction (1860-1877):**
 
 * **Division:** The split over slavery led to the formation of the **Republican Party** in 1854, and the Democratic Party fractured into Northern and Southern factions.
 * **Confederacy:**  Southern [[Democrats]] supported secession and formed the Confederate States of America.

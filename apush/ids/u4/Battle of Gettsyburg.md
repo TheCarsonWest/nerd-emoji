@@ -7,7 +7,7 @@
 * **Confederate:** General Robert E. Lee and the Army of Northern [[Virginia]]
 
 ## What: 
-A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]]. It involved three days of intense fighting between Union and Confederate forces. The battle culminated in a decisive Union victory, marking a turning point in the war.
+A pivotal battle of the American [[Civil War]] fought in Gettysburg, [[Pennsylvania]]. It involved three days of intense fighting between Union and Confederate forces. The battle culminated in a decisive Union victory, marking a turning point in the war.
 
 ## Impact: Why Significant?: 
 * **Turning Point:**  The Battle of Gettysburg marked the beginning of the end for the Confederacy. It crippled Lee's army and forced him to retreat back to [[Virginia]].

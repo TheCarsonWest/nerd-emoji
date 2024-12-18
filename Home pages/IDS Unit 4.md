@@ -7,8 +7,7 @@
 4. [[Lowell Textile Mill]]
 5. [[Cotton Gin]]
  
-## Causes of the Civil War
-6. [[Free-soilers]]
+## Causes of the [[Civil War]] 6. [[Free-soilers]]
 7.  [[sectionalism]] 
 8. [[Wilmot Proviso]]
 9. [[Compromise of 1850]]
@@ -24,8 +23,7 @@
 19. [[Harpers Ferry Raid]]
 20. [[Election of 1860]]
 
-## Civil War
-21. [[Fort Sumter]]
+## [[Civil War]] 21. [[Fort Sumter]]
 22. [[Anaconda Plan]]
 23. [[Battle of Bull Run]]
 24. [[Habaes Corpus civil war]]

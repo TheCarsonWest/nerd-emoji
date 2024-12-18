@@ -18,7 +18,7 @@ Key Issues and Compromises:
 ## IMPACT: Why Significant?: 
 * **Created the [[United States]] Constitution**, replacing the weak [[Articles of Confederation]].
 * **Established a framework for a more powerful and effective national government** while addressing concerns about potential tyranny. 
-* **Left some issues unresolved**, such as slavery, which would continue to cause tension and ultimately lead to the Civil War. 
+* **Left some issues unresolved**, such as slavery, which would continue to cause tension and ultimately lead to the [[Civil War]]. 
 * **Debates over ratification** led to the development of the **Federalist** and **Anti-Federalist** factions, shaping early American political thought. 
 
 # [[IDS Unit 3]]

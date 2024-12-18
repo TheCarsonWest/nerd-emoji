@@ -12,8 +12,7 @@
 * **1788:** [[Massachusetts]] ratifies the U.S. Constitution
 * **1820:** [[Missouri]] Compromise ( [[Massachusetts]] opposed slavery)
 * **1857:** Dred Scott v. Sandford ( [[Massachusetts]] opposed the decision)
-* **1861:** [[Massachusetts]] sends volunteer regiments to fight in the Civil War
-* **1919:** Boston Police Strike
+* **1861:** [[Massachusetts]] sends volunteer regiments to fight in the [[Civil War]] * **1919:** Boston Police Strike
 * **1954:** Brown v. Board of Education ( [[Massachusetts]] had already desegregated its schools)
 * **1961:** Kennedy administration
 * **1974:** Busing crisis in Boston

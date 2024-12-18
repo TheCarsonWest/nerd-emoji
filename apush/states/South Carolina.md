@@ -9,8 +9,7 @@
 * **1783:** End of the Revolutionary War; [[South Carolina]] becomes part of the [[United States]]
 * **1832:** Nullifies the Tariff of 1833
 * **1860:** Secedes from the Union
-* **1861:** Attacks [[Fort Sumter]], sparking the Civil War
-* **1865:** End of the Civil War; [[South Carolina]] rejoins the Union
+* **1861:** Attacks [[Fort Sumter]], sparking the [[Civil War]] * **1865:** End of the Civil War; [[South Carolina]] rejoins the Union
 * **1877:** End of Reconstruction
 * **1954:** Brown v. Board of Education desegregates schools
 * **1960s-1970s:** Civil Rights Movement
@@ -38,8 +37,7 @@
 [[South Carolina]] played a pivotal role in several key events in American history, including:
 
 * The Revolutionary War
-* The Civil War
-* The Civil Rights Movement
+* The [[Civil War]] * The Civil Rights Movement
 
 [[South Carolina]]'s secession and the battle at [[Fort Sumter]] triggered the start of the Civil War, which fundamentally altered the course of American history.
 

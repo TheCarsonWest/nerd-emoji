@@ -36,6 +36,6 @@
 
 **Impact on the Rest of the Country:**
 
-* [[North Carolina]] has played a significant role in shaping the nation's history, from the Revolutionary War to the Civil War to the Civil Rights Movement.
+* [[North Carolina]] has played a significant role in shaping the nation's history, from the Revolutionary War to the [[Civil War]] to the Civil Rights Movement.
 * The state's conservative politics have had a national impact, particularly on social issues such as abortion and same-sex marriage.
 * [[North Carolina]]'s economic growth has contributed to the prosperity of the [[United States]] as a whole.

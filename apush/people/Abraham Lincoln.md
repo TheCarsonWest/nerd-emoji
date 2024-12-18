@@ -9,8 +9,8 @@
 
 **Presidency (1861-1865):**
 
-* **American Civil War (1861-1865):**
- * Led the Union during the Civil War
+* **American [[Civil War]] (1861-1865):**
+ * Led the Union during the [[Civil War]]
  * Preserved the [[United States]] as a single nation
  * Issued the [[Emancipation Proclamation]] in 1863, freeing slaves in Confederate-held territory
 
@@ -26,10 +26,10 @@
 
 **Impact on the Country:**
 
-* **Preservation of the Union:** Lincoln's leadership during the Civil War ensured the continued existence of the [[United States]] as a single, unified nation.
+* **Preservation of the Union:** Lincoln's leadership during the [[Civil War]] ensured the continued existence of the [[United States]] as a single, unified nation.
 * **Emancipation of Slaves:** The [[Emancipation Proclamation]] marked a significant step towards ending slavery in the [[United States]].
 * **Economic Development:** Lincoln's policies, such as the Homestead Act and the Pacific Railroad Act, promoted economic growth and settlement in the West.
-* **Increased Federal Power:** The Civil War strengthened the power of the federal government, particularly in areas related to military and economic affairs.
+* **Increased Federal Power:** The [[Civil War]] strengthened the power of the federal government, particularly in areas related to military and economic affairs.
 * **Symbolic Legacy:** Lincoln's image has become synonymous with democracy, unity, and the pursuit of equality.
 
 **Assassination and Legacy:**
