@@ -24,9 +24,9 @@ def replace_string_in_folder(folder_path, search_string, replace_string):
                 replace_string_in_file(file_path, search_string, replace_string)
 
 if __name__ == '__main__':
-    folder_paths = ['./../../apchem/']
-    search_string = ">$"
-    replace_string = '$'
+    folder_paths = ['./../../apush/ids/u2']
+    search_string = "IDS Unit 4"
+    replace_string = 'IDS Unit 2'
 
     for folder_path in folder_paths:
         replace_string_in_folder(folder_path, search_string, replace_string)

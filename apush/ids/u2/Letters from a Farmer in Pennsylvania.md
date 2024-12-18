@@ -1,5 +1,4 @@
-## ID: Letters from a Farmer in Pennsylvania
-
+## ID: [[Letters from a Farmer in Pennsylvania]] 
 ## When: 1767-1768
 
 ## Who: 
@@ -13,7 +12,7 @@ A series of twelve essays published anonymously in the *Pennsylvania Chronicle* 
 * **Influence on Colonial Opinion:**  Their reasoned arguments and clear articulation of colonial rights shaped public opinion and fueled growing resistance to British authority.
 * **Non-Violent Resistance:**  The Letters advocated for non-violent methods of resistance, focusing on economic boycotts and appeals to reason rather than outright rebellion, though it laid the groundwork for future more forceful actions.
 * **Early Example of Colonial Propaganda:** The Letters represent a sophisticated piece of colonial propaganda, successfully shaping the narrative against the British government.
-* **Precursor to Revolution:** While advocating for peaceful means, the essays contributed significantly to the growing tensions between Great Britain and its American colonies, paving the way for the American Revolution.
+* **Precursor to Revolution:** While advocating for peaceful means, the essays contributed significantly to the growing tensions between [[Great Britain]] and its American colonies, paving the way for the American Revolution.
 
 
 # [[IDS Unit 4]]

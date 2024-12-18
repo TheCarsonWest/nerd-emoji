@@ -1,5 +1,4 @@
-## ID: The Great Awakening
-
+## ID: The [[Great Awakening]] 
 ## When: 1730s-1740s
 
 ## Who:

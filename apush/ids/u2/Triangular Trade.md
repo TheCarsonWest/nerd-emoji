@@ -1,5 +1,4 @@
-## ID: Triangular Trade
-
+## ID: [[Triangular Trade]] 
 ## When: Roughly 16th-19th centuries (peak activity 17th-18th centuries)
 
 ## Who:
@@ -15,7 +14,7 @@ A complex system of trade routes connecting Europe, Africa, and the Americas.  E
 * **Forced Migration:** Led to the forced migration of millions of Africans across the Atlantic, resulting in the brutal institution of chattel slavery in the Americas.
 * **Cultural Exchange:** While largely negative, some limited cultural exchange occurred between different groups of people.
 * **Social Structures:** Shaped the social and racial hierarchies of the Americas, establishing systems of white supremacy and racial inequality that persisted for centuries.
-* **Political Power:** The wealth generated from the Triangular Trade significantly influenced European politics and international relations.
+* **Political Power:** The wealth generated from the [[Triangular Trade]] significantly influenced European politics and international relations.
 * **Demographic Impact:**  The enormous loss of life among enslaved Africans profoundly affected demographics in both Africa and the Americas.
 * **Moral and Ethical Concerns:** The inhumanity of the slave trade sparked growing abolitionist movements in Europe and the Americas in the 18th and 19th centuries.
 

@@ -1,5 +1,4 @@
-## ID: Battle of Yorktown
-
+## ID: [[Battle of Yorktown]] 
 ## When: September 28 - October 19, 1781
 
 ## Who:

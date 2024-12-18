@@ -6,7 +6,7 @@
 * **Confederate:** General Robert E. Lee and the Confederate Army of Northern Virginia.  
 
 ## What: 
-Lee's Resolution refers to a series of decisions made by General Robert E. Lee in late 1864 and early 1865 following devastating Confederate losses.  Faced with Sherman's successful march through Georgia and the Union's victory at the Battle of Nashville, Lee recognized the increasingly dire situation of the Confederacy.  His "resolution" involved a shift in strategy, focusing on defensive maneuvers and attempting to prolong the war as long as possible to potentially secure favorable peace terms. This included concentrating his forces for defense and prioritizing the preservation of his army rather than large-scale offensives.
+Lee's Resolution refers to a series of decisions made by General Robert E. Lee in late 1864 and early 1865 following devastating Confederate losses.  Faced with Sherman's successful march through [[Georgia]] and the Union's victory at the Battle of Nashville, Lee recognized the increasingly dire situation of the Confederacy.  His "resolution" involved a shift in strategy, focusing on defensive maneuvers and attempting to prolong the war as long as possible to potentially secure favorable peace terms. This included concentrating his forces for defense and prioritizing the preservation of his army rather than large-scale offensives.
 
 ## Impact: Why Significant?:
 * **Shift in Confederate Strategy:**  Marked a transition from offensive to defensive warfare for the Confederacy, acknowledging the near impossibility of achieving military victory.

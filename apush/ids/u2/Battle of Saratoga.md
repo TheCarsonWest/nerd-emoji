@@ -1,5 +1,4 @@
-## ID: Battle of Saratoga
-
+## ID: [[Battle of Saratoga]] 
 ## When: September 19 & October 7, 1777 (two battles)
 
 ## Who:
@@ -12,7 +11,7 @@ Two decisive battles of the American Revolutionary War fought near Saratoga, New
 ## Impact: Why Significant?:
 
 * **Turning Point:** The American victory at Saratoga is considered a turning point in the Revolutionary War.
-* **French Alliance:**  The victory convinced France to formally recognize American independence and provide crucial military and financial support. This dramatically shifted the balance of power in the war.
+* **French Alliance:**  The victory convinced [[France]] to formally recognize American independence and provide crucial military and financial support. This dramatically shifted the balance of power in the war.
 * **British Strategy:** Burgoyne's surrender shattered the British plan to isolate New England and divide the colonies.  It demonstrated the significant strength of the Continental Army.
 * **Boost to American Morale:** The victory dramatically boosted American morale and strengthened the resolve to continue fighting for independence.  It proved that the Americans could defeat the powerful British army.
 * **International Recognition:** The Saratoga campaign is crucial in understanding the shift from a colonial rebellion to an internationally recognized war of independence.

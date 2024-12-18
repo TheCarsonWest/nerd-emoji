@@ -1,5 +1,4 @@
-## ID: Mayflower Compact
-
+## ID: [[Mayflower Compact]] 
 ## When: November 11, 1620
 
 ## Who: 

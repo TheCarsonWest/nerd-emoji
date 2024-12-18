@@ -1,5 +1,4 @@
-## ID: Tea Act
-
+## ID: [[Tea Act]] 
 ## When: May 10, 1773
 
 ## Who:
@@ -13,9 +12,9 @@ An act passed by the British Parliament that granted the British East India Comp
 ## Impact: Why Significant?:
 
 * **Increased Colonial Anger:** While seemingly beneficial to colonists (cheaper tea), the act was viewed as another example of British taxation without representation and an attempt to undermine colonial merchants. This fueled existing resentment toward British policies.
-* **Boston Tea Party:** The act directly led to the Boston Tea Party (December 16, 1773), a pivotal event in the escalating conflict between Great Britain and the American colonies. The colonists' defiance of the act demonstrated their growing resistance to British rule.
-* **Intolerable Acts:**  The British response to the Boston Tea Party – the Intolerable Acts – further inflamed tensions and pushed the colonies closer to revolution.
-* **Symbol of Oppression:** The Tea Act became a powerful symbol of British tyranny and the colonists' fight for liberty. It highlighted the fundamental issue of colonial autonomy versus British control.
+* **Boston Tea Party:** The act directly led to the [[Boston Tea Party]] (December 16, 1773), a pivotal event in the escalating conflict between [[Great Britain]] and the American colonies. The colonists' defiance of the act demonstrated their growing resistance to British rule.
+* **Intolerable Acts:**  The British response to the [[Boston Tea Party]] – the [[Intolerable Acts]] – further inflamed tensions and pushed the colonies closer to revolution.
+* **Symbol of Oppression:** The [[Tea Act]] became a powerful symbol of British tyranny and the colonists' fight for liberty. It highlighted the fundamental issue of colonial autonomy versus British control.
 
 
 # [[IDS Unit 4]]

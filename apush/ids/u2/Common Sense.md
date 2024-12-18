@@ -1,5 +1,4 @@
-## ID: Common Sense
-
+## ID: [[Common Sense]] 
 ## When: January 1776
 
 ## Who:

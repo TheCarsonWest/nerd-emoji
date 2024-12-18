@@ -3,3 +3,8 @@
 
 # [[Diffusion of Culture]]
 # [[Cultural Diversion]]
+
+
+# [[Language]]
+- [[Languages]]
+- [[Lingua Franca]]

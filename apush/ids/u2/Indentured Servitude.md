@@ -1,4 +1,4 @@
-## ID: Indentured Servitude in Colonial America
+## ID: [[Indentured Servitude]] in Colonial America
 
 ## When:  1607-1776 (primarily 17th and early 18th centuries)
 

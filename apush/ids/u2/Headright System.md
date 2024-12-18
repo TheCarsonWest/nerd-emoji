@@ -1,6 +1,5 @@
-## ID: Headright System
-
-## When: Primarily 1618-1700s (implementation varied by colony)  Specific examples:  Virginia established it in 1618.
+## ID: [[Headright System]] 
+## When: Primarily 1618-1700s (implementation varied by colony)  Specific examples:  [[Virginia]] established it in 1618.
 
 
 ## Who:
