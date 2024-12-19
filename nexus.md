@@ -12,8 +12,6 @@ node_size: "100"
 
 # [[Python 1 Home]]
 
-# [[Arabic Home]]
-
 # [[Calc home]]
 
 

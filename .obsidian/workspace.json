@@ -8,116 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e666c477a0b51e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APCHEM/Rate Laws.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rate Laws"
-            }
-          },
-          {
-            "id": "e9b19e90051b5798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APCHEM/Rate Laws.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rate Laws"
-            }
-          },
-          {
-            "id": "e78bf8ccfb01898e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7670b79d81f73365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APHG/Diffusion of Culture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diffusion of Culture"
-            }
-          },
-          {
-            "id": "f5559e0d122bf435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/ids/u4/Shermans March to Sea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shermans March to Sea"
-            }
-          },
-          {
-            "id": "52d7d197e3eb624e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smartphone debate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Smartphone debate"
-            }
-          },
-          {
-            "id": "b2aa6b909316242d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APHG/Lingua Franca.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lingua Franca"
-            }
-          },
-          {
-            "id": "55467252cab516f1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "ebf50fae11087adc",
             "type": "leaf",
             "state": {
@@ -131,9 +21,24 @@
               "icon": "lucide-file",
               "title": "France"
             }
+          },
+          {
+            "id": "e028967b8fe1d7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nexus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nexus"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,9 +109,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "nexus.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of nexus"
             }
           },
           {
@@ -215,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nexus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from nexus"
             }
           },
           {
@@ -238,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nexus.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +156,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for nexus"
             }
           },
           {
@@ -256,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "nexus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of nexus"
             }
           },
           {
@@ -293,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home pages/IDS Unit 4.md",
+                "file": "apush/IDS Unit 4.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -325,35 +235,35 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d02d193fd4dbb53f",
+  "active": "e028967b8fe1d7d6",
   "lastOpenFiles": [
-    "Home pages/APUSH Home.md",
+    "README.md",
+    "apush/places/France.md",
+    "APCHEM/Rate Laws.md",
+    "APHG/Diffusion of Culture.md",
+    "apush/ids/u4/Shermans March to Sea.md",
+    "Smartphone debate.md",
+    "APHG/Lingua Franca.md",
+    "apush/IDS Unit 4.md",
+    "design.md",
+    "apush/APUSH Home.md",
     "apush/places/United States.md",
-    "Home pages/Calc home.md",
-    "Home pages/Python 1 Home.md",
+    "Calc/Calc home.md",
+    "python/Python 1 Home.md",
     "apush/Civil War.md",
     "apush/ids/u3/result/Constitutional Convention.md",
     "apush/ids/u4/Carpetbagger.md",
     "APHG/Toponyms.md",
-    "Home pages/APCHEM Home.md",
-    "Home pages/APHG Home.md",
-    "Home pages/APUSH Groups.md",
-    "Home pages/IDS Unit 4.md",
+    "APCHEM/APCHEM Home.md",
+    "APHG/APHG Home.md",
+    "apush/APUSH Groups.md",
     "Home pages",
     "Calc/Antiderivatives.md",
-    "APCHEM/Rate Laws.md",
-    "apush/places/France.md",
     "nexus.md",
     "APHG/Unit 3.md",
     "APHG/Glossary.md",
     "APHG/Language.md",
     "APHG/Languages.md",
-    "APHG/Cultural Diversion.md",
-    "APHG/Lingua Franca.md",
-    "apush/states/Pennsylvania.md",
-    "apush/ids/u2/filemaker.md",
-    "scripts/result/Valley Forge.md",
-    "scripts/result/Salutary Neglect.md",
     "python/recursion.py",
     "python/api.txt",
     "python",

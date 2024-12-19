@@ -42,7 +42,6 @@ A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]
 * **Lincoln's [[Gettysburg Address]]:** Delivered on November 19, 1863, Lincoln's famous speech redefined the purpose of the war as a fight for freedom and equality, solidifying the importance of the Union victory.
 * **Strategic Significance:** Gettysburg stopped Lee's invasion of the North, preventing a major victory for the Confederates and ultimately leading to the Union's success.
 
-# [[IDS Unit 4]]
 """
         # Generate the text using the prompt
         response = ai_text(prompt)
