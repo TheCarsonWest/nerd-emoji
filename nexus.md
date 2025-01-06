@@ -14,4 +14,5 @@ node_size: "100"
 
 # [[Calc home]]
 
+[[arabic vocab lists]]
 
