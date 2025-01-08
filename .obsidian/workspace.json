@@ -56,10 +56,15 @@
             "id": "bac59cc6af212786",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -257,6 +262,9 @@
   },
   "active": "bac59cc6af212786",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "apush/places/United States.md",
     "Arabic/arabic vocab lists.md",
     "Arabic",
     "Arabic/m1l3 vocab.md",
@@ -274,7 +282,6 @@
     "Arabic/m1l1 vocab.md",
     "Arabic/Smartphone debate.md",
     "Juha and the advantages of smartphones.md",
-    "Untitled 1.md",
     "Untitled.md",
     "Calc/Derivative.md",
     "Calc/Calc home.md",
@@ -282,7 +289,6 @@
     "Calc/Calculus Limits.md",
     "Calc/Extreme Value Theorem.md",
     "apush/states/Alabama.md",
-    "apush/IDS Unit 4.md",
     "Home pages",
     "python/recursion.py",
     "python/api.txt",
@@ -301,7 +307,6 @@
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_20.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_19.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_18.jpg",
-    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_17.jpg",
-    "Untitled.canvas"
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_17.jpg"
   ]
 }
