@@ -126,9 +126,22 @@
               "icon": "lucide-file",
               "title": "Thermodynamics"
             }
+          },
+          {
+            "id": "e2a02a228fc7bd84",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -325,10 +338,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "76763c5fac54b214",
+  "active": "e1e3c5b0f16240e6",
   "lastOpenFiles": [
-    "APCHEM/APCHEM Home.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Thermodynamics.md",
+    "APCHEM/APCHEM Home.md",
     "Exothermic.md",
     "Endothermic.md",
     "Laws of Conservation.md",
@@ -342,7 +357,6 @@
     "APHG/Diffusion of Culture.md",
     "APHG/APHG Home.md",
     "nexus.md",
-    "Untitled.md",
     "APHG/Unit 2b Migration.md",
     "APHG/Push and Pull Factors.md",
     "APHG/Intervening Obstacles.md",
@@ -352,7 +366,6 @@
     "README.md",
     "python/Basic Programming.md",
     "python/non programming things about python.md",
-    "Untitled 2.md",
     "Arabic",
     "Home pages",
     "python/recursion.py",
