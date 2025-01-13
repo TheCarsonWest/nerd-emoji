@@ -1,3 +1,7 @@
+# [[nexus]]
+
+- [[non programming things about python]]
+
 - [[Variables and Data Types]]
  - [[Operators]]
  - [[Control Flow If Statements]]
