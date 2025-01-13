@@ -21,7 +21,7 @@ def create_files(file_names, file_extension):
 
         # Generate the prompt with clear instructions and context
         prompt = f"""
-Create a notecard on the APUSH topic {file_name}, using this following format:
+Create a notecard on the APUSH gilded age topic {file_name}, using this following format:
 WHEN: (exact date if possible, if not narrow it down to a specific time period...acts/laws, specific events, etc should have specific dates. AP exam questions are ALWAYS broken down into certain time frames; timelines will be very important)
 Here is a good example
 ## ID: Battle of Gettysburg
@@ -44,7 +44,7 @@ A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]
 
 """
         # Generate the text using the prompt
-        response = ai_text(prompt)
+        response = ai_text(prompt)+"\n# [[IDS Unit 5]]"
 
         # Write the generated text to the file
         with open("./result/"+file_name, 'w') as file:
@@ -53,7 +53,7 @@ A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]
         sleep(1)
         i += 1
 
-file_names = ['House of Burgesses', 'Bacon’s Rebellion', 'Treaty of Paris 1776', 'Pequot War', 'Triangular Trade', 'Stono Rebellion', 'Battle of Yorktown', 'Proclamation of 1763', 'Mayflower Compact', 'Letters from a Farmer in Pennsylvania', 'Second Continental Congress', 'Headright System', 'French and Indian War', 'Indentured Servitude', 'Common Sense', 'Boston Massacre', 'Olive Branch Petition', 'The Wealth of Nations', 'Stamp Act', 'Puritans', 'Great Awakening', 'King Philip’s War', 'filemaker', 'Battle of Saratoga', 'Sugar Act', 'Committees of Correspondence', 'First Continental Congress', 'Boston Tea Party', 'Tea Act', 'Intolerable Acts', 'Enlightenment', 'Lees Resolution', 'Townshend Act', 'Sons of Liberty', 'Battle of Bunker Hill', 'Albany Plan of Union', 'Salutary Neglect', 'Valley Forge']
+file_names = open("topics.txt", "r").read().splitlines()
 file_extension = "md"  # Change to your desired file type
 
 create_files(file_names, file_extension)
