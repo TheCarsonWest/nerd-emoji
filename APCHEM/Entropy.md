@@ -1,7 +1,15 @@
 # [[Thermodynamics]]
 
-# Entropy
+## Entropy
 
-Entropy (S) is a measure of the disorder or randomness of a system.  It's a state function, and changes in entropy (ΔS) reflect changes in disorder.  A positive ΔS indicates an increase in disorder (more randomness), while a negative ΔS indicates a decrease in disorder (more order).  The second law of thermodynamics states that the total entropy of the universe is always increasing for spontaneous processes.  Entropy is typically measured in J/mol·K.
+Entropy (S) is a measure of the disorder or randomness of a system.  The second law of thermodynamics states that the total entropy of an isolated system can only increase over time or remain constant in ideal cases where the system is in a steady state or undergoing a reversible process.  A system's entropy increases when it becomes more disordered (e.g., a gas expanding into a vacuum).  The change in entropy (ΔS) for a process is given by:
+
+$$\Delta S = \frac{q_{rev}}{T}$$
+
+where:
+
+* ΔS = change in entropy
+* q<sub>rev</sub> = heat transferred reversibly
+* T = absolute temperature
 
 # [[Thermodynamics]]

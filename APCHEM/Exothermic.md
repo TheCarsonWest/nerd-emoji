@@ -1,7 +1,7 @@
 # [[Thermodynamics]]
 
-# Exothermic
+## Exothermic
 
-An exothermic process is one that releases heat to its surroundings.  The system's enthalpy decreases (ΔH < 0).  Examples include combustion reactions, the formation of many ionic compounds, and condensation. The surroundings become warmer as heat is released by the system.
+An exothermic process is a process that releases heat to its surroundings.  The temperature of the surroundings increases as the system releases heat.  ΔH is negative for an exothermic process.  Examples include combustion reactions and the formation of many chemical bonds.
 
 # [[Thermodynamics]]

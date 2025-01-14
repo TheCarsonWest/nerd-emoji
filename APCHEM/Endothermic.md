@@ -1,7 +1,7 @@
 # [[Thermodynamics]]
 
-# Endothermic
+## Endothermic
 
-An endothermic process is one that absorbs heat from its surroundings.  The system's enthalpy increases (ΔH > 0).  Examples include melting ice, evaporating water, and many chemical reactions.  The surroundings become cooler as heat is absorbed by the system.
+An endothermic process is a process that absorbs heat from its surroundings.  The temperature of the surroundings decreases as the system absorbs heat.  ΔH is positive for an endothermic process.  Examples include melting ice and photosynthesis.
 
 # [[Thermodynamics]]
