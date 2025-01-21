@@ -17,12 +17,12 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 
 * **Division:** The split over slavery led to the formation of the **Republican Party** in 1854, and the Democratic Party fractured into Northern and Southern factions.
 * **Confederacy:**  Southern [[Democrats]] supported secession and formed the Confederate States of America.
-* **Reconstruction:** After the Civil War, the Democratic Party, though weakened, opposed Reconstruction efforts, seeking to limit the rights of former slaves.
+* **Reconstruction:** After the [[Civil War]], the Democratic Party, though weakened, opposed Reconstruction efforts, seeking to limit the rights of former slaves.
 
-## **The Gilded Age and Progressivism (1877-1917):**
+## **The [[Gilded Age]] and Progressivism (1877-1917):**
 
-* **Industrialization:** The Democratic Party grappled with the challenges of industrialization, often supporting labor unions and advocating for reform.
-* **Populism:** The party embraced populist movements, such as the **Populist Party** in the 1890s, which championed farmers' rights and challenged corporate power.
+* **Industrialization:** The Democratic Party grappled with the challenges of industrialization, often supporting [[labor unions]] and advocating for reform.
+* **Populism:** The party embraced populist movements, such a[[Populist Party|s the **Populi]]st Party** in the 1890s, which championed farmers' rights and challenged corporate power.
 * **Progressivism:**  Some [[Democrats]] embraced the Progressive movement, advocating for social justice and government regulation.
 
 ## **The 20th Century:**
@@ -35,6 +35,7 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 
 * **Liberal Shift:** The Democratic Party has become increasingly identified with liberal values, advocating for social justice, environmental protection, and government intervention in the economy(socialism).
 * **Social Issues:** They want to take your guns, make you gay, and pretend to care about minorities to get their vote(so that they can do nothing for them).
+* Imploded again in 2024
 
 **Key Figures:**
 

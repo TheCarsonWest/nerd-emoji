@@ -56,6 +56,6 @@ Moles of NaOH = (0.1 mol/L)(100 mL) = 0.01 mol
 
 **Additional Notes:**
 
-* Molarity is temperature-dependent.
+* Molarity is [[Temperature]]-dependent.
 * Molarity can be converted to other concentration units, such as normality (N) and parts per million (ppm).
 * Molarity is a useful measure of concentration for many chemical applications, including titrations, dilutions, and stoichiometric calculations.

@@ -32,8 +32,8 @@ print(result)  # Prints 8
 
 * **Positional Arguments:** Arguments passed in the order they are defined in the function definition.
 * **Keyword Arguments:** Arguments passed using the `keyword=value` syntax.  This allows for flexibility in argument order.
-* **Default Arguments:** Arguments that have a default value specified in the function definition.  If not provided during the function call, the default value is used.
-* **Variable-Length Arguments (`*args`, `**kwargs`):**  Used to handle a variable number of positional or keyword arguments, respectively. [[Variable Length Arguments in Python]]
+* **[[Default Arguments]]:** Arguments that have a default value specified in the function definition.  If not provided during the function call, the default value is used.
+* **[[Variable-Length Arguments]] (`*args`, `**kwargs`):**  Used to handle a variable number of positional or keyword arguments, respectively. [[Variable Length Arguments in Python]]
 
 
 **Scope and Lifetime of Variables:**
@@ -42,7 +42,7 @@ print(result)  # Prints 8
 * **Global Variables:** Variables defined outside any function.  They can be accessed from within functions, but modifying them requires the `global` keyword. [[Variable Scope and Lifetime]]
 
 
-**Lambda Functions (Anonymous Functions):**
+**[[Lambda Functions]] (Anonymous Functions):**
 
 These are small, anonymous functions defined using the `lambda` keyword. They are often used for short, simple operations.
 
@@ -53,7 +53,7 @@ print(square(5)) # Prints 25
 
 **Recursive Functions:**
 
-Functions that call themselves.  They must have a base case to avoid infinite recursion. [[Recursion in Python]]
+Functions that call themselves.  They must have a base case to avoid infinite [[Recursion]]. [[Recursion in Python]]
 
 
 **Decorators:**

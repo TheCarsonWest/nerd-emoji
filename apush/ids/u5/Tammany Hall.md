@@ -13,7 +13,7 @@ A powerful political machine in New York City.  It used patronage, graft, corrup
 * **Symbol of Gilded Age Corruption:** Tammany Hall became a prime example of the widespread political corruption and social inequalities of the Gilded Age.  It exposed the flaws of a rapidly growing urban environment.
 * **Patronage and the Spoils System:**  Tammany Hall's system epitomized the spoils system, where political positions and contracts were given to loyal supporters rather than based on merit.
 * **Influence on City Development:**  Tammany Hall played a significant role in New York City's infrastructure development, though often at inflated costs that lined the pockets of its leaders.
-* **Public Backlash and Reform:** The excesses of Tammany Hall eventually led to public outrage and investigative journalism (e.g., Thomas Nast's cartoons), contributing to the progressive reform movements that aimed to curb political corruption.
+* **Public Backlash and Reform:** The excesses of Tammany Hall eventually led to public outrage and investigative journalism (e.g., [[Thomas Nast]]'s cartoons), contributing to the progressive reform movements that aimed to curb political corruption.
 * **Immigration and Urban Politics:**  Tammany Hall's history highlights the complex relationship between immigrant communities, urban politics, and the challenges of rapid urbanization in the late 19th century.  It provided services but also exploited vulnerable populations.
 
 # [[IDS Unit 5]]

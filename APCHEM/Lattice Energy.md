@@ -18,18 +18,18 @@ The Born-Haber cycle is a thermodynamic cycle that allows us to calculate lattic
 4. **[[Electron affinity]] of the nonmetal:** $X(g) + e^- \rightarrow X^-(g)$
 5. **Formation of the ionic compound:** $M^+(g) + X^-(g) \rightarrow MX(s)$
 
-The enthalpy changes for each step are known, and lattice energy can be calculated using Hess's Law:
+The [[Enthalpy]] changes for each step are known, and lattice energy can be calculated using Hess's Law:
 
 $U = \Delta H_{sub} + \frac{1}{2} \Delta H_{diss} + IE + EA - \Delta H_f$
 
 where:
 
 * $U$ is the lattice energy
-* $\Delta H_{sub}$ is the enthalpy of sublimation
-* $\Delta H_{diss}$ is the enthalpy of dissociation
+* $\Delta H_{sub}$ is the [[Enthalpy]] of sublimation
+* $\Delta H_{diss}$ is the [[Enthalpy]] of dissociation
 * $IE$ is the [[ionization energy]]
 * $EA$ is the [[electron affinity]]
-* $\Delta H_f$ is the enthalpy of formation
+* $\Delta H_f$ is the [[Enthalpy]] of formation
 
 **Examples:**
 

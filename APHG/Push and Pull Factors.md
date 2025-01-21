@@ -31,7 +31,7 @@
 ### Examples
 * Rust Belt
 	* Nobody wants to live in Gary [[Indiana]] so they left for the south
-* Gilded Age
+* [[Gilded Age]]
 	* America: "trust me bro we are so much better than europe bro PLEASE move here I swear youll live better"
 	* Europeans actually believed this
 	* Now everyone lives in a windowless apartment in the Bronx with 15 hour shifts in a  cotton mill

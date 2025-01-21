@@ -24,7 +24,7 @@ Several factors influence the saturation point of a solution:
 
 * **Pressure:** Pressure has a significant effect on the solubility of gases in liquids.  Henry's Law states that the solubility of a gas is directly proportional to the [[partial pressure]] of that gas above the liquid.  $C = kP$, where $C$ is the concentration of the dissolved gas, $k$ is Henry's Law constant, and $P$ is the [[partial pressure]] of the gas.  Pressure has a negligible effect on the solubility of solids in liquids.
 
-* **Nature of Solute and Solvent:**  The "like dissolves like" principle governs solubility. Polar solutes tend to dissolve in polar solvents (e.g., salt in water), while nonpolar solutes dissolve in nonpolar solvents (e.g., oil in gasoline).  [[Intermolecular Forces]]
+* **Nature of Solute and Solvent:**  The "like dissolves like" principle governs [[Solubility]]. Polar solutes tend to dissolve in polar solvents (e.g., salt in water), while nonpolar solutes dissolve in nonpolar solvents (e.g., oil in gasoline).  [[Intermolecular Forces]]
 
 
 ## Solubility and $K_{sp}$

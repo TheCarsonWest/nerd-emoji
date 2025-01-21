@@ -42,11 +42,11 @@ print(factorial(5))  # Output: 120
 
 * Carefully define the base case and ensure it's reachable.
 * Use a debugger to step through the recursive calls and track the values of variables.
-* Print statements can help visualize the flow of execution.  (But be mindful of potential infinite loops if used improperly.)
+* Print statements can help visualize the flow of execution.  (But be mindful of potential [[Infinite Loops]] if used improperly.)
 
 
 **Further Exploration:**
 
-* Tail [[Recursion]] ([[Tail Recursion Optimization]]) - a special form of recursion that can be optimized by some compilers or interpreters.
+* Tail [[Recursion]] ([[Tail Recursion Optimization]]) - a special form of [[Recursion]] that can be optimized by some compilers or interpreters.
 * Memoization ([[Memoization]]) - a technique to improve the performance of recursive functions by caching previously computed results.
 

@@ -66,7 +66,7 @@ When the intermediate is highly reactive, the steady-state approximation can be 
 
 [[Catalyst]]
 
-Catalysts affect the rate of reaction by providing an alternative reaction pathway with a lower activation energy. They are not consumed in the overall reaction. The presence of a catalyst can change the rate law.
+Catalysts affect the rate of reaction by providing an alternative reaction pathway with a lower [[Activation Energy]]. They are not consumed in the overall reaction. The presence of a catalyst can change the rate law.
 
 
 ## Summary

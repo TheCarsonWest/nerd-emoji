@@ -17,9 +17,9 @@
 **Diffusion Processes:**
 
 *   **Relocation Diffusion:**
-    *   **Definition:** The spread of cultural traits through the physical movement of people from one place to another.  The culture is literally carried with the migrants.
+    *   **Definition:** The spread of cultural traits through the physical movement of people from one place to another.  The [[Culture]] is literally carried with the migrants.
     *   **Examples:**  The spread of Christianity through missionary travels, the spread of pizza from Italy to the United States, the spread of specific dialects of languages through migration patterns, the diffusion of culinary traditions by immigrant communities.
-    *   **Characteristics:**  The original hearth may retain some influence, but the cultural trait often adapts and changes in the new location. The intensity of the trait may decrease with distance from the origin point unless reinforced by further migration.
+    *   **Characteristics:**  The original hearth may retain some influence, but the [[Cultural Trait]] often adapts and changes in the new location. The intensity of the trait may decrease with distance from the origin point unless reinforced by further migration.
     *   **Types:**  Forced migration (e.g., the transatlantic slave trade) and voluntary migration (e.g., European colonization) both contribute to relocation diffusion.
 
 *   **Contagious Diffusion:**

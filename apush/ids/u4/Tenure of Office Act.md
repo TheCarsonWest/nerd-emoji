@@ -1,7 +1,7 @@
 # ID: [[Tenure of Office Act]] ## When: March 2, 1867 
 ## Who: 
 * **President [[Andrew Johnson]]:**  Vetoed the bill, but Congress overrode his veto. 
-* **Radical Republicans:**  Led the push for the act as part of their Reconstruction plans.
+* **Radical [[Republicans]]:**  Led the push for the act as part of their Reconstruction plans.
 ## What:
 The [[Tenure of Office Act]] prohibited the president from removing any federal official who had been appointed by the Senate, without Senate approval. This act was specifically aimed at limiting President Johnson's power to remove his political opponents from office. 
 ## Impact: Why Significant?: 

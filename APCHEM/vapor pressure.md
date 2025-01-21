@@ -20,7 +20,7 @@ $ln(P_2/P_1) = - \Delta H_{vap}/R (1/T_2 - 1/T_1)$
 
 where:
 * $P_1$ and $P_2$ are the vapor pressures at temperatures $T_1$ and $T_2$ respectively.
-* $\Delta H_{vap}$ is the enthalpy of vaporization.
+* $\Delta H_{vap}$ is the [[Enthalpy]] of vaporization.
 * R is the ideal gas constant.
 
 * **[[intermolecular forces]]:** Stronger [[intermolecular forces]] (like hydrogen bonding) require more energy to overcome, resulting in lower [[vapor pressure]] at a given temperature. For example, water has a higher boiling point and lower [[vapor pressure]] than diethyl ether due to its strong hydrogen bonding.
@@ -30,8 +30,8 @@ where:
 **Examples**
 
 * **Evaporation of Water:** At room temperature, water molecules constantly escape from the liquid surface, creating a small vapor pressure. This is why a puddle of water eventually dries up.
-* **Boiling Point:** The boiling point of a liquid is the temperature at which its [[vapor pressure]] equals the external atmospheric pressure. For example, water boils at 100°C at standard atmospheric pressure (1 atm).
-* **Volatile Liquids:** Liquids with high vapor pressures at room temperature are called volatile liquids. Examples include acetone, ethanol, and gasoline.
+* **Boiling Point:** The boiling point of a liquid is the [[Temperature]] at which its [[vapor pressure]] equals the external atmospheric pressure. For example, water boils at 100°C at standard atmospheric pressure (1 atm).
+* **Volatile Liquids:** Liquids with high vapor pressures at room [[Temperature]] are called volatile liquids. Examples include acetone, ethanol, and gasoline.
 
 **Applications**
 

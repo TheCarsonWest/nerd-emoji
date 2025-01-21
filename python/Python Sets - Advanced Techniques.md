@@ -44,7 +44,7 @@ print(f"Symmetric Difference: {symmetric_difference_set}") # Output: {1, 2, 4, 5
 
 
 ## [[Frozen Sets]] 
-Frozen sets are immutable versions of sets.  Once created, their elements cannot be added or removed.  Useful when a set needs to be used as a key in a dictionary or as an element in another set.
+[[Frozen Sets]] are immutable versions of sets.  Once created, their elements cannot be added or removed.  Useful when a set needs to be used as a key in a dictionary or as an element in another set.
 
 ```python
 frozen_set1 = frozenset({1, 2, 3})

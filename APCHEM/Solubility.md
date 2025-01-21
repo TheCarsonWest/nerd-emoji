@@ -8,7 +8,7 @@ Solubility refers to the ability of a substance (the solute) to dissolve in anot
 Several factors influence solubility, including:
 
 * **Nature of the Solute and Solvent:**  [[Polarity]] and [[Intermolecular Forces]] play a crucial role. "Like dissolves like."
-* **Temperature:**  Generally, the solubility of solids in liquids increases with temperature, while the solubility of gases in liquids decreases with temperature.
+* **[[Temperature]]:**  Generally, the solubility of solids in liquids increases with temperature, while the solubility of gases in liquids decreases with [[Temperature]].
 * **Pressure:**  Pressure primarily affects the solubility of gases in liquids.  [[Henrys Law]] describes this relationship.
 * **Presence of Other Substances:**  The presence of common ions can affect solubility through the [[Common Ion Effect]].
 

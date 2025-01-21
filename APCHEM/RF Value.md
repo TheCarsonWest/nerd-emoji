@@ -24,8 +24,8 @@ $R_f = \frac{\text{Distance traveled by the component}}{\text{Distance traveled 
 Several factors can influence the Rf value of a component:
 
 * **[[Stationary Phase]]:** The nature of the stationary phase (e.g., silica gel, alumina, paper) plays a significant role in the separation process.  Different stationary phases have different affinities for various components.
-* **[[Mobile Phase]]:** The composition and polarity of the mobile phase (solvent) greatly affect the Rf values. A more polar mobile phase will generally carry components further up the chromatogram.
-* **Temperature:**  Temperature changes can affect the solubility and interactions of the components with both the stationary and mobile phases, thus influencing their Rf values.
+* **[[Mobile Phase]]:** The composition and [[Polarity]] of the mobile phase (solvent) greatly affect the Rf values. A more polar mobile phase will generally carry components further up the chromatogram.
+* **[[Temperature]]:**  [[Temperature]] changes can affect the [[Solubility]] and interactions of the components with both the stationary and mobile phases, thus influencing their Rf values.
 * **Sample size:** Overloading the sample can lead to streaking and inaccurate Rf values.
 
 
@@ -51,9 +51,9 @@ Now, let's address those bracketed topics:
 
 ### [[Stationary Phase]]
 
-The stationary phase is the immobile material in chromatography. It can be a solid (e.g., silica gel, alumina in thin-layer chromatography (TLC)) or a liquid coated on a solid support (e.g., in gas chromatography).  The stationary phase interacts differently with various components in a mixture, contributing to their separation.
+The stationary phase is the immobile material in [[Chromatography]]. It can be a solid (e.g., silica gel, alumina in thin-layer [[Chromatography]] (TLC)) or a liquid coated on a solid support (e.g., in gas [[Chromatography]]).  The stationary phase interacts differently with various components in a mixture, contributing to their separation.
 
 
 ### [[Mobile Phase]]
 
-The mobile phase is the solvent that carries the mixture through the stationary phase. It can be a liquid (e.g., in TLC and liquid chromatography) or a gas (e.g., in gas chromatography). The choice of mobile phase depends on the nature of the components being separated and the stationary phase used.  The polarity of the mobile phase is a key factor influencing the separation.
+The mobile phase is the solvent that carries the mixture through the stationary phase. It can be a liquid (e.g., in TLC and liquid [[Chromatography]]) or a gas (e.g., in gas [[Chromatography]]). The choice of mobile phase depends on the nature of the components being separated and the stationary phase used.  The polarity of the mobile phase is a key factor influencing the separation.

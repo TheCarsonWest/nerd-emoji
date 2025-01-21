@@ -2,7 +2,7 @@
 
 
 
-Chemical kinetics is the study of reaction rates, which is the speed at which reactants are converted into products. Understanding reaction rates is crucial for controlling [[chemical reactions]] and optimizing industrial processes. Several factors influence reaction rates, including reactant concentrations, temperature, surface area, and the presence of catalysts.
+Chemical kinetics is the study of reaction rates, which is the speed at which reactants are converted into products. Understanding reaction rates is crucial for controlling [[chemical reactions]] and optimizing industrial processes. Several factors influence reaction rates, including reactant concentrations, [[Temperature]], surface area, and the presence of catalysts.
 
 ## Factors Affecting [[Reaction Rates]] 
 ### Reactant Concentration

@@ -1,17 +1,17 @@
 ## ID: Robber Barons
 
-## When: 1870s-1900s (Roughly coincides with the Gilded Age)
+## When: 1870s-1900s (Roughly coincides with the [[Gilded Age]])
 
 ## Who: 
 * **Cornelius Vanderbilt:** Railroads
-* **John D. Rockefeller:** Standard Oil (oil)
-* **Andrew Carnegie:** Carnegie Steel (steel)
-* **J.P. Morgan:** Finance and Banking
+* **[[John D. Rockefeller]]:** Standard Oil (oil)
+* **[[Andrew Carnegie]]:** Carnegie Steel (steel)
+* **[[J.P. Morgan]]:** Finance and Banking
 * **Jay Gould:** Railroads (Speculator and notorious for shady dealings)
 
 
 ## What: 
-Powerful industrialists who amassed immense fortunes through often ruthless business practices during the Gilded Age.  They controlled major sectors of the American economy, employing tactics such as monopolies, trusts, and horizontal/vertical integration to eliminate competition and maximize profits.
+Powerful industrialists who amassed immense fortunes through often ruthless business practices during the [[Gilded Age]].  They controlled major sectors of the American economy, employing tactics such as monopolies, trusts, and horizontal/vertical integration to eliminate competition and maximize profits.
 
 ## Impact: Why Significant?:
 * **Industrial Growth:**  Fueled unprecedented industrial expansion and economic growth in the U.S.  Created massive wealth, but this wealth was concentrated in the hands of a few.

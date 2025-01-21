@@ -15,7 +15,7 @@ The rate law is expressed as:
 
 Where:
 
-*  *k* is the rate constant (temperature dependent).
+*  *k* is the rate constant ([[Temperature]] dependent).
 *  *[A]* and *[B]* are the molar concentrations of reactants A and B.
 *  *m* and *[n]* are the reaction orders with respect to A and B, respectively.  These are *not* necessarily the same as the stoichiometric coefficients (a and b).  They must be determined experimentally.
 

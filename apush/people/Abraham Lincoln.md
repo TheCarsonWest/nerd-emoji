@@ -18,11 +18,12 @@
 
 * **Homestead Act (1862):** Granted land to settlers in the Western territories
 * **Morrill Land-Grant Act (1862):** Established land-grant colleges to promote agricultural and mechanical education
-* **Pacific Railroad Act (1862):** Authorized the construction of the first transcontinental railroad
+* **Pacific Railroad Act (1862):** Authorized the construction of the first [[transcontinental railroad]]
 
 **Groups:**
 
-* **Republican Party:** Founded in 1854, Lincoln joined in 1856
+* 
+* **[[Republicans]] Party:** Founded in 1854, Lincoln joined in 1856
 
 **Impact on the Country:**
 
