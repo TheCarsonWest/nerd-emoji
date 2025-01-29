@@ -30,7 +30,7 @@ def get_transcript_without_timestamps(video_id):
   return text_transcript
 
 genai.configure(api_key=open('api.txt','r').readline())
-model = genai.GenerativeModel("gemini-1.5-pro")
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 
 def ai_text(p):
@@ -52,10 +52,7 @@ video_id = input("Enter the YouTube video ID: ")
 transcript = get_transcript_without_timestamps(video_id)
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + """\nAnswer the following questions based on this transcript
-  Discuss the impact of American influence of culture in Japan.
-How is this tradition different from those in the US?
-Describe the origin of this tradition.
+  prompt = transcript + """\nWrite an article on all the information given in this transcript.
 
   """
 
