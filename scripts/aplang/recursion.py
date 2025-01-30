@@ -29,7 +29,7 @@ def generate_notes(strings: list, custom_prompt: str, recursion_level: int = 0, 
     if generated_files is None:
         generated_files = set()
 
-    if recursion_level >= 5:  # Stop recursion at level 3
+    if recursion_level >= 3:  # Stop recursion at level 3
         return
 
     for i, string in enumerate(strings):
@@ -37,7 +37,7 @@ def generate_notes(strings: list, custom_prompt: str, recursion_level: int = 0, 
         notes = ai_text(prompt)
 
         filename = f"{string}.md"
-        with open(filename, "w") as f:
+        with open(filename, "w",encoding='utf-8') as f:
             f.write("# [["+backlink+"]]\n"+notes)
 
         # Find recursive note triggers ([[...]]).
@@ -57,7 +57,7 @@ def generate_notes(strings: list, custom_prompt: str, recursion_level: int = 0, 
 
 
 # Example usage
-strings = ['Kittens']
+strings = ['AP English Language and Composition', 'Rhetorical Analysis', 'Argumentative Essay', 'Synthesis Essay']
 
 custom_prompt = "You are writing notes for yourself about a topic . Use markdown formatting. Write equations using the LaTeX Equation Library(use $equation$ for an inline equation, and ## $$equation$$ for a block equation). For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]], make sure they are just short titles for seperate notes), but, there will be a list of preiously written ntoes that can also be linked to in this way, so, either\n - Copy the name of the note EXACTLY\n - Make a link to another note that must be written(please note that those notes will be generated exclusivly off the name of the title). Some notes can follow a template that exclusivly branches off into other topics if it makes sense to. \nYou are to create notes about the Topic: "
 

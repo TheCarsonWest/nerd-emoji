@@ -2,7 +2,7 @@ import os
 
 # Function to replace a string in a file
 def replace_string_in_file(file_path, search_string, replace_string):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
     # Replace all occurrences of the search string
@@ -10,7 +10,7 @@ def replace_string_in_file(file_path, search_string, replace_string):
 
     # If there was a change, write the new content back to the file
     if content != new_content:
-        with open(file_path, 'w') as file:
+        with open(file_path, 'w',encoding='utf-8') as file:
             file.write(new_content)
         print(f"Updated: {file_path}")
 
@@ -24,9 +24,9 @@ def replace_string_in_folder(folder_path, search_string, replace_string):
                 replace_string_in_file(file_path, search_string, replace_string)
 
 if __name__ == '__main__':
-    folder_paths = ['./../../apush/ids/u2']
-    search_string = "IDS Unit 4"
-    replace_string = 'IDS Unit 2'
+    folder_paths = ['./aplang/']
+    search_string = "]]]]"
+    replace_string = ']]'
 
     for folder_path in folder_paths:
         replace_string_in_folder(folder_path, search_string, replace_string)

@@ -2,7 +2,7 @@
 ## Introduction
 
 Chemical kinetics is the study of [[Reaction Rates]].  A rate law expresses the relationship between the rate of a reaction and the concentrations of reactants.  The rate law provides crucial information about the mechanism of a reaction.
-
+# [[units of reaction constant]]
 ## General Form of a Rate Law
 
 For a generic reaction:

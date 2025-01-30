@@ -11,6 +11,7 @@ node_size: "100"
 # [[APCHEM Home]]
 
 # [[Python 1 Home]]
+# [[AP English Language and Composition]]
 
 # [[Calc home]]
 

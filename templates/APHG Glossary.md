@@ -1,1 +1,0 @@
-Make a short bulleted definition of the AP Human geography term {term}
