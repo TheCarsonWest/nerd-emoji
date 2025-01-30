@@ -38,16 +38,6 @@
             }
           },
           {
-            "id": "1dbabc2a8e0e051d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "5e49eac76d312c7b",
             "type": "leaf",
             "state": {
@@ -61,9 +51,84 @@
               "icon": "lucide-file",
               "title": "Smartphone debate"
             }
+          },
+          {
+            "id": "bac59cc6af212786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "non programming things about python.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "non programming things about python"
+            }
+          },
+          {
+            "id": "cfc4eeca29c901ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/non programming things about python.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "non programming things about python"
+            }
+          },
+          {
+            "id": "c68d2f15edb52fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Basic Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Programming"
+            }
+          },
+          {
+            "id": "0eb0df278fa7fe69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b39bbeb9db70f404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDS Unit 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDS Unit 4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -119,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50390243530273
+    "width": 200
   },
   "right": {
     "id": "0aed38cd9deef8c9",
@@ -128,28 +193,18 @@
       {
         "id": "03752f9e506457c7",
         "type": "tabs",
+        "dimension": 70.76023391812866,
         "children": [
           {
             "id": "824f0a381a11ee9f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "062d5222c98fd466",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "IDS Unit 4.md"
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-list",
+              "title": "Outline of IDS Unit 4"
             }
           },
           {
@@ -168,8 +223,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IDS Unit 4.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -177,7 +233,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for IDS Unit 4"
             }
           },
           {
@@ -186,6 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "IDS Unit 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,28 +270,32 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ca346512b4bc6b11",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apush/IDS Unit 4.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "IDS Unit 4"
+              "title": "Graph of IDS Unit 4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "083f52d63325dda6",
+        "type": "tabs",
+        "dimension": 29.239766081871345,
+        "children": [
+          {
+            "id": "062d5222c98fd466",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IDS Unit 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IDS Unit 4"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +316,23 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1dbabc2a8e0e051d",
+  "active": "d02d193fd4dbb53f",
   "lastOpenFiles": [
+    "apush/ids/u2/Boston Massacre.md",
+    "IDS Unit 4.md",
+    "apush/ids/u2/Battle of Yorktown.md",
+    "apush/ids/u4/Battle of Antietam.md",
+    "IDS Unit 5.md",
+    "apush/ID Home.md",
+    "apush/APUSH Home.md",
+    "nexus.md",
+    "aplang/Argumentative Essay.md",
+    "aplang/Rhetorical Analysis.md",
+    "aplang/AP English Language and Composition.md",
+    "aplang/Pathos and Emotional Appeals.md",
+    "apush/ids/u5/J.P. Morgan.md",
+    "apush/IDS Unit 4.md",
+    "aplang/recursion.py",
     "aplang/Vocabulary Lists.md",
     "aplang/Verbs and Tenses.md",
     "aplang/Verb Tense Consistency.md",
@@ -269,31 +345,15 @@
     "aplang/Thesis Statement Development.md",
     "aplang/Thesis Statement Construction.md",
     "aplang/Techniques of Integration.md",
-    "aplang/Target Audience Analysis.md",
-    "aplang/Synthesis Essay.md",
-    "aplang/Synthesis Essay Strategies.md",
-    "aplang/Synthesis Essay Examples.md",
-    "aplang/Statistical Significance.md",
-    "aplang/Statistical Significance Testing.md",
-    "aplang/Spelling and Commonly Confused Words.md",
-    "aplang/Source Integration Techniques.md",
-    "aplang/Source Evaluation Criteria.md",
-    "aplang/Source Credibility.md",
-    "aplang/Source Analysis Techniques.md",
-    "aplang/Sentence Structures and Rhetorical Effect.md",
-    "aplang/Sentence Structure & Effect.md",
-    "aplang/Sentence Fragments and Run-ons.md",
-    "aplang/recursion.py",
-    "aplang/api.txt",
     "aplang",
+    "scripts/aplang/recursion.py",
+    "scripts/aplang",
     "scripts/persia an dgreece",
-    "scripts/aplang/Rhetorical Devices",
-    "scripts/aplang/Example",
-    "scripts/aplang/Humor in Advertising",
-    "scripts/aplang/Pathos",
-    "scripts/aplang/Onomatopoeia",
-    "scripts/aplang/Idiom",
-    "Untitled.canvas",
+    "scripts/recursion.py",
+    "scripts/generated_program.py",
+    "scripts/transform.py",
+    "apush/ids/u5",
+    "scripts/topics.txt",
     "images/Pasted image 20240829075856.png",
     "Pasted image 20241112212013.png",
     "Pasted image 20241017082733.png",
@@ -303,6 +363,7 @@
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_20.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_19.jpg",
     "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_18.jpg",
-    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_17.jpg"
+    "1729260211284-fad6078e-e08e-4ea8-b7ae-c75e1509c675_17.jpg",
+    "Untitled.canvas"
   ]
 }
