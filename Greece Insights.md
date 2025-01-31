@@ -1,0 +1,23 @@
+# 1: The Iliad and The Odyssey were recited in entirety from memory before the invention of the Greek alphabet
+While we often think of these epic poems as classical literature, they were not literature to begin with. It was originally a story told by a nomadic bard who memorized the tale passed down by another one before him. This must mean that their poets we not the creators of the story, and also that they alone had written it down entirely from memory
+
+# 2: The Greek people sought live like their legends did
+As an overarching theme of the entire first part of the series, people sought the glory they heard of in the legends of the time, creating a sort of "go big or go home" culture. The Greek people saw two paths in life: a long and boring life, or a short and exciting life. Whenever an opportunity arose to make a bold move, many took it. Whether it be travel hundreds of miles to compete in the Olympic Games, or to rise up against and undermine a cruel leader, or even for the common people to overthrow the Spartan conquerors. 
+
+# 3: The Athenians had a miraculous butterfly effect on the world as we know it
+What a unique chain of events that had to conspire in order for the modern world to turn out the way it did. Had the Athenians not been invaded by Sparta, and then cause the first recorded commoner's rebellion, which led to the establishing of the first democracy, and then had not successfully repelled the Persians while outnumbered, twice, democracy would have died in the dark 2000 years ago.
+
+# 4: Ancient Athenians were not all that different from us
+Greek culture shares many similar traits to modern western culture. While not as literal as voting someone to exile every year, we often ostracize people just the same. We value the voice of any individual who can convince others to let them lead. The ancient Athenians could even be said to have had the same American dream as we do.
+
+# 5: The fall of ancient Athens was due to their culture
+They took a risk by attempting to expand by fighting Sparta/Syracuse in Sicily, and ended up losing their entire military, who then wasn't able to defend the homeland. Their decision to evacuate Athens and live within the walls of the port also followed this spirit. In the end, when faced with the choice of a long and boring life, or a short and brave life, they chose the later, and their time was cut short because of it. While a short civilization, their boldness and innovativeness was what made them so important. 
+
+# 6: The Athenian Triremes was the best ship of its time
+It was powered mainly by its oarsmen, which meant it did not need to rely on the wind as much as other ships would, meaning it could attack from the Irons(the direction wind that would push both front-sailed and side-sailed ships). While it had less range than other ships, its greatest battles were defensive. Its easy to forget that Naval combat didn't have cannons yet! Ramming the opponents or boarding their ship were the only effective means of defeating people in naval combat in the ancient world.
+
+# 7: Greek was a splintered language that became unified
+Alexander the Great spoke Attic Greek, the dialect that would eventually merge with Koine Greek to become modern Greek, but before that Greek was just like many other places that spoke several different dialects of the same "language". As mentioned in the Crash Course video, the Bible's first translated language was Greek during the Hellenistic kingdoms period, however, it was translated into Koine Greek during a time when people spoke Attic Greek, a common historical discrepancy that leads to lots of theological confusion. 
+
+# 8: A lot of ancient history is exaggerated
+Since no written records of Alexander existed when he was alive, and only made after he died, while his great conquering were real and verifiable from their effects on ancient artifacts(for example, afghan coins having greek writing on them), the great battles of antiquity were recounted from those who were there to witness it. As get closer to the present, we see that the outcome of a battle or of a grand plan seem more in line with what we expect, whereas in antiquity the victors who tell he stories seem to always remember being outnumbered. In the ancient world 300,000 warriors would cross a strait to battle a foreign power, but by the middle ages, when history was better recorded, the largest battle in a decade would consist of 40 men from the kingdom 10 miles away.

@@ -28,13 +28,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDS Unit 5.md",
+                "file": "Greece Insights.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "IDS Unit 5"
+              "title": "Greece Insights"
             }
           },
           {
@@ -72,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDS Unit 5.md",
+                "file": "Greece Insights.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +178,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IDS Unit 5"
+              "title": "Backlinks for Greece Insights"
             }
           }
         ],
@@ -193,10 +203,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d02d193fd4dbb53f",
+  "active": "ec0e59d5ed63a496",
   "lastOpenFiles": [
-    "IDS Unit 4.md",
     "IDS Unit 5.md",
+    "IDS Unit 4.md",
     "scripts/persia an dgreece/1738178123.874818.md",
     "apush/IDS Unit 4.md",
     "apush/ids/u5/Gilded Age.md",
