@@ -43,16 +43,17 @@ def ai_text(p):
 
 
 # Get user input for video ID
-video_id = input("Enter the YouTube video ID: ")
-
+#video_id = input("Enter the YouTube video ID: ")
+video_ids = []
 
 
 
 # Retrieve transcript without timestamps
-transcript = get_transcript_without_timestamps(video_id)
+transcript = "\n\nNext video:\n\n".join([get_transcript_without_timestamps(video_id) for video_id in video_ids])
+
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + """\nWrite an article on all the information given in this transcript.
+  prompt = transcript + """\nUse these transcripts to do this assignemnt
 
   """
 
@@ -62,7 +63,7 @@ if transcript:
   # Write the generated article to a file (modify filename if needed)
   if article_text:
       with open(f"{time.time()}.md", 'w') as f:
-          f.write(f"https://www.youtube.com/watch?v={video_id}\n\n"+article_text)
+          f.write('\n'.join([f"https://www.youtube.com/watch?v={video_id}\n\n" for video_id in video_ids])+article_text)
           print("Article written")
   else:
       print("Text generation failed.")
