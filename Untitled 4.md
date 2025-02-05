@@ -1,0 +1,1 @@
+create a table of the common prophets of judaism, christianity, and islam

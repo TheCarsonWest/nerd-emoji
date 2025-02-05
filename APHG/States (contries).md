@@ -20,3 +20,4 @@ The Republic of China does not recognize the People's Republic of China because 
 - Shared beliefs
 - Homeland
 - Self-determination
+ص
