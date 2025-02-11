@@ -21,9 +21,17 @@ def create_files(file_names, file_extension):
 
         # Generate the prompt with clear instructions and context
         prompt = f"""
-Create a notecard on the APUSH gilded age topic {file_name}, using this following format:
-WHEN: (exact date if possible, if not narrow it down to a specific time period...acts/laws, specific events, etc should have specific dates. AP exam questions are ALWAYS broken down into certain time frames; timelines will be very important)
+Create a notecard on the APUSH "Unit 6 – Urbanization, Progressivism, Imperialism, WWI" topic ({file_name}), using this following format:
+WHEN: (Some of these are given within the parantheses above) (exact date if possible, if not narrow it down to a specific time period...acts/laws, specific events, etc should have specific dates. AP exam questions are ALWAYS broken down into certain time frames; timelines will be very important)
+
+WHO: (who is involved or who started the event or concept; if a person - who is the person, President, Doctor, lawyer, etc. that would be important to know) 
+
+WHAT: (answer what the concept is or what the person did exactly or what happened specifically during an event 
+
+IMPACT:Why is that significant? What did it lead to? What impact did the person or event or law have on the United States?
+
 Here is a good example
+
 ## ID: Battle of Gettysburg
 
 ## When: July 1-3, 1863
@@ -33,6 +41,7 @@ Here is a good example
 * **Confederate:** General Robert E. Lee and the Army of Northern [[Virginia]]
 
 ## What: 
+
 A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]]. It involved three days of intense fighting between Union and Confederate forces. The battle culminated in a decisive Union victory, marking a turning point in the war.
 
 ## Impact: Why Significant?: 
@@ -44,12 +53,12 @@ A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]
 
 """
         # Generate the text using the prompt
-        response = ai_text(prompt)+"\n# [[IDS Unit 5]]"
+        response = ai_text(prompt)+"\n# [[IDS Unit 6]]"
 
         # Write the generated text to the file
-        with open("./result/"+file_name, 'w') as file:
+        with open("./result/"+file_name.split(" - ")[0]+'.md', 'w') as file:
             file.write(response)
-            print('created '+file_name)
+            print('created '+file_name.split(" - ")[0])
         sleep(1)
         i += 1
 
