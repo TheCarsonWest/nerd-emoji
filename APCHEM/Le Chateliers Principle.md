@@ -1,7 +1,7 @@
 # [[nexus]]
-# [[Le Chatelier's Principle]] Notes
+# [[Le Chateliers Principle]] Notes
 
-[[Le Chatelier's Principle]] states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  This applies to changes in concentration, pressure, volume, and temperature.
+[[Le Chateliers Principle]] states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  This applies to changes in concentration, pressure, volume, and temperature.
 
 **Types of Stress and System Response:**
 

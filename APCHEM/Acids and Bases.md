@@ -34,6 +34,6 @@ $HCl(aq) + NaOH(aq) \rightarrow NaCl(aq) + H_2O(l)$
 **Related Notes:**
 
 * [[Equilibrium]] :  Many acid-base reactions are equilibrium reactions. Understanding equilibrium constants ($K_a$, $K_b$) is crucial.
-* [[Le Chatelier's Principle]]:  Predicts the shift in equilibrium when conditions are changed (e.g., adding acid/base).
+* [[Le Chateliers Principle]]:  Predicts the shift in equilibrium when conditions are changed (e.g., adding acid/base).
 
 

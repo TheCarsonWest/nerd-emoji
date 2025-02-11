@@ -25,9 +25,9 @@ The reaction quotient, $Q$, is calculated the same way as $K$, but using non-equ
 *   $Q > K$: The reaction will proceed to the left (towards reactants) to reach equilibrium.
 *   $Q = K$: The reaction is at equilibrium.
 
-**5. [[Le Chatelier's Principle]]**
+**5. [[Le Chateliers Principle]]**
 
-Le Chatelier's principle predicts the effect of changes in conditions (temperature, pressure, concentration) on an equilibrium system. [[Le Chatelier's Principle]]
+Le Chatelier's principle predicts the effect of changes in conditions (temperature, pressure, concentration) on an equilibrium system. [[Le Chateliers Principle]]
 
 **6.  Manipulating [[Equilibrium]] Expressions**
 

@@ -1,7 +1,7 @@
 # [[Equilibrium]]
-# [[Le Chatelier's Principle Examples]]
+# [[Le Chateliers Principle Examples]]
 
-[[Le Chatelier's Principle]] states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  This can involve changes in concentration, pressure, volume, or temperature.
+[[Le Chateliers Principle]] states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  This can involve changes in concentration, pressure, volume, or temperature.
 
 **Types of Stress and System Response:**
 

@@ -1,4 +1,4 @@
-# [[Le Chatelier's Principle]]
+# [[Le Chateliers Principle]]
 # [[Equilibrium]]
 
 **Key Concepts:**
@@ -21,7 +21,7 @@
     * $Q = K$: Reaction is at equilibrium
 
 
-* **[[Le Chatelier's Principle]]:**  If a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  Stresses include:
+* **[[Le Chateliers Principle]]:**  If a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  Stresses include:
     * **Changes in concentration:** Adding reactant shifts right, adding product shifts left.
     * **Changes in pressure/volume:** Increasing pressure (decreasing volume) favors the side with fewer moles of gas.  Decreasing pressure (increasing volume) favors the side with more moles of gas.
     * **Changes in temperature:**  
@@ -34,7 +34,7 @@
 
 [[Equilibrium Calculations]]]]
 
-[[Le Chatelier's Principle Examples]]]]
+[[Le Chateliers Principle Examples]]]]
 
 [[Acid-Base Equilibria]]  (This will cover weak acids/bases, $K_a$, $K_b$, pH calculations, buffers, etc.)
 

@@ -47,6 +47,6 @@ $[NH_3] = 0.6 M$
 
 
 [[Equilibrium Calculations]]]]
-[[Le Chatelier's Principle]]
+[[Le Chateliers Principle]]
 
 
