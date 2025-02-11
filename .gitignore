@@ -1,2 +1,5 @@
 *.txt
-.obsidian/workspace.json
+.obsidian/*
+.obsidian/graph.json
+.obsidian/graph.json
+.obsidian/plugins/obsidian-textgenerator-plugin/data.json
