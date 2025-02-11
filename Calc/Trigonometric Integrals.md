@@ -1,4 +1,4 @@
-## [[4. Trigonometric Integrals]] 
+## [[Trigonometric Integrals]] 
 These involve [[integrals]] of trigonometric functions.  Techniques often involve using trigonometric identities to simplify the integrand.
 
 [[Trigonometric Identities]]

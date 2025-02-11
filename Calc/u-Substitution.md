@@ -1,4 +1,4 @@
-## [[2.  u-Substitution]] 
+## [[u-Substitution]] 
 This is the most fundamental technique for simplifying [[integrals]].  It involves substituting a part of the integrand with a new variable, $u$, to make the integral easier to solve.
 
 **Steps:**
