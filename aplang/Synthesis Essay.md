@@ -38,11 +38,11 @@
 
 Let's say the prompt is:  "Synthesize at least three of the provided sources to discuss the impact of social media on teenage mental health."
 
-[[1. **Identify the core issue:**  The impact of social media on teenage mental health.
-[[2]. **Analyze the sources:**  Determine the main argument/perspective of each source.  What evidence do they provide? What rhetorical strategies do they use? [[Source Analysis Techniques]]
-[[3]. **Formulate a thesis:**  Develop a claim based on your analysis of the sources.  For example:  "While social media offers benefits like connection and community, its negative impacts on teenage mental health, particularly concerning anxiety and depression, outweigh the positives, as evidenced by studies on cyberbullying, unrealistic portrayals of success, and the addictive nature of the platforms."
-[[4]. **Organize your essay:** Decide on the most effective organizational structure (thematic, source-by-source, or point-by-point).
-[[5]. **Write your essay:**  Integrate evidence from the sources smoothly, offering analysis and explanation. Address counterarguments if relevant.
+1. **Identify the core issue:**  The impact of social media on teenage mental health.
+2. **Analyze the sources:**  Determine the main argument/perspective of each source.  What evidence do they provide? What rhetorical strategies do they use? [[Source Analysis Techniques]]
+3. **Formulate a thesis:**  Develop a claim based on your analysis of the sources.  For example:  "While social media offers benefits like connection and community, its negative impacts on teenage mental health, particularly concerning anxiety and depression, outweigh the positives, as evidenced by studies on cyberbullying, unrealistic portrayals of success, and the addictive nature of the platforms."
+4. **Organize your essay:** Decide on the most effective organizational structure (thematic, source-by-source, or point-by-point).
+5. **Write your essay:**  Integrate evidence from the sources smoothly, offering analysis and explanation. Address counterarguments if relevant.
 
 
 **Related Notes:**
