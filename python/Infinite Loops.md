@@ -43,7 +43,7 @@ An infinite loop is a loop that never terminates, meaning it continues to execut
 * **Inspect loop condition:** Carefully examine the loop condition to ensure it will eventually become `False`.
 * **Use a debugger:** A debugger (like pdb in Python) allows you to step through the code line by line and inspect the values of variables, helping identify where the loop is getting stuck.
 * **Print statements:**  Strategic placement of `print()` statements can help track the values of variables within the loop and pinpoint the problem.
-* **Check for infinite recursion:** [[Infinite [[Recursion]]  (If the infinite loop is caused by function calls).
+* **Check for infinite recursion:** [[Infinite Recursion]]  (If the infinite loop is caused by function calls).
 
 
 **Example of a corrected loop:**

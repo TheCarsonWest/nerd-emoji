@@ -1,4 +1,4 @@
-# [[Mutable vs [[Immutable Types]]
+# [[Mutable vs Immutable Types]]
 # [[Immutable Types]]: Deeper Dive
 
 This note expands on the concept of immutability in Python.  Key [[Immutable Types]] include:

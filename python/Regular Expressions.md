@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Regular Expressions]] 
 Regular expressions (regex or regexp) are powerful tools for pattern matching within strings.  They are incredibly useful for tasks like data validation, text manipulation, and searching.
 

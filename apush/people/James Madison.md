@@ -38,7 +38,7 @@
 **Documents Associated with Madison:**
 
 * [[Articles of Confederation]]
-* [[Constitution of the [[United States]]
+* [[Constitution of the United States]]
 * [[Bill of Rights]]
 
 **Events Associated with Madison:**
@@ -49,7 +49,7 @@
 
 **People and Groups Associated with Madison:**
 
-* **[[George [[Washington]]:** First [[POTUS]]
+* **[[George Washington]]:** First [[POTUS]]
 * ** [[Alexander Hamilton]]:** Fellow delegate to the [[Constitutional Convention]]
 * ** [[Thomas Jefferson]]:** Third [[POTUS]]
 * **Federalists:** Political party that supported a strong central government

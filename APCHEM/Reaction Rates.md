@@ -40,7 +40,7 @@ Where:
 
 ## Integrated [[Rate Laws]]
 
-Integrated [[Rate Laws]] relate the concentration of a reactant to time.  They are derived from the [[Rate Laws]] and are useful for predicting reactant concentrations at specific times or determining the time required for a reaction to reach a certain extent.  Different integrated [[Rate Laws]] apply to reactions of different orders. [[Integrated [[Rate Laws]] for Different Orders]]
+Integrated [[Rate Laws]] relate the concentration of a reactant to time.  They are derived from the [[Rate Laws]] and are useful for predicting reactant concentrations at specific times or determining the time required for a reaction to reach a certain extent.  Different integrated [[Rate Laws]] apply to reactions of different orders. [[Integrated Rate Laws for Different Orders]]
 
 ## Half-Life
 
@@ -48,7 +48,7 @@ Half-life ($t_{[[1]]/[[2]]}$) is the time required for the concentration of a re
 
 ## [[Reaction Mechanisms]]
 
-A reaction mechanism is a series of elementary steps that describe how a reaction occurs at the molecular level.  The slowest step in the mechanism is called the rate-determining step and dictates the overall rate of the reaction. [[Reaction Mechanisms]] and Rate-Determining Steps]]
+A reaction mechanism is a series of elementary steps that describe how a reaction occurs at the molecular level.  The slowest step in the mechanism is called the rate-determining step and dictates the overall rate of the reaction. [[Reaction Mechanisms and Rate-Determining Steps]]
 
 
 ## Collision Theory

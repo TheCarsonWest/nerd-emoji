@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[For Loops]] 
 Python's `for` loop iterates over a sequence (like a list, tuple, string, or range) or other iterable object.
 

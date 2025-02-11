@@ -1,4 +1,4 @@
-# [[Multiple [[Inheritance]]
+# [[Multiple Inheritance]]
 # [[MRO]] Notes
 
 **[[MRO]]:** Method Resolution Order.  Determines the order in which methods are searched for during inheritance in Python.  Python uses the C3 linearization algorithm for its [[MRO]].
@@ -40,5 +40,5 @@ Things to explore further:
 
 Related Notes:
 * [[Inheritance]]
-* [[Multiple [[Inheritance]]
+* [[Multiple Inheritance]]
 

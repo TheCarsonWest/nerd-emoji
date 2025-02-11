@@ -1,4 +1,4 @@
-# [[Argumentative Essay]] Structure]]
+# [[Argumentative Essay Structure]]
 # [[Developing a Strong Thesis Statement]]
 
 **I. Core Components:**

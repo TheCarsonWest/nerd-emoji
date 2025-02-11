@@ -24,7 +24,7 @@ Let's say we have analyzed three past exams:
 * **Exam [[2]]:** Covered topics B, D, E. Emphasis on multiple choice and problem solving.
 * **Exam [[3]]:** Covered topics A, C, E. Balanced mix of question types.
 
-This suggests that topics A, B, and E are frequently tested. Short answer and multiple choice questions are common. [[Exam [[1]] Analysis]], [[Exam [[2]] Analysis]], [[Exam [[3]] Analysis]]
+This suggests that topics A, B, and E are frequently tested. Short answer and multiple choice questions are common. [[Exam 1 Analysis]], [[Exam 2 Analysis]], [[Exam 3 Analysis]]
 
 
 **Actionable Steps:**

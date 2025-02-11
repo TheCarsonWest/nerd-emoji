@@ -1,4 +1,4 @@
-# [[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis Techniques]]
 # [[Sentence Structure & Effect]]
 
 **I. Basic Sentence Structures:**

@@ -1,4 +1,4 @@
-# [[Synthesis Essay]] Strategies]]
+# [[Synthesis Essay Strategies]]
 # [[Argumentation Strategies]]
 
 These notes outline common argumentation strategies.  I'll link to more detailed explanations where appropriate.
@@ -15,7 +15,7 @@ These notes outline common argumentation strategies.  I'll link to more detailed
     * **Warrant:** The underlying assumption connecting the reason and the evidence.  $Warrant: Reason \implies Evidence$
     * **Backing:** Support for the warrant.
     * **Qualifier:** Limits the claim (e.g., "generally," "often," "in most cases").
-    * **Rebuttal:** Acknowledges and addresses potential counterarguments. [[Toulmin Model]] Deep Dive]]
+    * **Rebuttal:** Acknowledges and addresses potential counterarguments. [[Toulmin Model Deep Dive]]
 
 * **Deductive Reasoning:** Moving from general principles to specific conclusions.
     * Example: All men are mortal. Socrates is a man. Therefore, Socrates is mortal.  This follows the form:  $P \implies Q; P; \therefore Q$
@@ -35,7 +35,7 @@ These notes outline common argumentation strategies.  I'll link to more detailed
 
 **III. Fallacies to Avoid:**  These are common errors in reasoning. [[Common Argumentative Fallacies]]
 
-**IV.  Rhetorical Strategies:** These are persuasive techniques, but they don't necessarily make an argument *logically* sound. [[Rhetorical Devices]] and Persuasion]]
+**IV.  Rhetorical Strategies:** These are persuasive techniques, but they don't necessarily make an argument *logically* sound. [[Rhetorical Devices and Persuasion]]
 
 
 **V.  Organizing Arguments:**

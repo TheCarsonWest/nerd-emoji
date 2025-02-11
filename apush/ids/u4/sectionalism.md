@@ -27,7 +27,7 @@ A deep-seated division in the [[United States]] based on geographic, economic, s
 * **[[Nullification]] Crisis (1832-1833)**: [[South Carolina]]'s attempt to nullify the federal tariff.
 * **Mexican-American War (1846-1848)**: Debate over the expansion of slavery into new territories.
 * **[[Compromise of 1850]]:** A temporary solution to the issue of slavery in the territories, but further fueled tensions.
-* **[[Kansas]]-[[Nebraska]] Act]] (1854):** Allowed for [[popular sovereignty]] to decide on the issue of slavery in the territories, leading to violence and bloodshed in [[Kansas]].
+* **[[Kansas]]-[[Nebraska Act]] (1854):** Allowed for [[popular sovereignty]] to decide on the issue of slavery in the territories, leading to violence and bloodshed in [[Kansas]].
 * **Dred Scott v. Sandford (1857):** Supreme Court decision that ruled that slaves were not citizens and had no rights, further dividing the nation. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

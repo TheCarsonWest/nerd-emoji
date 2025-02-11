@@ -1,4 +1,4 @@
-# [[APHG Unit [[2]]
+# [[APHG Unit 2]]
 
 The Epidemiological Transition Model ([[ETM]]) describes the changing patterns of disease and death within a population over time. It closely aligns with the [[Demographic Transition Model]] (DTM), illustrating how population health shifts alongside population growth and development.
 

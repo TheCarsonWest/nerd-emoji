@@ -16,4 +16,4 @@ A monetary system that uses both gold and silver as standards for currency, allo
 * **Panic of 1893:** A severe economic depression partly attributed to the strain on the gold reserve caused by the Sherman Silver Purchase Act. This led to the Act's repeal in 1893.
 * **[[Gold Standard]] Act (1900):**  Officially ended bimetallism and established the gold standard as the sole basis for US currency.  This marked a significant victory for the proponents of a stable, gold-backed currency.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

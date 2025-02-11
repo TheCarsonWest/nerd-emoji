@@ -1,4 +1,4 @@
-# [[[[Endothermic and Exothermic Reactions]]]]
+# [[Endothermic and Exothermic Reactions]]
 # [[Reaction Kinetics]]
 
 **Key Concepts:**

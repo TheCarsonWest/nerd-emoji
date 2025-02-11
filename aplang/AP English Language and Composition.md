@@ -1,5 +1,5 @@
 # [[Rhetorical Analysis]]
-# [[AP English [[Language]] and Composition]] Notes
+# [[AP English Language and Composition]] Notes
 
 **I. Core Components:**
 
@@ -11,7 +11,7 @@
     * **Syntax:** Sentence structure and its effect on rhythm and emphasis.  [[Sentence Structures and Rhetorical Effect]]
     * **Tone:** The author's attitude towards the subject matter.
     * **Imagery:** Vivid descriptions that appeal to the senses. [[Imagery and Sensory Details]]
-    * **Figurative [[Language]]:** Metaphors, similes, personification, etc. [[Figurative [[Language]] Examples]]
+    * **Figurative [[Language]]:** Metaphors, similes, personification, etc. [[Figurative Language Examples]]
 
 * **Argumentation:** Constructing and evaluating arguments.
     * **Claims:** Stating a position clearly.
@@ -37,7 +37,7 @@
 
 * **Practice Essays:** Write multiple practice essays to improve writing skills and time management. [[Practice Essay Prompts]]
 * **Review Materials:** Use past exams and practice materials to familiarize yourself with the exam format and question types. [[AP Lang Exam Review]]
-* **Vocabulary Building:** Expand vocabulary to improve reading and writing comprehension. [[Vocabulary [[Lists]]
+* **Vocabulary Building:** Expand vocabulary to improve reading and writing comprehension. [[Vocabulary Lists]]
 
 
 **IV.  Key Terms and Concepts:**

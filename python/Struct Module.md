@@ -63,5 +63,5 @@ print(packed_data_little_endian)
 
 * [[Format String Syntax]]
 * [[Byte Order and Endianness]]
-* [[Python [[Data Types]]
+* [[Python Data Types]]
 

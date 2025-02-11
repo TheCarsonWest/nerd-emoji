@@ -1,4 +1,4 @@
-# [[Synthesis Essay]] Strategies]]
+# [[Synthesis Essay Strategies]]
 # [[Prompt Analysis Techniques]]
 
 These notes detail various techniques for analyzing prompts, particularly for large language models (LLMs).  The goal is to understand the nuances of a prompt to better control the LLM's output.

@@ -15,4 +15,4 @@ The Continental Army's encampment during the harsh winter of 1777-1778 near [[Va
 * **Public Opinion and Support:** The suffering at [[Valley Forge]], although initially weakening public support in some quarters, ultimately fueled a renewed commitment to the cause of independence amongst many Americans.
 * **Symbolic Representation of Revolutionary Struggle:** [[Valley Forge]] became a powerful symbol of the sacrifices made during the Revolutionary War, representing the perseverance and hardship endured in the pursuit of liberty.
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

@@ -18,4 +18,4 @@ A complex system of trade routes connecting Europe, Africa, and the Americas.  E
 * **Demographic Impact:**  The enormous loss of life among enslaved Africans profoundly affected demographics in both Africa and the Americas.
 * **Moral and Ethical Concerns:** The inhumanity of the slave trade sparked growing abolitionist movements in Europe and the Americas in the 18th and 19th centuries.
 
-# [[IDS Unit [[3]]
+# [[IDS Unit 3]]

@@ -1,5 +1,5 @@
-# [[Exception Handling]] Examples]]
-# [[Python [[Error Handling]] Best Practices]] 
+# [[Exception Handling Examples]]
+# [[Python Error Handling Best Practices]] 
 These notes cover best practices for handling errors in Python.  The goal is to write robust and user-friendly code that gracefully handles unexpected situations.
 
 **Key Concepts:**
@@ -57,7 +57,7 @@ with open("myfile.txt", "r") as f:
 **Related Notes:**
 
 * [[Python Exception Hierarchy]]
-* [[Common [[Python Exceptions]]
+* [[Common Python Exceptions]]
 
 
 

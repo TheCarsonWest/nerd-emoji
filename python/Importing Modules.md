@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Importing Modules]] 
 This note covers importing modules in Python.
 
@@ -53,7 +53,7 @@ import mypackage.module2
 from mypackage import module1, module2
 ```
 
-([[Packages and __init__]].py]])
+([[Packages and __init__.py]])
 
 
 **Relative Imports:**

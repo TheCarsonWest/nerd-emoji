@@ -13,4 +13,4 @@
 * **Rise of American Imperialism:** The fleet's journey coincided with the height of American imperialism, reinforcing the nation's growing presence and involvement in global affairs.  It subtly underscored the growing American interest in Pacific trade and security.
 * **Naval Modernization:** The voyage highlighted the importance of a strong, modern navy and influenced future naval investment and planning.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

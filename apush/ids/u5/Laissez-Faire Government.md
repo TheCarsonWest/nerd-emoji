@@ -18,4 +18,4 @@ A dominant economic and political philosophy during the [[Gilded Age]] character
 * **Corruption:**  The lack of oversight and regulation created opportunities for corruption and bribery in both business and government.
 * **Shifting Attitudes:**  Growing public awareness of the negative consequences of laissez-faire eventually led to calls for greater government regulation and reform, culminating in the Progressive Era.  Examples include the Interstate Commerce Commission (1887) and the Sherman Antitrust Act (1890), which represent early attempts to curb laissez-faire excesses, though their immediate impact was limited.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

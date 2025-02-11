@@ -1,4 +1,4 @@
- [[APHG Unit [[2]]
+ [[APHG Unit 2]]
 
 # [[ESPN]]: List of consequences
 ## E   = Economics (money, currency, trading, etc.)
@@ -9,4 +9,4 @@
 
 ## N   = Nature/ eNvironment (HEI, physical geography)
 
-# [[ESPN]] Example]]
+# [[ESPN Example]]

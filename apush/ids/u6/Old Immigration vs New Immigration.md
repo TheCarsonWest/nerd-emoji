@@ -19,4 +19,4 @@
 * **Cultural Diversity:** While leading to conflict, the New Immigration also enriched American culture, introducing new foods, languages, customs, and artistic expressions.
 * **Political Changes:** The large numbers of new immigrants eventually led to changes in the political landscape, with some immigrant groups gaining political power and influence.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

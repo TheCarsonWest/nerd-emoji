@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Exception Handling]]
 
 Python uses `try`, `except`, `else`, and `finally` blocks to handle exceptions.
@@ -21,7 +21,7 @@ finally:
 
 ```
 
-[[Custom Exceptions]]  ([[Exception Handling]] Examples]])
+[[Custom Exceptions]]  ([[Exception Handling Examples]])
 
 
 **Common Exceptions:**

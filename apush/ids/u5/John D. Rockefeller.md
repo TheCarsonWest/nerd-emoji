@@ -17,4 +17,4 @@
 * **Philanthropy:**  Later in life, Rockefeller became a major philanthropist, donating vast sums of money to education, medicine, and other causes, establishing institutions like the Rockefeller Foundation and University of Chicago.  This philanthropy, however, did not erase the criticisms of his business practices.
 * **Symbol of the [[Gilded Age]]:** Rockefeller embodies both the immense wealth creation and the social and economic inequality of the [[Gilded Age]], serving as a case study of the era's capitalist practices and their consequences.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

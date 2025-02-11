@@ -19,4 +19,4 @@ The completion and opening of the [[Panama Canal]], a waterway connecting the At
 * **Geopolitical Implications:** The canal strengthened the US position in Latin America, solidifying the country's growing influence in the region and causing resentment amongst other countries and fueling anti-American sentiment.
 * **Public Health Advances:** The canal's construction represented a significant undertaking in public health management, as efforts to control diseases like yellow fever and malaria were crucial to its success. This advanced scientific understanding and public health practices.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

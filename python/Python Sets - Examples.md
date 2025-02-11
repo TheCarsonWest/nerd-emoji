@@ -1,6 +1,6 @@
 # [[Python Sets]]
-# [[Python Sets]] - Examples]] 
-This note covers examples of using [[Python Sets]].  Remember to consult [[Python Sets]] - Basics]] for foundational information.
+# [[Python Sets - Examples]] 
+This note covers examples of using [[Python Sets]].  Remember to consult [[Python Sets - Basics]] for foundational information.
 
 **Creating Sets:**
 
@@ -81,4 +81,4 @@ my_set.clear() #Removes all elements from the set
 print(my_set) #Output: set()
 ```
 
-Remember to check out [[Python Sets]] - Advanced Techniques]] for more complex examples and applications.
+Remember to check out [[Python Sets - Advanced Techniques]] for more complex examples and applications.

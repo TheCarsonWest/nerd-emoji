@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Decorators]]  [[Decorators]] are a powerful and expressive feature in Python that allows you to modify or enhance functions and methods in a clean and readable way.  They use the `@` symbol followed by the decorator function name placed above the function definition.
 
 ```python
@@ -47,7 +47,7 @@ Here, `repeat` is a decorator factory – it returns a decorator.
 
 **[[Decorator Factories]]**
 
-**[[Chaining [[Decorators]]**
+**[[Chaining Decorators]]**
 
 
 **Class [[Decorators]]:**

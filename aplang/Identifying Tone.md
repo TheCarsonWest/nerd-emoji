@@ -1,4 +1,4 @@
-# [[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis Techniques]]
 # [[Identifying Tone]]
 
 **Definition:** Tone refers to the author's attitude toward the subject matter and the audience.  It's the emotional coloring of the writing, conveyed through word choice, sentence structure, imagery, and figurative language.
@@ -34,7 +34,7 @@
 
 **Related Notes:**
 
-* [[Figurative [[Language]]
+* [[Figurative Language]]
 * [[Point of View]]
 
 **Example:**

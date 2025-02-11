@@ -18,4 +18,4 @@ The [[Anaconda Plan]] significantly impacted the course of the [[Civil War]]. It
 
 The [[Anaconda Plan]], though initially criticized for its slow pace, proved highly effective in bringing about the Union victory in the [[Civil War]]. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

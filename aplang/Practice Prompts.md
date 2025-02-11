@@ -1,4 +1,4 @@
-# [[Synthesis Essay]] Strategies]]
+# [[Synthesis Essay Strategies]]
 # [[Practice Prompts]]
 
 These notes are for brainstorming and organizing practice prompts.

@@ -7,7 +7,7 @@
 * 1699: French colonists establish the first permanent settlement at Fort Maurepas
 * 1718: New Orleans is founded
 * 1763: [[Louisiana]] becomes a Spanish colony
-* 1800: [[Louisiana]] is acquired by the [[United States]] as part of the [[Louisiana]] Purchase]]
+* 1800: [[Louisiana]] is acquired by the [[United States]] as part of the [[Louisiana Purchase]]
 * 1812: [[Louisiana]] becomes a state
 
 **Important Legislation:**

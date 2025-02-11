@@ -11,4 +11,4 @@ A system of agriculture in which landowners provided land, seed, and tools to te
 * **Political Disenfranchisement:** The lack of economic independence contributed to the disenfranchisement of African Americans, making it harder for them to participate in the political process and fight for their rights.
 * **Legacy of Inequality:** The legacy of sharecropping continues to affect the economic and social disparities between blacks and whites in the South today. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

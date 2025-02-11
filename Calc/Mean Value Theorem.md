@@ -45,7 +45,7 @@ Let $f$ be a function that satisfies the following hypotheses:
 Then there exists a number $c$ in $(a, b)$ such that $f'(c) = 0$.
 
 
-## [[4]].  [[Proof of the [[Mean Value Theorem]]
+## [[4]].  [[Proof of the Mean Value Theorem]]
 
 The [[Mean Value Theorem]] can be proven using [[Rolles Theorem]].  The proof involves constructing an auxiliary function that satisfies the conditions of [[Rolles Theorem]] and then applying [[Rolles Theorem]] to find the point $c$.  The detailed proof is beyond the scope of a concise rundown, but it relies on carefully constructing a line that connects the endpoints of the function and then subtracting that line from the original function to create a new function that satisfies [[Rolles Theorem]].
 

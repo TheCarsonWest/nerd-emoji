@@ -1,4 +1,4 @@
-# [[Synthesis Essay]] Strategies]]
+# [[Synthesis Essay Strategies]]
 # [[Citation Formatting]]
 
 This note covers the basics of citation formatting, focusing on different styles.  I'll need to create separate notes for specific style guides.

@@ -41,7 +41,7 @@ c = a + b #This will raise a ValueError
 a = np.array([[1]],[[2]],[[3]]],[[[4]],[[5]],[[6]])
 b = np.array([[1]]],[[[2]])
 c = a + b
-print(c) # Output: [[2]] [[3]] [[4]]],[[[6]] [[7]] 8]]
+print(c) # Output: [[2]] [[3]] [[4]]],[[[6]] [[7 8]]
 
 ```
 

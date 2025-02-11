@@ -54,7 +54,7 @@ except json.JSONDecodeError as e:
 
 ```
 
-[[Error Handling]] in Python]]  ([[JSON Data Structures]])
+[[Error Handling in Python]]  ([[JSON Data Structures]])
 
 
 **Special Considerations:**

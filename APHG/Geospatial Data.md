@@ -1,4 +1,4 @@
- [[APHG Unit [[1]]
+ [[APHG Unit 1]]
 
 * Information linked to specific places
 * Includes locations, human activities, and traits

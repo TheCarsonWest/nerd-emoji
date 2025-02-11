@@ -33,7 +33,7 @@ The overall reaction order is the sum of *m* and *n*.
 Several methods are used to determine the reaction order:
 
 * **Method of Initial Rates:**  [[Method of Initial Rates]] This involves running multiple experiments with varying initial concentrations of reactants and measuring the initial rate for each.  By comparing how the rate changes with concentration, the orders can be determined.
-* **Integrated [[Rate Laws]]:** [[Integrated [[Rate Laws]]  These equations relate the concentration of a reactant to time. By plotting concentration vs. time data in various forms (e.g., ln[A] vs. time for a first-order reaction), the order can be determined from the linearity of the plot.
+* **Integrated [[Rate Laws]]:** [[Integrated Rate Laws]]  These equations relate the concentration of a reactant to time. By plotting concentration vs. time data in various forms (e.g., ln[A] vs. time for a first-order reaction), the order can be determined from the linearity of the plot.
 * **Half-life Method:** [[Half-life]] The half-life of a reaction is the time it takes for the concentration of a reactant to decrease by half.  The relationship between half-life and initial concentration is indicative of the reaction order.
 
 

@@ -1,4 +1,4 @@
-# [[Mutable vs [[Immutable Types]]
+# [[Mutable vs Immutable Types]]
 # Mutable Types: Deeper Dive
 
 [[Mutable Objects in Python]] are those whose internal state can be changed after creation.  This contrasts with immutable objects, where the value remains constant throughout its lifetime.  Understanding mutability is crucial for avoiding unexpected behavior and writing efficient code.

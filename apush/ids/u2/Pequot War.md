@@ -16,4 +16,4 @@ A series of violent conflicts between the Pequot tribe and English colonists in 
 * **Legal Precedents:** The war contributed to the development of colonial legal structures concerning land ownership and relations with Indigenous populations.
 
 
-# [[IDS Unit [[1]]
+# [[IDS Unit 1]]

@@ -15,7 +15,7 @@ The rate of a reaction is directly proportional to the number of collisions per 
 
 Even if particles collide frequently, not all collisions lead to a reaction.  A minimum amount of energy, called the [[Activation Energy]] ($E_a$), is required to break existing bonds and form new ones.  This energy is needed to overcome the energy barrier separating reactants and products.  Particles must possess at least $E_a$ in kinetic energy for a successful collision.
 
-[[Activation Energy]] Diagram]]
+[[Activation Energy Diagram]]
 
 ## [[3]]. Orientation
 

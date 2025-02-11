@@ -26,4 +26,4 @@ y = x^[[2]]
 y - [[1]] = [[2]](x-[[1]])
 ```
 
-# [[Test for the Accuracy of [[Local Linearity]]
+# [[Test for the Accuracy of Local Linearity]]

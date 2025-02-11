@@ -1,4 +1,4 @@
-# [[Synthesis Essay]] Strategies]]
+# [[Synthesis Essay Strategies]]
 # [[Thesis Statement Construction]]
 
 **Definition:** A thesis statement is a concise summary of the main point or claim of an essay, research paper, or other written work.  It typically appears at the end of the introductory paragraph and acts as a roadmap for the entire piece.

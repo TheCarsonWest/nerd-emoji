@@ -9,7 +9,7 @@
     *   Refine searches using Boolean operators (AND, OR, NOT).
     *   Explore Google Scholar and other academic search engines.
 *   **Evaluating Sources:**
-    *   Assess the credibility of sources: author expertise, publication date, publisher reputation, bias detection. [[Source Credibility]] Assessment]]
+    *   Assess the credibility of sources: author expertise, publication date, publisher reputation, bias detection. [[Source Credibility Assessment]]
     *   Identify primary vs. secondary sources. [[Primary vs. Secondary Sources]]
     *   Check for peer review.
 
@@ -57,7 +57,7 @@
 
 * [[Database Search Strategies]]
 * [[Keyword Research Techniques]]
-* [[Source Credibility]] Assessment]]
+* [[Source Credibility Assessment]]
 * [[Primary vs. Secondary Sources]]
 * [[Paraphrasing and Summarizing Techniques]]
 * [[Citation Management Tools]]

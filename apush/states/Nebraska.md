@@ -1,7 +1,7 @@
 **[[Nebraska]]: A Timeline of Key Events**
 
 **Pre-1867**
-* 1803: [[Louisiana]] Purchase]] includes [[Nebraska]]
+* 1803: [[Louisiana Purchase]] includes [[Nebraska]]
 * 1804: Lewis and Clark Expedition explores [[Nebraska]]
 * 1820: [[Missouri]] Compromise designates [[Nebraska]] as a slave territory
 * 1854: [[Kansas]]-[[Nebraska]] Act creates [[Nebraska]] Territory

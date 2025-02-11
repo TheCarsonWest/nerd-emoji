@@ -1,4 +1,4 @@
-# [[[[Acids and Bases]]]]
+# [[Acids and Bases]]
 # [[Acid Dissociation Constant]]
 
 The acid dissociation constant, $K_a$, is a quantitative measure of the strength of an acid in solution.  It represents the equilibrium constant for the dissociation of an acid, HA, into its conjugate base, $A^-$, and a proton, $H^+$.
@@ -13,7 +13,7 @@ where $[H^+]$, $[A^-]$, and $[HA]$ represent the equilibrium concentrations of t
 
 A larger $K_a$ value indicates a stronger acid, meaning it dissociates more readily.  A smaller $K_a$ value indicates a weaker acid.  $pK_a$, which is defined as $pK_a = -\log_{10} K_a$, is often used instead of $K_a$ because it is easier to manage numerically.  A smaller $pK_a$ value indicates a stronger acid.
 
-[[Weak Acids and Bases]]]]  These notes will cover the characteristics of weak acids and bases and how to calculate their pH using the $K_a$ and $K_b$ values.  This will include ICE tables and approximations.
+[[Weak Acids and Bases]]  These notes will cover the characteristics of weak acids and bases and how to calculate their pH using the $K_a$ and $K_b$ values.  This will include ICE tables and approximations.
 
 [[Polyprotic Acids]]  This will focus on acids that can donate more than one proton and how to calculate the different $K_a$ values and their influence on pH.
 

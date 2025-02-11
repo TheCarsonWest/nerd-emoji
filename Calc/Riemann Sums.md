@@ -54,7 +54,7 @@ $\lim_{n \to \infty} \sum_{i=[[1]]}^{n} f(x_i^*) \Delta x = \int_a^b f(x) dx$
 This is the fundamental theorem of calculus, connecting the concept of Riemann sums to the process of integration.
 
 
-## [[Applications of [[Riemann Sums]]
+## [[Applications of Riemann Sums]]
 
 Riemann sums are not just theoretical tools; they have practical applications in various fields, including:
 

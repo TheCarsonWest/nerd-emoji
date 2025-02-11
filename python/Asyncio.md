@@ -1,4 +1,4 @@
-# [[Async [[Generators]]
+# [[Async Generators]]
 # [[Asyncio]] Notes
 
 [[Asyncio]] is Python's built-in library for asynchronous programming.  It allows you to write concurrent code using the `async` and `await` keywords.  This is particularly useful for I/O-bound operations (like network requests or file operations) where you don't want your program to block while waiting for a response.
@@ -76,4 +76,4 @@ async def main():
 asyncio.run(main())
 ```
 
-[[Advanced [[Asyncio]] Techniques]]  [[Asyncio]] and Databases]] [[Asyncio]] and Web Servers]]
+[[Advanced Asyncio Techniques]]  [[Asyncio and Databases]] [[Asyncio and Web Servers]]

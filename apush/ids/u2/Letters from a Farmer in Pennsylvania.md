@@ -1,4 +1,4 @@
-## ID: [[Letters from a Farmer in [[Pennsylvania]] 
+## ID: [[Letters from a Farmer in Pennsylvania]] 
 ## When: 1767-1768
 
 ## Who: 
@@ -15,4 +15,4 @@ A series of twelve essays published anonymously in the *[[Pennsylvania]] Chronic
 * **Precursor to Revolution:** While advocating for peaceful means, the essays contributed significantly to the growing tensions between [[Great Britain]] and its American colonies, paving the way for the American Revolution.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

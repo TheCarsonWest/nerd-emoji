@@ -1,5 +1,5 @@
-# [[AP English [[Language]] and Composition]]
-# [[Synthesis Essay]] Strategies]]
+# [[AP English Language and Composition]]
+# [[Synthesis Essay Strategies]]
 
 **I. Understanding the Prompt:**
 
@@ -49,4 +49,4 @@
 * Practice writing synthesis essays using different prompts and sources.  Seek feedback from peers and instructors to improve your writing skills. [[Practice Prompts]]
 
 
-[[Synthesis Essay]] Examples]]
+[[Synthesis Essay Examples]]

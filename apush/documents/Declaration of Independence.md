@@ -25,7 +25,7 @@
 
 * The Declaration bolstered American morale and cemented the colonies' resolve for independence.
 * It sparked diplomatic support from [[France]] and other European powers.
-* It led to the Declaration of Rights and Freedoms, which became the [[Bill of Rights]] in the [[Constitution of the [[United States]].
+* It led to the Declaration of Rights and Freedoms, which became the [[Bill of Rights]] in the [[Constitution of the United States]].
 
 **Long-Term Impact:**
 

@@ -17,4 +17,4 @@ Two decisive battles of the American Revolutionary War fought near Saratoga, [[N
 * **International Recognition:** The Saratoga campaign is crucial in understanding the shift from a colonial rebellion to an internationally recognized war of independence.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

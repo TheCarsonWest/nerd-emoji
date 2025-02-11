@@ -13,4 +13,4 @@
 * **Limited Progress:** Although it promoted economic growth within the Black community in certain areas, the emphasis on accommodation ultimately did little to challenge segregation and disenfranchisement.  The compromise, however, did achieve a degree of acceptance by white Southerners, which for some, was a victory in itself.
 * **Long-Term Debate:** The [[Atlanta Compromise]] fueled a significant debate within the African American community regarding the best path toward equality, setting the stage for future civil rights struggles.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

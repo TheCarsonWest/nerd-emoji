@@ -1,5 +1,5 @@
-# [[AP English [[Language]] and Composition]]
-# [[Vocabulary [[Lists]]
+# [[AP English Language and Composition]]
+# [[Vocabulary Lists]]
 
 **Goal:** Create effective and efficient vocabulary learning systems.
 

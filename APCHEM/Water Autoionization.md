@@ -1,4 +1,4 @@
-# [[[[Equilibrium]] Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]]]
 # [[Water Autoionization]]
 
 Water undergoes autoionization, meaning it reacts with itself to a small extent to produce hydronium ($H_3O^+$) and hydroxide ($OH^-$) ions.

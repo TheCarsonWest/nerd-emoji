@@ -65,7 +65,7 @@ Local extrema occur at critical points.  The first [[derivative]] test helps det
 y = x^[[3]] - 3x
 ```
 
-[[Second [[Derivative]] Test]]  The second [[derivative]] test provides an alternative method to classify critical points.  It's often easier than the first [[derivative]] test but has limitations.
+[[Second Derivative Test]]  The second [[derivative]] test provides an alternative method to classify critical points.  It's often easier than the first [[derivative]] test but has limitations.
 
 ## [[4]]. Concavity and [[Inflection Points]]
 

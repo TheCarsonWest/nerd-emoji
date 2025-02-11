@@ -1,4 +1,4 @@
-# [[Mutable vs [[Immutable Types]]
+# [[Mutable vs Immutable Types]]
 # [[Common Pitfalls with Mutability and Immutability]] 
 Mutable vs. Immutable types:  A core concept in Python. Understanding this is crucial to avoid unexpected behavior.
 

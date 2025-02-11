@@ -26,9 +26,9 @@ Notes on comma usage.
 
 * **[[Commas]] with coordinating adjectives:** Use commas between coordinating adjectives (adjectives that equally modify the noun). Example:  The tall, dark stranger entered the room.  (But *not* "the tall dark brown horse"—the adjectives are not equally modifying the noun)
 
-* **[[Commas]] and quotations:** Comma placement with direct quotations. [[Commas]] and Quotations]]
+* **[[Commas]] and quotations:** Comma placement with direct quotations. [[Commas and Quotations]]
 
-* **[[Commas]] in complex sentences:**  [[Commas]] with multiple clauses and phrases. [[Complex Sentence [[Commas]]
+* **[[Commas]] in complex sentences:**  [[Commas]] with multiple clauses and phrases. [[Complex Sentence Commas]]
 
 
 **Equations (Illustrative, not directly related to commas):**

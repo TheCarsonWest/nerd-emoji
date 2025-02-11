@@ -51,6 +51,6 @@ To effectively analyze a piece of writing or speech, consider:
 **IV.  Further Exploration**
 
 * [[Ethos, Pathos, Logos]]
-* [[Rhetorical Analysis]] Examples]]
+* [[Rhetorical Analysis Examples]]
 * [[Common Fallacies]]  (to avoid using flawed reasoning)
 

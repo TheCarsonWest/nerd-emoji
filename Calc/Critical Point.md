@@ -56,9 +56,9 @@ Thus, $x = -[[1]]$ is a local maximum, and $x = [[1]]$ is a local minimum.
 y = x^[[3]] - 3x
 ```
 
-[[First [[Derivative]] Test]]
+[[First Derivative Test]]
 
-[[Second [[Derivative]] Test]]
+[[Second Derivative Test]]
 
 
 ## Classifying Critical Points: The Second [[Derivative]] Test

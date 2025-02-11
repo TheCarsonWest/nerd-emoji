@@ -1,7 +1,7 @@
 **Roles:**
 
 * Second [[POTUS]] (1797-1801)
-* Vice President under [[George [[Washington]] (1789-1797)
+* Vice President under [[George Washington]] (1789-1797)
 * Diplomat during the American Revolution
 * Founding Father
 

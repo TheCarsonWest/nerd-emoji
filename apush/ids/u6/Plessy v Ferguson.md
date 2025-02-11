@@ -16,4 +16,4 @@ This Supreme Court case challenged the constitutionality of [[Louisiana]]'s Sepa
 * **Long-Term Social and Political Consequences:** The ruling fueled racial tensions, contributed to the rise of the NAACP (National Association for the Advancement of Colored People), and shaped the civil rights movement of the 20th century. The case became a major target of legal challenges and activism in later decades.  It's a crucial landmark case demonstrating the limitations of legal recourse for African Americans in the late 19th Century.
 * **Symbolic Impact:** Plessy v. Ferguson represents the judicial endorsement of racial segregation and its lasting impact on American society. The legacy of this decision continues to be debated and analyzed.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

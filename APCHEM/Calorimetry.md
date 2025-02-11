@@ -1,4 +1,4 @@
-# [[[[Endothermic and Exothermic Reactions]]]]
+# [[Endothermic and Exothermic Reactions]]
 # [[Calorimetry]]
 
 **Definition:** [[Calorimetry]] is the science of measuring the heat of chemical reactions or physical changes.  It's based on the principle of heat transfer: heat lost by one system equals heat gained by another.
@@ -15,7 +15,7 @@
 
 * **Types of [[Calorimetry]]:**
     * **Constant-pressure calorimetry (coffee-cup calorimeter):**  Used for reactions at atmospheric pressure. Heat exchanged is approximately equal to the change in enthalpy ($\Delta H$).
-    * **Constant-volume calorimetry (bomb calorimeter):** Used for combustion reactions.  Heat exchanged is related to the change in internal energy ($\Delta U$).  [[Bomb Calorimetry]]]]
+    * **Constant-volume calorimetry (bomb calorimeter):** Used for combustion reactions.  Heat exchanged is related to the change in internal energy ($\Delta U$).  [[Bomb Calorimetry]]
 
 
 **Equations:**
@@ -33,7 +33,7 @@
 
 **Related Notes:**
 
-* [[Bomb Calorimetry]]]]
+* [[Bomb Calorimetry]]
 * [[Thermochemistry]]  (This will cover enthalpy, entropy, Gibbs free energy, etc.)
 * [[First Law of Thermodynamics]]
 

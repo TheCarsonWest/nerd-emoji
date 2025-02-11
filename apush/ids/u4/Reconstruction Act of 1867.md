@@ -3,7 +3,7 @@
 ## When: March [[2]], 1867
 
 ## Who: 
-* **Congress:** The [[Radical [[Republicans]] in Congress, led by figures like Thaddeus Stevens and Charles Sumner, were the primary force behind the act.
+* **Congress:** The [[Radical Republicans]] in Congress, led by figures like Thaddeus Stevens and Charles Sumner, were the primary force behind the act.
 * **President [[Andrew Johnson]]:** He strongly opposed the act and vetoed it, but Congress overrode his veto.
 
 ## What: 
@@ -18,4 +18,4 @@ The Reconstruction Act had a profound impact on the South:
 * **Increased Conflict:** The act significantly increased tensions between the North and South, leading to violent resistance from white Southerners. 
 * **Legacy:**  The Reconstruction Act laid the groundwork for the advancement of civil rights for African Americans, but it also led to the rise of white supremacist organizations that would ultimately undermine the efforts of Reconstruction. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

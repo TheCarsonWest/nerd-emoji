@@ -15,9 +15,9 @@ def my_function(param1, param2):
 
 ```
 
-[[Function Parameters]] and Arguments]]
+[[Function Parameters and Arguments]]
 
-[[Function [[Return Values]]
+[[Function Return Values]]
 
 **Calling Functions:**
 
@@ -53,12 +53,12 @@ print(square([[5]])) # Prints 25
 
 **Recursive Functions:**
 
-Functions that call themselves.  They must have a base case to avoid infinite [[Recursion]]. [[Recursion]] in Python]]
+Functions that call themselves.  They must have a base case to avoid infinite [[Recursion]]. [[Recursion in Python]]
 
 
 **[[Decorators]]:**
 
-A powerful technique for modifying or enhancing functions without changing their core functionality.  They use the `@` symbol. [[Python [[Decorators]]
+A powerful technique for modifying or enhancing functions without changing their core functionality.  They use the `@` symbol. [[Python Decorators]]
 
 **Higher-Order Functions:**
 
@@ -67,11 +67,11 @@ Functions that take other functions as arguments or return functions as results.
 
 **Pre-existing Notes:**
 
-* [[Function Parameters]] and Arguments]]
-* [[Function [[Return Values]]
+* [[Function Parameters and Arguments]]
+* [[Function Return Values]]
 * [[Variable Length Arguments in Python]]
 * [[Variable Scope and Lifetime]]
-* [[Recursion]] in Python]]
-* [[Python [[Decorators]]
+* [[Recursion in Python]]
+* [[Python Decorators]]
 * [[Higher-Order Functions]]
 

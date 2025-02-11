@@ -14,4 +14,4 @@ The [[First Continental Congress]] was a meeting of delegates from twelve of the
 * **Show of Colonial Unity:**  The Congress demonstrated a significant level of intercolonial cooperation and coordination, foreshadowing the eventual move towards independence. The very act of convening represented a powerful challenge to British authority.
 * **Shift in Colonial Sentiment:** The Congress marked a crucial shift in colonial sentiment. While not initially advocating for independence, it set the stage for more radical actions in the coming years.
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

@@ -1,5 +1,5 @@
 # [[Thermodynamics]]
-# [[Heat]] of Vaporization]]
+# [[Heat of Vaporization]]
 
 The heat of vaporization ($\Delta H_{vap}$), also known as the enthalpy of vaporization, is the amount of heat energy required to change one mole of a substance from its liquid phase to its gaseous phase at a constant temperature and pressure (usually the boiling point).  This is an endothermic process, meaning heat is absorbed by the substance.
 
@@ -7,7 +7,7 @@ The heat of vaporization ($\Delta H_{vap}$), also known as the enthalpy of vapor
 
 Vaporization involves overcoming the [[intermolecular forces]] holding liquid molecules together.  In liquids, these forces ([[Intermolecular Forces]]) – such as hydrogen bonding, [[dipole]]-[[dipole]] interactions, and London dispersion forces – restrict the movement of molecules.  To transition to the gaseous phase, enough energy must be supplied to overcome these attractions and allow molecules to escape the liquid's surface.  The stronger the [[intermolecular forces]], the more energy is required, and thus the higher the heat of vaporization.
 
-##  Factors Affecting [[Heat]] of Vaporization]]
+##  Factors Affecting [[Heat of Vaporization]]
 
 Several factors influence the heat of vaporization:
 
@@ -19,7 +19,7 @@ Several factors influence the heat of vaporization:
 
 * **Pressure:** The heat of vaporization is affected by pressure. However, this effect is typically small and often ignored unless explicitly stated in a problem.
 
-## Calculating [[Heat]] of Vaporization]]
+## Calculating [[Heat of Vaporization]]
 
 The heat absorbed during vaporization can be calculated using the following equation:
 
@@ -31,7 +31,7 @@ Where:
 * $n$ is the number of moles of the substance
 * $\Delta H_{vap}$ is the molar heat of vaporization (in [[J]]/mol or kJ/mol)
 
-[[Thermodynamics]] and q=mcΔT]]: This equation is different from the equation used to calculate the heat transferred during temperature changes ($q = mc\Delta T$). Remember to use the appropriate equation depending on whether a phase change is occurring.
+[[Thermodynamics and q=mcΔT]]: This equation is different from the equation used to calculate the heat transferred during temperature changes ($q = mc\Delta T$). Remember to use the appropriate equation depending on whether a phase change is occurring.
 
 ##  Clausius-Clapeyron Equation
 

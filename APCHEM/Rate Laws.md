@@ -36,7 +36,7 @@ There are several methods to determine rate laws experimentally:
 
 * **Method of Initial Rates:** [[Method of Initial Rates]] This method uses initial [[Reaction Rates]] measured under different initial reactant concentrations.  By comparing the changes in rate with changes in concentration, the reaction orders can be determined.
 
-* **Integrated [[Rate Laws]]:** [[Integrated [[Rate Laws]] These laws relate concentration to time.  By plotting experimental data according to the integrated rate laws for different orders, the correct order can be identified by the linear plot.
+* **Integrated [[Rate Laws]]:** [[Integrated Rate Laws]] These laws relate concentration to time.  By plotting experimental data according to the integrated rate laws for different orders, the correct order can be identified by the linear plot.
 
 * **Graphical Methods:**  Analyzing plots of concentration versus time can help determine the reaction order.  For example, a plot of ln[A] vs. time yields a straight line for a first-order reaction.
 

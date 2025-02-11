@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Pathos and Emotional Appeals]]
 
 **Definition:** Pathos refers to the use of emotional appeals to persuade an audience.  It's about connecting with the reader or listener on a human level, evoking feelings that make them more receptive to the argument.  It's not about manipulating emotions, but about using them ethically and effectively to strengthen a persuasive message.
@@ -29,7 +29,7 @@
 **Techniques:**
 
 * [[Using Anecdotes Effectively]]
-* [[Employing Vivid [[Language]]
+* [[Employing Vivid Language]]
 * [[Creating a Sense of Urgency]]
 * [[Evoking Nostalgia]]
 

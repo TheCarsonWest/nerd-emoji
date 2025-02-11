@@ -1,4 +1,4 @@
-[[Derivative]] Rules]]
+[[Derivative Rules]]
 
 
 # $$ \frac{d}{dx} f^{-[[1]]}(x) = \frac{[[1]]}{f'(f^{-[[1]]}(x))} $$

@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Imagery and Sensory Details]]
 
 This note covers the use of imagery and sensory details in writing.  The goal is to create vivid and engaging descriptions that appeal to the reader's senses.
@@ -38,7 +38,7 @@ This note covers the use of imagery and sensory details in writing.  The goal is
 
 **Further Notes:**
 
-* [[Figurative [[Language]]
+* [[Figurative Language]]
 * [[Mood and Atmosphere]]
 * [[Character Development]]
 

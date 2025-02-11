@@ -15,4 +15,4 @@ A Supreme Court case stemming from President Jefferson's refusal to deliver comm
 * **Strengthened the Judicial Branch:** The decision dramatically increased the power and influence of the judicial branch, making it an equal branch of government to the legislative and executive branches.
 * **Long-Term Impact:** Marbury v. Madison remains a cornerstone of American government, ensuring a balance of power and safeguarding the Constitution. 
 
-# [[IDS Unit [[3]]
+# [[IDS Unit 3]]

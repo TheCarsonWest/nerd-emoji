@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Counterarguments and Rebuttals]]
 
 **Goal:**  Develop effective strategies for addressing opposing viewpoints and strengthening arguments.

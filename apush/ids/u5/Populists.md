@@ -18,4 +18,4 @@ A political movement representing agrarian interests, primarily farmers, that so
 * **Election of 1896:** William Jennings Bryan, representing the fusion of [[Populists]] and [[Democrats]], ran for president but lost to [[William McKinley]]. This defeat marked the end of the [[Populist Party]] as a major force, but many of its goals influenced later political movements.
 * **Legacy of Reform:** Although ultimately unsuccessful in achieving all of their goals, the [[Populists]] helped to lay the groundwork for future progressive reforms and the expansion of democracy.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

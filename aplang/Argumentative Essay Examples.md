@@ -1,5 +1,5 @@
-# [[Argumentative Essay]] Structure]]
-# [[Argumentative Essay]] Examples]]
+# [[Argumentative Essay Structure]]
+# [[Argumentative Essay Examples]]
 
 **Goal:**  Compile examples and analyze their structure, strengths, and weaknesses.  This will inform my own essay writing.
 
@@ -7,7 +7,7 @@
 
 * **Classical Argument:**  Thesis statement, background, lines of argumentation (with evidence and refutation of counterarguments), conclusion.  [[Classical Argument Structure]]
 * **Rogerian Argument:** Finding common ground, acknowledging opposing viewpoints, then presenting your own perspective as a reasonable compromise. [[Rogerian Argument Examples]]
-* **Toulmin Argument:**  Claim, data, warrant, backing, qualifier, rebuttal.  [[Toulmin Model]] Deep Dive]]
+* **Toulmin Argument:**  Claim, data, warrant, backing, qualifier, rebuttal.  [[Toulmin Model Deep Dive]]
 
 **Examples to Analyze:**
 

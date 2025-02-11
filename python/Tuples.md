@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Tuples]]  [[Tuples]] are ordered, immutable [[Sequences]] of items.  This immutability is a key difference from [[Lists]].
 
 * **Creation:**
@@ -40,5 +40,5 @@ print(a, b, c)  # Output: [[1]] [[2]] [[3]]
 
 
 [[Lists]]
-[[Mutable vs [[Immutable Types]]
+[[Mutable vs Immutable Types]]
 

@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Lambda Functions]] 
 Lambda functions are small, anonymous functions defined using the `lambda` keyword.  They are useful for short, simple operations that don't require a full function definition.
 

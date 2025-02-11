@@ -41,4 +41,4 @@ match = re.findall(r"[^abc]", "abc^def") #Output: ['^']
 
 ```
 
-[[Character Classes]]  ([[Escape [[Sequences]]) [[Regex Quantifiers]]
+[[Character Classes]]  ([[Escape Sequences]]) [[Regex Quantifiers]]

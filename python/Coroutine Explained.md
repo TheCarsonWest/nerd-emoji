@@ -1,4 +1,4 @@
-# [[Async [[Generators]]
+# [[Async Generators]]
 # [[Coroutine Explained]] 
 A coroutine is a specialized type of function that can be paused and resumed at various points.  Unlike regular functions which run to completion, coroutines can yield control back to the caller, and later resume execution from where they left off.  This is achieved using the `async` and `await` keywords (introduced in Python [[3]].[[5]]).
 
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-[[Asyncio]] Explained]]  This example uses `asyncio.sleep`, which is an asynchronous version of `time.sleep`.  The `asyncio` library is fundamental to working with coroutines effectively.  More details should be in [[Asyncio]] Explained]].
+[[Asyncio Explained]]  This example uses `asyncio.sleep`, which is an asynchronous version of `time.sleep`.  The `asyncio` library is fundamental to working with coroutines effectively.  More details should be in [[Asyncio Explained]].
 
 [[await Explained]]  Further explanation of the `await` keyword and its behaviour, particularly the implications of using it with different kinds of asynchronous objects is needed in [[await Explained]].
 

@@ -1,4 +1,4 @@
-# [[[[Equilibrium]] Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]]]
 # [[Approximation Techniques]] in AP Chemistry
 
 These notes cover approximation techniques useful in solving AP Chemistry problems where exact solutions are impractical or unnecessary.  Often, we make approximations to simplify calculations and focus on the dominant factors affecting a system.
@@ -20,9 +20,9 @@ $K_a = \frac{[H^+][A^-]}{[HA]} \approx \frac{x^2}{[HA]_{initial}}$
 This simplifies the quadratic equation significantly.  Always check the validity of this assumption by calculating the percent error. If the percent error is below 5%, the approximation is generally considered valid.  [[Small x Approximation Validity]]
 
 
-**3.  Assumptions in [[[[Equilibrium]] Calculations]]:**
+**3.  Assumptions in [[Equilibrium Calculations]]:**
 
-* **Neglecting the autoionization of water:**  In many cases, the contribution of water to the $H^+$ or $OH^-$ concentration can be ignored, particularly when strong acids or bases are involved.  However, this assumption should be checked carefully, especially in calculations involving weak acids or bases.  [[[[Equilibrium]] Calculations]] Assumptions]]
+* **Neglecting the autoionization of water:**  In many cases, the contribution of water to the $H^+$ or $OH^-$ concentration can be ignored, particularly when strong acids or bases are involved.  However, this assumption should be checked carefully, especially in calculations involving weak acids or bases.  [[Equilibrium Calculations]] Assumptions]]
 
 * **Assuming complete dissociation:** Strong acids and bases are assumed to dissociate completely in water. [[Strong Acid/Base Dissociation]]
 
@@ -46,7 +46,7 @@ For more complex problems, iterative methods can be employed to obtain progressi
 **Linked Notes:**
 
 * [[Small x Approximation Validity]]
-* [[[[Equilibrium]] Calculations]] Assumptions]]
+* [[Equilibrium Calculations]] Assumptions]]
 * [[Strong Acid/Base Dissociation]]
 * [[Activity Coefficients]]
 * [[Graphical Analysis of Kinetic Data]]

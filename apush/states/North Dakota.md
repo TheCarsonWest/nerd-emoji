@@ -2,7 +2,7 @@
 
 **Pre-Statehood**
 
-* 1803: [[Louisiana]] Purchase]] includes the present-day territory of [[North Dakota]].
+* 1803: [[Louisiana Purchase]] includes the present-day territory of [[North Dakota]].
 * 1861-1865: Dakota Territory, which includes [[North Dakota]], remains loyal to the Union during the [[Civil War]].
 
 **Statehood and Early History**

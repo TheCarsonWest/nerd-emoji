@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Close Reading Strategies]]
 
 **Goal:** To deeply understand a text by carefully analyzing its meaning and structure.
@@ -11,12 +11,12 @@
 
 * **Analyze Structure:** How is the text organized?  Are there distinct sections or paragraphs? How do these sections relate to each other? Consider the use of headings, subheadings, and transitions.
 
-* **Examine [[Diction and Tone]]:** Pay close attention to the author's word choice.  What kind of language is used (formal, informal, technical)?  What is the overall tone (serious, humorous, sarcastic)?  How does diction contribute to the meaning and effect of the text? [[Diction and Tone]] Analysis]]
+* **Examine [[Diction and Tone]]:** Pay close attention to the author's word choice.  What kind of language is used (formal, informal, technical)?  What is the overall tone (serious, humorous, sarcastic)?  How does diction contribute to the meaning and effect of the text? [[Diction and Tone Analysis]]
 
 * **Contextualize:** Understand the historical, social, and cultural context in which the text was written. This includes considering the author's background and intended audience. [[Contextual Analysis]]
 
 
-* **Identify Figurative [[Language]]:** Look for metaphors, similes, personification, etc.  What effect do these literary devices have on the meaning and impact of the text? $metaphor = \frac{A}{B}$ where A is the subject and B is the object of comparison [[Figurative [[Language]]
+* **Identify Figurative [[Language]]:** Look for metaphors, similes, personification, etc.  What effect do these literary devices have on the meaning and impact of the text? $metaphor = \frac{A}{B}$ where A is the subject and B is the object of comparison [[Figurative Language]]
 
 
 * **Analyze Argumentation:** If the text presents an argument, analyze the evidence and reasoning used to support it. Is the argument convincing? What are the strengths and weaknesses of the argument? [[Argument Analysis]]

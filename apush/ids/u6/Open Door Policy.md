@@ -17,4 +17,4 @@ A set of principles proposed by the US to ensure equal trade access for all coun
 * **Foundation for future conflicts:** The [[Open Door Policy]]'s failure to truly create equal access and its contribution to Chinese instability helped fuel further international competition and tension in the region, ultimately contributing to the rise of Japanese militarism and the Second Sino-Japanese War, events that had significant global consequences.
 * **Precursor to Cold War tensions:** The competition for influence in China, partially fueled by the policy's inherent limitations, laid the foundation for later Cold War competition between the [[United States]] and the Soviet Union in the region.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

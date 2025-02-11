@@ -14,4 +14,4 @@ A novel exposing the appalling working conditions in the Chicago meatpacking ind
 * **Rise of Muckrakers:** The book's success solidified the role of investigative journalism ("muckraking") in exposing social and political ills and influencing public policy.
 * **Shift in consumer attitudes:** The novel fostered increased consumer demand for safer and more ethically produced food, impacting the meatpacking industry and the broader food industry.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

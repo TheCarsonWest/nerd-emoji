@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Recommended Reading List]] Notes
 
 This note covers creating a recommended reading list.
@@ -37,7 +37,7 @@ This note covers creating a recommended reading list.
 
 **Important Considerations:**
 
-* **Target Audience:** Who is this reading list for? Beginners? Experts? Students?  This dictates the difficulty and scope of the books included. [[Target [[Audience Analysis]]
+* **Target Audience:** Who is this reading list for? Beginners? Experts? Students?  This dictates the difficulty and scope of the books included. [[Target Audience Analysis]]
 * **Topic Specificity:** How focused is the topic?  A broad topic requires a more diverse and extensive list. [[Topic Refinement]]
 * **Bias:** Strive for a balanced and diverse selection of books.  Avoid favoring a particular viewpoint unless explicitly stated. [[Bias Mitigation]]
 

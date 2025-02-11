@@ -15,4 +15,4 @@ A royal proclamation issued by the British government following [[Great Britain]
 * **Westward expansion delayed, not stopped:** Although intended to limit westward expansion, the Proclamation ultimately proved ineffective in stopping it. It merely delayed the process, setting the stage for future conflicts and struggles over land.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

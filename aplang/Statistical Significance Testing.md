@@ -1,5 +1,5 @@
 # [[Source Analysis Techniques]]
-# [[Statistical Significance]] Testing]]
+# [[Statistical Significance Testing]]
 
 **Goal:** Determine if observed results are likely due to chance or a real effect.
 

@@ -16,4 +16,4 @@ Germany's policy of unrestricted submarine warfare during World War I involved a
 * **Shift in War's Balance:**  The entry of the [[United States]] dramatically altered the balance of power in favor of the Allies, providing vital manpower, resources, and financial support.
 * **Long-Term Consequences:**  The war and its aftermath profoundly affected American foreign policy, leading to increased involvement in international affairs and shaping the nation's role in the 20th century.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

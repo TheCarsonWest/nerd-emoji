@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[File Handling]] 
 Key aspects to remember about file handling in Python:
 

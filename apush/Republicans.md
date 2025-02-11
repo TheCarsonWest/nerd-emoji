@@ -7,7 +7,7 @@ The Republican Party, also known as the GOP (Grand Old Party), is one of the two
 
 The Republican Party emerged in the 1850s as a coalition opposing the expansion of slavery into new territories.  This anti-slavery stance, coupled with appeals to economic modernization and westward expansion, attracted a diverse base including abolitionists, free-soil advocates, and some Whigs.  Key events and figures from this period include:
 
-* **1854:** Formation of the Republican Party, fueled by the [[Kansas]]-[[Nebraska]] Act, which allowed for [[popular sovereignty]] on the slavery question and led to violent conflict ("[[Bleeding [[Kansas]]").
+* **1854:** Formation of the Republican Party, fueled by the [[Kansas]]-[[Nebraska]] Act, which allowed for [[popular sovereignty]] on the slavery question and led to violent conflict ("[[Bleeding Kansas]]").
 * **1860:** [[Abraham Lincoln]]'s election as the first Republican president triggers Southern secession and the start of the [[Civil War]].  The party's platform emphasized preserving the Union and ultimately led to the abolition of slavery.
 * **1865-1877:** Reconstruction Era.  [[Republicans]] grapple with the challenges of reintegrating the South, passing amendments to the Constitution (13th, 14th, and 15th) granting citizenship and suffrage to African Americans. This era saw significant internal divisions within the party regarding the pace and methods of Reconstruction.  The rise of the Ku Klux Klan and other white supremacist groups challenged Republican efforts.
 
@@ -38,10 +38,10 @@ The Republican Party underwent a significant transformation in the latter half o
 * **1860:** [[Abraham Lincoln]]'s election, [[Civil War]] begins
 * **1865-1877:** [[Reconstruction Act of 1867]]
 * **1896 Mckinley's election marks beginning of long Republican dominance
-* **1932:** [[Franklin D]]. Roosevelt]]'s election ends Republican dominance
+* **1932:** [[Franklin D. Roosevelt]]'s election ends Republican dominance
 * **1964:** Goldwater's nomination marks a shift toward conservatism
 * **1980:** [[Ronald Reagan]]'s election signals a conservative resurgence
-* **2000:** [[George W]]. Bush]]'s election
+* **2000:** [[George W. Bush]]'s election
 * **2016:** [[Donald Trump]]'s election
 * 2020 Joe biden defeats [[Donald Trump]]
 * **2024**: [[Donald Trump]]'s election

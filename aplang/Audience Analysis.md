@@ -1,4 +1,4 @@
-# [[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis Techniques]]
 # [[Audience Analysis]]
 
 **Goal:** Understand the target audience to tailor messaging and achieve maximum impact.

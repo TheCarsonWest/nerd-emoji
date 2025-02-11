@@ -17,4 +17,4 @@ Following the assassination of Archduke Franz Ferdinand on June 28, 1914, a seri
 * **Social Change:** The war significantly impacted American society, spurring social and political reforms, but also fueling anxieties about social unrest and radicalism (Red Scare).
 * **[[Treaty of Versailles]] & [[League of Nations]]:** The eventual Allied victory shaped the [[Treaty of Versailles]], which imposed harsh terms on Germany and led to the creation of the [[League of Nations]] (although the US did not join). The consequences of the treaty contributed to the rise of extremist ideologies and ultimately to WWII.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

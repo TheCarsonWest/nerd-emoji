@@ -64,7 +64,7 @@ some_other_function()
 
 [[Standard Library Modules]]
 
-[[Creating Your Own [[Modules and Packages]]
+[[Creating Your Own Modules and Packages]]
 
 [[Namespaces and Scope]]
 

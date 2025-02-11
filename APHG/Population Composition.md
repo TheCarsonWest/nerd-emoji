@@ -1,4 +1,4 @@
-[[APHG Unit [[2]]
+[[APHG Unit 2]]
 
 # [[Population Composition]]: What a population is made of 
 

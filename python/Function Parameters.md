@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Function Parameters]] 
 Python function parameters allow you to pass data into functions, making them reusable and flexible.  There are several types of parameters:
 

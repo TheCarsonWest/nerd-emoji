@@ -1,4 +1,4 @@
-# [[Argumentative Essay]] Structure]]
+# [[Argumentative Essay Structure]]
 # [[Citation Styles]]
 
 This note covers different citation styles and their applications.

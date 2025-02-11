@@ -25,7 +25,7 @@ print(another_dog.breed) # Output: Labrador
 
 [[Classes and Objects]]  This note should cover the fundamental concepts of classes and objects in Python, including their definitions and purposes.
 
-[[Constructors]] (__init__) ]] This note would detail the `__init__` method, its role in object creation, and how to use it effectively.  It would include examples of different constructor implementations.
+[[Constructors (__init__) ]] This note would detail the `__init__` method, its role in object creation, and how to use it effectively.  It would include examples of different constructor implementations.
 
 [[Methods]]  This note will explain methods in Python – how to define them within classes, how they operate on object data (using `self`), and different types of methods (e.g., instance methods, class methods, static methods).
 

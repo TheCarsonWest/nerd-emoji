@@ -1,7 +1,7 @@
 # [[chemical reactions]]
 ## Introduction
 
-Activation energy (E<sub>a</sub>) is the minimum amount of energy required to initiate a chemical reaction.  Think of it as the energy "hump" that reactants must overcome to transform into products.  Even exothermic reactions, which release energy overall, require an initial input of energy to get started. [[Exothermic]] and [[Endothermic]] Reactions]]
+Activation energy (E<sub>a</sub>) is the minimum amount of energy required to initiate a chemical reaction.  Think of it as the energy "hump" that reactants must overcome to transform into products.  Even exothermic reactions, which release energy overall, require an initial input of energy to get started. [[Exothermic]] and [[Endothermic Reactions]]
 
 ## The Collision Theory
 

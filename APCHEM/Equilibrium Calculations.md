@@ -1,5 +1,5 @@
-# [[[[ICE Tables]]]]
-# [[[[Equilibrium]] Calculations]]
+# [[ICE Tables]]
+# [[Equilibrium Calculations]]
 
 This section covers various calculations related to chemical equilibrium.  Key concepts include $K_c$, $K_p$, and their relationship, ICE tables, and manipulation of equilibrium expressions.
 
@@ -11,11 +11,11 @@ This section covers various calculations related to chemical equilibrium.  Key c
 
 **2. [[ICE Tables]]**
 
-ICE tables (Initial, Change, [[Equilibrium]]) are used to organize information and solve equilibrium problems.  They are essential for calculating equilibrium concentrations. ICE Table Examples]]]]
+ICE tables (Initial, Change, [[Equilibrium) are used to organize information and solve equilibrium problems.  They are essential for calculating equilibrium concentrations. ICE Table Examples]]]]
 
 **3. Calculating [[Equilibrium]] Concentrations**
 
-This involves using the equilibrium expression ($K_c$ or $K_p$) and the ICE table to solve for unknown concentrations.  Often requires solving quadratic or cubic equations. [[Solving Equilibrium]] Equations]]
+This involves using the equilibrium expression ($K_c$ or $K_p$) and the ICE table to solve for unknown concentrations.  Often requires solving quadratic or cubic equations. [[Solving Equilibrium Equations]]
 
 **4. Reaction Quotient (Q)**
 
@@ -27,7 +27,7 @@ The reaction quotient, $Q$, is calculated the same way as $K$, but using non-equ
 
 **5. [[Le Chatelier's Principle]]**
 
-Le Chatelier's principle predicts the effect of changes in conditions (temperature, pressure, concentration) on an equilibrium system. [[[[Le Chatelier's Principle]]]]
+Le Chatelier's principle predicts the effect of changes in conditions (temperature, pressure, concentration) on an equilibrium system. [[Le Chatelier's Principle]]
 
 **6.  Manipulating [[Equilibrium]] Expressions**
 

@@ -1,4 +1,4 @@
-# [[[[Acids and Bases]]]]
+# [[Acids and Bases]]
 # [[Brønsted-Lowry Theory]]
 
 The Brønsted-Lowry theory defines acids and bases based on the transfer of protons ($H^+$).
@@ -22,7 +22,7 @@ The Brønsted-Lowry theory defines acids and bases based on the transfer of prot
 
 * **Strong vs. Weak Acids/Bases:** This relates to the extent of proton donation/acceptance. Strong acids/bases completely dissociate in water, while weak acids/bases only partially dissociate.  [[Acid and Base Strength]]
 
-* **$K_a$ and $K_b$:** The acid dissociation constant ($K_a$) and base dissociation constant ($K_b$) quantify the strength of weak acids and bases, respectively.  A larger $K_a$ or $K_b$ indicates a stronger acid or base. [[[[Equilibrium]] Constants]]
+* **$K_a$ and $K_b$:** The acid dissociation constant ($K_a$) and base dissociation constant ($K_b$) quantify the strength of weak acids and bases, respectively.  A larger $K_a$ or $K_b$ indicates a stronger acid or base. [[Equilibrium Constants]]
 
 * **pH and pOH:**  These scales measure the acidity and basicity of a solution, respectively. They are related to the concentration of $H_3O^+$ and $OH^-$ ions.  $pH = -\log_{10}[H_3O^+]$ and $pOH = -\log_{10}[OH^-]$. At 25°C, $pH + pOH = 14$. [[pH and pOH Calculations]]
 
@@ -41,7 +41,7 @@ In this reaction, $NH_3$ acts as a base (accepting a proton from water), and $H_
 **Related Notes:**
 
 * [[Acid and Base Strength]]
-* [[[[Equilibrium]] Constants]]
+* [[Equilibrium Constants]]
 * [[pH and pOH Calculations]]
 * [[Acid-Base Titrations]]
 

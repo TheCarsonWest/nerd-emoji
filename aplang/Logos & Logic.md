@@ -1,4 +1,4 @@
-# [[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis Techniques]]
 # [[Logos & Logic]]
 
 This note covers the principles of logos and logic in argumentation.

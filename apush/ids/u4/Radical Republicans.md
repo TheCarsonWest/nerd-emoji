@@ -1,4 +1,4 @@
-# ID: [[Radical [[Republicans]] 
+# ID: [[Radical Republicans]] 
 
 ## When: 1864-1877 (Reconstruction Era) 
 
@@ -29,4 +29,4 @@
     - This set the stage for the Jim Crow era and the systematic disenfranchisement of Black Americans. 
     - Although not fully successful, the Radical [[Republicans]]' efforts remain a significant turning point in American history, highlighting the struggle for racial equality and the enduring legacy of Reconstruction. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

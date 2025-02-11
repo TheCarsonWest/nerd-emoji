@@ -1,5 +1,5 @@
-# [[[[ICE Tables]]]]
-# Approximations in [[[[Equilibrium]] Calculations]]
+# [[ICE Tables]]
+# Approximations in [[Equilibrium Calculations]]
 
 This note covers approximations used to simplify equilibrium calculations, particularly when dealing with weak acids/bases and solubility.  The goal is to avoid using the quadratic formula.
 
@@ -37,7 +37,7 @@ $x \approx \sqrt{K_a[HA]_i}$
 
 After solving for $x$, check the 5% rule to confirm the validity of the approximation.
 
-**4. Weak Base [[Equilibrium]]:**  (Weak Base Equilibrium]]]])
+**4. Weak Base [[Equilibrium:**  (Weak Base Equilibrium]]]])
 
 **5.  Solubility Equilibria:** ([[Solubility Equilibria]])
 
@@ -59,6 +59,6 @@ Since this is less than 5%, the approximation is valid.
 
 $pH = -\log(1.34 \times 10^{-3}) \approx 2.87$
 
-**8.  Further Reading:** ([[Quadratic Formula and Equilibrium]]]])
+**8.  Further Reading:** ([[Quadratic Formula and Equilibrium]])
 
 

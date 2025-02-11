@@ -1,4 +1,4 @@
-# [[[[Le Chatelier's Principle]]]]
+# [[Le Chatelier's Principle]]
 # [[Equilibrium]]
 
 **Key Concepts:**
@@ -29,12 +29,12 @@
         * **Endothermic reactions ($ \Delta H > 0$):** Increasing temperature shifts right, decreasing temperature shifts left.
 
 
-* **Calculating [[Equilibrium]] Concentrations:**  Often involves setting up an ICE (Initial, Change, Equilibrium]]) table and solving for unknown concentrations using the equilibrium constant expression.
+* **Calculating [[Equilibrium Concentrations:**  Often involves setting up an ICE (Initial, Change, Equilibrium]]) table and solving for unknown concentrations using the equilibrium constant expression.
 
 
-[[[[Equilibrium]] Calculations]]]]
+[[Equilibrium Calculations]]]]
 
-[[[[Le Chatelier's Principle]] Examples]]]]
+[[Le Chatelier's Principle Examples]]]]
 
 [[Acid-Base Equilibria]]  (This will cover weak acids/bases, $K_a$, $K_b$, pH calculations, buffers, etc.)
 

@@ -24,4 +24,4 @@ Widespread fear and hatred of foreigners, particularly immigrants, fueled by eco
 * **Economic Consequences:** While immigrants contributed significantly to the nation's economic growth,  xenophobic policies and actions limited their opportunities and created social unrest.
 * **Rise of nativism:** Fueled the growth of nativist movements and organizations that would continue to influence American politics for decades to come.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

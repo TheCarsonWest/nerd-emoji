@@ -1,4 +1,4 @@
-# [[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis Techniques]]
 # [[Diction & Connotation]]
 
 Diction refers to the choice and use of words and phrases in speech or writing.  It significantly impacts the tone, style, and effectiveness of communication.
@@ -40,7 +40,7 @@ To effectively analyze diction and connotation, consider:
 
 **Further Exploration:**
 
-* [[Figurative [[Language]] (This will be a separate note, focusing on how figures of speech impact connotation and diction)
+* [[Figurative Language]] (This will be a separate note, focusing on how figures of speech impact connotation and diction)
 * [[Tone and Mood in Writing]] (Another separate note, exploring the relationship between diction, connotation, and the overall tone/mood)
 * [[Analyzing Literary Texts]] (A more broad note covering various analytical techniques, including diction and connotation analysis).
 

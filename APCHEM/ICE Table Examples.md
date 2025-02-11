@@ -1,4 +1,4 @@
-# [[[[Equilibrium]] Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]]]
 # [[ICE Table Examples]]
 
 ICE tables are used to solve equilibrium problems.  They stand for **I**nitial, **C**hange, **E**quilibrium.
@@ -39,7 +39,7 @@ This equation can be solved for $x$ (often requiring the quadratic formula or ap
 
 **Example 2:  [[Equilibrium]] with an Initial Product Concentration**
 
-([[[[Equilibrium]] Constant Calculations]]]])
+([[Equilibrium Constant Calculations]]]])
 
 **Example 3:  Weak Acid/Base Equilibria**
 

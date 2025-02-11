@@ -15,4 +15,4 @@
 * **Expansion of Federal Power:** His actions significantly expanded the role of the federal government in regulating the economy and protecting the environment.
 * **Shift in Public Discourse:**  Roosevelt's forceful personality and rhetoric changed the nature of political discourse, making it more direct and less formal.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

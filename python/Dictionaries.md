@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Dictionaries]]  [[Dictionaries]] are unordered collections of key-value pairs.  Keys must be immutable (like strings, numbers, or tuples), while values can be of any data type.
 
 ```python
@@ -40,4 +40,4 @@ Other useful methods:
 * `copy()`: Creates a shallow copy.
 
 
-[[Dictionary Comprehension]], [[Mutable vs [[Immutable Types]]
+[[Dictionary Comprehension]], [[Mutable vs Immutable Types]]

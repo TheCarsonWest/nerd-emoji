@@ -10,4 +10,4 @@ The rebellion sent shockwaves throughout the South, leading to:
 * **Limited abolitionist efforts:** The brutality of the rebellion and the resulting white backlash discouraged some abolitionists and made it more difficult to argue for emancipation.
 * **Long-term impact on the South:** The rebellion served as a constant reminder of the potential for slave revolts, contributing to the South's growing sense of isolation and ultimately playing a role in the lead-up to the [[Civil War]]. 
 
-# [[IDS Unit [[3]]
+# [[IDS Unit 3]]

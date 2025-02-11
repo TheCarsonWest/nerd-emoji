@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Generators]]  [[Generators]] are a powerful feature in Python that allows you to create iterators in a concise and efficient way.  Instead of creating a whole list in memory at once, generators produce values one at a time, only when requested. This makes them memory-efficient, especially when dealing with large datasets or infinite sequences.
 
 Key characteristics:
@@ -47,5 +47,5 @@ print(list(gen_expr)) #Output: [0, [[1]], [[4]], 9, 16]
 
 * [[Iterators]]
 * [[List Comprehensions]]
-* [[Async [[Generators]] (for asynchronous operations)
+* [[Async Generators]] (for asynchronous operations)
 

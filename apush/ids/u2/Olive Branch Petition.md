@@ -15,4 +15,4 @@ A formal document adopted by the Continental Congress expressing the colonists' 
 * **Propaganda Value:** The petition served as a demonstration of the colonists' desire for peace, potentially swaying public opinion in Britain (though ultimately unsuccessful).
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Diction and Tone]]
 
 **Diction:**  Word choice.  Impacts tone and meaning significantly.

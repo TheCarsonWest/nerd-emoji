@@ -24,4 +24,4 @@ A broad reform movement aimed at addressing social and political problems caused
 * **Rise of the Regulatory State:** The Progressive Era significantly contributed to the development of a more active and interventionalist federal government, a characteristic that has persisted to this day.
 
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

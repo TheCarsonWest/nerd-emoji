@@ -40,7 +40,7 @@ While there's no magic number, a good rule of thumb is to aim for $[[5]]-[[7]]$ 
 **Related Notes:**
 
 * [[Thesis Statement Construction]]
-* [[Argumentative Essay]] Structure]]
+* [[Argumentative Essay Structure]]
 * [[Evidence Evaluation]]
 
 

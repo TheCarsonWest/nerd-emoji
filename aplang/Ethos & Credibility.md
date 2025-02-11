@@ -1,4 +1,4 @@
-# [[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis Techniques]]
 # [[Ethos & Credibility]]
 
 This note covers the concept of ethos and credibility in persuasive communication.

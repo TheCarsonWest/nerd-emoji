@@ -1,4 +1,4 @@
-# [[Mutable vs [[Immutable Types]]
+# [[Mutable vs Immutable Types]]
 # [[Data Structures in Python]] 
 This note covers the fundamental data structures in Python.  I'll need to expand on several of these in separate notes.
 

@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Inheritance]]  [[Inheritance]] is a powerful mechanism in object-oriented programming (OOP) that allows you to create new classes (child classes or subclasses) based on existing classes (parent classes or superclasses).  The child class inherits the attributes (variables) and methods (functions) of the parent class, and can also add its own unique attributes and methods, or override existing ones.
 
 **Benefits of [[Inheritance]]:**
@@ -38,7 +38,7 @@ print(my_dog.name) # Output: Buddy (inherited from Animal)
 **Types of [[Inheritance]]:**
 
 * **Single [[Inheritance]]:** A class inherits from only one parent class.  (Example above)
-* [[Multiple [[Inheritance]]: A class inherits from multiple parent classes.
+* [[Multiple Inheritance]]: A class inherits from multiple parent classes.
 * **Multilevel [[Inheritance]]:** A class inherits from another class, which in turn inherits from another class.
 * **Hierarchical [[Inheritance]]:** Multiple classes inherit from a single parent class.
 
@@ -63,4 +63,4 @@ class Dog(Animal):
 ```
 
 [[Classes and Objects]]
-[[Method Resolution Order ([[MRO]])]]
+[[Method Resolution Order (MRO)]]

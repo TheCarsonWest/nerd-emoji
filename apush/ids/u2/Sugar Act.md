@@ -15,4 +15,4 @@ An act of the British Parliament that raised revenue in the American colonies th
 * **Development of Colonial Resistance:** The [[Sugar Act]] spurred the development of colonial resistance strategies, including boycotts, protests, and the formation of political organizations to challenge British policies.  It contributed to the growth of a shared colonial identity united against British oppression.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

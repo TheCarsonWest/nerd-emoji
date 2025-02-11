@@ -3,7 +3,7 @@
 ## When: 1870s-1900 (roughly; overlaps with Reconstruction)
 
 ## Who:
-* **Industrialists/Captains of Industry:**  [[Andrew Carnegie]] (steel), [[John D]]. Rockefeller]] (oil), [[J]].P. Morgan]] (finance), Cornelius Vanderbilt (railroads).
+* **Industrialists/Captains of Industry:**  [[Andrew Carnegie]] (steel), [[John D. Rockefeller]] (oil), [[J.P. Morgan]] (finance), Cornelius Vanderbilt (railroads).
 * **Immigrants:**  Massive influx from Southern and Eastern Europe.
 * **Laborers:**  Workers in factories and mines, often facing harsh conditions and low wages.
 * **Farmers:**  Struggled with debt and falling crop prices.
@@ -31,4 +31,4 @@ A period of rapid economic growth, particularly in the industrial sector, couple
 
 
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

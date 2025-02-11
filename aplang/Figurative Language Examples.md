@@ -1,5 +1,5 @@
-# [[AP English [[Language]] and Composition]]
-# [[Figurative [[Language]] Examples]]
+# [[AP English Language and Composition]]
+# [[Figurative Language Examples]]
 
 This note covers examples of various types of figurative language.  I'll use examples to illustrate each type and potentially link to more detailed explanations in separate notes.
 

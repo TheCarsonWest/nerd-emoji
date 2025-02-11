@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Polymorphism]]  [[Polymorphism]] allows objects of different classes to be treated as objects of a common type.  This is particularly useful when dealing with inheritance.
 
 * **Example:**  Consider a scenario where you have different shapes (circle, square, triangle) each with an `area()` method.  [[Polymorphism]] allows you to call `area()` on any shape object without needing to know its specific type.
@@ -32,6 +32,6 @@ for shape in shapes:
 
 Related notes:
 
-- [[Method Resolution Order ([[MRO]])]]
+- [[Method Resolution Order (MRO)]]
 - [[Abstract Classes]] (This note should explain abstract base classes and their use in polymorphism)
 

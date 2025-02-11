@@ -2,7 +2,7 @@
 
 **Timeline of Events:**
 
-* **1803:** [[Louisiana]] Purchase]] brings present-day [[South Dakota]] under US control.
+* **1803:** [[Louisiana Purchase]] brings present-day [[South Dakota]] under US control.
 * **1861:** Territory of Dakota is organized.
 * **1863:** Sioux uprising in [[Minnesota]] spills over into [[South Dakota]].
 * **1889:** [[South Dakota]] becomes the 40th state.

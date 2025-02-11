@@ -1,5 +1,5 @@
-# [[AP English [[Language]] and Composition]]
-# [[Argumentative Essay]] Structure]]
+# [[AP English Language and Composition]]
+# [[Argumentative Essay Structure]]
 
 **I. Introduction**
 
@@ -48,7 +48,7 @@ Let's say the thesis is:  "The widespread use of social media negatively impacts
 
 **VI.  Related Notes:**
 
-*   [[Argumentative Essay]] Examples]]
+*   [[Argumentative Essay Examples]]
 *   [[Developing a Strong Thesis Statement]]
 
 

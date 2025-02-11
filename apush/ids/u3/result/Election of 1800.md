@@ -19,4 +19,4 @@
 - **Led to the ratification of the 12th Amendment (1804) to the Constitution**, which altered the Electoral College procedures to prevent a repeat of the 1800 tie, requiring electors to cast separate ballots for president and vice president. 
 - **Exemplified the growing partisan divisions** and the intensity of political battles in the early republic. 
 
-# [[IDS Unit [[3]]
+# [[IDS Unit 3]]

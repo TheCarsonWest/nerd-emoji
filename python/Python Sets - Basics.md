@@ -1,5 +1,5 @@
-# [[Python Sets]] - Examples]]
-# [[Python Sets]] - Basics]] 
+# [[Python Sets - Examples]]
+# [[Python Sets - Basics]] 
 Key Features:
 
 * Unordered collections of unique elements.

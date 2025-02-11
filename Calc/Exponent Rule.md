@@ -4,4 +4,4 @@ Hence
 
 
 
-# [[Derivative]] Rules]]
+# [[Derivative Rules]]

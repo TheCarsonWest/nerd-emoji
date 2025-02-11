@@ -15,4 +15,4 @@ A promise made by the German government to the [[United States]] that German U-b
 * **Short-lived Agreement:** The pledge proved to be short-lived.  Germany, under pressure from its military leadership, eventually resumed unrestricted submarine warfare in 1917, leading to the [[Zimmerman Telegram]] incident and ultimately the declaration of war by the [[United States]] against Germany.
 * **Public Opinion:** While the Pledge initially appeased many Americans, growing anti-German sentiment continued to increase as a result of continued German aggression.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

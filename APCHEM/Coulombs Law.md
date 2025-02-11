@@ -7,5 +7,5 @@
 **Coulomb's Law*
 
 **Purpose:**
-### Predicts the [[Ionization Energy]]|amount of energy(Ionization energy)]] required to remove an electron
+### Predicts the [[Ionization Energy|amount of energy(Ionization energy)]] required to remove an electron
 

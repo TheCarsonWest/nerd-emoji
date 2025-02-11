@@ -1,5 +1,5 @@
 # [[Control Flow If Statements]]
-# [[Comparison [[Operators]] 
+# [[Comparison Operators]] 
 Python's comparison operators are used to compare values and return a Boolean result (`True` or `False`).
 
 ```python
@@ -26,7 +26,7 @@ print(x == z or x > y) # True - uses `or`, another boolean operator.
 
 ```
 
-[[Boolean [[Operators]]  - This needs a separate note covering `and`, `or`, and `not`.
+[[Boolean Operators]]  - This needs a separate note covering `and`, `or`, and `not`.
 
 [[Chaining Comparisons]] -  Further details on efficiently chaining multiple comparisons (e.g., `[[1]] < x < 10`).
 

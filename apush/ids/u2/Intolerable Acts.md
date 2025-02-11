@@ -22,4 +22,4 @@ A series of five acts passed by the British Parliament in response to the [[Bost
 * **Symbolic of Tyranny:** The acts became a powerful symbol of British oppression and injustice, further fueling the narrative used by revolutionary leaders to rally support for independence.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

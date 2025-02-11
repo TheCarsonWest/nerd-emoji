@@ -1,6 +1,6 @@
-# [[Python Sets]] - Examples]]
-# [[Python Sets]] - Advanced Techniques]] 
-This note covers advanced techniques related to [[Python Sets]] beyond basic creation and operations.  We'll assume basic set understanding (see [[Python Sets]] - Basics]]).
+# [[Python Sets - Examples]]
+# [[Python Sets - Advanced Techniques]] 
+This note covers advanced techniques related to [[Python Sets]] beyond basic creation and operations.  We'll assume basic set understanding (see [[Python Sets - Basics]]).
 
 ## Set Comprehensions
 
@@ -67,5 +67,5 @@ Explore the following methods for more complex set manipulations (refer to Pytho
 * `set.copy()`: Creates a shallow copy of the set.
 
 
-[[Python Sets]] - Basics]]
+[[Python Sets - Basics]]
 

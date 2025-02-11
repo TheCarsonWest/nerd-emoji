@@ -21,4 +21,4 @@ Highly organized political organizations that controlled city and state governme
 * **Increased Political Participation (ironically):** Though corrupt, machines did increase political participation among immigrant and working-class populations, offering them a voice (albeit a controlled one) in the political system.
 
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

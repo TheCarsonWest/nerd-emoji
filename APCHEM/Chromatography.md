@@ -11,10 +11,10 @@
 
 There are several types of chromatography, each utilizing different mobile and stationary phases and separation mechanisms:
 
-* **Liquid [[Chromatography]]:**  The mobile phase is a liquid.  [[Liquid [[Chromatography]]
-* **Gas [[Chromatography]]:** The mobile phase is a gas. [[Gas [[Chromatography]]
-* **Paper [[Chromatography]]:** The stationary phase is a special paper. [[Paper [[Chromatography]]
-* **Thin-Layer [[Chromatography]] (TLC):** The stationary phase is a thin layer of adsorbent material, like silica gel, coated on a glass, plastic, or metal plate. [[Thin-Layer [[Chromatography]]
+* **Liquid [[Chromatography]]:**  The mobile phase is a liquid.  [[Liquid Chromatography]]
+* **Gas [[Chromatography]]:** The mobile phase is a gas. [[Gas Chromatography]]
+* **Paper [[Chromatography]]:** The stationary phase is a special paper. [[Paper Chromatography]]
+* **Thin-Layer [[Chromatography]] (TLC):** The stationary phase is a thin layer of adsorbent material, like silica gel, coated on a glass, plastic, or metal plate. [[Thin-Layer Chromatography]]
 
 ## Retention Factor (Rf)
 
@@ -47,7 +47,7 @@ The output of a chromatography experiment is called a chromatogram.  [[Chromatog
 While chromatography itself doesn't heavily rely on calculus in its basic application, calculus concepts become relevant in more advanced analyses and theoretical treatments:
 
 * **Modeling Elution Curves:**  Differential equations can be used to model the movement of components through the chromatographic system and predict the shape of elution curves. [[Elution Curve Modeling]]
-* **Optimization:** Calculus can be used to optimize chromatographic separation conditions, such as flow rate and temperature, to achieve maximum resolution. [[Chromatography]] Optimization]]
+* **Optimization:** Calculus can be used to optimize chromatographic separation conditions, such as flow rate and temperature, to achieve maximum resolution. [[Chromatography Optimization]]
 
 
 This overview provides a basic understanding of chromatography.  Further exploration of the bracketed topics will provide more detailed information.

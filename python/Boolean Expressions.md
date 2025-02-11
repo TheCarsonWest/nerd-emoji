@@ -5,7 +5,7 @@ Boolean expressions are expressions that evaluate to either `True` or `False`.  
 **Key Components:**
 
 * **Boolean Values:** `True` and `False` (case-sensitive).
-* **[[Comparison [[Operators]]:**
+* **[[Comparison Operators]]:**
     * `==` (equal to)
     * `!=` (not equal to)
     * `>` (greater than)

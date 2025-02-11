@@ -18,4 +18,4 @@ A treaty formally ending the American Revolutionary War between [[Great Britain]
 * **Impact on Native Americans:** The treaty largely ignored the rights of Native Americans who had allied with [[Great Britain]], leading to continued conflict and westward expansion.  British cession of western lands to the US led to displacement and conflict with Native American populations.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

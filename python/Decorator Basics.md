@@ -1,4 +1,4 @@
-# [[Chaining [[Decorators]]
+# [[Chaining Decorators]]
 # [[Decorator Basics]]  [[Decorators]] are a powerful and expressive feature in Python that allows you to modify or enhance functions and methods in a clean and readable way.  They use the `@` symbol followed by the decorator function name, placed above the function definition.
 
 **Basic Syntax:**

@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Exam Prep Schedule]]
 
 **Goal:** Achieve a score of 85% or higher on the final exam.

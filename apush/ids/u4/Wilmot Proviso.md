@@ -9,4 +9,4 @@ A proposed amendment to a bill that would have prohibited slavery in any territo
 * **Strengthened  [[sectionalism]] :** By focusing attention on the issue of slavery expansion, the [[Wilmot Proviso]] further solidified sectional identities and intensified political divisions between the North and South.
 * **Symbolic of the growing divide:**  The Proviso became a symbol of the irreconcilable differences between North and South, ultimately contributing to the outbreak of the [[Civil War]]. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

@@ -1,5 +1,5 @@
-# [[Rhetorical Analysis]] Techniques]]
-# [[Figurative [[Language]] Analysis]]
+# [[Rhetorical Analysis Techniques]]
+# [[Figurative Language Analysis]]
 
 This note covers the analysis of figurative language, focusing on identifying and interpreting different types of figures of speech.  
 

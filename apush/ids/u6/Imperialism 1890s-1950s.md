@@ -20,4 +20,4 @@ A brief war between the [[United States]] and [[Spain]], triggered by the sinkin
 * **Increased Military Spending and Modernization:** The war demonstrated the need for a stronger and more modern US military, leading to increased investment in naval power and other military capabilities.
 
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

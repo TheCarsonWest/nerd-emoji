@@ -16,4 +16,4 @@ Lee's Resolution refers to a series of decisions made by General Robert E. Lee i
 * **Symbolic of Confederate Despair:**  Demonstrates the growing desperation and recognition of inevitable defeat within the Confederate high command.
 
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[AP Lang Exam Review]]
 
 **I. [[Rhetorical Analysis]] (40% of Exam):**
@@ -12,7 +12,7 @@
     * **Diction:** Word choice and its effect on tone and meaning. [[Diction Analysis]]
     * **Syntax:** Sentence structure and its impact on rhythm, pace, and emphasis. [[Sentence Structure Analysis]]
     * **Tone:** The author's attitude towards the subject matter.
-    * **Figurative [[Language]]:**  Metaphors, similes, personification, etc. and their effect. [[Figurative [[Language]]
+    * **Figurative [[Language]]:**  Metaphors, similes, personification, etc. and their effect. [[Figurative Language]]
     * **Imagery:**  Vivid descriptions that appeal to the senses.
     * **Organization:**  Structure of the argument (e.g., chronological, spatial, compare/contrast).
     * **Audience:** Who is the intended audience? How does the author tailor their message to this audience?
@@ -41,7 +41,7 @@
 
 * **Understanding the Sources:** Carefully read and analyze the provided source materials. Identify the main ideas and supporting evidence in each source. Note the relationship between the sources.
 
-* **Developing your Argument:**  Use the provided sources to develop a well-supported argument. Integrate quotes and paraphrases from the sources into your essay.  Cite sources appropriately. [[Synthesis Essay]] Strategies]]
+* **Developing your Argument:**  Use the provided sources to develop a well-supported argument. Integrate quotes and paraphrases from the sources into your essay.  Cite sources appropriately. [[Synthesis Essay Strategies]]
 
 * **Writing the Essay:**
     * **Thesis Statement:**  Clearly state your position on the issue, using evidence from the sources.

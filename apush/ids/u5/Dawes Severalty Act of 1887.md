@@ -16,4 +16,4 @@ Legislation that aimed to assimilate Native Americans into American society by d
 * **Increased Poverty and Dependence:** Many Native Americans lacked the resources and skills to farm successfully, resulting in widespread poverty and dependence on the federal government.
 * **Legacy of Resentment:** The act remains a source of resentment and a reminder of the injustices suffered by Native Americans.  It represents a key part of the broader process of American westward expansion and the dispossession of indigenous peoples.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

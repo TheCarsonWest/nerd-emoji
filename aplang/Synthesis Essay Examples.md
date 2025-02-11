@@ -1,5 +1,5 @@
-# [[Synthesis Essay]] Strategies]]
-# [[Synthesis Essay]] Examples]]
+# [[Synthesis Essay Strategies]]
+# [[Synthesis Essay Examples]]
 
 **Goal:** Understand the structure and components of effective synthesis essays.  This will involve analyzing examples and identifying key features.
 
@@ -22,7 +22,7 @@
 
 * **Example [[2]]:**  Find an essay on a literary topic, perhaps analyzing a recurring theme across multiple works.  Focus on how the writer compares and contrasts different interpretations and supports their own analysis. [[Literary Analysis Essay Example]]
 
-* **Example [[3]]:**  Find an essay that takes a position on a current event.  Examine how the writer uses evidence from news articles, expert opinions, and potentially statistical data to support their claim.  [[Current Events [[Synthesis Essay]] Example]]
+* **Example [[3]]:**  Find an essay that takes a position on a current event.  Examine how the writer uses evidence from news articles, expert opinions, and potentially statistical data to support their claim.  [[Current Events Synthesis Essay Example]]
 
 
 **Note-Taking Template:**

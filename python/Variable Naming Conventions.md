@@ -1,4 +1,4 @@
-# [[Variables and [[Data Types]]
+# [[Variables and Data Types]]
 # [[Variable Naming Conventions]] 
 Python's variable naming follows specific conventions for readability and maintainability.  Inconsistent naming can lead to errors and make code harder to understand.
 

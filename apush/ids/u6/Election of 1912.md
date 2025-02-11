@@ -17,4 +17,4 @@
 * **Third-Party Influence:** Debs's relatively strong showing demonstrated the growing support for socialist ideas and the potential for third-party movements to influence national politics.
 * **Shift in Political Landscape:** The election fundamentally reshaped the American political landscape, setting the stage for the progressive reforms that would characterize the next decade and influence the country's development leading up to and during WWI.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

@@ -46,5 +46,5 @@ import my_module  # now you can import your module
 
 
 [[Module Importing in Python]]
-[[Error Handling]]: ImportError]]
+[[Error Handling: ImportError]]
 

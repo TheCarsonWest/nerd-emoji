@@ -1,5 +1,5 @@
-# [[Memoization in [[Recursion]]
-# [[Python [[Dictionaries]] 
+# [[Memoization in Recursion]]
+# [[Python Dictionaries]] 
 Python dictionaries are unordered collections of key-value pairs.  Keys must be immutable (e.g., strings, numbers, tuples), while values can be of any data type.
 
 **Key Features:**
@@ -85,7 +85,7 @@ for key, value in my_dict.items():
 **Common Use Cases:**
  [[Dictionaries]] are frequently used to represent structured data, such as configurations, data from JSON or other APIs, and more.
 
-[[Dictionary vs. [[Lists]] and [[Tuples]] (This will be a separate note)
+[[Dictionary vs. Lists]] and [[Tuples]] (This will be a separate note)
 
 
 **Example:**

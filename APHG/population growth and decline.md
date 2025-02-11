@@ -1,4 +1,4 @@
-[[APHG Unit [[2]]
+[[APHG Unit 2]]
 ## AP Human Geography: Population Growth & Decline Notes
 
 ### Global Population Trends

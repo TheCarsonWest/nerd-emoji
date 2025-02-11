@@ -40,7 +40,7 @@ This note covers common spelling errors and words frequently confused.  Will nee
 
 **Resources:**
 
-* [[Online Spelling [[Dictionaries]]
+* [[Online Spelling Dictionaries]]
 * [[Grammar and Style Guides]]
 
 

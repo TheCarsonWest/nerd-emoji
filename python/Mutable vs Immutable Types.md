@@ -1,5 +1,5 @@
 # [[Lists]]
-# [[Mutable vs [[Immutable Types]] 
+# [[Mutable vs Immutable Types]] 
 This refers to the ability of an object to change its value after it's created.
 
 * **[[Immutable Types]]:**  Once created, their value cannot be changed.  If you perform an operation that seems to modify them, you're actually creating a *new* object.
@@ -12,7 +12,7 @@ This refers to the ability of an object to change its value after it's created.
     my_tuple = ([[1]], [[2]], [[3]])
     #my_tuple[0] = [[4]]  # This will raise a TypeError because tuples are immutable.
     ```
-    [[Immutable Types]] Deeper Dive]]
+    [[Immutable Types Deeper Dive]]
 
 
 * **Mutable Types:** Their value can be changed after creation.

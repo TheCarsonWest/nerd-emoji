@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Lists]]  [[Lists]] are ordered, mutable (changeable) sequences of items.  They can contain items of different data types.
 
 **Creating [[Lists]]:**
@@ -63,6 +63,6 @@ for i, item in enumerate(my_list):
 * Membership: `item in list`, `item not in list`
 
 
-**Nested [[Lists]]:** [[Multidimensional [[Lists]]
+**Nested [[Lists]]:** [[Multidimensional Lists]]
 
-**Mutable vs. Immutable:** [[Mutable vs [[Immutable Types]]
+**Mutable vs. Immutable:** [[Mutable vs Immutable Types]]

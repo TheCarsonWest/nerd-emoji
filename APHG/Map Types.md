@@ -1,5 +1,5 @@
- [[The nature of geography [[1]].[[1]]
- [[APHG Unit [[1]]
+ [[The nature of geography 1]].[[1]]
+ [[APHG Unit 1]]
 
 ### Different people map different maps
 **![pamap1](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUco6pCH7EZngSvDYtf6SXlBYA3G9FrVsBouWGgihu9byUt3YE7eYdaFv6FD6TQhdtk6pO6kvfPkPxXEXzFw0NFO8HV3KOxPUF1jyO6fQVLQnmvnoeILka7ONCjXgvmhzX_DGShw0UV5gpAXYE2ZItE8aRR_l7Q=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)

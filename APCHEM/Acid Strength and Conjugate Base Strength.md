@@ -1,4 +1,4 @@
-# [[[[Conjugate Acid-Base Pairs]]]]
+# [[Conjugate Acid-Base Pairs]]
 # [[Acid Strength and Conjugate Base Strength]]
 
 **Main Idea:**  The strength of an acid is inversely related to the strength of its conjugate base.  Strong acids have weak conjugate bases, and weak acids have strong conjugate bases.
@@ -33,4 +33,4 @@
     * $CH_3COOH$ (weak acid) has a relatively strong conjugate base, $CH_3COO^-$.
 
 
-* **Further Notes:** [[Acid-Base Equilibria]], Titration Curves]]
+* **Further Notes:** [[Acid-Base Equilibria, Titration Curves]]

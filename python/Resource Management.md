@@ -1,4 +1,4 @@
-# [[Custom [[Context Managers]]
+# [[Custom Context Managers]]
 # [[Resource Management]] in Python
 
 This note covers resource management in Python, focusing on efficient and safe handling of system resources.
@@ -13,7 +13,7 @@ Key aspects include:
         # Process contents
     # File automatically closed here
     ```
-    * [[File Handling]] Best Practices]]  (This will be a separate note).
+    * [[File Handling Best Practices]]  (This will be a separate note).
 
 * **Network Connections:**
     * Similar to files, network sockets should be closed after use.  Use `with` statements or explicit `socket.close()` calls.  [[Context Managers]] ensure cleanup even if exceptions occur.
@@ -47,8 +47,8 @@ Key aspects include:
 
 
 * **[[Context Managers]] (`with` statement):**
-    * The `with` statement is crucial for resource management.  It ensures that resources (files, network connections, database connections, etc.) are properly released, even if errors occur.  It's the recommended way to handle resources that require explicit cleanup.  Learn about creating [[Custom [[Context Managers]] using the `contextlib` module.
-    * [[Context Managers]] in Python]] (This will be a separate note)
+    * The `with` statement is crucial for resource management.  It ensures that resources (files, network connections, database connections, etc.) are properly released, even if errors occur.  It's the recommended way to handle resources that require explicit cleanup.  Learn about creating [[Custom Context Managers]] using the `contextlib` module.
+    * [[Context Managers in Python]] (This will be a separate note)
 
 
 * **Process and Thread Management:**
@@ -68,4 +68,4 @@ Key aspects include:
         if 'file' in locals() and file:
             file.close()
     ```
-    * [[Python [[Exception Handling]] (This will be a separate note)
+    * [[Python Exception Handling]] (This will be a separate note)

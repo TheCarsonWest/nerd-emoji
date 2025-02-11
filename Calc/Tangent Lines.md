@@ -38,7 +38,7 @@ The [[derivative]] of a function at a point gives the slope of the tangent line 
 
 For example, if the [[derivative]] of a function is positive at a point, the tangent line at that point will have a positive slope, indicating that the function is increasing at that point. Similarly, if the [[derivative]] is negative, the tangent line will have a negative slope, indicating that the function is decreasing.
 
-### [[Applications of [[Tangent Lines]]
+### [[Applications of Tangent Lines]]
 
 Tangent lines have numerous applications in various fields, including:
 

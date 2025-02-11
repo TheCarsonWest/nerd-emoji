@@ -25,7 +25,7 @@
 **Documents Associated With:**
 
 * **[[Declaration of Independence]] (1776)**: [[Washington]] did not sign the [[Declaration of Independence]], but he was the commander-in-chief of the Continental Army at the time.
-* ** [[Constitutional Convention]]|Constitution of the [[United States]] (1787)]]**: [[Washington]] presided over the [[Constitutional Convention]] and was unanimously elected as the first president under the new Constitution.
+* ** [[Constitutional Convention]]|Constitution of the [[United States (1787)]]**: [[Washington]] presided over the [[Constitutional Convention]] and was unanimously elected as the first president under the new Constitution.
 * **Farewell Address (1796)**: [[Washington]]'s valedictory address, in which he warned against political parties, foreign entanglements, and the dangers of  [[sectionalism]] .
 
 add a section on george washingotns legacy in a similar format of the other sections

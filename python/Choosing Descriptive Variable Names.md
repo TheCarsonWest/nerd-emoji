@@ -38,7 +38,7 @@ l = True         # What does 'l' mean?
 
 **Further Considerations:**
 
-* [[Data Types]] in Python]] - Understanding different data types helps choose appropriately descriptive names.
+* [[Data Types in Python]] - Understanding different data types helps choose appropriately descriptive names.
 * [[Python Style Guide (PEP 8)]] -  Provides detailed guidance on naming conventions and other style recommendations.
-* [[Working with [[Lists]] in Python]] -  Shows how descriptive names can improve readability when working with lists.
+* [[Working with Lists in Python]] -  Shows how descriptive names can improve readability when working with lists.
 

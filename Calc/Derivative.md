@@ -14,7 +14,7 @@ provided the limit exists.
 
 * **Instantaneous Rate of Change:** The derivative $f'(a)$ represents the instantaneous rate of change of $f(x)$ at $x=a$.
 
-## [[Derivative]] Rules]]
+## [[Derivative Rules]]
 
 ### Applications of Derivatives
 

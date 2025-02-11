@@ -20,7 +20,7 @@ Make a AP Chemistry rundown on [[Saturation]]  in markdown format(make use of he
 ## Factors Affecting [[Saturation]] 
 Several factors influence the saturation point of a solution:
 
-* **[[Temperature]]:**  The solubility of most solids in liquids increases with increasing temperature. [[Solubility]] Curves]] However, the solubility of gases in liquids generally decreases with increasing temperature.
+* **[[Temperature]]:**  The solubility of most solids in liquids increases with increasing temperature. [[Solubility Curves]] However, the solubility of gases in liquids generally decreases with increasing temperature.
 
 * **Pressure:** Pressure has a significant effect on the solubility of gases in liquids.  Henry's Law states that the solubility of a gas is directly proportional to the [[partial pressure]] of that gas above the liquid.  $C = kP$, where $C$ is the concentration of the dissolved gas, $k$ is Henry's Law constant, and $P$ is the [[partial pressure]] of the gas.  Pressure has a negligible effect on the solubility of solids in liquids.
 

@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Grammar and Mechanics]]
 
 **I. Sentence Structure:**

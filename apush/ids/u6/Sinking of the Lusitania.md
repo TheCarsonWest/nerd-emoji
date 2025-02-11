@@ -16,4 +16,4 @@ A German U-boat torpedoed the British ocean liner *Lusitania* off the coast of I
 * **Propaganda:** The event was heavily used as propaganda by the Allied powers to sway public opinion against Germany.
 * **Shift in Public Opinion:** Though initially leaning towards neutrality, the sinking swayed a significant portion of the American public towards intervention in the war.  This shift in public opinion became a key factor influencing the government's eventual decision to join the conflict.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

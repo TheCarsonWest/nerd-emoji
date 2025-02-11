@@ -18,12 +18,12 @@
  * Represented the [[United States]] in Paris
  * Negotiated the [[Treaty of Paris 1776]] (1783)
 * **Secretary of State (1789-1793):**
- * Served under President [[George [[Washington]]
+ * Served under President [[George Washington]]
  * Drafted the [[Bill of Rights]]
 * **Vice President (1797-1801):**
  * Served under President [[John Adams]]
 * **[[POTUS]] (1801-1809):**
- * Expanded the nation's territory with the [[Louisiana]] Purchase]] (1803)
+ * Expanded the nation's territory with the [[Louisiana Purchase]] (1803)
  * Embarked on the Lewis and Clark Expedition
  * Established the [[United States]] Military Academy at West Point
 
@@ -34,7 +34,7 @@
 * **Architect of the Republic:**
  * His leadership during the Revolutionary War and his presidency helped establish the [[United States]] as a sovereign nation.
 * **Advocate for Expansion:**
- * The [[Louisiana]] Purchase]] doubled the size of the [[United States]] and opened up new frontiers for settlement.
+ * The [[Louisiana Purchase]] doubled the size of the [[United States]] and opened up new frontiers for settlement.
 * **Champion of Education:**
  * Founded the University of [[Virginia]] and supported public education.
 * **Intellectual Giant:**

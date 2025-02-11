@@ -40,7 +40,7 @@ uppercase_words = [word.upper() for word in words] # Output: ['HELLO', 'WORLD', 
 [[4]]. **Nested [[List Comprehension]] ([[Nested Loops]])**:  Creating a matrix:
 
 ```python
-matrix = [[i*j for j in range([[3]])] for i in range([[3]])] # Output: [[0, 0, 0], [0, [[1]], [[2]]], [0, [[2]], [[4]]
+matrix = [[i*j for j in range(3]])] for i in range([[3]])] # Output: [[0, 0, 0], [0, [[1]], [[2]]], [0, [[2]], [[4]]
 ```
 
 

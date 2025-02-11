@@ -13,4 +13,4 @@
 * **US Senate Rejection:**  The US Senate ultimately rejected the [[Treaty of Versailles]] (including the [[League of Nations]]) due to concerns about American sovereignty and involvement in international affairs. This rejection significantly impacted the US's role in the post-war world and contributed to the rise of isolationism.
 * **Idealism vs. Reality:** The [[Fourteen Points]] demonstrated Wilson's idealistic vision for a peaceful and just world order, but it also highlighted the difficulties in translating such ideals into practical policy in the face of competing national interests and power struggles.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

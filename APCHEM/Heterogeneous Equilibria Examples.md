@@ -1,4 +1,4 @@
-# [[[[Equilibrium]] Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]]]
 # [[Heterogeneous Equilibria Examples]]
 
 Heterogeneous equilibria involve reactants and products in different phases.  The concentration of pure solids and liquids are essentially constant and therefore are omitted from the equilibrium expression.
@@ -41,10 +41,10 @@ Heterogeneous equilibria involve reactants and products in different phases.  Th
 
 **General Considerations:**
 
-*  The equilibrium constant, $K$, is temperature dependent.  A change in temperature will shift the equilibrium. [[[[Le Chatelier's Principle]]]]
+*  The equilibrium constant, $K$, is temperature dependent.  A change in temperature will shift the equilibrium. [[Le Chatelier's Principle]]
 *  Adding more solid or liquid reactant or product will not affect the equilibrium position, since their concentrations are constant.
 *  Changes in pressure only affect the equilibrium if gases are involved.  Increasing pressure will favor the side with fewer gas molecules. [[Gas Laws]]
 
 
-[[[[Equilibrium]] Constant]]
+[[Equilibrium Constant]]
 [[Gibbs Free Energy]]

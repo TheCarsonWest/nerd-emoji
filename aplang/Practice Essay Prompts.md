@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Practice Essay Prompts]]
 
 These notes are for brainstorming and organizing ideas for practice essay prompts.  I'll categorize them by type and difficulty.
@@ -27,7 +27,7 @@ These notes are for brainstorming and organizing ideas for practice essay prompt
 
 * **Prompt [[2]]:**  Discuss the development of a particular character in [Specific Literary Work]. (Requires specifying a work) [[Character Development in [Literary Work]]]
 
-* **Prompt [[3]]:**  Compare and contrast the themes of [Literary Work [[1]]] and [Literary Work [[2]]]. (Requires specifying two works) [[Comparing Themes: [Literary Work [[1]]] and [Literary Work [[2]]]
+* **Prompt [[3]]:**  Compare and contrast the themes of [Literary Work [[1]]] and [Literary Work [[2]]]. (Requires specifying two works) [[Comparing Themes: [Literary Work 1]]] and [Literary Work [[2]]]
 
 
 **IV.  Synthesis Essays:**

@@ -18,4 +18,4 @@ The [[Chinese Exclusion Act]] was a [[United States]] federal law that prohibite
 * **Formation of Chinese American Communities:** While significantly restricting immigration, the Act also led to the development of tightly-knit Chinese American communities focused on mutual support and self-reliance.  This resulted in distinct cultural enclaves in American cities.
 
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

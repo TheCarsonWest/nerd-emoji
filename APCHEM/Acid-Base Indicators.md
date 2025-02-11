@@ -1,4 +1,4 @@
-# [[[[Acids and Bases]]]]
+# [[Acids and Bases]]
 # [[Acid-Base Indicators]]
 
 Acid-base indicators are substances that change color depending on the pH of the solution they are in.  This color change is due to a change in the indicator's chemical structure, often involving protonation or deprotonation.
@@ -27,7 +27,7 @@ Acid-base indicators are substances that change color depending on the pH of the
 * **Limitations:** Indicators provide an approximate measure of pH. They are not precise instruments for determining pH.  The exact pH at which the color change occurs can be influenced by temperature and ionic strength.
 
 
-* [[Weak Acids and Bases]]]]
-* [[[[Equilibrium]] Constants]]
+* [[Weak Acids and Bases]]
+* [[Equilibrium Constants]]
 * [[pH and pOH]]
 

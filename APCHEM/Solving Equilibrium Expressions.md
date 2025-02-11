@@ -1,9 +1,9 @@
-# [[[[Equilibrium]] Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]]]
 # Solving [[Equilibrium]] Expressions
 
-This note covers solving equilibrium expressions, focusing on different scenarios and problem-solving strategies.  It assumes familiarity with writing equilibrium expressions.  If not, refer to [[[[Equilibrium]] Expressions]].
+This note covers solving equilibrium expressions, focusing on different scenarios and problem-solving strategies.  It assumes familiarity with writing equilibrium expressions.  If not, refer to [[Equilibrium Expressions]].
 
-**1.  Simple [[[[Equilibrium]] Calculations]]:**
+**1.  Simple [[Equilibrium Calculations]]:**
 
 These involve solving for one unknown in the equilibrium expression, given the equilibrium concentrations of all other species.
 
@@ -12,7 +12,7 @@ These involve solving for one unknown in the equilibrium expression, given the e
    $K_c = \frac{[B]_{eq}}{[A]_{eq}} \implies 10 = \frac{[B]_{eq}}{2} \implies [B]_{eq} = 20M$
 
 
-**2. [[ICE Tables]] (Initial, Change, Equilibrium]]):**
+**2. [[ICE Tables (Initial, Change, Equilibrium]]):**
 
 These are crucial when only initial concentrations and the equilibrium constant are known.
 

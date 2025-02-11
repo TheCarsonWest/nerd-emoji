@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[List Comprehension]] 
 List comprehension provides a concise way to create lists in Python. It's a powerful tool for creating lists based on existing iterables.
 

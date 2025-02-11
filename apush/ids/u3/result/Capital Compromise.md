@@ -19,4 +19,4 @@ A series of five bills passed by Congress to address the issue of slavery in new
 * **Increased  [[Sectionalism]] :** Ultimately, the [[Compromise of 1850]] exacerbated tensions over slavery due to the controversial [[Fugitive Slave Act]], which further divided the nation and led to increased abolitionist activity. 
 * **Showed the fragility of compromise:**  The Compromise demonstrated the increasing difficulty of finding peaceful solutions to the issue of slavery. 
 
-# [[IDS Unit [[3]]
+# [[IDS Unit 3]]

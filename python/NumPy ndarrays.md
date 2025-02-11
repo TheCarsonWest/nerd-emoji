@@ -28,7 +28,7 @@ arr = np.array([[1]], [[2]], [[3]]], [[[4]], [[5]], [[6]])
 print(arr[0, [[1]]])  # Output: [[2]]
 
 # Performing vectorized operations
-print(arr * [[2]])  # Output: [[ [[2]]  [[4]]  [[6]]], [ 8 10 12]]
+print(arr * [[2]])  # Output: [[ 2]]  [[4]]  [[6]]], [ 8 10 12]]
 
 # Array shape
 print(arr.shape)  # Output: ([[2]], [[3]])

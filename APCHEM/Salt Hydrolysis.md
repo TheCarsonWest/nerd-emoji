@@ -1,4 +1,4 @@
-# [[[[Acids and Bases]]]]
+# [[Acids and Bases]]
 # [[Salt Hydrolysis]]
 
 Salt hydrolysis is the reaction of a salt with water to produce an acidic or basic solution.  The pH of the resulting solution depends on the nature of the cation and anion of the salt.
@@ -29,7 +29,7 @@ Salt hydrolysis is the reaction of a salt with water to produce an acidic or bas
 
 Calculating the pH of solutions resulting from salt hydrolysis often involves using ICE tables and equilibrium expressions ($K_a$, $K_b$, $K_w$).  The specific method depends on the type of salt.
 
-[[[[ICE Tables]] and Equilibrium]] Calculations]]]]
+[[ICE Tables and Equilibrium]] Calculations]]]]
 
 **Relationship to $K_a$ and $K_b$**:
 
@@ -41,6 +41,6 @@ $K_h = \frac{K_w}{K_a}$
 Similarly, $K_h$ for a salt of a weak base and strong acid is related to $K_b$ and $K_w$ by:
 $K_h = \frac{K_w}{K_b}$
 
-[[Acid-Base Constants and Equilibrium]]]]
+[[Acid-Base Constants and Equilibrium]]
 
 

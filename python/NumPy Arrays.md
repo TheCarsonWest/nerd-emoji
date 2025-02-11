@@ -1,4 +1,4 @@
-# [[Multidimensional [[Lists]]
+# [[Multidimensional Lists]]
 # [[NumPy Arrays]] 
 NumPy arrays are the fundamental data structure for numerical computation in Python.  They provide efficient storage and manipulation of numerical data.  Key advantages over standard Python lists include:
 
@@ -70,6 +70,6 @@ print(arr9)
 
 
 [[NumPy Indexing and Slicing]]
-[[NumPy [[Data Types]]
+[[NumPy Data Types]]
 
 

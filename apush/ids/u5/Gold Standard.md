@@ -15,4 +15,4 @@ A monetary system in which the value of a country's currency is directly tied to
 * **Increased Political Activism:**  The economic hardship caused by deflation fueled the rise of populist movements, such as the Farmers' Alliance and the [[Populist Party]], demanding reforms and an end to the gold standard.  This contributed to the increased political participation of farmers and workers.
 * **International Implications:** The U.S. adoption of the gold standard helped to integrate the American economy into the global financial system, although it also made the economy more vulnerable to international economic fluctuations.  The gold standard was a common practice amongst many major industrial powers of the time.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

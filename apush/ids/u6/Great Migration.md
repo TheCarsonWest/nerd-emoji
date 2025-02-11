@@ -15,4 +15,4 @@
 * **Shift in the South's economy and demographics:** The South lost a significant portion of its agricultural workforce, forcing economic adjustments and impacting social dynamics.  It ultimately altered the racial balance of power in the South, though racial inequality persisted.
 * **Long-term effects on racial inequality:**  Though it offered opportunities for some, the [[Great Migration]] did not eradicate racial inequality.  Segregation and discrimination continued in the North, albeit in different forms.  The legacy of the migration continues to shape American society today.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

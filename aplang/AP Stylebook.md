@@ -47,7 +47,7 @@ $$ E = mc^[[2]] $$
 **References:**
 
 * [[AP Stylebook]] (latest edition)
-* [[Online [[AP Stylebook]] Resources]]
+* [[Online AP Stylebook Resources]]
 
 
 **To-Do:**
@@ -63,5 +63,5 @@ $$ E = mc^[[2]] $$
 [[State Name Abbreviations]]
 [[Titles and Names]]
 [[Attribution and Verbs]]
-[[Online [[AP Stylebook]] Resources]]
+[[Online AP Stylebook Resources]]
 

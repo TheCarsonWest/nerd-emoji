@@ -1,5 +1,5 @@
 # [[List Comprehension]]
-# [[Iterables]] in Python]] 
+# [[Iterables in Python]] 
 An iterable is an object capable of returning its members one at a time, permitting iteration over its contents.  They are fundamental to Python's looping constructs and support many built-in functions.
 
 Key characteristics:
@@ -57,7 +57,7 @@ Built-in functions that work with iterables:
 *   `set()` (converts iterable to a set)
 
 
-Creating custom iterables: [[Custom [[Iterables]]
+Creating custom iterables: [[Custom Iterables]]
 
 Generating iterables:
 
@@ -66,4 +66,4 @@ Generating iterables:
 
 Important Note: [[Iterables]] are consumed when iterated through, which means that after one iteration, they might need to be regenerated if you want to iterate over the same elements again.  This is a core difference with [[Sequences]] and how they handle iterators.
 
-Related Notes: [[Iterators]] vs. [[Iterables]], [[Custom [[Iterables]], [[Generator Expressions]], [[Sequences]]
+Related Notes: [[Iterators]] vs. [[Iterables]], [[Custom Iterables]], [[Generator Expressions]], [[Sequences]]

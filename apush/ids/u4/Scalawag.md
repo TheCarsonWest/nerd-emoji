@@ -18,4 +18,4 @@ Scalawags faced significant opposition from white Southerners who resented their
 
 **Significance:** Scalawags represent a complex and often overlooked aspect of Reconstruction. They highlight the internal divisions within the South during this period and the struggles of those who sought to create a more just and equitable society.  The legacy of scalawags remains a reminder of the enduring challenge of racial reconciliation in the [[United States]]. 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

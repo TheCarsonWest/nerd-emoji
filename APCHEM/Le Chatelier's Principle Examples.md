@@ -1,5 +1,5 @@
-# [[[[Equilibrium]]]]
-# [[[[Le Chatelier's Principle]] Examples]]
+# [[Equilibrium]]
+# [[Le Chatelier's Principle Examples]]
 
 [[Le Chatelier's Principle]] states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.  This can involve changes in concentration, pressure, volume, or temperature.
 
@@ -18,7 +18,7 @@
 * **Change in Temperature:**
     * **Exothermic reactions ($ΔH < 0$):** Increasing temperature shifts the equilibrium to the left (towards reactants), decreasing temperature shifts to the right.
     * **Endothermic reactions ($ΔH > 0$):** Increasing temperature shifts the equilibrium to the right (towards products), decreasing temperature shifts to the left.
-    * $K_{eq}$ changes with temperature. [[[[Equilibrium]] Constant]]
+    * $K_{eq}$ changes with temperature. [[Equilibrium Constant]]
 
 
 **Examples:**
@@ -30,9 +30,9 @@
 
 **Further Notes:**
 
-* [[[[Equilibrium]] Constant]]
+* [[Equilibrium Constant]]
 * [[Reaction Quotient]]
-* [[Gibbs Free Energy and Equilibrium]]]]
+* [[Gibbs Free Energy and Equilibrium]]
 
 
 **Practice Problems:**

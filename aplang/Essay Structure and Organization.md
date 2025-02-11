@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Essay Structure and Organization]]
 
 **I. Introduction**
@@ -24,7 +24,7 @@
 
 **IV. Essay Types and Structures**
 
-*   **[[Argumentative Essay]]:** Presents a clear argument and supports it with evidence. [[Argumentative Essay]] Structure]]
+*   **[[Argumentative Essay]]:** Presents a clear argument and supports it with evidence. [[Argumentative Essay Structure]]
 *   **Expository Essay:** Explains or informs the reader about a topic. [[Expository Essay Structure]]
 *   **Narrative Essay:** Tells a story. [[Narrative Essay Structure]]
 *   **Compare and Contrast Essay:** Examines the similarities and differences between two or more things. [[Compare and Contrast Essay Structure]]

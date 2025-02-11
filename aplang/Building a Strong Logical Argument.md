@@ -1,4 +1,4 @@
-# [[Rhetorical Devices]] in Argumentation]]
+# [[Rhetorical Devices in Argumentation]]
 # [[Building a Strong Logical Argument]]
 
 **I. Core Components:**

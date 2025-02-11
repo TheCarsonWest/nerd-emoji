@@ -19,4 +19,4 @@ The [[Treaty of Versailles]] formally ended World War I.  It imposed harsh penal
 * **Shift in Global Power:** The treaty marked a shift in global power dynamics, though its lasting effect on this shift was somewhat limited by the US's lack of involvement in the [[League of Nations]].
 * **Redistribution of Territory:** The treaty redrew the map of Europe, creating new nations and altering existing borders. This contributed to future political instability and border disputes.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

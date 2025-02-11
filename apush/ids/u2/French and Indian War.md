@@ -18,4 +18,4 @@ A major conflict between [[Great Britain]] and [[France]] (and their respective 
 * **Seeds of Revolution:** The war created a sense of shared colonial identity, but also highlighted fundamental differences in interests between [[Great Britain]] and its American colonies regarding expansion, governance, and taxation.  The aftermath directly contributed to the growing revolutionary sentiment in the thirteen colonies.
 
 
-# [[APUSH Unit [[4]]
+# [[APUSH Unit 4]]

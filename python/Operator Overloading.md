@@ -51,6 +51,6 @@ Here, `__add__` is overloaded to define the behavior of the `+` operator for `My
 
 
 [[Dunder Methods]]
-[[Error Handling]] in Python]]
+[[Error Handling in Python]]
 [[Magic Methods]]
 

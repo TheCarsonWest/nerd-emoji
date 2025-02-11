@@ -1,4 +1,4 @@
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 # [[Useful Websites and Articles]]
 
 This note serves as a central hub for websites and articles I find useful.  I will categorize them for easier access.

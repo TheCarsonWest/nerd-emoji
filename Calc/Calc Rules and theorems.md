@@ -1,6 +1,6 @@
 # [[Calc home]]
 
-## [[Derivative]] Rules]]
+## [[Derivative Rules]]
 ## [[LHopitals Rule]]
 ## [[Squeeze Theorem]]
 ## [[Intermediate Value Theorem]]

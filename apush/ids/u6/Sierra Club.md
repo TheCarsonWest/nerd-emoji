@@ -14,4 +14,4 @@ The [[Sierra Club]] was founded as a non-profit environmental organization dedic
 * **Wilderness Preservation:**  The Club's emphasis on wilderness preservation helped shape the public's understanding and appreciation of undeveloped natural areas, influencing recreational practices and conservation strategies.
 * **Public Awareness:** The Club effectively used publicity and educational campaigns to raise awareness about the importance of conservation, fostering a broader public interest in environmental protection.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

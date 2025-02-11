@@ -1,5 +1,5 @@
 # [[Rhetorical Devices]]
-# [[Rhetorical Analysis]] Examples]]
+# [[Rhetorical Analysis Examples]]
 
 This note documents examples of rhetorical analysis, categorized for easier reference.  I'll use different types of rhetorical appeals as organizing principles.
 

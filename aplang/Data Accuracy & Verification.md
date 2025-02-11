@@ -20,7 +20,7 @@
     * **Accuracy:** The ratio of correctly classified instances to the total number of instances.
     * **Completeness:** The percentage of non-missing values.
     * **Consistency:** The degree to which data conforms to predefined rules and constraints.
-* **[[Error Handling]]:** [[Error Handling]] Strategies]]  - Develop procedures for identifying, reporting, and correcting data errors. Establish a process for tracking and resolving data quality issues.  A workflow diagram might be helpful here.
+* **[[Error Handling]]:** [[Error Handling Strategies]]  - Develop procedures for identifying, reporting, and correcting data errors. Establish a process for tracking and resolving data quality issues.  A workflow diagram might be helpful here.
 
 
 **Related Notes:**

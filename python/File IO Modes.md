@@ -43,4 +43,4 @@ with open("my_file.txt", "r") as file:
 
 ```
 
-[[File Handling]] Best Practices]]  [[Error Handling]] with Files]] [[Context Managers]]
+[[File Handling Best Practices]]  [[Error Handling with Files]] [[Context Managers]]

@@ -18,4 +18,4 @@ A pivotal presidential election focusing on the issue of bimetallism (using both
 * **Modern Campaigning Techniques:** The 1896 campaign saw the widespread use of new technologies and strategies, including the use of railroads for extensive campaigning, professional campaign managers, and sophisticated media outreach to reach a larger electorate. This demonstrated the increasing significance of mass communication and organization in political campaigns.
 * **Regional Divide:** The election highlighted the deep economic and social divisions between the agrarian South and West, and the industrial North and East. Bryan's strong showing in the South and West demonstrated this regional split.
 
-# [[IDS Unit [[5]]
+# [[IDS Unit 5]]

@@ -19,7 +19,7 @@ print(x % y)  # Modulus (remainder)
 print(x ** y) # Exponentiation
 ```
 
-* **[[Comparison [[Operators]]:** These compare two values and return a Boolean (True or False).
+* **[[Comparison Operators]]:** These compare two values and return a Boolean (True or False).
 
 ```python
 x = 10
@@ -58,7 +58,7 @@ x //= [[5]]        # x = x // [[5]]
 
 ```
 
-* **[[Bitwise [[Operators]]:** These operate on individual bits of integers. [[Bitwise [[Operators]]
+* **[[Bitwise Operators]]:** These operate on individual bits of integers. [[Bitwise Operators]]
 
 * **Membership [[Operators]]:** These test for membership in sequences (e.g., lists, tuples, strings).
 
@@ -90,5 +90,5 @@ print(x == y) # True (same values)
 **Further Notes:**
 
 * [[Operator Overloading]] (How operators behave differently with different data types.)
-* [[Short-circuiting in Logical [[Operators]] (How `and` and `or` can sometimes avoid evaluating all operands.)
+* [[Short-circuiting in Logical Operators]] (How `and` and `or` can sometimes avoid evaluating all operands.)
 

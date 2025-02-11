@@ -24,7 +24,7 @@
 
 [[3]]. **Quoting Accurately:** Use quotation marks for any direct quotes, even short phrases.  Always cite the source. The length of a quote should be determined by its relevance, with short quotes being preferable unless the exact wording is crucial.
 
-[[4]]. **[[Citation Styles]]:** [[Citation Styles]]: MLA, APA, Chicago]] Learn the rules of a specific citation style (MLA, APA, Chicago, etc.) and apply them consistently.  Different disciplines often have preferred styles.  Each citation should include all necessary information (author, title, publication date, etc.).
+[[4]]. **[[Citation Styles]]:** [[Citation Styles: MLA, APA, Chicago]] Learn the rules of a specific citation style (MLA, APA, Chicago, etc.) and apply them consistently.  Different disciplines often have preferred styles.  Each citation should include all necessary information (author, title, publication date, etc.).
 
 [[5]]. **Understanding Fair Use:** [[Fair Use Guidelines]] Fair use allows limited use of copyrighted material without permission for purposes such as criticism, commentary, news reporting, teaching, scholarship, or research. However, fair use is determined on a case-by-case basis and is complex.  When in doubt, it's best to obtain permission.
 

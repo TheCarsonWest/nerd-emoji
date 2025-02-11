@@ -1,4 +1,4 @@
- [[APHG Unit [[2]]
+ [[APHG Unit 2]]
  
 ### Population distribution is the pattern of human settlement – the spread of people across the earth.
 

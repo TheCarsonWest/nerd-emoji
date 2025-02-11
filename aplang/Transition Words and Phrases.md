@@ -1,4 +1,4 @@
-# [[Argumentative Essay]] Structure]]
+# [[Argumentative Essay Structure]]
 # [[Transition Words and Phrases]]
 
 These notes cover various transition words and phrases, categorized by their function.  Remember to [[Review Punctuation with Transitions]] for proper sentence structure.

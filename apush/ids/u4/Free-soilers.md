@@ -1,7 +1,7 @@
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]
 # ID: Free-Soilers
 
-## When: 1840s - 1850s (Specifically active during the period leading up to the [[Compromise of 1850]] and the [[Kansas]]-[[Nebraska]] Act]] of 1854)
+## When: 1840s - 1850s (Specifically active during the period leading up to the [[Compromise of 1850]] and the [[Kansas]]-[[Nebraska Act]] of 1854)
 
 ## Who:
 

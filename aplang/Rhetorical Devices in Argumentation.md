@@ -1,5 +1,5 @@
 # [[Argumentative Essay]]
-# [[Rhetorical Devices]] in Argumentation]]
+# [[Rhetorical Devices in Argumentation]]
 
 This note covers various rhetorical devices and their applications in crafting persuasive arguments.  
 

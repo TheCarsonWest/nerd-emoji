@@ -22,4 +22,4 @@
 * **Transition to a Nation:** The evolution from a resistance movement to a functioning government is a key turning point in American history.
 * **Weaknesses Exposed:**  The [[Articles of Confederation]], produced during this time, highlighted the shortcomings of a weak central government. This experience informed the creation of the more robust system under the Constitution.
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

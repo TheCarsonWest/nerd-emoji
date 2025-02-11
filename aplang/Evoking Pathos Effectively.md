@@ -1,11 +1,11 @@
-# [[Rhetorical Devices]] in Argumentation]]
+# [[Rhetorical Devices in Argumentation]]
 # [[Evoking Pathos Effectively]]
 
 **Goal:** To understand and utilize pathos (emotional appeal) effectively in writing and communication.
 
 **Key Components:**
 
-* **Identifying Target Emotions:**  What specific emotions do I want to evoke in my audience?  (e.g., sadness, anger, joy, fear, hope).  Consider the context and the desired response. [[Target [[Audience Analysis]]
+* **Identifying Target Emotions:**  What specific emotions do I want to evoke in my audience?  (e.g., sadness, anger, joy, fear, hope).  Consider the context and the desired response. [[Target Audience Analysis]]
 
 * **Choosing the Right Emotional [[Language]]:**
     * **Strong Verbs & Adjectives:** Use vivid and evocative language that directly appeals to the senses.  Avoid clichés.

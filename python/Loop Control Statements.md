@@ -52,7 +52,7 @@ else:
 ```
 
 [[Nested Loops]]  
-[[Break and Continue Statements]] Detailed]]
+[[Break and Continue Statements Detailed]]
 [[For Loop Syntax]]
 [[While Loop Syntax]]
 

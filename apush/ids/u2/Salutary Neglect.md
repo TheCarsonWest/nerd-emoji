@@ -15,4 +15,4 @@ A period of British colonial policy characterized by relaxed enforcement of laws
 * **End of [[Salutary Neglect]]:** The [[French and Indian War]] (1754-1763) marked a turning point.  The war's expense led Britain to reassert greater control over the colonies, implementing stricter policies and taxes that ultimately fueled colonial resentment and resistance, paving the way for the American Revolution.
 
 
-# [[IDS Unit [[4]]
+# [[IDS Unit 4]]

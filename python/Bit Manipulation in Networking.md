@@ -1,10 +1,10 @@
-# [[Bitwise [[Operators]]
+# [[Bitwise Operators]]
 # [[Bit Manipulation in Networking]] 
 This topic is vast and needs breaking down.
 
 * **Core Concepts:**
     * [[Binary Numbers and their Representation]]
-    * [[Bitwise [[Operators]] in Python]]  (AND, OR, XOR, NOT, left/right shift)
+    * [[Bitwise Operators in Python]]  (AND, OR, XOR, NOT, left/right shift)
     * [[Boolean Algebra and Logic Gates]] (Underlying principles)
 
 * **Networking Applications:**
@@ -15,7 +15,7 @@ This topic is vast and needs breaking down.
     * **Encryption/Decryption:** Bitwise operations are foundational to many encryption algorithms. [[Cryptography Basics]]
 
 * **Python Libraries:**
-    * The `struct` module for packing and unpacking binary data.  [[Python [[Struct Module]]
+    * The `struct` module for packing and unpacking binary data.  [[Python Struct Module]]
 
 * **Examples:**
     * Simple examples showing how to set, clear, or toggle individual bits in an integer.

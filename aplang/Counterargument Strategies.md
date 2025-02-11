@@ -1,4 +1,4 @@
-# [[Argumentative Essay]] Structure]]
+# [[Argumentative Essay Structure]]
 # [[Counterargument Strategies]]
 
 These notes outline strategies for addressing counterarguments effectively in argumentative writing and debate.
@@ -50,7 +50,7 @@ Regardless of the strategy employed, your response should be structured logicall
 
 **V.  Related Notes:**
 
-* [[Argumentative Essay]] Structure]]
+* [[Argumentative Essay Structure]]
 * [[Evidence Evaluation]]
 * [[Logical Fallacies]]
 

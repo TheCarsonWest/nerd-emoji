@@ -16,4 +16,4 @@ A [[United States]] federal law that established a system of federal meat inspec
 * **Reaction to *[[The Jungle]]*:**  Directly resulted from public outcry over Upton Sinclair's exposé of the appalling conditions in Chicago's meatpacking plants.  Showed the power of investigative journalism to influence public policy.
 * **Foundation for Future Legislation:** Served as a model for future food safety regulations and contributed to the development of the Food and Drug Administration (FDA).
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

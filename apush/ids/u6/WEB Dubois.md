@@ -14,4 +14,4 @@ In the late 1890s, Du Bois began articulating his ideas on race and social justi
 * **Influence on Civil Rights Strategy:** Du Bois's advocacy for political action and integration profoundly influenced the strategies adopted by later civil rights leaders. His ideas helped shape the goals and methods of the movement for decades to come.
 * **Long-lasting intellectual legacy:** Du Bois's writings continue to be studied and debated today, offering invaluable insight into the complexities of race, class, and power in American society.
 
-# [[IDS Unit [[6]]
+# [[IDS Unit 6]]

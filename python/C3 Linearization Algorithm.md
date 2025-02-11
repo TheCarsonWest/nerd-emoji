@@ -1,4 +1,4 @@
-# [[Method Resolution Order ([[MRO]])]]
+# [[Method Resolution Order (MRO)]]
 # [[C3 Linearization Algorithm]] 
 This note covers the C3 linearization algorithm used in Python's method resolution order ([[MRO]]) for resolving conflicts in multiple inheritance.
 
@@ -44,7 +44,7 @@ print(D.__mro__)  # Output: (<class '__main__.D'>, <class '__main__.B'>, <class 
 In this case, the C3 algorithm produces the [[MRO]] `<D, B, C, A, object>`.
 
 
-[[Python [[MRO]]  ([[Multiple [[Inheritance]] in Python]]) [[Depth-First Search]]
+[[Python MRO]]  ([[Multiple Inheritance in Python]]) [[Depth-First Search]]
 
 
 The C3 algorithm is crucial for understanding Python's sophisticated approach to multiple inheritance. While the algorithm's implementation details are intricate, the core principles of depth-first traversal and the careful merging of MROs ensure consistent and predictable behavior.  Understanding the intricacies allows for effective use and avoidance of unexpected behaviors in complex inheritance scenarios.

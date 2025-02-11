@@ -1,5 +1,5 @@
 # [[Regex Metacharacters]]
-# [[Regex Special [[Sequences]] 
+# [[Regex Special Sequences]] 
 This note covers Python's regular expression special [[Sequences]].  These [[Sequences]] provide shortcuts for commonly used patterns.
 
 **Important Note:** Remember to import the `re` module before using any of these.  `import re`

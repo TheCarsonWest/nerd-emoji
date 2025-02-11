@@ -8,7 +8,7 @@
 
 **[[Boston Tea Party]]:**
 
-* Led the [[Sons of Liberty]] in the [[Boston Tea Party]] on December 16, 1773, in protest against [[Tea Act]]|British tea taxes]].
+* Led the [[Sons of Liberty]] in the [[Boston Tea Party]] on December 16, 1773, in protest against [[Tea Act|British tea taxes]].
 
 **[[Intolerable Acts]]:**
 

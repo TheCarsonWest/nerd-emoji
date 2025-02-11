@@ -19,11 +19,11 @@
 [[3]]. **Counterargument Paragraph (optional but recommended):**  Address opposing viewpoints and refute them.
 [[4]]. **Conclusion:** Restate thesis, summarize main points, concluding thoughts.
 
-**III.  [[Rhetorical Devices]]:** [[Rhetorical Devices]] in Argumentation]]  (Links to another note)
+**III.  [[Rhetorical Devices]]:** [[Rhetorical Devices in Argumentation]]  (Links to another note)
 
 **IV. Essay Types that inform Argumentative Essays:**
 
-* [[AP English [[Language]] and Composition]] (Links to another note)
+* [[AP English Language and Composition]] (Links to another note)
 * [[Rhetorical Analysis]] (Links to another note)
 * [[Synthesis Essay]] (Links to another note)
 

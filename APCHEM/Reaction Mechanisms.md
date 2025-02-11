@@ -16,7 +16,7 @@ Reaction mechanisms detail the step-by-step process by which a chemical reaction
 
 * **Catalysts:** These increase the rate of a reaction without being consumed themselves. They do this by providing an alternative reaction pathway with a lower [[Activation Energy]].  Catalysts often participate in multiple elementary steps, ultimately being regenerated. [[Catalysis]]
 
-* **Reaction Coordinate Diagram:** A graphical representation showing the energy changes that occur during a reaction. It shows the energy of the reactants, products, intermediates, and the [[Activation Energy]] ($E_a$) for each step.  The highest point on the diagram represents the transition state. [[Transition States and [[Activation Energy]]
+* **Reaction Coordinate Diagram:** A graphical representation showing the energy changes that occur during a reaction. It shows the energy of the reactants, products, intermediates, and the [[Activation Energy]] ($E_a$) for each step.  The highest point on the diagram represents the transition state. [[Transition States and Activation Energy]]
 
 
 ## Example: The Reaction of Hydrogen and Bromine

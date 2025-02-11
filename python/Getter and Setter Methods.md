@@ -67,4 +67,4 @@ except ValueError as e:
     print(e)
 ```
 
-[[Property Decorator in Python]]  [[Encapsulation]] in OOP]] [[Error Handling]] in Python]]
+[[Property Decorator in Python]]  [[Encapsulation in OOP]] [[Error Handling in Python]]

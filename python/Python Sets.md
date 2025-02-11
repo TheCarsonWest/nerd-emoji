@@ -1,4 +1,4 @@
-# [[Python [[1]] Home]]
+# [[Python 1 Home]]
 # [[Python Sets]]
 
 Python sets are unordered collections of unique elements.  They are defined using curly braces `{}` or the `set()` constructor.
@@ -58,7 +58,7 @@ print(my_set)
 
 
 [[Frozen Sets]]
-[[Python Sets]] - Examples]]
+[[Python Sets - Examples]]
 
 **Set Comprehension:** Similar to [[List Comprehension]], but creates a set.
 

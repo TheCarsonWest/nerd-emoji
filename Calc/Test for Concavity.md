@@ -38,6 +38,6 @@ Let's consider the function $f(x) = x^[[3]] - 3x^[[2]] + [[2]]$.
 y = x^[[3]] - 3x^[[2]] + [[2]]
 ```
 
-[[Second [[Derivative]] Test]]
+[[Second Derivative Test]]
 
 This example demonstrates how to find intervals of concavity and identify inflection points. Remember to always check for changes in concavity when the second [[derivative]] is zero.  A sign chart can be very helpful in organizing your work.

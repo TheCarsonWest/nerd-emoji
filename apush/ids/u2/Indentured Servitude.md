@@ -17,4 +17,4 @@ A system of labor in which individuals agreed to work for a specified number of 
 * **Development of Racial [[Identity]]:** The growing reliance on enslaved Africans and the legal distinctions made between them and indentured servants contributed to the hardening of racial categories and the development of a system of racial hierarchy.
 
 
-# [[IDS Unit [[3]]
+# [[IDS Unit 3]]

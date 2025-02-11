@@ -22,7 +22,7 @@
 **Example Application:** [[Example Rogerian Argument Essay]]
 
 
-**Contrast with Traditional Argumentation:** [[Traditional vs. [[Rogerian Argumentation]]
+**Contrast with Traditional Argumentation:** [[Traditional vs. Rogerian Argumentation]]
 
 
 **Strengths:**  Rogerian argumentation is particularly effective in situations where:
