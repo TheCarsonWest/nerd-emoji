@@ -8,3 +8,4 @@
 - [[Endothermic]]
 - [[Exothermic]]
 # [[Heat of Vaporization]]
+# [[Hess Law]]
