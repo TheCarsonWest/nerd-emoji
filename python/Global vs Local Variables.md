@@ -18,10 +18,10 @@ print(global_var) # Output: 10
 
 ```python
 def my_function():
-  local_var = 5
+  local_var = [[5]]
   print(local_var)  # Accessing local variable
 
-my_function()  # Output: 5
+my_function()  # Output: [[5]]
 #print(local_var) # This will cause a NameError because local_var is not accessible here.
 ```
 

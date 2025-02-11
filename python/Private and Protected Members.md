@@ -44,5 +44,5 @@ print(my_instance._protected_var) # Access directly; no error
 * Avoid directly accessing mangled names (`_ClassName__attributeName`).
 
 [[Getter and Setter Methods]]
-[[Encapsulation in Python]]
+[[Encapsulation]] in Python]]
 

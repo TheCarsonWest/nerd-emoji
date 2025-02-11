@@ -33,7 +33,7 @@ The overall reaction order is the sum of *m* and *n*.
 Several methods are used to determine the reaction order:
 
 * **Method of Initial Rates:**  [[Method of Initial Rates]] This involves running multiple experiments with varying initial concentrations of reactants and measuring the initial rate for each.  By comparing how the rate changes with concentration, the orders can be determined.
-* **Integrated [[Rate Laws]]:** [[Integrated Rate Laws]]  These equations relate the concentration of a reactant to time. By plotting concentration vs. time data in various forms (e.g., ln[A] vs. time for a first-order reaction), the order can be determined from the linearity of the plot.
+* **Integrated [[Rate Laws]]:** [[Integrated [[Rate Laws]]  These equations relate the concentration of a reactant to time. By plotting concentration vs. time data in various forms (e.g., ln[A] vs. time for a first-order reaction), the order can be determined from the linearity of the plot.
 * **Half-life Method:** [[Half-life]] The half-life of a reaction is the time it takes for the concentration of a reactant to decrease by half.  The relationship between half-life and initial concentration is indicative of the reaction order.
 
 
@@ -46,11 +46,11 @@ The rate constant, *k*, is a proportionality constant that relates the rate of a
 
 Consider the reaction: $2NO(g) + O_2(g) \rightarrow 2NO_2(g)$
 
-If experimentally determined rate law is: $Rate = k[NO]^2[O_2]$
+If experimentally determined rate law is: $Rate = k[NO]^[[2]][O_2]$
 
 * The reaction is second order with respect to NO.
-* The reaction is first order with respect to O<sub>2</sub>.
-* The overall reaction order is 3 (2 + 1).
+* The reaction is first order with respect to O<sub>[[2]]</sub>.
+* The overall reaction order is [[3]] ([[2]] + [[1]]).
 
 
 ## Factors Affecting Reaction Rate

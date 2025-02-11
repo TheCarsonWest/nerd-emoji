@@ -15,7 +15,7 @@ $$AB \rightarrow A + B$$
 
 **Factors Affecting Decomposition Reactions:**
 
-* **Temperature:** Higher temperatures generally increase the rate of decomposition.
+* **[[Temperature]]:** Higher temperatures generally increase the rate of decomposition.
 * **Surface Area:** Increasing the surface area of the reactant increases the rate of decomposition.
 * **Pressure:** Pressure has little effect on decomposition reactions involving gases.
 * **Catalysts:** Catalysts can increase the rate of decomposition by providing an alternative reaction pathway with a lower [[Activation Energy]].

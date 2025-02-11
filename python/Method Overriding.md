@@ -4,7 +4,7 @@ Method overriding in Python occurs when a subclass provides a specific implement
 
 **Key points:**
 
-* **Inheritance:**  Method overriding relies on inheritance. A subclass must inherit from a superclass. [[Inheritance]]
+* **[[Inheritance]]:**  Method overriding relies on inheritance. A subclass must inherit from a superclass. [[Inheritance]]
 * **Method Signature:** The overriding method in the subclass must have the *exact same* name and parameter list as the method in the superclass.  If the parameters differ, it's not overriding, but rather method overloading (which Python doesn't directly support in the same way as some other languages). [[Method Overloading (Python's Approach)]]
 * **Dynamic Dispatch:**  Python uses dynamic dispatch (also known as runtime polymorphism) to determine which method to call at runtime.  The actual method called depends on the type of the object the method is invoked on.
 * **`super()` function:** The `super()` function is often used within the overriding method to call the superclass's implementation. This allows the subclass to extend, rather than completely replace, the superclass's behavior.

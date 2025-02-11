@@ -1,10 +1,10 @@
-# [[Python 1 Home]]
+# [[Python [[1]] Home]]
 
 
 # Programming is writing in a language a computer can read
 ## computers compute
 
-## Machine Language
+## Machine [[Language]]
 A language a machine can read
 ### Properties of a language
 - Alphabet
@@ -18,7 +18,7 @@ A language a machine can read
 	- Rules determining if something makes sense
 # Program files
 - They are called source code, and are written in a source file
-- The source code for this markdown file is what you are reading right now, and the source file is ./non programming things about python.md
+- The source code for this markdown file is what you are reading right now, and the source file is ./[[non programming things about python]].md
 # Compilation
 - Your computer **hardware** reads in an extremely simple machine language(binary), as to be extremely fast, but thats not very readable by humans who dont have a PHD in mathematics
 - As you get closer from the hardware, to the kernel, the operating system, and to computer programs, the machine languages get higher order, Ex: from binary to hexadecimal to assembly, to C, .

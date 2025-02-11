@@ -1,4 +1,4 @@
-# [[[[Synthesis Essay]] Strategies]]
+# [[Synthesis Essay]] Strategies]]
 # [[Source Evaluation Criteria]]
 
 These notes outline criteria for evaluating information sources.  The goal is to determine the credibility, reliability, and authority of a source before using it in research or decision-making.

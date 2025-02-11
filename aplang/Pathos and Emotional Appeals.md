@@ -1,4 +1,4 @@
-# [[AP English Language and Composition]]
+# [[AP English [[Language]] and Composition]]
 # [[Pathos and Emotional Appeals]]
 
 **Definition:** Pathos refers to the use of emotional appeals to persuade an audience.  It's about connecting with the reader or listener on a human level, evoking feelings that make them more receptive to the argument.  It's not about manipulating emotions, but about using them ethically and effectively to strengthen a persuasive message.
@@ -7,9 +7,9 @@
 
 * **Identifying the Target Audience:** Understanding the audience's values, beliefs, and experiences is crucial for choosing the right emotional appeals. $Audience \implies Emotional \; Response$
 * **Selecting Appropriate Emotions:** Different emotions can be used depending on the goal.  For example, using sadness to generate empathy or anger to inspire action.
-* **Using Vivid Language and Imagery:**  Strong verbs, evocative adjectives, and detailed descriptions help paint a picture in the audience's mind and create a stronger emotional impact.
+* **Using Vivid [[Language]] and Imagery:**  Strong verbs, evocative adjectives, and detailed descriptions help paint a picture in the audience's mind and create a stronger emotional impact.
 * **Telling Compelling Stories:**  Narratives are particularly powerful tools for connecting with an audience on an emotional level.  Anecdotes, case studies, and personal experiences can all be used effectively.
-* **Using Figurative Language:** Metaphors, similes, and other figures of speech can add depth and impact to emotional appeals.
+* **Using Figurative [[Language]]:** Metaphors, similes, and other figures of speech can add depth and impact to emotional appeals.
 
 
 **Ethical Considerations:** [[Ethical Use of Pathos]]
@@ -29,7 +29,7 @@
 **Techniques:**
 
 * [[Using Anecdotes Effectively]]
-* [[Employing Vivid Language]]
+* [[Employing Vivid [[Language]]
 * [[Creating a Sense of Urgency]]
 * [[Evoking Nostalgia]]
 

@@ -22,7 +22,7 @@ This note covers best practices for choosing descriptive variable names in Pytho
 ```python
 customer_name = "Alice Smith"
 order_total = 150.50
-product_prices = [10.99, 25.00, 5.75]
+product_prices = [10.99, 25.00, [[5]].75]
 is_logged_in = True
 ```
 
@@ -31,14 +31,14 @@ is_logged_in = True
 ```python
 n = "Alice Smith"  # What does 'n' represent?
 t = 150.50        # Too cryptic
-p = [10.99, 25.00, 5.75] #What is p?
+p = [10.99, 25.00, [[5]].75] #What is p?
 l = True         # What does 'l' mean?
 ```
 
 
 **Further Considerations:**
 
-* [[Data Types in Python]] - Understanding different data types helps choose appropriately descriptive names.
+* [[Data Types]] in Python]] - Understanding different data types helps choose appropriately descriptive names.
 * [[Python Style Guide (PEP 8)]] -  Provides detailed guidance on naming conventions and other style recommendations.
 * [[Working with [[Lists]] in Python]] -  Shows how descriptive names can improve readability when working with lists.
 

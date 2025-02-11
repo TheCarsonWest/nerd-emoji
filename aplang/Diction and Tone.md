@@ -1,4 +1,4 @@
-# [[AP English Language and Composition]]
+# [[AP English [[Language]] and Composition]]
 # [[Diction and Tone]]
 
 **Diction:**  Word choice.  Impacts tone and meaning significantly.
@@ -37,9 +37,9 @@
 
 * **Analyzing Tone and Diction:** Look for patterns in word choice. Are the words positive, negative, or neutral?  Are they simple or complex? Are there any figures of speech used?  How do these choices contribute to the overall effect?  [[Tone and Diction Analysis Examples]]
 
-* **Formula for Tone:** $Tone = f(Diction, Syntax, Imagery, Figurative Language)$  This is a simplified representation; other factors can contribute as well.
+* **Formula for Tone:** $Tone = f(Diction, Syntax, Imagery, Figurative [[Language]])$  This is a simplified representation; other factors can contribute as well.
 
-## $$Tone = f(Diction, Syntax, Imagery, Figurative Language)$$
+## $$Tone = f(Diction, Syntax, Imagery, Figurative [[Language]])$$
 
 
 [[Diction Examples]]

@@ -1,4 +1,4 @@
-# [[Python 1 Home]]
+# [[Python [[1]] Home]]
 # [[File Handling]] 
 Key aspects to remember about file handling in Python:
 
@@ -39,7 +39,7 @@ file.close()
 
 *   **Appending to Files:** Use `"a"` mode to add content to the end of an existing file.
 
-*   **Error Handling:** Use `try...except` blocks to handle potential `FileNotFoundError` exceptions.
+*   **[[Error Handling]]:** Use `try...except` blocks to handle potential `FileNotFoundError` exceptions.
 
 ```python
 try:
@@ -51,7 +51,7 @@ finally:
     file.close() #This will still execute even if exception occurs.  Best way to ensure file is closed
 ```
 
-*   **Context Managers (`with` statement):** The preferred way to handle files, automatically closing them even if errors occur.
+*   **[[Context Managers]] (`with` statement):** The preferred way to handle files, automatically closing them even if errors occur.
 
 ```python
 with open("my_file.txt", "r") as file:

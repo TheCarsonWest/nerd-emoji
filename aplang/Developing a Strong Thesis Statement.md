@@ -5,16 +5,16 @@
 
 A strong thesis statement generally includes these three elements:
 
-1. **Specific Claim:**  A clear and focused assertion, not a general observation.  Avoid vague language.  Instead of "Shakespeare was a great writer," try something like "Shakespeare's use of iambic pentameter in *Hamlet* contributes to the play's dramatic tension."
+[[1]]. **Specific Claim:**  A clear and focused assertion, not a general observation.  Avoid vague language.  Instead of "Shakespeare was a great writer," try something like "Shakespeare's use of iambic pentameter in *Hamlet* contributes to the play's dramatic tension."
 
-2. **Reasoning/Roadmap:**  Briefly indicates the main points or arguments that will support your claim. This acts as a roadmap for your essay.  For example,  "...by highlighting internal conflict, foreshadowing key events, and creating a sense of inevitability."
+[[2]]. **Reasoning/Roadmap:**  Briefly indicates the main points or arguments that will support your claim. This acts as a roadmap for your essay.  For example,  "...by highlighting internal conflict, foreshadowing key events, and creating a sense of inevitability."
 
-3. **Scope/Limits:**  Implicitly or explicitly defines the boundaries of your argument.  What aspects of the topic will you address?  What will you *not* address?
+[[3]]. **Scope/Limits:**  Implicitly or explicitly defines the boundaries of your argument.  What aspects of the topic will you address?  What will you *not* address?
 
 
 **II. Types of Thesis Statements:**
 
-* **Argumentative:**  Presents a debatable claim and aims to persuade the reader.  Example: "The rising cost of higher education in the United States is primarily driven by escalating administrative expenses, not faculty salaries."
+* **Argumentative:**  Presents a debatable claim and aims to persuade the reader.  Example: "The rising cost of higher education in the [[United States]] is primarily driven by escalating administrative expenses, not faculty salaries."
 
 * **Analytical:**  Examines a topic, breaking it down into its constituent parts and exploring the relationships between them. Example:  "Toni Morrison's *Beloved* utilizes elements of magical realism to explore the lingering trauma of slavery and its impact on individual and collective identity."
 
@@ -22,13 +22,13 @@ A strong thesis statement generally includes these three elements:
 
 **III.  Formulating a Thesis:**
 
-1. **Start with a question:**  What is the central question you are trying to answer?  Your thesis statement should be a direct response.
+[[1]]. **Start with a question:**  What is the central question you are trying to answer?  Your thesis statement should be a direct response.
 
-2. **Brainstorm and research:**  Gather information to support your potential claims.
+[[2]]. **Brainstorm and research:**  Gather information to support your potential claims.
 
-3. **Refine and revise:**  Your initial thesis might need adjustments as you develop your argument.  ([[Thesis Revision Process]])
+[[3]]. **Refine and revise:**  Your initial thesis might need adjustments as you develop your argument.  ([[Thesis Revision Process]])
 
-4. **Check for clarity and focus:**  Is your thesis statement concise, specific, and easy to understand?
+[[4]]. **Check for clarity and focus:**  Is your thesis statement concise, specific, and easy to understand?
 
 
 **IV. Common Mistakes to Avoid:**

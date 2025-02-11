@@ -14,7 +14,7 @@
 
 **Groups:**
 
-* Democratic-Republicans
+* Democratic-[[Republicans]]
 * American Philosophical Society
 
 **Impact on the Country:**

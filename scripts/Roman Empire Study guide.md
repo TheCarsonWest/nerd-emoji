@@ -1,22 +1,22 @@
 
 **I. The Foundation of Rome:**
 
-1.  **What were the key factors that contributed to the rise of the Roman Empire?** 
+[[1]].  **What were the key factors that contributed to the rise of the Roman Empire?** 
     - Ambition, lust for conquest, a penchant for murder, and unparalleled technological advancements were all crucial elements.
-2.  **How did Roman building projects reflect the culture and ideology of the Empire?** 
+[[2]].  **How did Roman building projects reflect the culture and ideology of the Empire?** 
     - Colossal structures like stadiums, palaces, roads, and aqueducts showcased Rome's power, technological superiority, and ambition.
-3.  **In what ways did the Roman Empire's ambition ultimately contribute to its downfall?** 
+[[3]].  **In what ways did the Roman Empire's ambition ultimately contribute to its downfall?** 
     - Unchecked ambition, the pursuit of absolute power as seen with Caesar, and internal conflicts like civil wars weakened the empire from within.
-4.  **How did the legend of Romulus and Remus foreshadow the recurring themes in Roman history?** 
+[[4]].  **How did the legend of Romulus and Remus foreshadow the recurring themes in Roman history?** 
     - The story illustrates the themes of ambition, violence, and the struggle for power that would shape Roman history.
-5.  **How did Rome's early openness contribute to its growth?** 
+[[5]].  **How did Rome's early openness contribute to its growth?** 
     - It allowed for a free exchange of ideas and technologies, fostering innovation and expansion.
 
 **II. Julius Caesar and Military Engineering:**
 
-6.  **What was Julius Caesar's ambition, and how did it drive his actions?** 
+[[6]].  **What was Julius Caesar's ambition, and how did it drive his actions?** 
     - Caesar aimed for supreme power and glory, leading him to military conquest and political maneuvering.
-7.  **Describe the engineering challenges Caesar faced in crossing the Rhine River.** 
+[[7]].  **Describe the engineering challenges Caesar faced in crossing the Rhine River.** 
     - The river's width, depth, strong currents, and unknown riverbed posed significant engineering problems.
 8.  **Explain the design and construction of Caesar's bridge across the Rhine.** 
     - The bridge utilized diagonal piles for stability, interconnected beams, and a layered construction of timber and bundles of sticks.

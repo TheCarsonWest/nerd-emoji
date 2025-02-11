@@ -1,5 +1,5 @@
 # [[Python Functions]]
-# [[Function Parameters and Arguments]] 
+# [[Function Parameters]] and Arguments]] 
 Python functions utilize parameters to receive input and arguments to provide that input during function calls.  There's a subtle but important distinction.
 
 * **Parameters:** These are defined within the function's definition. They act as placeholders for the values that will be passed in.
@@ -25,9 +25,9 @@ greet("Bob", "Good morning") # "Bob" and "Good morning" are arguments
 greet(greeting="Hi", name="Charlie") #Keyword Arguments
 ```
 
-* **Default Parameters:**  Parameters can have default values. If an argument isn't provided for a parameter with a default, the default is used.  Default parameters must come after non-default parameters in the function definition.
+* **[[Default Parameters]]:**  Parameters can have default values. If an argument isn't provided for a parameter with a default, the default is used.  Default parameters must come after non-default parameters in the function definition.
 
-* **Variable-Length Arguments (Arbitrary Arguments):**
+* **[[Variable-Length Arguments]] (Arbitrary Arguments):**
     * `*args`:  Collects any number of positional arguments into a tuple.
     * `**kwargs`: Collects any number of keyword arguments into a dictionary.
 
@@ -37,7 +37,7 @@ def my_function(a, b, *args, **kwargs):
     print(f"args: {args}")
     print(f"kwargs: {kwargs}")
 
-my_function(1, 2, 3, 4, 5, name="Alice", age=30)
+my_function([[1]], [[2]], [[3]], [[4]], [[5]], name="Alice", age=30)
 ```
 
 [[Variable-Length Arguments]]
@@ -55,11 +55,11 @@ Python uses pass-by-object-reference.  This means that when you pass a mutable o
 
 ```python
 def modify_list(my_list):
-    my_list.append(4)
+    my_list.append([[4]])
 
-my_list = [1, 2, 3]
+my_list = [[[1]], [[2]], [[3]]]
 modify_list(my_list)
-print(my_list)  # Output: [1, 2, 3, 4]  (List modified)
+print(my_list)  # Output: [[[1]], [[2]], [[3]], [[4]]]  (List modified)
 
 
 def modify_string(my_string):

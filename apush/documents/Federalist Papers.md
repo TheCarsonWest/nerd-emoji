@@ -4,7 +4,7 @@
 
 **Impact on Society:**
 
-* Played a decisive role in the ratification of the [[Constitution of the United States]].
+* Played a decisive role in the ratification of the [[Constitution of the [[United States]].
 * Shaped American political thought and constitutionalism for centuries.
 * Provided arguments for a strong, centralized government and a separation of powers.
 

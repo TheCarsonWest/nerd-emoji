@@ -15,7 +15,7 @@
 * ** [[Whiskey Rebellion]] (1794)**: Hamilton led the suppression of this uprising against federal taxation.
 
 **People and Groups Associated with Hamilton:**
-* **[[George Washington]]**: Hamilton served as [[Washington]]'s aide-de-camp during the Revolutionary War and as Secretary of the Treasury under his presidency.
+* **[[George [[Washington]]**: Hamilton served as [[Washington]]'s aide-de-camp during the Revolutionary War and as Secretary of the Treasury under his presidency.
 * ** [[Thomas Jefferson]]**: Hamilton's political rival and a leading figure in the Democratic-Republican Party.
 * **[[Federalists]]**: A political party led by Hamilton that supported a strong central government and a pro-business economy.
 * **Anti-Federalists**: A political party that opposed the Constitution and favored states' rights.

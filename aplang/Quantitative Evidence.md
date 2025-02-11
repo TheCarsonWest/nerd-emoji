@@ -52,6 +52,6 @@
 
 **Example:**  A study measuring the effectiveness of a new drug by comparing the blood pressure of participants in a treatment group to a control group. The blood pressure measurements would be quantitative evidence.
 
-## $$ \bar{x} = \frac{\sum_{i=1}^{n} x_i}{n} $$  (Formula for the sample mean)
+## $$ \bar{x} = \frac{\sum_{i=[[1]]}^{n} x_i}{n} $$  (Formula for the sample mean)
 
-## $$ s = \sqrt{\frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n-1}} $$ (Formula for the sample standard deviation)
+## $$ s = \sqrt{\frac{\sum_{i=[[1]]}^{n}(x_i - \bar{x})^[[2]]}{n-[[1]]}} $$ (Formula for the sample standard deviation)

@@ -26,7 +26,7 @@ This note covers common spelling errors and words frequently confused.  Will nee
 * **To/Too/Two:**
     * To:  Indicates direction or purpose. Example: I'm going *to* the store.
     * Too:  Means "also" or "excessively." Example: I want to go *too*. It's *too* hot.
-    * Two: The number 2. Example: I have *two* apples.
+    * Two: The number [[2]]. Example: I have *two* apples.
 * **Affect/Effect:**
     * Affect: Usually a verb meaning "to influence." Example: The weather will *affect* our plans.  ($Affect \implies Verb$)
     * Effect: Usually a noun meaning "result." Example: The *effect* of the rain was flooding. ($Effect \implies Noun$)  Exceptions exist; effect can be a verb meaning "to bring about."
@@ -40,7 +40,7 @@ This note covers common spelling errors and words frequently confused.  Will nee
 
 **Resources:**
 
-* [[Online Spelling Dictionaries]]
+* [[Online Spelling [[Dictionaries]]
 * [[Grammar and Style Guides]]
 
 

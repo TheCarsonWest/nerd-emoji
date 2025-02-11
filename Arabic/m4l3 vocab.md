@@ -58,7 +58,7 @@
 | **مُعظَم**                   | Most                         |
 | **الخَليجِ العَربي**         | The Arabic Gulf              |
 | **المُحيط الأَطلَسي**        | The Atlantic Ocean           |
-| **الحَرارةِ  المُرتَفعَة**   | The high Temperature         |
+| **الحَرارةِ  المُرتَفعَة**   | The high [[Temperature]]         |
 | **قِلَة - قَليل**            | Few                          |
 | **إقلِيم البَحر المُتوسِط**  | Mediterranean Region         |
 | **شمالاً**                   | North                        |

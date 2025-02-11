@@ -7,7 +7,7 @@
 
 * **Numbers:** Spell out numbers zero through nine; use figures for 10 and above.  Exceptions exist for ages, addresses, etc. (see [[Number Usage Rules]]).
 
-* **Dates & Times:**  Follow specific AP style for date and time formatting.  (e.g.,  Month Day, Year; 3 p.m., not 3 PM) (see [[Date and Time Formatting]]).
+* **Dates & Times:**  Follow specific AP style for date and time formatting.  (e.g.,  Month Day, Year; [[3]] p.m., not [[3]] PM) (see [[Date and Time Formatting]]).
 
 * **Abbreviations:** Use sparingly.  Spell out on first reference, then abbreviate if appropriate.  (See [[Abbreviations and Acronyms]]).
 
@@ -18,7 +18,7 @@
     * **Colons:** Use to introduce a list or explanation.
 
 
-* **State Names:** Spell out state names in body text, except when used with a city name (e.g.,  "He lives in Springfield, Illinois," but  "He moved to Ill."). See [[State Name Abbreviations]].
+* **State Names:** Spell out state names in body text, except when used with a city name (e.g.,  "He lives in Springfield, [[Illinois]]," but  "He moved to Ill."). See [[State Name Abbreviations]].
 
 * **Titles:** Capitalize titles before names, but not afterward. (e.g., President Biden, but the president). More detail in [[Titles and Names]].
 
@@ -33,15 +33,15 @@
 
 * **Accuracy & Fairness:** Verify facts. Be fair and objective in reporting.
 
-* **Bias-Free Language:** Avoid stereotypes and biased language.
+* **Bias-Free [[Language]]:** Avoid stereotypes and biased language.
 
 
 **Equations (Examples):**
 
-Inline equation: The area of a circle is given by $A = \pi r^2$.
+Inline equation: The area of a circle is given by $A = \pi r^[[2]]$.
 
 Block equation:
-$$ E = mc^2 $$
+$$ E = mc^[[2]] $$
 
 
 **References:**

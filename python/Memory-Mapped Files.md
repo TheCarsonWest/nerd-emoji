@@ -9,7 +9,7 @@ Python's `mmap` module allows for memory-mapping files. This means treating a fi
 * **Shared Memory:** Multiple processes can access and modify the same memory-mapped file simultaneously, enabling inter-process communication (IPC). [[Inter-Process Communication (IPC)]]
 * **Synchronization:** Because multiple processes can access the same memory, proper synchronization mechanisms (like locks) are crucial to prevent race conditions and data corruption. [[Synchronization Primitives]]
 * **File Modes:**  Different modes affect how the mapped file behaves (read-only, read-write, copy-on-write, etc.).
-* **Error Handling:**  Properly handle exceptions like `mmap.error` for scenarios where the mapping fails.
+* **[[Error Handling]]:**  Properly handle exceptions like `mmap.error` for scenarios where the mapping fails.
 
 
 **Example:**

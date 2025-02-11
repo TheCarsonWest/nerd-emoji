@@ -37,6 +37,6 @@
 
 **Impact on the Rest of the Country:**
 
-* [[Arkansas]]'s secession from the Union was a major factor in the outbreak of the Civil War.
+* [[Arkansas]]'s secession from the Union was a major factor in the outbreak of the [[Civil War]].
 * The integration of Central High School in Little Rock was a landmark event in the civil rights movement.
 * [[Arkansas]]'s Religious Freedom Restoration Act sparked a national debate over religious liberty and LGBTQ rights.

@@ -12,4 +12,4 @@ Diplomatic incident where three low-level French agents (X, Y, and Z) demanded a
 * Contributed to the passage of the Alien and Sedition Acts, which were aimed at suppressing dissent and limiting the power of the Democratic-Republican Party (seen as sympathetic to [[France]]).
 * Represented a significant challenge to the early American republic in terms of foreign policy and internal divisions. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit [[3]]

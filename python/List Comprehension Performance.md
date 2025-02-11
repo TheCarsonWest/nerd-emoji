@@ -1,5 +1,5 @@
 # [[List Comprehension]]
-# [[List Comprehension Performance]] 
+# [[List Comprehension]] Performance]] 
 List comprehensions are a concise way to create lists in Python, but their performance characteristics are worth understanding.
 
 Generally, list comprehensions are faster than equivalent `for` loops. This is because list comprehensions are implemented in optimized C code within the Python interpreter, whereas `for` loops involve more Python interpreter overhead.
@@ -13,14 +13,14 @@ import time
 start_time = time.time()
 my_list = []
 for i in range(1000000):
-  my_list.append(i*2)
+  my_list.append(i*[[2]])
 end_time = time.time()
 print(f"For loop time: {end_time - start_time:.4f} seconds")
 
 
 # Using list comprehension
 start_time = time.time()
-my_list = [i*2 for i in range(1000000)]
+my_list = [i*[[2]] for i in range(1000000)]
 end_time = time.time()
 print(f"List comprehension time: {end_time - start_time:.4f} seconds")
 ```
@@ -42,7 +42,7 @@ print(f"List comprehension time: {end_time - start_time:.4f} seconds")
 **When to avoid list comprehensions:**
 
 * When readability suffers due to excessive complexity within the comprehension.  It is better to use a `for` loop for complex logic to maintain clarity.
-* When dealing with exceptionally large datasets where memory usage might become problematic.  Consider using generators or iterators in such cases.  [[Generators and Iterators]]
+* When dealing with exceptionally large datasets where memory usage might become problematic.  Consider using generators or iterators in such cases.  [[Generators]] and [[Iterators]]
 
 
 

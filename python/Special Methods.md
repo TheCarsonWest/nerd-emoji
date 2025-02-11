@@ -46,7 +46,7 @@ class MyList:
     def __len__(self):
         return len(self.data)
 
-my_list = MyList([1,2,3])
+my_list = MyList([[[1]],[[2]],[[3]]])
 print(len(my_list))
 ```
 
@@ -54,7 +54,7 @@ print(len(my_list))
 
 * `__eq__(self, other)`: Defines the behavior of the `==` operator. [[Operator Overloading]]
 
-* `__iter__(self)`:  Makes your class iterable (using `for` loops).  Needs to return an iterator object. [[Iterators and Generators]]
+* `__iter__(self)`:  Makes your class iterable (using `for` loops).  Needs to return an iterator object. [[Iterators]] and [[Generators]]
 
 * `__getitem__(self, key)`: Allows accessing items using indexing (`my_object[index]`). [[Context Managers]]
 
@@ -62,7 +62,7 @@ print(len(my_list))
 **Further Exploration:**
 
 * [[Operator Overloading]]:  Focuses on `__add__`, `__eq__`, `__mul__`, etc.  How to customize arithmetic and comparison [[Operators]].
-* [[Iterators and Generators]]:  Detailed explanation of how to create iterable classes using `__iter__` and `__next__`.
+* [[Iterators]] and [[Generators]]:  Detailed explanation of how to create iterable classes using `__iter__` and `__next__`.
 * [[Context Managers]]: Explanation of `__enter__` and `__exit__` methods for managing resources.
 * [[Object Lifecycle]]:  A deeper dive into object creation, destruction, and garbage collection.  How these special methods interact with the Python interpreter.
 

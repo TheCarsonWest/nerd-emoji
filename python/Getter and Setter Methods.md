@@ -4,7 +4,7 @@ These methods provide controlled access to an object's attributes.  They are cru
 
 **Why use them?**
 
-* **Encapsulation:** Hide internal object state.  Prevent direct manipulation of attributes, which can lead to inconsistencies or errors.
+* **[[Encapsulation]]:** Hide internal object state.  Prevent direct manipulation of attributes, which can lead to inconsistencies or errors.
 * **Data Validation:**  Enforce constraints on attribute values before they are assigned.  This ensures data remains valid and prevents unexpected behavior.
 * **Maintainability:** Makes it easier to modify internal implementation without affecting external code that uses the object.
 
@@ -32,7 +32,7 @@ person.set_age(35)  # Modifying age using setter
 print(person.get_age())
 
 try:
-    person.set_age(-5)
+    person.set_age(-[[5]])
 except ValueError as e:
     print(e) # Handles invalid age using error message
 ```
@@ -62,9 +62,9 @@ person.age = 35
 print(person.age)
 
 try:
-    person.age = -5
+    person.age = -[[5]]
 except ValueError as e:
     print(e)
 ```
 
-[[Property Decorator in Python]]  [[Encapsulation in OOP]] [[Error Handling in Python]]
+[[Property Decorator in Python]]  [[Encapsulation]] in OOP]] [[Error Handling]] in Python]]

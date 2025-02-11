@@ -13,29 +13,29 @@ Resonance structures are multiple [[Lewis structures]] that represent the deloca
 
 **Examples:**
 
-**1. Ozone ($O_3$)**
+**[[1]]. Ozone ($O_3$)**
 
-* **Resonance Structure 1:** $O=O^+ - O^-$
-* **Resonance Structure 2:** $O^- - O^+ = O$
+* **Resonance Structure [[1]]:** $O=O^+ - O^-$
+* **Resonance Structure [[2]]:** $O^- - O^+ = O$
 
 The actual structure of ozone is a resonance hybrid of these two structures, with the double bond delocalized over both oxygen-oxygen bonds.
 
-**2. Carbonate Ion ($CO_3^{2-}$) **
+**[[2]]. Carbonate Ion ($CO_3^{[[2]]-}$) **
 
-* **Resonance Structure 1:** 
+* **Resonance Structure [[1]]:** 
 $O=C - O^- - O^-$
-* **Resonance Structure 2:** 
+* **Resonance Structure [[2]]:** 
 $O^- - C = O - O^-$
-* **Resonance Structure 3:** 
+* **Resonance Structure [[3]]:** 
 $O^- - C - O = O^-$
 
 The resonance hybrid of the carbonate ion shows a delocalized double bond over all three carbon-oxygen bonds.
 
-**3. Benzene ($C_6H_6$)**
+**[[3]]. Benzene ($C_6H_6$)**
 
-* **Resonance Structure 1:** 
+* **Resonance Structure [[1]]:** 
 $H-C=C-C=C-C=C-H$
-* **Resonance Structure 2:** 
+* **Resonance Structure [[2]]:** 
 $H-C-C=C-C=C-C-H$
 
 Benzene has two equivalent resonance structures, with the double bonds delocalized over the entire ring. This delocalization is responsible for the extraordinary stability of benzene.

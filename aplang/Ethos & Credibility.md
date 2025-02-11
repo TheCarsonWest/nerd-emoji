@@ -12,7 +12,7 @@ This note covers the concept of ethos and credibility in persuasive communicatio
 **Components of Credibility:**
 
 * **Competence:**  The audience's perception of the speaker's knowledge, skill, and expertise on the subject matter.  This can be demonstrated through:
-    *  Demonstrating relevant experience and education ($E = mc^2$).
+    *  Demonstrating relevant experience and education ($E = mc^[[2]]$).
     *  Citing credible sources and evidence.
     *  Using accurate and precise language.
     *  Presenting a well-structured and logical argument.

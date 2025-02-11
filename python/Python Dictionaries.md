@@ -1,23 +1,23 @@
-# [[Memoization in Recursion]]
-# [[Python Dictionaries]] 
+# [[Memoization in [[Recursion]]
+# [[Python [[Dictionaries]] 
 Python dictionaries are unordered collections of key-value pairs.  Keys must be immutable (e.g., strings, numbers, tuples), while values can be of any data type.
 
 **Key Features:**
 
 * **Key-Value Pairs:**  Data is stored as key-value pairs, allowing for efficient lookups using keys.
 * **Mutability:** [[Dictionaries]] are mutable, meaning you can add, remove, or modify elements after creation.
-* **Unordered:**  Prior to Python 3.7, dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
-* **Hashing:** [[Dictionaries]] utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O(1) on average.
+* **Unordered:**  Prior to Python [[3]].[[7]], dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
+* **Hashing:** [[Dictionaries]] utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O([[1]]) on average.
 
 
-**Creating Dictionaries:**
+**Creating [[Dictionaries]]:**
 
 There are several ways to create dictionaries:
 
 * Using curly braces `{}`:
 
 ```python
-my_dict = {"name": "Alice", "age": 30, "city": "New York"}
+my_dict = {"name": "Alice", "age": 30, "city": "[[New York]]"}
 ```
 
 * Using the `dict()` constructor:
@@ -62,7 +62,7 @@ popped_value = my_dict.pop("age") #Removes and returns the value associated with
 my_dict.popitem() #Removes and returns an arbitrary key-value pair
 ```
 
-**Iterating through Dictionaries:**
+**Iterating through [[Dictionaries]]:**
 
 ```python
 #Iterating through keys
@@ -85,7 +85,7 @@ for key, value in my_dict.items():
 **Common Use Cases:**
  [[Dictionaries]] are frequently used to represent structured data, such as configurations, data from JSON or other APIs, and more.
 
-[[Dictionary vs. [[Lists]] and Tuples]] (This will be a separate note)
+[[Dictionary vs. [[Lists]] and [[Tuples]] (This will be a separate note)
 
 
 **Example:**

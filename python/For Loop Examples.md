@@ -5,7 +5,7 @@ This note covers examples of using `for` loops in Python.
 * **Basic Iteration:**
 
 ```python
-my_list = [1, 2, 3, 4, 5]
+my_list = [[[1]], [[2]], [[3]], [[4]], [[5]]]
 for item in my_list:
     print(item)
 ```
@@ -21,7 +21,7 @@ for char in my_string:
 * **Iterating through dictionaries:**
 
 ```python
-my_dict = {"a": 1, "b": 2, "c": 3}
+my_dict = {"a": [[1]], "b": [[2]], "c": [[3]]}
 for key in my_dict:
     print(f"Key: {key}, Value: {my_dict[key]}")
 
@@ -34,10 +34,10 @@ for key, value in my_dict.items():
 * **Iterating with `range()`:**
 
 ```python
-for i in range(5):  #Prints 0 to 4
+for i in range([[5]]):  #Prints 0 to [[4]]
     print(i)
 
-for i in range(2, 10, 2): #Starts at 2, goes up to (but not including) 10, incrementing by 2.
+for i in range([[2]], 10, [[2]]): #Starts at [[2]], goes up to (but not including) 10, incrementing by [[2]].
   print(i)
 ```
 
@@ -45,25 +45,25 @@ for i in range(2, 10, 2): #Starts at 2, goes up to (but not including) 10, incre
 * **Nested Loops:**
 
 ```python
-for i in range(3):
-    for j in range(2):
+for i in range([[3]]):
+    for j in range([[2]]):
         print(f"i: {i}, j: {j}")
 ```
 
-* **Loop Control Statements:**
+* **[[Loop Control Statements]]:**
 
     * `break`: Terminates the loop prematurely.
     * `continue`: Skips the current iteration and proceeds to the next.
 
 ```python
-for i in range(5):
-    if i == 3:
-        break  # Exit the loop when i is 3
+for i in range([[5]]):
+    if i == [[3]]:
+        break  # Exit the loop when i is [[3]]
     print(i)
 
-for i in range(5):
-    if i == 2:
-        continue # Skip the iteration when i is 2
+for i in range([[5]]):
+    if i == [[2]]:
+        continue # Skip the iteration when i is [[2]]
     print(i)
 
 ```

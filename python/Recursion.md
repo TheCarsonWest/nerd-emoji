@@ -1,7 +1,7 @@
-# [[Python 1 Home]]
-# Recursion
+# [[Python [[1]] Home]]
+# [[Recursion]]
 
-[[Recursion in Python]] involves a function calling itself within its own definition.  This allows for elegant solutions to problems that can be broken down into smaller, self-similar subproblems.
+[[Recursion]] in Python]] involves a function calling itself within its own definition.  This allows for elegant solutions to problems that can be broken down into smaller, self-similar subproblems.
 
 **Key Concepts:**
 
@@ -17,11 +17,11 @@ def factorial(n):
   Calculates the factorial of a non-negative integer using recursion.
   """
   if n == 0:  # Base case
-    return 1
+    return [[1]]
   else:
-    return n * factorial(n - 1)  # Recursive step
+    return n * factorial(n - [[1]])  # Recursive step
 
-print(factorial(5))  # Output: 120
+print(factorial([[5]]))  # Output: 120
 ```
 
 **Potential Issues:**
@@ -34,19 +34,19 @@ print(factorial(5))  # Output: 120
 
 * [[Function Parameters]]
 * [[Return Values]]
-* [[Memoization in Recursion]]  (This will explain how to optimize recursive functions for performance)
+* [[Memoization in [[Recursion]]  (This will explain how to optimize recursive functions for performance)
 
 
 **Example: Fibonacci Sequence (Illustrating potential inefficiency)**
 
 ```python
 def fibonacci_recursive(n):
-    if n <= 1:
+    if n <= [[1]]:
         return n
     else:
-        return fibonacci_recursive(n-1) + fibonacci_recursive(n-2)
+        return fibonacci_recursive(n-[[1]]) + fibonacci_recursive(n-[[2]])
 
-print(fibonacci_recursive(6)) # Output: 8 (but slow for larger n)
+print(fibonacci_recursive([[6]])) # Output: 8 (but slow for larger n)
 ```
 
 This recursive Fibonacci solution is inefficient because it recalculates many values multiple times.  An iterative approach would be significantly faster for larger values of `n`.

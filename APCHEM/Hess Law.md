@@ -6,44 +6,44 @@ Hess's Law states that the total enthalpy change for a reaction is independent o
 
 Hess's Law is incredibly useful for determining the enthalpy change of reactions that are difficult or impossible to measure directly. We can manipulate known reactions and their enthalpy changes to calculate the unknown enthalpy change of a target reaction.  Here's the general process:
 
-1. **Identify the Target Reaction:** Clearly define the reaction for which you want to determine $\Delta H$.
+[[1]]. **Identify the Target Reaction:** Clearly define the reaction for which you want to determine $\Delta H$.
 
-2. **Gather Known Reactions:** Find reactions with known $\Delta H$ values that involve the reactants and products of your target reaction.
+[[2]]. **Gather Known Reactions:** Find reactions with known $\Delta H$ values that involve the reactants and products of your target reaction.
 
-3. **Manipulate Known Reactions:**  Adjust the known reactions so that, when combined, they produce the target reaction.  Allowed manipulations include:
+[[3]]. **Manipulate Known Reactions:**  Adjust the known reactions so that, when combined, they produce the target reaction.  Allowed manipulations include:
 
     * **Reversing Reactions:** If you reverse a reaction, change the sign of $\Delta H$.  For example, if $A \rightarrow B$ has $\Delta H = +100 \text{ kJ}$, then $B \rightarrow A$ has $\Delta H = -100 \text{ kJ}$.
 
     * **Multiplying Reactions:** If you multiply a reaction by a coefficient, multiply $\Delta H$ by the same coefficient. For example, if $A \rightarrow B$ has $\Delta H = +100 \text{ kJ}$, then $2A \rightarrow 2B$ has $\Delta H = +200 \text{ kJ}$.
 
-4. **Add Reactions and Enthalpies:** Add the manipulated reactions together, canceling out any species that appear on both sides of the equations.  The sum of the $\Delta H$ values for the manipulated reactions will be the $\Delta H$ for the target reaction.
+[[4]]. **Add Reactions and Enthalpies:** Add the manipulated reactions together, canceling out any species that appear on both sides of the equations.  The sum of the $\Delta H$ values for the manipulated reactions will be the $\Delta H$ for the target reaction.
 
 ## Example
 
 Let's say we want to find the enthalpy change ($\Delta H$) for the formation of carbon dioxide from carbon monoxide:
 
-**Target Reaction:** $CO(g) + \frac{1}{2}O_2(g) \rightarrow CO_2(g) \quad \Delta H = ?$
+**Target Reaction:** $CO(g) + \frac{[[1]]}{[[2]]}O_2(g) \rightarrow CO_2(g) \quad \Delta H = ?$
 
 We are given the following reactions and their enthalpy changes:
 
-* **Reaction 1:** $C(s) + O_2(g) \rightarrow CO_2(g) \quad \Delta H_1 = -393.5 \text{ kJ}$
-* **Reaction 2:** $C(s) + \frac{1}{2}O_2(g) \rightarrow CO(g) \quad \Delta H_2 = -110.5 \text{ kJ}$
+* **Reaction [[1]]:** $C(s) + O_2(g) \rightarrow CO_2(g) \quad \Delta H_1 = -393.[[5]] \text{ kJ}$
+* **Reaction [[2]]:** $C(s) + \frac{[[1]]}{[[2]]}O_2(g) \rightarrow CO(g) \quad \Delta H_2 = -110.[[5]] \text{ kJ}$
 
-To obtain the target reaction, we need to reverse Reaction 2 and then add it to Reaction 1:
+To obtain the target reaction, we need to reverse Reaction [[2]] and then add it to Reaction [[1]]:
 
-* **Reversed Reaction 2:** $CO(g) \rightarrow C(s) + \frac{1}{2}O_2(g) \quad \Delta H_2' = +110.5 \text{ kJ}$
+* **Reversed Reaction [[2]]:** $CO(g) \rightarrow C(s) + \frac{[[1]]}{[[2]]}O_2(g) \quad \Delta H_2' = +110.[[5]] \text{ kJ}$
 
-Now, add Reaction 1 and the reversed Reaction 2:
+Now, add Reaction [[1]] and the reversed Reaction [[2]]:
 
-$C(s) + O_2(g) + CO(g) \rightarrow CO_2(g) + C(s) + \frac{1}{2}O_2(g)$
+$C(s) + O_2(g) + CO(g) \rightarrow CO_2(g) + C(s) + \frac{[[1]]}{[[2]]}O_2(g)$
 
-Canceling out the common species ($C(s)$ and $\frac{1}{2}O_2(g)$) gives us the target reaction:
+Canceling out the common species ($C(s)$ and $\frac{[[1]]}{[[2]]}O_2(g)$) gives us the target reaction:
 
-$CO(g) + \frac{1}{2}O_2(g) \rightarrow CO_2(g)$
+$CO(g) + \frac{[[1]]}{[[2]]}O_2(g) \rightarrow CO_2(g)$
 
 Finally, add the enthalpy changes:
 
-$\Delta H = \Delta H_1 + \Delta H_2' = -393.5 \text{ kJ} + 110.5 \text{ kJ} = -283.0 \text{ kJ}$
+$\Delta H = \Delta H_1 + \Delta H_2' = -393.[[5]] \text{ kJ} + 110.[[5]] \text{ kJ} = -283.0 \text{ kJ}$
 
 Therefore, the enthalpy change for the target reaction is -283.0 kJ.
 

@@ -23,7 +23,7 @@
 
 **Important Court Cases**
 - Cohens v. [[Virginia]] (1821): established the principle of judicial review
-- "[[McCulloch v Maryland]]" (1819): established the principle of implied powers
+- "[[McCulloch v [[Maryland]]" (1819): established the principle of implied powers
 - Gibbons v. Ogden (1824): established the principle of federal supremacy
 - Dred Scott v. Sandford (1857): ruled that African Americans were not citizens and could not sue in federal court
 - Plessy v. Ferguson (1896): upheld the doctrine of "separate but equal"

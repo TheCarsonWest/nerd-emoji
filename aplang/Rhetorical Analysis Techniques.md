@@ -1,4 +1,4 @@
-# [[AP English Language and Composition]]
+# [[AP English [[Language]] and Composition]]
 # [[Rhetorical Analysis]] Techniques]]
 
 These notes outline key techniques for analyzing rhetoric.  Remember to consider the *context* of the text always!
@@ -17,7 +17,7 @@ These notes outline key techniques for analyzing rhetoric.  Remember to consider
 
 **III. Analyzing [[Rhetorical Devices]]:**
 
-* **Figurative Language:** Metaphors, similes, analogies, personification, hyperbole, etc.  What effect do these create? How do they enhance the message? [[Figurative Language Analysis]]
+* **Figurative [[Language]]:** Metaphors, similes, analogies, personification, hyperbole, etc.  What effect do these create? How do they enhance the message? [[Figurative [[Language]] Analysis]]
 * **Sentence Structure:** Consider the length and complexity of sentences.  Short, declarative sentences can create a sense of urgency, while long, complex sentences can convey detail and sophistication.  [[Sentence Structure & Effect]]
 * **Repetition:**  The repetition of words, phrases, or sounds.  What is the effect of this repetition? Does it emphasize a point, create rhythm, or evoke emotion?
 * **Tone:** What is the overall attitude or feeling conveyed by the speaker/writer?  Is it formal, informal, serious, humorous, sarcastic, etc.? [[Identifying Tone]]
@@ -37,4 +37,4 @@ After analyzing the individual elements, consider how they work together to crea
 
 An example of a simple linear equation: $y = mx + b$
 
-A more complex equation showing the quadratic formula:  $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+A more complex equation showing the quadratic formula:  $$x = \frac{-b \pm \sqrt{b^[[2]] - 4ac}}{2a}$$

@@ -1,5 +1,5 @@
 # [[Generators]]
-# [[Async Generators]] 
+# [[Async [[Generators]] 
 Async generators are a powerful feature in Python that allows you to create asynchronous iterators.  They are similar to regular generators, but they use the `async` and `await` keywords to handle asynchronous operations. This allows you to yield values asynchronously without blocking the main thread.
 
 Key differences from regular generators:
@@ -15,8 +15,8 @@ Key differences from regular generators:
 import asyncio
 
 async def async_generator():
-    for i in range(3):
-        await asyncio.sleep(1)  # Simulate an asynchronous operation
+    for i in range([[3]]):
+        await asyncio.sleep([[1]])  # Simulate an asynchronous operation
         yield i
 
 async def main():
@@ -30,7 +30,7 @@ asyncio.run(main())
 **Important Considerations:**
 
 * **`async for`:**  You must use `async for` to iterate over an async generator.
-* **Error Handling:**  Similar to regular generators, you need to handle potential exceptions within the async generator using `try...except` blocks.
+* **[[Error Handling]]:**  Similar to regular generators, you need to handle potential exceptions within the async generator using `try...except` blocks.
 * [[Asyncio]]  This is heavily reliant on the `asyncio` library.  Understanding `asyncio` is crucial for effectively using async generators.
 * [[Coroutine Explained]]  Async generators are coroutines themselves.  Understanding coroutines is essential.
 
@@ -54,14 +54,14 @@ import asyncio
 
 async def async_generator_with_error_handling():
     try:
-        for i in range(5):
-            if i == 3:
+        for i in range([[5]]):
+            if i == [[3]]:
                 raise ValueError("Something went wrong!")
-            await asyncio.sleep(0.5)
+            await asyncio.sleep(0.[[5]])
             yield i
     except ValueError as e:
         print(f"Caught an exception: {e}")
-        yield -1 # Yield a special value to signal an error
+        yield -[[1]] # Yield a special value to signal an error
 
 
 async def main_with_error_handling():

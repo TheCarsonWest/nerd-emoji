@@ -1,10 +1,10 @@
-# [[Python 1 Home]]
+# [[Python [[1]] Home]]
 # [[Lists]]  [[Lists]] are ordered, mutable (changeable) sequences of items.  They can contain items of different data types.
 
-**Creating Lists:**
+**Creating [[Lists]]:**
 
 ```python
-my_list = [1, 2, "hello", 3.14, True]
+my_list = [[[1]], [[2]], "hello", [[3]].14, True]
 empty_list = []
 ```
 
@@ -12,14 +12,14 @@ empty_list = []
  [[Lists]] are zero-indexed.
 
 ```python
-first_element = my_list[0]  # 1
-last_element = my_list[-1] # True
+first_element = my_list[0]  # [[1]]
+last_element = my_list[-[[1]]] # True
 ```
 
 **Slicing:**
 
 ```python
-sub_list = my_list[1:4]  # [2, "hello", 3.14] (exclusive of upper bound)
+sub_list = my_list[[[1]]:[[4]]]  # [[[2]], "hello", [[3]].14] (exclusive of upper bound)
 ```
 
 **Methods:**
@@ -36,17 +36,17 @@ sub_list = my_list[1:4]  # [2, "hello", 3.14] (exclusive of upper bound)
 * `extend(iterable)`: Extends the list by appending elements from another iterable.
 
 ```python
-my_list.append(5)
-my_list.insert(2, "world")
+my_list.append([[5]])
+my_list.insert([[2]], "world")
 my_list.remove("hello")
 print(my_list)  # Output will depend on previous operations.
 ```
 
 
-**List Comprehensions:** [[List Comprehension]]
+**[[List Comprehensions]]:** [[List Comprehension]]
 
 
-**Iterating through Lists:**
+**Iterating through [[Lists]]:**
 
 ```python
 for item in my_list:
@@ -63,6 +63,6 @@ for i, item in enumerate(my_list):
 * Membership: `item in list`, `item not in list`
 
 
-**Nested Lists:** [[Multidimensional Lists]]
+**Nested [[Lists]]:** [[Multidimensional [[Lists]]
 
-**Mutable vs. Immutable:** [[Mutable vs Immutable Types]]
+**Mutable vs. Immutable:** [[Mutable vs [[Immutable Types]]

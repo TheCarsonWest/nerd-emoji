@@ -1,10 +1,10 @@
 # [[File IO Modes]]
-# [[File Handling Best Practices]] 
+# [[File Handling]] Best Practices]] 
 These notes cover best practices for file handling in Python.
 
 **Key Areas:**
 
-* **Error Handling:**  Always use `try...except` blocks to gracefully handle potential errors like `FileNotFoundError`, `IOError`, etc.  This prevents your program from crashing.
+* **[[Error Handling]]:**  Always use `try...except` blocks to gracefully handle potential errors like `FileNotFoundError`, `IOError`, etc.  This prevents your program from crashing.
 
 ```python
 try:
@@ -17,7 +17,7 @@ except IOError as e:
     print(f"An IO error occurred: {e}")
 ```
 
-* **Context Managers (`with` statement):**  The `with` statement ensures files are automatically closed, even if errors occur. This prevents resource leaks and ensures data integrity.  See [[Context Managers]].
+* **[[Context Managers]] (`with` statement):**  The `with` statement ensures files are automatically closed, even if errors occur. This prevents resource leaks and ensures data integrity.  See [[Context Managers]].
 
 ```python
 with open("my_file.txt", "w") as f:
@@ -44,7 +44,7 @@ import os
 file_path = os.path.join("my_directory", "my_file.txt")
 ```
 
-* **Large Files:** For extremely large files, consider processing them in chunks to avoid loading the entire file into memory at once.  See [[Large File Handling]].
+* **Large Files:** For extremely large files, consider processing them in chunks to avoid loading the entire file into memory at once.  See [[Large [[File Handling]].
 
 * **Temporary Files:** Use the `tempfile` module to create temporary files safely and automatically delete them when finished. See [[Temporary Files]].
 
@@ -55,7 +55,7 @@ file_path = os.path.join("my_directory", "my_file.txt")
 [[File Modes]]
 [[Buffering]]
 [[os.path Module]]
-[[Large File Handling]]
+[[Large [[File Handling]]
 [[Temporary Files]]
 [[File Security]]
 

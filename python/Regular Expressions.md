@@ -1,4 +1,4 @@
-# [[Python 1 Home]]
+# [[Python [[1]] Home]]
 # [[Regular Expressions]] 
 Regular expressions (regex or regexp) are powerful tools for pattern matching within strings.  They are incredibly useful for tasks like data validation, text manipulation, and searching.
 
@@ -20,16 +20,16 @@ import re
 text = "My phone number is 123-456-7890 and email is test@example.com"
 
 # Find phone number
-phone_number_match = re.search(r"\d{3}-\d{3}-\d{4}", text)
+phone_number_match = re.search(r"\d{[[3]]}-\d{[[3]]}-\d{[[4]]}", text)
 if phone_number_match:
     print(f"Phone number: {phone_number_match.group(0)}")
 
 # Find all email addresses (this assumes a simple email format)
-email_matches = re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", text)
+email_matches = re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{[[2]],}", text)
 print(f"Email addresses: {email_matches}")
 
 # Replace phone number with ***-***-****
-new_text = re.sub(r"\d{3}-\d{3}-\d{4}", "***-***-****", text)
+new_text = re.sub(r"\d{[[3]]}-\d{[[3]]}-\d{[[4]]}", "***-***-****", text)
 print(f"New text: {new_text}")
 
 ```

@@ -1,5 +1,5 @@
 # [[List Comprehension]]
-# [[Iterables in Python]] 
+# [[Iterables]] in Python]] 
 An iterable is an object capable of returning its members one at a time, permitting iteration over its contents.  They are fundamental to Python's looping constructs and support many built-in functions.
 
 Key characteristics:
@@ -11,22 +11,22 @@ Key characteristics:
 
 Examples of iterables:
 
-*   Lists:  `[1, 2, 3]`
-*   Tuples: `(1, 2, 3)`
+*   [[Lists]]:  `[[[1]], [[2]], [[3]]]`
+*   [[Tuples]]: `([[1]], [[2]], [[3]])`
 *   Strings: `"hello"`
-*   Sets: `{1, 2, 3}`
-*   Dictionaries: `{"a": 1, "b": 2}` (iterates over keys by default)
+*   Sets: `{[[1]], [[2]], [[3]]}`
+*   [[Dictionaries]]: `{"a": [[1]], "b": [[2]]}` (iterates over keys by default)
 *   Files (opened in read mode)
 *   Custom classes implementing `__iter__`
 
 
-Iteration vs. Iterators: [[Iterators vs. Iterables]]
+Iteration vs. [[Iterators]]: [[Iterators]] vs. [[Iterables]]
 
 
 Using iterables in `for` loops:
 
 ```python
-my_list = [1, 2, 3, 4, 5]
+my_list = [[[1]], [[2]], [[3]], [[4]], [[5]]]
 for item in my_list:
     print(item)
 
@@ -57,13 +57,13 @@ Built-in functions that work with iterables:
 *   `set()` (converts iterable to a set)
 
 
-Creating custom iterables: [[Custom Iterables]]
+Creating custom iterables: [[Custom [[Iterables]]
 
 Generating iterables:
 
 *   List comprehensions
 *   Generator expressions [[Generator Expressions]]
 
-Important Note: Iterables are consumed when iterated through, which means that after one iteration, they might need to be regenerated if you want to iterate over the same elements again.  This is a core difference with [[Sequences]] and how they handle iterators.
+Important Note: [[Iterables]] are consumed when iterated through, which means that after one iteration, they might need to be regenerated if you want to iterate over the same elements again.  This is a core difference with [[Sequences]] and how they handle iterators.
 
-Related Notes: [[Iterators vs. Iterables]], [[Custom Iterables]], [[Generator Expressions]], [[Sequences]]
+Related Notes: [[Iterators]] vs. [[Iterables]], [[Custom [[Iterables]], [[Generator Expressions]], [[Sequences]]

@@ -2,7 +2,7 @@
 ## When: November 11, 1620
 
 ## Who: 
-* Pilgrims (Separatist Puritans) aboard the Mayflower
+* Pilgrims (Separatist [[Puritans]]) aboard the Mayflower
 
 ## What: 
 A social contract signed by 41 male Pilgrims aboard the Mayflower before landing at Plymouth. It established a civil government based on majority rule and committed the signatories to enact just and equal laws for the general good of the colony.  It was not a constitution, but a framework for self-governance.
@@ -15,4 +15,4 @@ A social contract signed by 41 male Pilgrims aboard the Mayflower before landing
 * **Religious Motivation:**  While establishing a civil government, the compact was underpinned by the Pilgrims' strong religious beliefs and their desire to create a godly society in the New World.
 
 
-# [[IDS Unit 1]]
+# [[IDS Unit [[1]]

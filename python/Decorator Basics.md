@@ -1,4 +1,4 @@
-# [[Chaining Decorators]]
+# [[Chaining [[Decorators]]
 # [[Decorator Basics]]  [[Decorators]] are a powerful and expressive feature in Python that allows you to modify or enhance functions and methods in a clean and readable way.  They use the `@` symbol followed by the decorator function name, placed above the function definition.
 
 **Basic Syntax:**
@@ -36,7 +36,7 @@ say_hello = my_decorator(say_hello)
 
 `my_decorator` takes the function `say_hello` as input, and returns a new function (`wrapper`) which wraps the original functionality with additional code.  The `wrapper` function then becomes the new `say_hello`.
 
-**Decorators with Arguments:**
+**[[Decorators]] with Arguments:**
  [[Decorators]] can also accept arguments.  This requires a bit more complexity:
 
 ```python
@@ -49,7 +49,7 @@ def repeat(num_times):
         return wrapper
     return decorator_repeat
 
-@repeat(num_times=3)
+@repeat(num_times=[[3]])
 def greet(name):
     print(f"Hello, {name}!")
 

@@ -1,4 +1,4 @@
-# [[[[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis]] Techniques]]
 # [[Pathos & Emotion]]
 
 This note covers the rhetorical appeal of pathos and its connection to emotion in persuasive communication.

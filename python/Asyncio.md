@@ -1,7 +1,7 @@
-# [[Async Generators]]
-# Asyncio Notes
+# [[Async [[Generators]]
+# [[Asyncio]] Notes
 
-Asyncio is Python's built-in library for asynchronous programming.  It allows you to write concurrent code using the `async` and `await` keywords.  This is particularly useful for I/O-bound operations (like network requests or file operations) where you don't want your program to block while waiting for a response.
+[[Asyncio]] is Python's built-in library for asynchronous programming.  It allows you to write concurrent code using the `async` and `await` keywords.  This is particularly useful for I/O-bound operations (like network requests or file operations) where you don't want your program to block while waiting for a response.
 
 Key Concepts:
 
@@ -12,7 +12,7 @@ import asyncio
 
 async def my_coroutine():
     print("Coroutine started")
-    await asyncio.sleep(1)  # Simulate an I/O operation
+    await asyncio.sleep([[1]])  # Simulate an I/O operation
     print("Coroutine finished")
 
 async def main():
@@ -28,7 +28,7 @@ asyncio.run(main())
 ```python
 async def fetch_data():
     # Simulate fetching data from a network resource
-    await asyncio.sleep(2)
+    await asyncio.sleep([[2]])
     return "Data fetched!"
 
 async def main():
@@ -40,9 +40,9 @@ async def main():
 asyncio.run(main())
 ```
 
-* **Concurrency vs. Parallelism:**  Asyncio achieves concurrency (multiple tasks seemingly running at the same time), but not necessarily parallelism (multiple tasks running simultaneously on multiple CPU cores).  It's particularly efficient for I/O-bound operations where waiting dominates CPU usage. For CPU-bound operations, multiprocessing might be more appropriate. [[Concurrency vs Parallelism]]
+* **Concurrency vs. Parallelism:**  [[Asyncio]] achieves concurrency (multiple tasks seemingly running at the same time), but not necessarily parallelism (multiple tasks running simultaneously on multiple CPU cores).  It's particularly efficient for I/O-bound operations where waiting dominates CPU usage. For CPU-bound operations, multiprocessing might be more appropriate. [[Concurrency vs Parallelism]]
 
-* **Error Handling:**  Use `try...except` blocks within your coroutines to handle potential exceptions.
+* **[[Error Handling]]:**  Use `try...except` blocks within your coroutines to handle potential exceptions.
 
 ```python
 async def might_fail():
@@ -62,12 +62,12 @@ asyncio.run(main())
 
 ```python
 async def coroutine1():
-    await asyncio.sleep(1)
-    return 1
+    await asyncio.sleep([[1]])
+    return [[1]]
 
 async def coroutine2():
-    await asyncio.sleep(2)
-    return 2
+    await asyncio.sleep([[2]])
+    return [[2]]
 
 async def main():
   results = await asyncio.gather(coroutine1(), coroutine2())
@@ -76,4 +76,4 @@ async def main():
 asyncio.run(main())
 ```
 
-[[Advanced Asyncio Techniques]]  [[Asyncio and Databases]] [[Asyncio and Web Servers]]
+[[Advanced [[Asyncio]] Techniques]]  [[Asyncio]] and Databases]] [[Asyncio]] and Web Servers]]

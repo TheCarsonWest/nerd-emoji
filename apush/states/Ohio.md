@@ -9,7 +9,7 @@
 * **1850:** First Women's Rights Convention held in [[Ohio]].
 * **1854:** [[Kansas]]-[[Nebraska]] Act passes, repealing the [[Missouri]] Compromise and opening [[Ohio]] to slavery.
 * **1857:** Oberlin-Wellington Rescue, a raid on a slave jail.
-* **1861:** [[Ohio]] secedes from the Union and joins the Confederacy during the Civil War.
+* **1861:** [[Ohio]] secedes from the Union and joins the Confederacy during the [[Civil War]].
 * **1863:** [[Emancipation Proclamation]] issued, freeing slaves in [[Ohio]].
 * **1865:** [[Ohio]] ratifies the [[13th amendment]], abolishing slavery.
 * **1912:** Wright brothers make the first successful airplane flight in [[Ohio]].
@@ -37,6 +37,6 @@
 **Impact on the Rest of the Country:**
 
 * [[Ohio]] was a key state in the settlement of the West.
-* [[Ohio]] was a major battleground during the Civil War.
+* [[Ohio]] was a major battleground during the [[Civil War]].
 * [[Ohio]] has played a significant role in the development of aviation and space exploration.
 * [[Ohio]] is a major agricultural producer that supplies food to the rest of the [[United States]].

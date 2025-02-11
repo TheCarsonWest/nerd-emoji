@@ -2,7 +2,7 @@
 
 ## When: 1913-1920
 
-## Who:  Progressive Era reformers, members of Congress, President Woodrow Wilson (particularly relevant for the 19th Amendment's ratification)
+## Who:  Progressive Era reformers, members of Congress, President [[Woodrow Wilson]] (particularly relevant for the 19th Amendment's ratification)
 
 ## What:  Four constitutional amendments enacted during the Progressive Era addressing key social and political issues:
 
@@ -19,4 +19,4 @@
 * **18th Amendment:** Led to a period of widespread lawlessness and the rise of organized crime, ultimately proving ineffective and repealed by the 21st Amendment.  It also reflected changing social attitudes towards alcohol and the role of government in regulating personal behavior.
 * **19th Amendment:**  Expanded the electorate significantly and fundamentally changed the political landscape, allowing women to participate fully in the democratic process. This had wide-ranging social and political consequences, influencing legislation, elections, and social movements.  It marked a major victory for the women's suffrage movement.  The amendments collectively demonstrate the progressive movement's success in achieving meaningful political and social reforms at the federal level.
 
-# [[IDS Unit 6]]
+# [[IDS Unit [[6]]

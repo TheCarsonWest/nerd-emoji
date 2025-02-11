@@ -14,7 +14,7 @@ $R_f = \frac{\text{Distance traveled by the component}}{\text{Distance traveled 
 
 ## Interpretation
 
-* **Rf values range from 0 to 1.**  An Rf value of 0 indicates that the component did not move from the origin, while an Rf value of 1 indicates that the component traveled with the solvent front.
+* **Rf values range from 0 to [[1]].**  An Rf value of 0 indicates that the component did not move from the origin, while an Rf value of [[1]] indicates that the component traveled with the solvent front.
 * **A specific component will ideally have a consistent Rf value** under the same chromatographic conditions ([[Stationary Phase]], [[Mobile Phase]], temperature).  This makes Rf values useful for identifying unknown substances by comparing their Rf values to known standards.
 * **Different components in a mixture will ideally have different Rf values**, allowing for separation and identification.  If two components have very similar or identical Rf values, it may indicate that they are the same substance or that the chromatographic system is not suitable for separating them effectively.
 
@@ -34,7 +34,7 @@ Several factors can influence the Rf value of a component:
 Rf values are utilized in various applications, including:
 
 * **Identifying unknown compounds:** By comparing the Rf value of an unknown substance to known standards, it's possible to identify the unknown.
-* **Monitoring the progress of a reaction:** Chromatography can be used to follow the disappearance of reactants and the formation of products, using Rf values to track the components.
+* **Monitoring the progress of a reaction:** [[Chromatography]] can be used to follow the disappearance of reactants and the formation of products, using Rf values to track the components.
 * **Assessing the purity of a compound:**  A pure compound should ideally show a single, well-defined spot on a chromatogram with a specific Rf value. Multiple spots may indicate impurities.
 
 

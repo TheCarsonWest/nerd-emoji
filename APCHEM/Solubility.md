@@ -1,9 +1,9 @@
 # [[AP CHEM solutions]]
-# [[Solubility Rules]]
+# [[Solubility]] Rules]]
 
-Solubility refers to the ability of a substance (the solute) to dissolve in another substance (the solvent) to form a homogeneous mixture called a solution.  In AP Calculus AB, while we don't directly calculate solubility itself, we can use calculus concepts to analyze related topics like rates of dissolution or changes in concentration over time.
+[[Solubility]] refers to the ability of a substance (the solute) to dissolve in another substance (the solvent) to form a homogeneous mixture called a solution.  In AP Calculus AB, while we don't directly calculate solubility itself, we can use calculus concepts to analyze related topics like rates of dissolution or changes in concentration over time.
 
-## Factors Affecting Solubility
+## Factors Affecting [[Solubility]]
 
 Several factors influence solubility, including:
 
@@ -30,7 +30,7 @@ Solving the differential equation above allows us to determine how the concentra
 
 ## [[Saturation]]
 
-Saturation occurs when the maximum amount of solute has dissolved in a solvent at a given temperature and pressure. At this point, a dynamic equilibrium exists between dissolved and undissolved solute.
+[[Saturation]] occurs when the maximum amount of solute has dissolved in a solvent at a given temperature and pressure. At this point, a dynamic equilibrium exists between dissolved and undissolved solute.
 
 
 ## Supersaturation

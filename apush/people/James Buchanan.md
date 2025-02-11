@@ -28,5 +28,5 @@
 * However, the act only exacerbated tensions and led to violence in [[Kansas]].
 * Buchanan also sought to acquire Cuba from [[Spain]], but this plan failed.
 * When Southern states began to secede, Buchanan took no action to prevent them.
-* His inaction contributed to the outbreak of the Civil War.
+* His inaction contributed to the outbreak of the [[Civil War]].
 # [[APUSH people]]

@@ -14,16 +14,16 @@
 
 **II. Structure:**
 
-1. **Introduction:**  Hook, background information, thesis statement.
-2. **Body Paragraphs (multiple):** Each paragraph should focus on one specific piece of evidence and its analysis.  Use the TEEL structure (Topic Sentence, Evidence, Explanation, Link back to thesis).
-3. **Counterargument Paragraph (optional but recommended):**  Address opposing viewpoints and refute them.
-4. **Conclusion:** Restate thesis, summarize main points, concluding thoughts.
+[[1]]. **Introduction:**  Hook, background information, thesis statement.
+[[2]]. **Body Paragraphs (multiple):** Each paragraph should focus on one specific piece of evidence and its analysis.  Use the TEEL structure (Topic Sentence, Evidence, Explanation, Link back to thesis).
+[[3]]. **Counterargument Paragraph (optional but recommended):**  Address opposing viewpoints and refute them.
+[[4]]. **Conclusion:** Restate thesis, summarize main points, concluding thoughts.
 
 **III.  [[Rhetorical Devices]]:** [[Rhetorical Devices]] in Argumentation]]  (Links to another note)
 
 **IV. Essay Types that inform Argumentative Essays:**
 
-* [[AP English Language and Composition]] (Links to another note)
+* [[AP English [[Language]] and Composition]] (Links to another note)
 * [[Rhetorical Analysis]] (Links to another note)
 * [[Synthesis Essay]] (Links to another note)
 

@@ -19,7 +19,7 @@
 
 * [[Kansas]]-[[Nebraska]] Act (1854)
 * [[Kansas]] Constitution (1859)
-* Populist Party Platform (1892)
+* [[Populist Party]] Platform (1892)
 * Brown v. Board of Education (1954)
 
 **Important Court Cases**
@@ -37,7 +37,7 @@
 
 **Impact on the Rest of the Country**
 
-* [[Kansas]] played a significant role in the debate over slavery and the Civil War.
+* [[Kansas]] played a significant role in the debate over slavery and the [[Civil War]].
 * The Populist movement originated in [[Kansas]] and had a national impact.
 * Brown v. Board of Education, which was decided in [[Kansas]], desegregated schools throughout the [[United States]].
 * [[Kansas]]'s agricultural industry has played a vital role in feeding the nation.

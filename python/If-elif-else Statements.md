@@ -32,20 +32,20 @@ if x > 20:
     print("x is greater than 20")
 elif x > 10:
     print("x is greater than 10")
-elif x > 5:
-    print("x is greater than 5")
+elif x > [[5]]:
+    print("x is greater than [[5]]")
 else:
-    print("x is less than or equal to 5")
+    print("x is less than or equal to [[5]]")
 
 ```
 
 **Nested `if-elif-else`:**
 
-You can nest `if-elif-else` statements within each other to create more complex logic.  However, excessive nesting can make code harder to read and maintain. [[Nested Conditional Statements]]
+You can nest `if-elif-else` statements within each other to create more complex logic.  However, excessive nesting can make code harder to read and maintain. [[Nested [[Conditional Statements]]
 
 **Short-circuiting:**
 
-Python uses short-circuiting evaluation for boolean operators (`and`, `or`). This means that if the outcome of the expression can be determined from evaluating only the first part, the second part won't be evaluated.  This can be useful for optimization and avoiding errors. [[Boolean Operators]]
+Python uses short-circuiting evaluation for boolean operators (`and`, `or`). This means that if the outcome of the expression can be determined from evaluating only the first part, the second part won't be evaluated.  This can be useful for optimization and avoiding errors. [[Boolean [[Operators]]
 
 **Common Mistakes:**
 

@@ -15,14 +15,14 @@ cProfile.run('my_slow_function()')
 
 * **Data Structures:**  Using the right data structure can drastically impact speed.  [[Dictionaries]] (`dict`) for fast lookups, sets for membership testing, etc.  [[Python Data Structures: Performance Tradeoffs]]
 
-* **List Comprehensions and Generator Expressions:**  Often faster than explicit loops.
+* **[[List Comprehensions]] and Generator Expressions:**  Often faster than explicit loops.
 
 ```python
 # List comprehension
-squares = [x**2 for x in range(1000)]
+squares = [x**[[2]] for x in range(1000)]
 
 # Generator expression (memory efficient for large datasets)
-squares_gen = (x**2 for x in range(1000)) 
+squares_gen = (x**[[2]] for x in range(1000)) 
 ```
 
 * **Numpy:** For numerical computation, Numpy arrays are significantly faster than Python lists due to vectorization and optimized C implementation. [[NumPy for Performance]]

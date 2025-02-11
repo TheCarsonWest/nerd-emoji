@@ -14,7 +14,7 @@ def my_sum(*args):
     total += num
   return total
 
-print(my_sum(1, 2, 3))  # Output: 6
+print(my_sum([[1]], [[2]], [[3]]))  # Output: [[6]]
 print(my_sum(10, 20, 30, 40)) # Output: 100
 print(my_sum()) # Output: 0
 ```
@@ -28,7 +28,7 @@ def print_details(**kwargs):
   for key, value in kwargs.items():
     print(f"{key}: {value}")
 
-print_details(name="Alice", age=30, city="New York")
+print_details(name="Alice", age=30, city="[[New York]]")
 ```
 
 Output:
@@ -47,13 +47,13 @@ def combined_example(*args, **kwargs):
     print("Positional arguments:", args)
     print("Keyword arguments:", kwargs)
 
-combined_example(1, 2, 3, name="Bob", age=25)
+combined_example([[1]], [[2]], [[3]], name="Bob", age=25)
 ```
 
 Output:
 
 ```
-Positional arguments: (1, 2, 3)
+Positional arguments: ([[1]], [[2]], [[3]])
 Keyword arguments: {'name': 'Bob', 'age': 25}
 ```
 

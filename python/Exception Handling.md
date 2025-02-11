@@ -1,5 +1,5 @@
-# [[Python 1 Home]]
-# Exception Handling
+# [[Python [[1]] Home]]
+# [[Exception Handling]]
 
 Python uses `try`, `except`, `else`, and `finally` blocks to handle exceptions.
 
@@ -21,7 +21,7 @@ finally:
 
 ```
 
-[[Custom Exceptions]]  ([[Exception Handling Examples]])
+[[Custom Exceptions]]  ([[Exception Handling]] Examples]])
 
 
 **Common Exceptions:**
@@ -43,7 +43,7 @@ You can raise exceptions using the `raise` keyword:
 def my_function(x):
     if x < 0:
         raise ValueError("Input must be non-negative")
-    return x * 2
+    return x * [[2]]
 ```
 
 **Exception Chaining:**

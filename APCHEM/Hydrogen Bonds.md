@@ -1,5 +1,5 @@
 [[intermolecular forces]]
-## Hydrogen Bonds: Dipole Dipole but with hydrogen
+## [[Hydrogen Bonds]]: Dipole Dipole but with hydrogen
 - Only occurs in molecules with:
 	- A Highly electronegative([[Electronegativity]]) Element
 		- O N or F

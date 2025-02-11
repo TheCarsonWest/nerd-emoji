@@ -1,4 +1,4 @@
-# ID: [[Louisiana Purchase]] 
+# ID: [[Louisiana]] Purchase]] 
 ## When: April 30, 1803
 
 ## Who: 
@@ -15,4 +15,4 @@ The [[United States]] purchased approximately 828,000 square miles of land from 
 * **Constitutional Debate:** The purchase raised questions about the constitutionality of acquiring such a large territory, sparking debate over the limits of presidential power.
 * **Native American Removal:** The expansion westward inevitably led to increased conflicts with Native American tribes, contributing to their displacement and forced migration. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit [[3]]

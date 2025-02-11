@@ -1,6 +1,6 @@
 ## ID: Battle of Gettysburg
 
-## When: July 1-3, 1863
+## When: July [[1]]-[[3]], 1863
 
 ## Who: 
 * **Union:**  General George Meade and the Army of the Potomac
@@ -16,4 +16,4 @@ A pivotal battle of the American [[Civil War]] fought in Gettysburg, [[Pennsylva
 * **Lincoln's [[Gettysburg Address]]:** Delivered on November 19, 1863, Lincoln's famous speech redefined the purpose of the war as a fight for freedom and equality, solidifying the importance of the Union victory.
 * **Strategic Significance:** Gettysburg stopped Lee's invasion of the North, preventing a major victory for the Confederates and ultimately leading to the Union's success.
 
-# [[IDS Unit 4]]
+# [[IDS Unit [[4]]

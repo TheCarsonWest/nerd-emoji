@@ -1,4 +1,4 @@
-# [[Python 1 Home]]
+# [[Python [[1]] Home]]
 # [[Context Managers]] 
 Context managers in Python provide a clean and efficient way to manage resources.  They ensure that resources are properly acquired and released, even in the presence of exceptions.  The most common way to use a context manager is with the `with` statement.
 
@@ -13,7 +13,7 @@ with open("my_file.txt", "r") as f:
 The `with` statement implicitly calls the context manager's `__enter__` method (to acquire the resource) and `__exit__` method (to release the resource).
 
 
-[[Custom Context Managers]]  //Need to create this note
+[[Custom [[Context Managers]]  //Need to create this note
 
 
 The `contextlib` module provides tools for creating custom context managers:

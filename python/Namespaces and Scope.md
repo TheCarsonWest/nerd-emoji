@@ -11,10 +11,10 @@ There are several types of namespaces:
 
 Scope determines the accessibility of names.  It's the region of code where a particular name is visible and can be accessed.  Python uses the LEGB rule to search for names:
 
-1. **L**ocal: The innermost scope, where the name is defined.
-2. **E**nclosing function locals:  If not found locally, Python searches outwards to enclosing functions.
-3. **G**lobal:  The module's namespace.
-4. **B**uilt-in: The namespace containing pre-defined functions and constants.
+[[1]]. **L**ocal: The innermost scope, where the name is defined.
+[[2]]. **E**nclosing function locals:  If not found locally, Python searches outwards to enclosing functions.
+[[3]]. **G**lobal:  The module's namespace.
+[[4]]. **B**uilt-in: The namespace containing pre-defined functions and constants.
 
 
 Example:
@@ -23,10 +23,10 @@ Example:
 x = 10  # Global scope
 
 def my_function():
-    x = 5  # Local scope
+    x = [[5]]  # Local scope
     print(f"Inside function: x = {x}")
 
-my_function()  # Output: Inside function: x = 5
+my_function()  # Output: Inside function: x = [[5]]
 print(f"Outside function: x = {x}")  # Output: Outside function: x = 10
 
 ```
@@ -42,9 +42,9 @@ Example with nested functions:
 x = 10 #Global scope
 
 def outer_function():
-    x = 5 #Enclosing function locals
+    x = [[5]] #Enclosing function locals
     def inner_function():
-        x = 1 #Local scope
+        x = [[1]] #Local scope
         print(f"Inner: x = {x}")
 
     inner_function()

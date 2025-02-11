@@ -1,6 +1,6 @@
 # [[AP CHEM solutions]]
 
-The Beer-Lambert Law, also known as the Beer-Lambert-Bouguer law, describes the attenuation of light as it passes through a solution.  It's a fundamental principle in spectroscopy, used to relate the absorbance of light to the properties of the material through which the light is traveling.
+The [[Beer-Lambert Law]], also known as the Beer-Lambert-Bouguer law, describes the attenuation of light as it passes through a solution.  It's a fundamental principle in spectroscopy, used to relate the absorbance of light to the properties of the material through which the light is traveling.
 
 ## The Equation
 
@@ -11,7 +11,7 @@ The [[Beer-Lambert Law]] is mathematically expressed as:
 Where:
 
 *   **A** represents the absorbance (unitless)
-*   **ε** represents the molar absorptivity (or molar extinction coefficient) with units of $L \cdot mol^{-1} \cdot cm^{-1}$
+*   **ε** represents the molar absorptivity (or molar extinction coefficient) with units of $L \cdot mol^{-[[1]]} \cdot cm^{-[[1]]}$
 *   **l** represents the path length of the light through the sample (usually in cm)
 *   **c** represents the concentration of the analyte (usually in mol/L or M)
 

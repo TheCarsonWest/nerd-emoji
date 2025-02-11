@@ -2,4 +2,4 @@
 
 
 
-# [[Derivative Rules]]
+# [[Derivative]] Rules]]

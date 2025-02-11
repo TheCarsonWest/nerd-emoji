@@ -5,7 +5,7 @@ This note covers different citation styles and their applications.
 
 **Key Styles:**
 
-* **MLA (Modern Language Association):** Primarily used in the humanities.  Emphasizes author-page citations within the text ($e.g.,$ (Smith 123)).  A "Works Cited" page lists full bibliographic information.
+* **MLA (Modern [[Language]] Association):** Primarily used in the humanities.  Emphasizes author-page citations within the text ($e.g.,$ (Smith 123)).  A "Works Cited" page lists full bibliographic information.
 
 * **APA (American Psychological Association):** Commonly used in social sciences.  Author-date citations are used in-text ($e.g.,$ (Smith, 2023)).  A "References" page provides complete bibliographic details.  [[APA Style Guide]]
 

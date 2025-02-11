@@ -16,7 +16,7 @@ Reaction mechanisms detail the step-by-step process by which a chemical reaction
 
 * **Catalysts:** These increase the rate of a reaction without being consumed themselves. They do this by providing an alternative reaction pathway with a lower [[Activation Energy]].  Catalysts often participate in multiple elementary steps, ultimately being regenerated. [[Catalysis]]
 
-* **Reaction Coordinate Diagram:** A graphical representation showing the energy changes that occur during a reaction. It shows the energy of the reactants, products, intermediates, and the [[Activation Energy]] ($E_a$) for each step.  The highest point on the diagram represents the transition state. [[Transition States and Activation Energy]]
+* **Reaction Coordinate Diagram:** A graphical representation showing the energy changes that occur during a reaction. It shows the energy of the reactants, products, intermediates, and the [[Activation Energy]] ($E_a$) for each step.  The highest point on the diagram represents the transition state. [[Transition States and [[Activation Energy]]
 
 
 ## Example: The Reaction of Hydrogen and Bromine
@@ -27,11 +27,11 @@ $H_2(g) + Br_2(g) \rightarrow 2HBr(g)$
 
 A simplified mechanism is:
 
-1. **Initiation:** $Br_2(g) \rightarrow 2Br\cdot(g)$ (slow, unimolecular)
-2. **Propagation:**
+[[1]]. **Initiation:** $Br_2(g) \rightarrow 2Br\cdot(g)$ (slow, unimolecular)
+[[2]]. **Propagation:**
     * $Br\cdot(g) + H_2(g) \rightarrow HBr(g) + H\cdot(g)$
     * $H\cdot(g) + Br_2(g) \rightarrow HBr(g) + Br\cdot(g)$
-3. **Termination:**
+[[3]]. **Termination:**
     * $2Br\cdot(g) \rightarrow Br_2(g)$
     * $H\cdot(g) + Br\cdot(g) \rightarrow HBr(g)$
     * $2H\cdot(g) \rightarrow H_2(g)$

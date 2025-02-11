@@ -3,10 +3,10 @@
 
 ## Who:
 * **British:** General Charles Cornwallis and the British Army
-* **American/French:** General George Washington, Comte de Rochambeau (French), and combined American and French forces.
+* **American/French:** General George [[Washington]], Comte de Rochambeau (French), and combined American and French forces.
 
 ## What:
-The decisive battle of the American Revolutionary War. A combined Franco-American force,  surrounded Cornwallis's army at Yorktown, Virginia.  The siege resulted in the surrender of the British army.
+The decisive battle of the American Revolutionary War. A combined Franco-American force,  surrounded Cornwallis's army at Yorktown, [[Virginia]].  The siege resulted in the surrender of the British army.
 
 ## Impact: Why Significant?:
 * **End of Major Fighting:** Cornwallis's surrender effectively ended major fighting in the Revolutionary War.  While some skirmishes continued, the British lacked the resources and will to continue a major campaign in North America.
@@ -16,4 +16,4 @@ The decisive battle of the American Revolutionary War. A combined Franco-America
 * **Symbolic Victory:** The battle became a powerful symbol of American perseverance and the success of the revolutionary cause.
 
 
-# [[IDS Unit 4]]
+# [[IDS Unit [[4]]

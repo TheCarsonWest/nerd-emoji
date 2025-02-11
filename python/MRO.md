@@ -1,7 +1,7 @@
-# [[Multiple Inheritance]]
+# [[Multiple [[Inheritance]]
 # [[MRO]] Notes
 
-**MRO:** Method Resolution Order.  Determines the order in which methods are searched for during inheritance in Python.  Python uses the C3 linearization algorithm for its MRO.
+**[[MRO]]:** Method Resolution Order.  Determines the order in which methods are searched for during inheritance in Python.  Python uses the C3 linearization algorithm for its [[MRO]].
 
 Crucial for understanding how inheritance works, especially with multiple inheritance.  Incorrect [[MRO]] can lead to unexpected behavior.
 
@@ -26,9 +26,9 @@ class D(B, C):
     pass
 
 d = D()
-d.method() # Output: B (because of MRO)
+d.method() # Output: B (because of [[MRO]])
 
-print(D.__mro__) # Shows the MRO: (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+print(D.__mro__) # Shows the [[MRO]]: (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
 
 ```
 
@@ -40,5 +40,5 @@ Things to explore further:
 
 Related Notes:
 * [[Inheritance]]
-* [[Multiple Inheritance]]
+* [[Multiple [[Inheritance]]
 

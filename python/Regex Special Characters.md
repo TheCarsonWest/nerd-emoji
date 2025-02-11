@@ -69,6 +69,6 @@ print(matches) # Output: ['fox', 'fox']
 ```
 
 
-[[Regex Escape Sequences]]  Details on `\d`, `\w`, `\s`, etc.
+[[Regex Escape [[Sequences]]  Details on `\d`, `\w`, `\s`, etc.
 
 [[Python re Module]]  Functions like `re.findall`, `re.search`, `re.match`, `re.sub`, etc.

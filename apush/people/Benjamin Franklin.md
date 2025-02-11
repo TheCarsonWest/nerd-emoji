@@ -3,7 +3,7 @@
 
 * [[Thomas Jefferson]]
 * [[John Adams]]
-* [[George Washington]]
+* [[George [[Washington]]
 * Voltaire
 * David Hume
 
@@ -12,7 +12,7 @@
 * [[Declaration of Independence]]
 * [[Articles of Confederation]]
 * [[Treaty of Paris 1776]] (1783)
-* [[Constitution of the United States]]
+* [[Constitution of the [[United States]]
 * Poor Richard's Almanac
 
 **Impact on American Society:**

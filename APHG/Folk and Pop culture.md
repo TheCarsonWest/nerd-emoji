@@ -1,5 +1,5 @@
-# [[Unit 3]]
-# Folk Culture = Local
+# [[Unit [[3]]
+# Folk [[Culture]] = Local
 # Pop culture = globalized
 
 | Feature      | Folk [[Culture]]                                                                                                                                                                                                        | Pop [[Culture]]                                                                                                                                  |

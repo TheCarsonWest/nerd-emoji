@@ -26,12 +26,12 @@
 
 **Process:**
 
-1. **Identify source characteristics:** Author, publisher, publication date.
-2. **Assess authority and credibility:** Check credentials and publisher reputation.
-3. **Evaluate accuracy:** Look for evidence and citations; check for inconsistencies.
-4. **Analyze objectivity:** Identify potential biases and conflicts of interest.
-5. **Determine currency:** Assess the timeliness of the information.
-6. **Consider coverage:** Evaluate the scope and depth of the information.
+[[1]]. **Identify source characteristics:** Author, publisher, publication date.
+[[2]]. **Assess authority and credibility:** Check credentials and publisher reputation.
+[[3]]. **Evaluate accuracy:** Look for evidence and citations; check for inconsistencies.
+[[4]]. **Analyze objectivity:** Identify potential biases and conflicts of interest.
+[[5]]. **Determine currency:** Assess the timeliness of the information.
+[[6]]. **Consider coverage:** Evaluate the scope and depth of the information.
 
 **Example Questions:**
 

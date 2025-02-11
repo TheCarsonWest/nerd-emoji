@@ -1,5 +1,5 @@
-# ID: Habeas Corpus (Civil War) 
-## When: 1861-1865 (primarily during the Civil War)
+# ID: Habeas Corpus ([[Civil War]]) 
+## When: 1861-1865 (primarily during the [[Civil War]])
 ## Who: 
 * **President [[Abraham Lincoln]]:** Suspended the writ of habeas corpus in certain areas during the war.
 * **Chief Justice Roger B. Taney:** Issued a ruling in the case of *Ex parte Merryman* which challenged Lincoln's suspension of habeas corpus.
@@ -14,4 +14,4 @@
 * **Legal Debate:** The suspension of habeas corpus led to a major legal debate about the balance of power between the executive and judicial branches, as well as the protection of individual rights during wartime.
 * **Post-War Legacy:** The [[Civil War]] suspension of habeas corpus continued to be a subject of debate in subsequent legal cases and acts of Congress, contributing to the ongoing discussion of the relationship between national security and civil liberties in the [[United States]]. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit [[4]]

@@ -7,8 +7,8 @@
 * **1787:** [[Pennsylvania]] participates in the [[Constitutional Convention]] and ratifies the Constitution.
 * **1793:** [[Whiskey Rebellion]]: Farmers in western [[Pennsylvania]] resist federal whiskey tax.
 * **1803:** [[Pennsylvania]] becomes the first state to abolish slavery.
-* **1861:** [[Pennsylvania]] contributes significantly to the Union effort in the Civil War.
-* **1863:** Battle of Gettysburg: Union victory marks a turning point in the Civil War.
+* **1861:** [[Pennsylvania]] contributes significantly to the Union effort in the [[Civil War]].
+* **1863:** Battle of Gettysburg: Union victory marks a turning point in the [[Civil War]].
 * **1915:** [[Pennsylvania]] ratifies the 19th Amendment, granting women the right to vote.
 
 **Important Legislation**

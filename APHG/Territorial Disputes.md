@@ -20,9 +20,9 @@ Taiwan ran away from China when they went communist and they both claim to own e
 - The Falkland Islands were colonized by England
 - Argentina became a country and wanted them because they were close to their territory 
 - They fought a war like 200 years ago and still havent decided who actually owns them
-# England and Spain
+# England and [[Spain]]
 - England still has a crown dependency in spain that is this one tiny island(but its still connect by land) called Gibraltar
-- Spain isnt happy about them having it
+- [[Spain]] isnt happy about them having it
 # Israel and Palestine
 - Palestine has a religious and historical claim to Jerusalem
 	- Mohamad literally ascended to heaven there(trust me bro)

@@ -9,7 +9,7 @@
 * **1789:** [[New York]] ratifies the Constitution
 * **1812:** [[New York]] is a major battleground in the [[War of 1812]]
 * **1825:** Opening of the Erie Canal
-* **1861:** [[New York]] joins the Union at the start of the [[Civil War]] * **1898:** Spanish-American War results in [[New York]] becoming a major port of entry for immigrants
+* **1861:** [[New York]] joins the Union at the start of the [[Civil War]] * **1898:** [[Spanish-American War]] results in [[New York]] becoming a major port of entry for immigrants
 * **1929:** Stock market crash in [[New York]] leads to the Great Depression
 * **1954:** Brown v. Board of Education (case originating in [[New York]]) ends school segregation
 * **1973:** [[New York]] City fiscal crisis

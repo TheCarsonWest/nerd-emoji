@@ -7,7 +7,7 @@
 * **1776:** [[New Jersey]] declares independence from [[Great Britain]].
 * **1787:** [[New Jersey]] ratifies the U.S. Constitution.
 * **1830s-1840s:** Industrialization begins in [[New Jersey]], focused on textiles, iron, and shipbuilding.
-* **1861-1865:** [[New Jersey]] contributes significant resources to the Union cause during the Civil War.
+* **1861-1865:** [[New Jersey]] contributes significant resources to the Union cause during the [[Civil War]].
 * **1919:** [[New Jersey]] adopts the "bone dry" amendment, prohibiting the sale of alcoholic beverages.
 * **1920s:** The state becomes a major center for the pharmaceutical industry.
 * **1951:** The [[New Jersey]] Turnpike opens, connecting [[New York]] City to southern [[New Jersey]].

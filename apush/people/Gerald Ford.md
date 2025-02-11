@@ -14,7 +14,7 @@
 **Groups Affiliated With:**
 
 * Republican Party
-* **The warren commission(The people who 'investigated' the [[John F. Kennedy]] asssaination)**
+* **The warren commission(The people who 'investigated' the [[John F]]. Kennedy]] asssaination)**
 * House of Representatives (1949-1973)
 * House Minority Leader (1965-1973)
 

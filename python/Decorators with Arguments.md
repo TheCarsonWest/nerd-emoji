@@ -1,6 +1,6 @@
-# [[Chaining Decorators]]
-# [[Decorators with Arguments]] 
-Decorators are a powerful and expressive feature in Python that allows you to modify or enhance functions and methods in a clean and readable way.  Standard decorators work by taking a function as input and returning a modified version. However, sometimes you need to pass arguments to the decorator itself to customize its behavior. This is where decorators with arguments come in.
+# [[Chaining [[Decorators]]
+# [[Decorators]] with Arguments]] 
+[[Decorators]] are a powerful and expressive feature in Python that allows you to modify or enhance functions and methods in a clean and readable way.  Standard decorators work by taking a function as input and returning a modified version. However, sometimes you need to pass arguments to the decorator itself to customize its behavior. This is where decorators with arguments come in.
 
 Instead of a simple decorator function, you create a decorator *factory* – a function that *returns* a decorator function.  This factory function accepts the arguments you need and uses them to create a tailored decorator.
 
@@ -31,7 +31,7 @@ This demonstrates a decorator factory `my_decorator` which takes `arg1` and `arg
 **Key Points:**
 
 * **Decorator Factory:** The outer function (`my_decorator`) is the factory.
-* **Nested Functions:**  The structure uses nested functions (`decorator` and `wrapper`).
+* **[[Nested Functions]]:**  The structure uses nested functions (`decorator` and `wrapper`).
 * **Argument Passing:** Arguments are passed to the factory, and these arguments are accessible within the `wrapper` function (via closure).
 
 

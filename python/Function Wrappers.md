@@ -1,4 +1,4 @@
-# [[Chaining Decorators]]
+# [[Chaining [[Decorators]]
 # [[Function Wrappers]] 
 Function wrappers are a powerful technique in Python that allows you to extend or modify the behavior of a function without modifying its core functionality.  This is achieved by creating a new function that wraps around the original function, executing additional code before or after the original function's execution.
 
@@ -70,7 +70,7 @@ def repeat(num_times):
         return wrapper
     return decorator_repeat
 
-@repeat(num_times=3)
+@repeat(num_times=[[3]])
 def greet(name):
     print(f"Hello, {name}!")
 
@@ -81,6 +81,6 @@ greet("Alice")
 This example shows a decorator factory `repeat` that takes `num_times` as an argument.
 
 
-* **Class Decorators:** It's also possible to create decorators using classes. This can be particularly useful for more complex scenarios. [[Class Decorators]]
+* **Class [[Decorators]]:** It's also possible to create decorators using classes. This can be particularly useful for more complex scenarios. [[Class [[Decorators]]
 
 Remember to consult the official Python documentation for more advanced details and examples.

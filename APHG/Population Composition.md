@@ -1,6 +1,6 @@
-[[APHG Unit 2]]
+[[APHG Unit [[2]]
 
-# Population Composition: What a population is made of 
+# [[Population Composition]]: What a population is made of 
 
 ## Things populations are made of
 ### [[Ethnicity]] - You get Chinatowns and little italies everywhere

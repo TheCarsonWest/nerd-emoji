@@ -11,17 +11,17 @@ Key characteristics:
 
 **Common Sequence Types:**
 
-* **[[Lists]]:** Mutable (changeable) sequences. `[1, 2, 'a', True]`
+* **[[Lists]]:** Mutable (changeable) sequences. `[[[1]], [[2]], 'a', True]`
 ```python
-my_list = [1, 2, 3]
-my_list.append(4)  # Add an item
+my_list = [[[1]], [[2]], [[3]]]
+my_list.append([[4]])  # Add an item
 my_list[0] = 10   # Change an item
 ```
 
-* **[[Tuples]]:** Immutable (unchangeable) sequences. `(1, 2, 'a', True)`
+* **[[Tuples]]:** Immutable (unchangeable) sequences. `([[1]], [[2]], 'a', True)`
 ```python
-my_tuple = (1, 2, 3)
-# my_tuple.append(4)  # This would raise an error because tuples are immutable
+my_tuple = ([[1]], [[2]], [[3]])
+# my_tuple.append([[4]])  # This would raise an error because tuples are immutable
 ```
 
 * **Strings:** [[Sequences]] of characters. `"Hello, world!"`
@@ -32,8 +32,8 @@ my_string[0]  # Accesses 'P'
 
 * **Ranges:**  [[Sequences]] of numbers.  `range(10)` generates numbers 0-9.
 ```python
-for i in range(5):
-    print(i) # prints 0, 1, 2, 3, 4
+for i in range([[5]]):
+    print(i) # prints 0, [[1]], [[2]], [[3]], [[4]]
 ```
 
 * **bytes** and **bytearrays**:  [[Sequences]] of bytes.
@@ -43,8 +43,8 @@ for i in range(5):
 Many operations work consistently across different sequence types:
 
 
-* **Indexing:** Accessing individual elements using their index (e.g., `my_list[2]`).
-* **Slicing:** Extracting a portion of the sequence (e.g., `my_list[1:3]`).  ([[Slicing]])
+* **Indexing:** Accessing individual elements using their index (e.g., `my_list[[[2]]]`).
+* **Slicing:** Extracting a portion of the sequence (e.g., `my_list[[[1]]:[[3]]]`).  ([[Slicing]])
 * **Concatenation:** Combining sequences using the `+` operator (e.g., `list1 + list2`).
 * **Membership testing:** Checking if an item is present using `in` or `not in` (e.g., `'a' in my_string`).
 * **Iteration:** Looping through the elements using a `for` loop.

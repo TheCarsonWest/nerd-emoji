@@ -1,15 +1,15 @@
-## ID: Transcontinental Railroad
+## ID: [[Transcontinental Railroad]]
 
-## When:  Groundbreaking May 10, 1869 (Promontory Summit, Utah); Construction 1863-1869 (Pacific Railroad Acts of 1862 and 1864 provided the legal framework and funding)
+## When:  Groundbreaking May 10, 1869 (Promontory Summit, [[Utah]]); Construction 1863-1869 (Pacific Railroad Acts of 1862 and 1864 provided the legal framework and funding)
 
 ## Who:
-* **Central Pacific Railroad:** Primarily Chinese immigrant laborers, Leland Stanford (governor of California, major investor), Collis P. Huntington (business magnate)
+* **Central Pacific Railroad:** Primarily Chinese immigrant laborers, Leland Stanford (governor of [[California]], major investor), Collis P. Huntington (business magnate)
 * **Union Pacific Railroad:** Primarily Irish immigrant laborers, Grenville Dodge (chief engineer)
 * **Government:**  US Federal Government provided land grants, subsidies, and loans.
 
 
 ## What: 
-Construction of the first transcontinental railroad connecting the eastern and western United States.  The two railroads, the Central Pacific (building eastward from California) and the Union Pacific (building westward from Omaha, Nebraska), met at Promontory Summit, Utah.
+Construction of the first transcontinental railroad connecting the eastern and western [[United States]].  The two railroads, the Central Pacific (building eastward from [[California]]) and the Union Pacific (building westward from Omaha, [[Nebraska]]), met at Promontory Summit, [[Utah]].
 
 ## Impact: Why Significant?:
 * **National Unification:**  Physically linked the East and West Coasts, fostering national unity and facilitating trade, communication, and migration.
@@ -21,4 +21,4 @@ Construction of the first transcontinental railroad connecting the eastern and w
 
 
 
-# [[IDS Unit 5]]
+# [[IDS Unit [[5]]

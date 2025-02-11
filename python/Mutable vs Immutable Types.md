@@ -1,29 +1,29 @@
 # [[Lists]]
-# [[Mutable vs Immutable Types]] 
+# [[Mutable vs [[Immutable Types]] 
 This refers to the ability of an object to change its value after it's created.
 
-* **Immutable Types:**  Once created, their value cannot be changed.  If you perform an operation that seems to modify them, you're actually creating a *new* object.
+* **[[Immutable Types]]:**  Once created, their value cannot be changed.  If you perform an operation that seems to modify them, you're actually creating a *new* object.
 
     Examples:
     ```python
     my_string = "hello"
     my_string += " world"  # Creates a new string object; my_string now points to this new object.
     print(id(my_string)) #The memory address will change
-    my_tuple = (1, 2, 3)
-    #my_tuple[0] = 4  # This will raise a TypeError because tuples are immutable.
+    my_tuple = ([[1]], [[2]], [[3]])
+    #my_tuple[0] = [[4]]  # This will raise a TypeError because tuples are immutable.
     ```
-    [[Immutable Types Deeper Dive]]
+    [[Immutable Types]] Deeper Dive]]
 
 
 * **Mutable Types:** Their value can be changed after creation.
 
     Examples:
     ```python
-    my_list = [1, 2, 3]
-    my_list.append(4)  # Modifies the list in place.
+    my_list = [[[1]], [[2]], [[3]]]
+    my_list.append([[4]])  # Modifies the list in place.
     print(id(my_list)) #The memory address will remain the same
-    my_dict = {"a": 1, "b": 2}
-    my_dict["c"] = 3  # Modifies the dictionary in place.
+    my_dict = {"a": [[1]], "b": [[2]]}
+    my_dict["c"] = [[3]]  # Modifies the dictionary in place.
     ```
     [[Mutable Types Deeper Dive]]
 

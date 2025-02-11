@@ -23,7 +23,7 @@
 
 **Military Success:**
 
-* Orchestrated the Union victory in the Civil War, earning the nickname "Unconditional Surrender" Grant.
+* Orchestrated the Union victory in the [[Civil War]], earning the nickname "Unconditional Surrender" Grant.
 * Recognized for his strategic brilliance and determination.
 
 **Reconstruction:**

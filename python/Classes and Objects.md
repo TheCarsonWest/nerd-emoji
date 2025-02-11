@@ -1,4 +1,4 @@
-# [[Python 1 Home]]
+# [[Python [[1]] Home]]
 # [[Classes and Objects]] 
 Python uses classes to create user-defined data types.  A class is a blueprint for creating objects.  Objects are instances of a class.
 
@@ -36,7 +36,7 @@ Related Notes:
 * [[Polymorphism]]
 * [[Encapsulation]]
 * [[Abstract Classes]]
-* [[Multiple Inheritance]]
-* [[Method Resolution Order (MRO)]]
+* [[Multiple [[Inheritance]]
+* [[Method Resolution Order ([[MRO]])]]
 * [[Private and Protected Members]]
 

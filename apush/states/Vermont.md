@@ -5,7 +5,7 @@
 * **1777:** [[Vermont]] declares independence from [[Great Britain]].
 * **1791:** [[Vermont]] ratifies the U.S. Constitution, becoming the 14th state.
 * **1843:** [[Vermont]] prohibits slavery within its borders.
-* **1861-1865:** [[Vermont]] sends troops to fight in the Civil War.
+* **1861-1865:** [[Vermont]] sends troops to fight in the [[Civil War]].
 * **1911:** [[Vermont]] adopts the first workers' compensation law in the nation.
 * **1970:** [[Vermont]] becomes the first state to legalize abortion.
 * **1990:** [[Vermont]] passes the first universal health care law in the [[United States]].

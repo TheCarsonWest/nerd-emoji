@@ -53,8 +53,8 @@ The choice of visualization depends heavily on the type of data and the message 
 **V. Equations (Example):**
 
 * Linear Regression:  $y = mx + b$
-* Standard Deviation:  $\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N}(x_i - \mu)^2}$
+* Standard Deviation:  $\sigma = \sqrt{\frac{[[1]]}{N} \sum_{i=[[1]]}^{N}(x_i - \mu)^[[2]]}$
 
-## $$ \text{Mean} = \frac{\sum_{i=1}^{n} x_i}{n} $$
+## $$ \text{Mean} = \frac{\sum_{i=[[1]]}^{n} x_i}{n} $$
 
 This is a basic framework.  I need to flesh out the individual visualization types with more detail in the linked notes.

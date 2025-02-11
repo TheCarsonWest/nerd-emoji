@@ -1,4 +1,4 @@
-# [[AP English Language and Composition]]
+# [[AP English [[Language]] and Composition]]
 # [[Essay Structure and Organization]]
 
 **I. Introduction**

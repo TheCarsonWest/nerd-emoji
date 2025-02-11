@@ -1,4 +1,4 @@
-**[[Harry S. Truman]] (1884-1972)**
+**[[Harry S]]. Truman]] (1884-1972)**
 
 **Early Life and Career:**
 * Born in Lamar, [[Missouri]], on May 8, 1884

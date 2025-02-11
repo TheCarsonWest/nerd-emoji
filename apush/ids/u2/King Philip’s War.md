@@ -17,4 +17,4 @@ A bloody and devastating war between Native American tribes and English colonist
 * **Long-Term Consequences:** The war's impact profoundly altered the demographic and political landscape of New England, paving the way for further colonial expansion and the decline of Native American power.
 
 
-# [[IDS Unit 3]]
+# [[IDS Unit [[3]]

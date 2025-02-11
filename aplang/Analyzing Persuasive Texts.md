@@ -13,7 +13,7 @@
     * **Ethos:** Appeal to credibility and authority.  Examples: using expert testimony, establishing the author's credibility.
     * **Pathos:** Appeal to emotion. Examples: using vivid language, storytelling, emotional appeals.
     * **Logos:** Appeal to logic and reason. Examples: using statistics, logical reasoning, factual evidence.  [[Rhetorical Appeals: [[Ethos, Pathos, Logos]]
-    * **Other techniques:**  Consider the use of repetition, parallelism, analogies, metaphors, rhetorical questions, etc. [[Figurative Language and [[Rhetorical Devices]]
+    * **Other techniques:**  Consider the use of repetition, parallelism, analogies, metaphors, rhetorical questions, etc. [[Figurative [[Language]] and [[Rhetorical Devices]]
 * **Tone:** What is the overall tone of the text? (e.g., formal, informal, serious, humorous, sarcastic). How does the tone contribute to the persuasive effect? [[Analyzing Tone]]
 * **Bias:** Does the author exhibit any bias?  Is the information presented objectively or subjectively?  [[Identifying Bias]]
 * **Structure:** How is the text organized? Does the structure contribute to the persuasiveness of the argument? [[Analyzing Text Structure]]

@@ -15,4 +15,4 @@ The [[Spoils System]] was a practice where victorious political parties would re
 * **Corruption and Scandal:**  The [[Spoils System]] created opportunities for corruption and scandal as positions were often granted based on loyalty rather than merit.
 * **Civil Service Reform:** The system's negative consequences eventually led to calls for reform, culminating in the Pendleton Civil Service Reform Act of 1883 which established a merit-based system for hiring government employees. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit [[3]]

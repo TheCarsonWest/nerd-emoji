@@ -33,7 +33,7 @@ Need to evaluate the effectiveness of bias mitigation techniques. Metrics will v
 
 Suppose we have a binary classification problem with protected attribute $A$ (e.g., gender) and outcome $Y$.  We want to ensure that the model's predictions are fair across different values of $A$.  One metric of fairness is **Equal Opportunity**, which requires:
 
-$P(Y = 1 | \hat{Y} = 1, A = a) = P(Y = 1 | \hat{Y} = 1, A = a')$  for all $a, a'$,
+$P(Y = [[1]] | \hat{Y} = [[1]], A = a) = P(Y = [[1]] | \hat{Y} = [[1]], A = a')$  for all $a, a'$,
 
 where $\hat{Y}$ represents the model's prediction.
 

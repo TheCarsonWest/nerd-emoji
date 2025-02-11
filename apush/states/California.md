@@ -9,8 +9,8 @@
 * **1848:** **Treaty of Guadalupe Hidalgo** cedes [[California]] and other territories to the [[United States]].
 * **1850:** [[California]] becomes the 31st state of the Union.
 * **1853:** [[California]] experiences a rapid population growth due to the Gold Rush.
-* **1857:** **Dred Scott v. Sandford** Supreme Court decision further inflames sectional tensions and leads to the Civil War.
-* **1869:** Transcontinental Railroad is completed, connecting [[California]] to the rest of the country.
+* **1857:** **Dred Scott v. Sandford** Supreme Court decision further inflames sectional tensions and leads to the [[Civil War]].
+* **1869:** [[Transcontinental Railroad]] is completed, connecting [[California]] to the rest of the country.
 * **1906:** San Francisco Earthquake and fire devastate the city.
 * **1913:** [[California]] passes the first statewide initiative and referendum law.
 * **1929:** Los Angeles becomes a major economic and cultural center.

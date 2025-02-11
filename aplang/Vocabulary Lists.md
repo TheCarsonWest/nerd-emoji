@@ -1,5 +1,5 @@
-# [[AP English Language and Composition]]
-# [[Vocabulary Lists]]
+# [[AP English [[Language]] and Composition]]
+# [[Vocabulary [[Lists]]
 
 **Goal:** Create effective and efficient vocabulary learning systems.
 
@@ -24,7 +24,7 @@
     * Anki
     * Memrise
     * Flashcard apps
-    * Online dictionaries (e.g., Merriam-Webster, Oxford Dictionaries)
+    * Online dictionaries (e.g., Merriam-Webster, Oxford [[Dictionaries]])
 
 
 * **Evaluation:** Track progress using metrics like words learned per day/week, retention rate after a specific period, and overall vocabulary size. [[Progress Tracking & Metrics]]

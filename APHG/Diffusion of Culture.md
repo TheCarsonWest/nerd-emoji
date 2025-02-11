@@ -1,5 +1,5 @@
 
-**[[Unit 3]]**
+**[[Unit [[3]]**
 
 **Cultural Hearths:**
 
@@ -12,13 +12,13 @@
 	* China (silk, porcelain, Confucianism), 
 	* Greece (democracy, philosophy), 
 	* Rome (law, architecture), etc
-*   **Largest Modern Hearth Arguable):** **The United States** is often cited as a major modern cultural hearth due to its influence in areas like popular culture (music, film, fashion), technology, and political ideologies.
+*   **Largest Modern Hearth Arguable):** **The [[United States]]** is often cited as a major modern cultural hearth due to its influence in areas like popular culture (music, film, fashion), technology, and political ideologies.
 
 **Diffusion Processes:**
 
 *   **Relocation Diffusion:**
     *   **Definition:** The spread of cultural traits through the physical movement of people from one place to another.  The [[Culture]] is literally carried with the migrants.
-    *   **Examples:**  The spread of Christianity through missionary travels, the spread of pizza from Italy to the United States, the spread of specific dialects of languages through migration patterns, the diffusion of culinary traditions by immigrant communities.
+    *   **Examples:**  The spread of Christianity through missionary travels, the spread of pizza from Italy to the [[United States]], the spread of specific dialects of languages through migration patterns, the diffusion of culinary traditions by immigrant communities.
     *   **Characteristics:**  The original hearth may retain some influence, but the [[Cultural Trait]] often adapts and changes in the new location. The intensity of the trait may decrease with distance from the origin point unless reinforced by further migration.
     *   **Types:**  Forced migration (e.g., the transatlantic slave trade) and voluntary migration (e.g., European colonization) both contribute to relocation diffusion.
 

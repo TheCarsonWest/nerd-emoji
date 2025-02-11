@@ -11,8 +11,8 @@ These notes cover the usage of semicolons and colons in writing.
 * **With conjunctive adverbs:** Use a semicolon before a conjunctive adverb (e.g., however, therefore, moreover, consequently) that connects two independent clauses.  A comma follows the conjunctive adverb.
     * Example:  The game was delayed; however, the fans remained enthusiastic.
 
-* **Complex Lists:** Semicolons can improve clarity in lists where items already contain commas.
-    * Example:  I've visited London, England; Paris, France; and Rome, Italy.
+* **Complex [[Lists]]:** Semicolons can improve clarity in lists where items already contain commas.
+    * Example:  I've visited London, England; Paris, [[France]]; and Rome, Italy.
 
 
 **Colons (:)**
@@ -25,8 +25,8 @@ These notes cover the usage of semicolons and colons in writing.
     * Example: The professor stated: "The exam will be difficult."
 
 * **Between numbers (time, ratios, etc.):** Colons are used to separate numbers in certain contexts.
-    * Example:  The race starts at 2:00 PM.
-    * Example: The ratio of boys to girls was 3:2.
+    * Example:  The race starts at [[2]]:00 PM.
+    * Example: The ratio of boys to girls was [[3]]:[[2]].
 
 
 **Distinguishing between [[Semicolons and Colons]]:**

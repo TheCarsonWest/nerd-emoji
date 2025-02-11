@@ -1,4 +1,4 @@
-# [[AP English Language and Composition]]
+# [[AP English [[Language]] and Composition]]
 # [[Sentence Structures and Rhetorical Effect]]
 
 **I. Sentence Structures:**

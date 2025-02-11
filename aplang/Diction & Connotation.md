@@ -28,9 +28,9 @@ The connotation of a word can drastically alter the meaning and effect of a sent
 
 To effectively analyze diction and connotation, consider:
 
-1. **The author's purpose:** What message is the author trying to convey? How does their word choice contribute to this?
-2. **The target audience:** Who is the author writing for? How does the diction cater to this audience?
-3. **The overall tone:** What feeling or atmosphere does the text create? How is this achieved through diction and connotation?
+[[1]]. **The author's purpose:** What message is the author trying to convey? How does their word choice contribute to this?
+[[2]]. **The target audience:** Who is the author writing for? How does the diction cater to this audience?
+[[3]]. **The overall tone:** What feeling or atmosphere does the text create? How is this achieved through diction and connotation?
 
 
 **Examples:**
@@ -40,7 +40,7 @@ To effectively analyze diction and connotation, consider:
 
 **Further Exploration:**
 
-* [[Figurative Language]] (This will be a separate note, focusing on how figures of speech impact connotation and diction)
+* [[Figurative [[Language]] (This will be a separate note, focusing on how figures of speech impact connotation and diction)
 * [[Tone and Mood in Writing]] (Another separate note, exploring the relationship between diction, connotation, and the overall tone/mood)
 * [[Analyzing Literary Texts]] (A more broad note covering various analytical techniques, including diction and connotation analysis).
 

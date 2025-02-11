@@ -1,4 +1,4 @@
-# [[[[Rhetorical Analysis]] Techniques]]
+# [[Rhetorical Analysis]] Techniques]]
 # [[Purpose & Intent]]
 
 **Purpose:**  The overall goal or objective. What is the desired outcome?  What problem are we trying to solve?

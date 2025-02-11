@@ -3,12 +3,12 @@
 **Pre-Statehood**
 
 * 1803: [[Louisiana]] Purchase]] includes the present-day territory of [[North Dakota]].
-* 1861-1865: Dakota Territory, which includes [[North Dakota]], remains loyal to the Union during the Civil War.
+* 1861-1865: Dakota Territory, which includes [[North Dakota]], remains loyal to the Union during the [[Civil War]].
 
 **Statehood and Early History**
 
-* 1889: [[North Dakota]] becomes a state on November 2.
-* 1890: Farmers Alliance and Populist Party gain political power, advocating for rural interests.
+* 1889: [[North Dakota]] becomes a state on November [[2]].
+* 1890: Farmers Alliance and [[Populist Party]] gain political power, advocating for rural interests.
 * 1893: [[North Dakota]] adopts the Nonpartisan League, which has a profound impact on state politics.
 
 **20th Century**

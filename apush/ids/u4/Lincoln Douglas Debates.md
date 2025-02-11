@@ -13,8 +13,8 @@
 
 ## Impact: Why Significant?
 * **National Spotlight:** The debates catapulted Lincoln into the national spotlight, solidifying his reputation as a powerful orator and a leading opponent of slavery.
-* **Public Awareness:** The debates brought the issue of slavery to the forefront of public discourse, deepening the national divisions and setting the stage for the Civil War.
+* **Public Awareness:** The debates brought the issue of slavery to the forefront of public discourse, deepening the national divisions and setting the stage for the [[Civil War]].
 * **Political Polarization:** The debates further divided the nation along sectional lines, strengthening the Republican Party's anti-slavery stance and solidifying the [[Democrats]]'s support for states' rights and [[popular sovereignty]].
 * **Lincoln's National Rise:** Despite losing the Senate election, the debates established Lincoln as a national figure and helped pave the way for his presidential victory in 1860. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit [[4]]

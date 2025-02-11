@@ -9,7 +9,7 @@
 * **1820:** Passed the [[Missouri]] Compromise, which kept [[Missouri]] as a slave state but prohibited slavery in the remaining [[Louisiana]] Territory north of latitude 36°30´.
 * **1854:** Enacted the [[Fugitive Slave Act]], which required Northern states to assist in capturing and returning runaway slaves.
 * **1861:** Seceded from the Union and joined the Confederacy.
-* **1865:** Rejoined the Union after the Civil War.
+* **1865:** Rejoined the Union after the [[Civil War]].
 * **1875:** Passed the Civil Rights Act of 1875, which outlawed discrimination in public accommodations.
 * **1954:** Brown v. Board of Education case originated in [[Connecticut]] and reached the Supreme Court, which ruled against school segregation.
 * **2012:** Permitted same-sex marriage.

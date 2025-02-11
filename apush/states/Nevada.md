@@ -4,7 +4,7 @@
 
 * **1859:** [[Nevada]] Territory created
 * **1864:** [[Nevada]] admitted to the Union as the 36th state
-* **1869:** Transcontinental Railroad completed at Promontory Summit, [[Utah]]
+* **1869:** [[Transcontinental Railroad]] completed at Promontory Summit, [[Utah]]
 * **1871:** University of [[Nevada]], Reno founded
 * **1900:** Tonopah mining boom begins
 * **1917:** [[Nevada]] Highway Department established
@@ -19,7 +19,7 @@
 **Important Legislation:**
 
 * **1865:** [[Nevada]] Legalizes Gambling
-* **1905:** [[Nevada]] Passes Pure Food and Drug Act
+* **1905:** [[Nevada]] Passes [[Pure Food and Drug Act]]
 * **1953:** [[Nevada]] Passes [[Nevada]] Test Site Act
 * **1974:** [[Nevada]] Passes Equal Rights Amendment
 * **1987:** [[Nevada]] Passes [[Nevada]] Gaming Control Act
@@ -46,6 +46,6 @@
 **Impact on the Rest of the Country:**
 
 * [[Nevada]] has been a major center of gambling and entertainment since the 1950s.
-* The [[Nevada]] Test Site was the site of over 1,000 nuclear tests from 1951 to 1992.
+* The [[Nevada]] Test Site was the site of over [[1]],000 nuclear tests from 1951 to 1992.
 * [[Nevada]]'s legalization of recreational marijuana in 2017 has made the state a pioneer in the legalization movement.
 * [[Nevada]] is a swing state in presidential elections and has voted for both Democratic and Republican candidates in recent years.

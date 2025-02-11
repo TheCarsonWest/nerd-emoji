@@ -18,7 +18,7 @@
 **Groups Associated With:**
 
 * [[Democratic-Republican]] Party
-* National Republicans
+* National [[Republicans]]
 * Nullifier Party
 
 **Impact on the Country:**

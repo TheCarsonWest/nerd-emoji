@@ -5,7 +5,7 @@
 * **1513:** Juan Ponce de León explores the [[Florida]] coast.
 * **1565:** Pedro Menéndez de Avilés establishes the first permanent European settlement in [[Florida]], St. Augustine.
 * **1763:** [[Great Britain]] acquires [[Florida]] from [[Spain]] in the Treaty of Paris.
-* **1783:** [[Spain]] regains control of [[Florida]] in the Treaty of Versailles.
+* **1783:** [[Spain]] regains control of [[Florida]] in the [[Treaty of Versailles]].
 * **1819:** [[Spain]] cedes [[Florida]] to the [[United States]] in the Adams-Onís Treaty.
 * **1822:** [[Florida]] becomes a territory of the [[United States]].
 * **1845:** [[Florida]] becomes the 27th state of the [[United States]].
@@ -32,7 +32,7 @@
 * **1964:** The Civil Rights Act of 1964 prohibits discrimination based on race, color, [[Religion]], sex, or national origin.
 * **1972:** The [[Florida]] Comprehensive Growth Management Act establishes a framework for regulating growth in the state.
 * **2000:** The [[Florida]] Supreme Court orders a recount in the 2000 presidential election, but the U.S. Supreme Court halts the recount and declares [[George W]]. Bush the winner.
-* **2018:** The [[Florida]] Constitution Amendment 4 restores voting rights to felons who have completed their sentences.
+* **2018:** The [[Florida]] Constitution Amendment [[4]] restores voting rights to felons who have completed their sentences.
 
 **Important Court Cases:**
 

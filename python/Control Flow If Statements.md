@@ -18,12 +18,12 @@ else: #Optional
 
 ```python
 x = 10
-if x > 5:
-    print("x is greater than 5")
-elif x == 5:
-    print("x is equal to 5")
+if x > [[5]]:
+    print("x is greater than [[5]]")
+elif x == [[5]]:
+    print("x is equal to [[5]]")
 else:
-    print("x is less than 5")
+    print("x is less than [[5]]")
 
 ```
 
@@ -37,6 +37,6 @@ else:
 
 [[Boolean Logic]]  -  This needs a separate note explaining boolean operators (and, or, not) and truth tables.
 
-[[Comparison Operators]] - This should cover operators like `==`, `!=`, `>`, `<`, `>=`, `<=`.
+[[Comparison [[Operators]] - This should cover operators like `==`, `!=`, `>`, `<`, `>=`, `<=`.
 
 [[Nested If Statements]] -  Explaining how to have `if` statements inside other `if` statements.

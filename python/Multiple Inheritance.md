@@ -1,5 +1,5 @@
 # [[Classes and Objects]]
-# [[Multiple Inheritance]] 
+# [[Multiple [[Inheritance]] 
 Multiple inheritance in Python allows a class to inherit from multiple parent classes.  This means a child class can gain attributes and methods from several different sources.
 
 **Example:**
@@ -40,7 +40,7 @@ my_bat.give_birth() # Output: Giving birth to live young
 my_bat.fly() #Output: Flying
 ```
 
-**Method Resolution Order (MRO):** [[MRO]]  This determines the order in which methods are searched for when a method call is made. Python uses the C3 linearization algorithm to determine the MRO.  Understanding MRO is crucial to avoid ambiguity and unexpected behavior in multiple inheritance scenarios.
+**Method Resolution Order ([[MRO]]):** [[MRO]]  This determines the order in which methods are searched for when a method call is made. Python uses the C3 linearization algorithm to determine the [[MRO]].  Understanding [[MRO]] is crucial to avoid ambiguity and unexpected behavior in multiple inheritance scenarios.
 
 **Diamond Problem:** [[Diamond Problem]] A classic problem in multiple inheritance where two parent classes have a common ancestor, and the child class inherits from both.  This can lead to conflicts if both parents implement the same method.
 

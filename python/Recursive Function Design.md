@@ -1,4 +1,4 @@
-# [[Memoization in Recursion]]
+# [[Memoization in [[Recursion]]
 # [[Recursive Function Design]] 
 Recursive functions call themselves within their own definition.  This allows for elegant solutions to problems that can be broken down into smaller, self-similar subproblems.
 
@@ -14,11 +14,11 @@ Recursive functions call themselves within their own definition.  This allows fo
 def factorial(n):
   """Calculates the factorial of a non-negative integer."""
   if n == 0:  # Base case
-    return 1
+    return [[1]]
   else:
-    return n * factorial(n-1)  # Recursive step
+    return n * factorial(n-[[1]])  # Recursive step
 
-print(factorial(5))  # Output: 120
+print(factorial([[5]]))  # Output: 120
 ```
 
 **Important Considerations:**
@@ -47,6 +47,6 @@ print(factorial(5))  # Output: 120
 
 **Further Exploration:**
 
-* Tail [[Recursion]] ([[Tail Recursion Optimization]]) - a special form of [[Recursion]] that can be optimized by some compilers or interpreters.
+* Tail [[Recursion]] ([[Tail [[Recursion]] Optimization]]) - a special form of [[Recursion]] that can be optimized by some compilers or interpreters.
 * Memoization ([[Memoization]]) - a technique to improve the performance of recursive functions by caching previously computed results.
 

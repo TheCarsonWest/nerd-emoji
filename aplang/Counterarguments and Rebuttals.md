@@ -1,4 +1,4 @@
-# [[AP English Language and Composition]]
+# [[AP English [[Language]] and Composition]]
 # [[Counterarguments and Rebuttals]]
 
 **Goal:**  Develop effective strategies for addressing opposing viewpoints and strengthening arguments.
@@ -21,9 +21,9 @@
 
 
 * **Structure of a Rebuttal:**
-    1. **Acknowledge the Counterargument:**  Clearly state the opposing viewpoint.
-    2. **Present Your Rebuttal:**  Offer your response with evidence and reasoning.
-    3. **Transition:**  Smoothly connect your rebuttal back to your main argument.
+    [[1]]. **Acknowledge the Counterargument:**  Clearly state the opposing viewpoint.
+    [[2]]. **Present Your Rebuttal:**  Offer your response with evidence and reasoning.
+    [[3]]. **Transition:**  Smoothly connect your rebuttal back to your main argument.
 
 
 * **Examples:**

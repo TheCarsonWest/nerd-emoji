@@ -4,7 +4,7 @@
 - [[Constant rule]]
 - [[Power Rule]]
 - [[Exponent Rule]]
-- [[Natural Log Rule]]
+- [[Natural [[Log Rule]]
 - [[Log Rule]]
 # Multi function rules
 - [[Product Rule]]

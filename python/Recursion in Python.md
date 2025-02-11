@@ -1,5 +1,5 @@
 # [[Python Functions]]
-# [[Recursion in Python]] 
+# [[Recursion]] in Python]] 
 [[Recursion]] is a powerful technique where a function calls itself within its own definition.  It's crucial to have a base case to stop the [[Recursion]], otherwise, it will lead to a `RecursionError` (stack overflow).
 
 **Key Components:**
@@ -16,11 +16,11 @@ def factorial(n):
   Calculates the factorial of a non-negative integer using recursion.
   """
   if n == 0:  # Base case
-    return 1
+    return [[1]]
   else:
-    return n * factorial(n-1) # Recursive step
+    return n * factorial(n-[[1]]) # Recursive step
 
-print(factorial(5))  # Output: 120
+print(factorial([[5]]))  # Output: 120
 ```
 
 **Potential Issues:**
@@ -34,12 +34,12 @@ print(factorial(5))  # Output: 120
 
 **Alternatives:**
 
-Often, iterative approaches (using loops) can provide a more efficient solution to problems that can be solved recursively.  [[Iteration vs Recursion]]
+Often, iterative approaches (using loops) can provide a more efficient solution to problems that can be solved recursively.  [[Iteration vs [[Recursion]]
 
 
 **Further Exploration:**
 
-* [[Tail Recursion]] (Optimization technique for specific types of [[Recursion]])
-* [[Recursion Examples]] (More complex examples of recursive functions)
+* [[Tail [[Recursion]] (Optimization technique for specific types of [[Recursion]])
+* [[Recursion]] Examples]] (More complex examples of recursive functions)
 
 **Note:**  Always carefully consider the base case and potential for stack overflow when using [[Recursion]].  For many problems, an iterative solution might be preferred for efficiency and to avoid potential errors.

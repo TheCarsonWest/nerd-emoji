@@ -18,7 +18,7 @@
  * Represented the [[United States]] in Paris
  * Negotiated the [[Treaty of Paris 1776]] (1783)
 * **Secretary of State (1789-1793):**
- * Served under President [[George Washington]]
+ * Served under President [[George [[Washington]]
  * Drafted the [[Bill of Rights]]
 * **Vice President (1797-1801):**
  * Served under President [[John Adams]]

@@ -12,7 +12,7 @@ import re
 
 text = "Hello World"
 match = re.search("world", text, re.IGNORECASE)
-print(match) # <re.Match object; span=(6, 11), match='World'>
+print(match) # <re.Match object; span=([[6]], 11), match='World'>
 ```
 
 * `re.MULTILINE` (or `re.M`):  Makes `^` and `$` match the beginning and end of each line (instead of the entire string).

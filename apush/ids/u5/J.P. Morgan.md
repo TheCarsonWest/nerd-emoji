@@ -1,12 +1,12 @@
-## ID: J.P. Morgan
+## ID: [[J]].P. Morgan
 
 ## When: Late 19th and early 20th centuries (roughly 1870s-1913)
 
 ## Who: 
-* **J. Pierpont Morgan:**  Financier, banker, and philanthropist.  Head of J.P. Morgan & Co.
+* **[[J]]. Pierpont Morgan:**  Financier, banker, and philanthropist.  Head of [[J]].P. Morgan & Co.
 
 ## What: 
-J.P. Morgan was a highly influential figure in American finance during the Gilded Age. He dominated corporate finance, railroad reorganization, and industrial consolidation.  Key activities include:
+[[J]].P. Morgan was a highly influential figure in American finance during the [[Gilded Age]]. He dominated corporate finance, railroad reorganization, and industrial consolidation.  Key activities include:
 * **Railroad Reorganization:** Restructured numerous bankrupt railroads, creating more efficient and profitable systems through consolidation and financial maneuvering.
 * **Industrial Consolidation:** Played a major role in forming massive trusts and holding companies, including U.S. Steel (1901), the largest corporation ever at the time.
 * **Financial Panics:**  Often stepped in during financial crises to stabilize the economy, lending money to the government and other institutions (e.g., during the Panic of 1907).
@@ -19,4 +19,4 @@ J.P. Morgan was a highly influential figure in American finance during the Gilde
 * **Philanthropy:**  Donated significantly to various institutions, including libraries and universities.  However, this philanthropy was intertwined with his business interests and image building.
 * **Debate over Capitalism:**  Morgan's actions fueled debates about the nature and ethics of laissez-faire capitalism and the growing power of big business.  His methods contributed to the rise of Progressive Era reforms aiming to curb corporate power.
 
-# [[IDS Unit 5]]
+# [[IDS Unit [[5]]

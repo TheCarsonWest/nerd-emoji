@@ -9,7 +9,7 @@
 * 1776: [[Delaware]] declares independence from [[Great Britain]].
 * 1787: [[Delaware]] becomes the first state to ratify the Constitution.
 * 1845: The [[Delaware]] and Hudson Canal Company is completed, connecting the state to the Great Lakes.
-* 1861: [[Delaware]] remains a slave state and does not secede from the Union during the Civil War.
+* 1861: [[Delaware]] remains a slave state and does not secede from the Union during the [[Civil War]].
 * 1895: The DuPont Company establishes a gunpowder factory in Wilmington.
 * 1913: The 16th Amendment, granting Congress the power to levy an income tax, is passed with the support of [[Delaware]]'s vote.
 * 1954: DuPont becomes the world's largest chemical company.
@@ -23,7 +23,7 @@
 
 **Important Court Cases**
 
-* **"[[McCulloch v Maryland]]" (1819):** Established the principle of federal supremacy and the implied powers of Congress.
+* **"[[McCulloch v [[Maryland]]" (1819):** Established the principle of federal supremacy and the implied powers of Congress.
 * **Gibbons v. Ogden (1824):** Upheld the federal government's exclusive power to regulate interstate commerce.
 * **[[Brown v. Board of Education]] (1954):** Desegregated public schools.
 

@@ -40,7 +40,7 @@
 
 **Impact on the Rest of the Country**
 
-* [[Maryland]] was a key player in the American Revolution and played a significant role in the Civil War.
+* [[Maryland]] was a key player in the American Revolution and played a significant role in the [[Civil War]].
 * The state's port of Baltimore was a major center of commerce and trade.
 * [[Maryland]] is home to the National Security Agency, a vital part of the nation's intelligence apparatus.
 * The state's universities and research institutions make it a hub of innovation and technological advancement.
