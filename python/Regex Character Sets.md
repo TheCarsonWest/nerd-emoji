@@ -2,7 +2,7 @@
 # [[Regex Character Sets]] 
 These notes cover Python's regular expression character sets.  Character sets allow you to match one character from a specified group.
 
-* **Basic Syntax:**  Character sets are defined using square brackets `[]`.  For example, `[abc]` matches 'a', 'b', or 'c'.
+* **Basic Syntax:**  Character sets are defined using square brackets `1`.  For example, `[abc]` matches 'a', 'b', or 'c'.
 
 * **Ranges:** You can specify ranges of characters using a hyphen.  `[a-z]` matches any lowercase letter, `[0-9]` matches any digit, and `[A-Z]` matches any uppercase letter.  You can combine ranges: `[a-zA-Z0-9]` matches any alphanumeric character.
 
@@ -22,16 +22,16 @@ string = "Hello, World! 123"
 match = re.findall(r"[aeiou]", string)  # Output: ['e', 'o', 'o']
 
 # Match any digit
-match = re.findall(r"[0-9]", string)  # Output: ['[[1]]', '[[2]]', '[[3]]']
+match = re.findall(r"[0-9]", string)  # Output: ['[[1', '[[2]', '[[3]']
 
 # Match any character except a space
-match = re.findall(r"[^ ]", string) #Output: ['H', 'e', 'l', 'l', 'o', ',', 'W', 'o', 'r', 'l', 'd', '!', '[[1]]', '[[2]]', '[[3]]']
+match = re.findall(r"[^ ]", string) #Output: ['H', 'e', 'l', 'l', 'o', ',', 'W', 'o', 'r', 'l', 'd', '!', '[[1', '[[2]', '[[3]']
 
 # Match any uppercase or lowercase letter
 match = re.findall(r"[a-zA-Z]", string) # Output: ['H', 'e', 'l', 'l', 'o', 'W', 'o', 'r', 'l', 'd']
 
 # Matching a literal ]
-match = re.findall(r"[]]abc]", "abc[]]") #Output: ['abc]']
+match = re.findall(r"1abc]", "abc1") #Output: ['abc]']
 
 #Matching a literal -
 match = re.findall(r"[-abc]", "abc-def") #Output: ['-']

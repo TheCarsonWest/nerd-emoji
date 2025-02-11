@@ -11,13 +11,13 @@ This is achieved primarily through access modifiers (although Python doesn't hav
 class MyClass:
     def __init__(self, value):
         self.public_var = value  # Public
-        self._protected_var = value * [[2]] # Protected
-        self.__private_var = value * [[3]] # Private
+        self._protected_var = value * [[2] # Protected
+        self.__private_var = value * [[3] # Private
 
     def get_private_var(self):
         return self.__private_var
 
-my_instance = MyClass([[5]])
+my_instance = MyClass([[5])
 print(my_instance.public_var)       # Accessing public member - OK
 print(my_instance._protected_var)   # Accessing protected member - Generally OK, but discouraged from outside the class
 print(my_instance.get_private_var()) # Accessing private member through a getter method - Recommended

@@ -15,7 +15,7 @@
 * **Strong Acids:** Completely dissociate in water. Examples: $HCl$, $HBr$, $HI$, $HNO_3$, $H_2SO_4$, $HClO_4$.
 * **Weak Acids:** Partially dissociate in water.  Example: $CH_3COOH \rightleftharpoons CH_3COO^- + H^+$   $K_a = \frac{[CH_3COO^-][H^+]}{[CH_3COOH]}$
 * **Strong Bases:** Completely dissociate in water. Examples: Group 1 hydroxides (NaOH, KOH, etc.)
-* **Weak Bases:** Partially dissociate in water. Example: $NH_3 + H_2O \rightleftharpoons NH_4^+ + OH^-$  $K_b = \frac{[NH_4^+][OH^-]}{[NH_3]}$
+* **Weak Bases:** Partially dissociate in water. Example: $NH_3 + H_2O \rightleftharpoons NH_4^+ + OH^-$  $K_b = \frac{[NH_4^+][OH^-]}{[NH_3}$
 
 
 **pH and pOH:**

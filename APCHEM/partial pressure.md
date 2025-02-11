@@ -6,7 +6,7 @@
 
 # $$P_{t}=\sum P_{n}$$
 ### Or for dummies:
- $$P_{t} = P_{[[1]]}+P_{[[2]]}+\ ...\ + P_{n}$$
+ $$P_{t} = P_{[[1}+P_{[[2]}+\ ...\ + P_{n}$$
 # To find one element's [[partial pressure]]
 # $$P_A = x_A P_A^*$$
 where:

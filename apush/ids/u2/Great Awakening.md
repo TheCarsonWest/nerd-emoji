@@ -15,4 +15,4 @@ A series of religious revivals that swept through the American colonies.  Charac
 * **Increased Literacy:** The desire to read the Bible spurred literacy rates.
 * **Development of Colleges:**  New colleges were founded (e.g., Princeton, Dartmouth) to train ministers for the growing evangelical movement.
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

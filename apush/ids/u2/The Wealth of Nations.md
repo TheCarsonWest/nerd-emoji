@@ -16,4 +16,4 @@ A groundbreaking work of economic theory published by Adam Smith.  It argues for
 * **Long-Term Impact:** The book continues to be studied and debated, demonstrating its lasting influence on economics and societal understanding of wealth creation.
 
 
-# [[IDS Unit 5]]
+# [[IDS Unit 5]

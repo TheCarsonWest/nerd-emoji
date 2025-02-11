@@ -7,7 +7,7 @@
 
 **Statehood and Early History**
 
-* 1889: [[North Dakota]] becomes a state on November [[2]].
+* 1889: [[North Dakota]] becomes a state on November [[2].
 * 1890: Farmers Alliance and [[Populist Party]] gain political power, advocating for rural interests.
 * 1893: [[North Dakota]] adopts the Nonpartisan League, which has a profound impact on state politics.
 

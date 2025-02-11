@@ -37,7 +37,7 @@ $x \approx \sqrt{K_a[HA]_i}$
 
 After solving for $x$, check the 5% rule to confirm the validity of the approximation.
 
-**4. Weak Base [[Equilibrium:**  (Weak Base Equilibrium]]]])
+**4. Weak Base [[Equilibrium:**  (Weak Base Equilibrium]])
 
 **5.  Solubility Equilibria:** ([[Solubility Equilibria]])
 

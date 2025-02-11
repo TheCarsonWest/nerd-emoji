@@ -16,4 +16,4 @@ An international organization created after World War I with the goal of maintai
 * **Wilson's Legacy:** Wilson's passionate advocacy for the League, despite its eventual failure in the US, shaped his legacy and demonstrated his vision for a more peaceful world order.  The failure to join significantly damaged his presidency and his vision for post-war international cooperation.
 
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

@@ -15,12 +15,12 @@ data = {
     'city': '[[New York]]'
 }
 
-json_data = json.dumps(data, indent=[[4]]) # indent for pretty printing
+json_data = json.dumps(data, indent=[[4]) # indent for pretty printing
 print(json_data)
 
 #writing to a file
 with open('data.json', 'w') as f:
-    json.dump(data, f, indent=[[4]])
+    json.dump(data, f, indent=[[4])
 ```
 
 **Decoding (JSON to Python objects):**

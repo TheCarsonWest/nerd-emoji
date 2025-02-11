@@ -46,11 +46,11 @@ The rate constant, *k*, is a proportionality constant that relates the rate of a
 
 Consider the reaction: $2NO(g) + O_2(g) \rightarrow 2NO_2(g)$
 
-If experimentally determined rate law is: $Rate = k[NO]^[[2]][O_2]$
+If experimentally determined rate law is: $Rate = k[NO]^[[2][O_2$
 
 * The reaction is second order with respect to NO.
-* The reaction is first order with respect to O<sub>[[2]]</sub>.
-* The overall reaction order is [[3]] ([[2]] + [[1]]).
+* The reaction is first order with respect to O<sub>[[2]</sub>.
+* The overall reaction order is [[3] ([[2] + [[1).
 
 
 ## Factors Affecting Reaction Rate

@@ -13,7 +13,7 @@ def repeat(num_times):
         return wrapper
     return decorator_repeat
 
-@repeat(num_times=[[3]])
+@repeat(num_times=[[3])
 def say_hello(name):
     print(f"Hello, {name}!")
 

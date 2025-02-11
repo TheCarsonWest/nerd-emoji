@@ -5,7 +5,7 @@
 
 **Key Aspects:**
 
-* **Demographics:** Age, gender, location, income, education, occupation, family status, etc.  $Age \in [18, 65]$ (example range).  [[Demographics Deep Dive]]
+* **Demographics:** Age, gender, location, income, education, occupation, family status, etc.  $Age \in [18, 65$ (example range).  [[Demographics Deep Dive]]
 
 * **Psychographics:** Values, attitudes, interests, lifestyle, personality traits.  This is often more important than demographics. [[Psychographics Analysis]]
 

@@ -8,4 +8,4 @@ A novel that depicted the horrors of slavery and the cruelty of slave owners. It
 - **Deepened sectional divisions:** While the novel was met with praise in the North, it was met with anger and condemnation in the South. It further deepened the already existing divisions between the North and South, contributing to the escalation of tensions leading to the [[Civil War]].
 - **Influenced Lincoln's perspective:** [[Abraham Lincoln]] himself reportedly said to Stowe, "So you're the little woman who wrote the book that started this great war." This highlights the novel's influence on public opinion and its role in shaping the political landscape that led to the [[Civil War]]. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

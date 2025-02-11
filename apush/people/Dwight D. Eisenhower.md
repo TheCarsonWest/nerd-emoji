@@ -23,6 +23,6 @@
 * **Postwar Prosperity:** Eisenhower's presidency coincided with a period of economic growth and social stability known as the "Eisenhower Era."
 * **Cold War Containment:** Eisenhower expanded the containment policy initiated by President Truman, leading to the formation of the Southeast Asia Treaty Organization (SEATO) and the Baghdad Pact.
 * **Civil Rights:** The Civil Rights Act of 1957 marked a step towards addressing racial discrimination, but it faced strong resistance in the South.
-* **Space Race:** Eisenhower authorized the launch of the first American satellites, Explorer [[1]] and [[2]], initiating the [[United States]]' effort in the space race.
+* **Space Race:** Eisenhower authorized the launch of the first American satellites, Explorer [[1 and [[2], initiating the [[United States]]' effort in the space race.
 * **Personal Impact:** Eisenhower was widely admired for his leadership, integrity, and [[Common Sense]]. His legacy as a pragmatic and unifying president remains influential today.
 # [[APUSH people]]

@@ -24,7 +24,7 @@
 - [[Fugitive Slave Act]]
 - [[Habaes Corpus civil war]]
 - [[Harpers Ferry Raid]]
-- [[IDS Unit 4]]
+- [[IDS Unit 4]
 - [[Kansas]]-[[Nebraska Act]]
 - [[Lincoln Douglas Debates]]
 - [[Market Revolution]]

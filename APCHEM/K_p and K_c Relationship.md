@@ -1,4 +1,4 @@
-# [[Equilibrium Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]
 # Kp and Kc Relationship
 
 The relationship between $K_p$ (the equilibrium constant in terms of partial pressures) and $K_c$ (the equilibrium constant in terms of concentrations) is given by:

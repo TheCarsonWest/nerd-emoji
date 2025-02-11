@@ -32,7 +32,7 @@ person.set_age(35)  # Modifying age using setter
 print(person.get_age())
 
 try:
-    person.set_age(-[[5]])
+    person.set_age(-[[5])
 except ValueError as e:
     print(e) # Handles invalid age using error message
 ```
@@ -62,7 +62,7 @@ person.age = 35
 print(person.age)
 
 try:
-    person.age = -[[5]]
+    person.age = -[[5]
 except ValueError as e:
     print(e)
 ```

@@ -11,7 +11,7 @@ This section covers various calculations related to chemical equilibrium.  Key c
 
 **2. [[ICE Tables]]**
 
-ICE tables (Initial, Change, [[Equilibrium) are used to organize information and solve equilibrium problems.  They are essential for calculating equilibrium concentrations. ICE Table Examples]]]]
+ICE tables (Initial, Change, [[Equilibrium]]) are used to organize information and solve equilibrium problems.  They are essential for calculating equilibrium concentrations. ICE Table Examples
 
 **3. Calculating [[Equilibrium]] Concentrations**
 

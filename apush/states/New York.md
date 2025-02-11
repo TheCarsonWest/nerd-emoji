@@ -7,7 +7,7 @@
 * **1664:** English conquer New Netherland and rename it [[New York]]
 * **1776:** [[New York]] declares independence from [[Great Britain]]
 * **1789:** [[New York]] ratifies the Constitution
-* **1812:** [[New York]] is a major battleground in the [[War of 1812]]
+* **1812:** [[New York]] is a major battleground in the [[War of 1812]
 * **1825:** Opening of the Erie Canal
 * **1861:** [[New York]] joins the Union at the start of the [[Civil War]] * **1898:** [[Spanish-American War]] results in [[New York]] becoming a major port of entry for immigrants
 * **1929:** Stock market crash in [[New York]] leads to the Great Depression

@@ -37,7 +37,7 @@ Where:
 
 The Clausius-Clapeyron equation relates the [[vapor pressure]] of a liquid to its temperature and heat of vaporization:
 
-$\ln \left(\frac{P_2}{P_1}\right) = \frac{-\Delta H_{vap}}{R} \left(\frac{[[1]]}{T_2} - \frac{[[1]]}{T_1}\right)$
+$\ln \left(\frac{P_2}{P_1}\right) = \frac{-\Delta H_{vap}}{R} \left(\frac{[[1}{T_2} - \frac{[[1}{T_1}\right)$
 
 Where:
 
@@ -50,17 +50,17 @@ This equation is useful for determining the heat of vaporization if [[vapor pres
 
 ## Example Problem
 
-Calculate the heat required to vaporize 25.0 g of water at its boiling point. The molar heat of vaporization of water is 40.[[7]] kJ/mol.
+Calculate the heat required to vaporize 25.0 g of water at its boiling point. The molar heat of vaporization of water is 40.[[7] kJ/mol.
 
 **Solution:**
 
-[[1]]. **Calculate the number of moles of water:**
-   The molar mass of water is 18.02 g/mol.  Therefore, $n = \frac{25.0 \text{ g}}{18.02 \text{ g/mol}} = [[1]].39 \text{ mol}$
+[[1. **Calculate the number of moles of water:**
+   The molar mass of water is 18.02 g/mol.  Therefore, $n = \frac{25.0 \text{ g}}{18.02 \text{ g/mol}} = [[1.39 \text{ mol}$
 
-[[2]]. **Calculate the heat absorbed:**
-   $q = n \times \Delta H_{vap} = [[1]].39 \text{ mol} \times 40.[[7]] \text{ kJ/mol} = 56.[[4]] \text{ kJ}$
+[[2]. **Calculate the heat absorbed:**
+   $q = n \times \Delta H_{vap} = [[1.39 \text{ mol} \times 40.[[7] \text{ kJ/mol} = 56.[[4] \text{ kJ}$
 
-Therefore, 56.[[4]] kJ of heat is required to vaporize 25.0 g of water at its boiling point.
+Therefore, 56.[[4] kJ of heat is required to vaporize 25.0 g of water at its boiling point.
 
 
 This rundown provides a comprehensive overview of the heat of vaporization for AP Chemistry.  Remember to practice applying these concepts through various problem-solving exercises.

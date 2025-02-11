@@ -4,10 +4,10 @@ Python's scope rules determine where a variable is accessible within your code. 
 
 * **LEGB Rule:** Python uses the LEGB rule to search for a variable:
 
-    [[1]]. **L**ocal: Inside the current function or block of code.
-    [[2]]. **E**nclosing function locals: If the variable isn't found locally, Python searches the local scope of any enclosing functions. This is relevant for nested functions.
-    [[3]]. **G**lobal: Variables declared at the module level (outside any function).
-    [[4]]. **B**uilt-in: Predefined functions and constants available in Python (e.g., `len`, `print`).
+    [[1. **L**ocal: Inside the current function or block of code.
+    [[2]. **E**nclosing function locals: If the variable isn't found locally, Python searches the local scope of any enclosing functions. This is relevant for nested functions.
+    [[3]. **G**lobal: Variables declared at the module level (outside any function).
+    [[4]. **B**uilt-in: Predefined functions and constants available in Python (e.g., `len`, `print`).
 
 
 * **Example illustrating LEGB:**
@@ -32,7 +32,7 @@ print(x) # Output: 10
 * **`global` keyword:** To modify a global variable from within a function, you must use the `global` keyword:
 
 ```python
-global_var = [[5]]
+global_var = [[5]
 
 def modify_global():
     global global_var  # Declare that we are modifying the global variable
@@ -47,7 +47,7 @@ print(global_var)  # Output: 10
 
 ```python
 def outer():
-    enclosing_var = [[5]]
+    enclosing_var = [[5]
     def inner():
         nonlocal enclosing_var #Declare that we are modifying a variable in the enclosing scope
         enclosing_var = 10
@@ -68,8 +68,8 @@ def outer_function(x):
         return x + y
     return inner_function
 
-closure = outer_function([[5]])  # 'closure' now holds a reference to 'inner_function' with x=[[5]]
-result = closure([[3]])  # result will be [[5]] + [[3]] = 8
+closure = outer_function([[5])  # 'closure' now holds a reference to 'inner_function' with x=[[5]
+result = closure([[3])  # result will be [[5] + [[3] = 8
 print(result)  # Output: 8
 ```
 

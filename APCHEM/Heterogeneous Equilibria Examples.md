@@ -1,4 +1,4 @@
-# [[Equilibrium Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]
 # [[Heterogeneous Equilibria Examples]]
 
 Heterogeneous equilibria involve reactants and products in different phases.  The concentration of pure solids and liquids are essentially constant and therefore are omitted from the equilibrium expression.
@@ -36,7 +36,7 @@ Heterogeneous equilibria involve reactants and products in different phases.  Th
 
     The equilibrium between gaseous carbon dioxide and aqueous carbonic acid:
     $$CO_2(g) + H_2O(l) \rightleftharpoons H_2CO_3(aq)$$
-    The equilibrium expression would be:  $K = \frac{[H_2CO_3]}{P_{CO_2}}$.  Liquid water is omitted. [[Acid-Base Equilibria]]
+    The equilibrium expression would be:  $K = \frac{[H_2CO_3}{P_{CO_2}}$.  Liquid water is omitted. [[Acid-Base Equilibria]]
 
 
 **General Considerations:**

@@ -21,7 +21,7 @@
 * **1790:** [[Philadelphia]] becomes the temporary capital of the [[United States]].
 * **1793:** Yellow fever epidemic kills thousands in [[Philadelphia]].
 * **1800:** Federal capital moved from [[Philadelphia]] to [[Washington]], D.C.
-* **1812:** Battle of Germantown takes place outside [[Philadelphia]] during the [[War of 1812]].
+* **1812:** Battle of Germantown takes place outside [[Philadelphia]] during the [[War of 1812].
 * **1876:** Centennial Exposition held in [[Philadelphia]] to commemorate the 100th anniversary of the [[Declaration of Independence]].
 * **1947:** Marshall Plan announced at [[Harvard]] University in [[Philadelphia]].
 * **1964:** [[Philadelphia]] becomes the host city for the 1964 Democratic National Convention.

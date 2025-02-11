@@ -16,4 +16,4 @@ A devastating fire that consumed a large portion of Chicago, [[Illinois]], over 
 * **National Attention and Sympathy:** The fire captured national attention and generated widespread sympathy, leading to significant aid from across the country.  This demonstrated the growing interconnectedness of the nation.
 
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

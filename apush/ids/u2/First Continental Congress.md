@@ -1,5 +1,5 @@
 ## ID: [[First Continental Congress]] 
-## When: September [[5]] – October 26, 1774
+## When: September [[5] – October 26, 1774
 
 ## Who:
 * Delegates from twelve of the thirteen colonies ([[Georgia]] did not attend).  Represented a broad spectrum of colonial society, including merchants, lawyers, planters, and some artisans.  Key figures included Patrick Henry, [[Samuel Adams]], [[John Adams]], George [[Washington]], and Joseph Galloway.
@@ -14,4 +14,4 @@ The [[First Continental Congress]] was a meeting of delegates from twelve of the
 * **Show of Colonial Unity:**  The Congress demonstrated a significant level of intercolonial cooperation and coordination, foreshadowing the eventual move towards independence. The very act of convening represented a powerful challenge to British authority.
 * **Shift in Colonial Sentiment:** The Congress marked a crucial shift in colonial sentiment. While not initially advocating for independence, it set the stage for more radical actions in the coming years.
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

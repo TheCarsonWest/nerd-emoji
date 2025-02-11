@@ -12,7 +12,7 @@
 
 **Important Legislation:**
 
-* [[Treaty of Ghent]] (1814): Ended the [[War of 1812]] and established the northern boundary of [[Louisiana]]
+* [[Treaty of Ghent]] (1814): Ended the [[War of 1812] and established the northern boundary of [[Louisiana]]
 * [[Louisiana]] Civil Code (1825): One of the most comprehensive legal codes in the world, based on Napoleonic law
 * [[Compromise of 1850]]: Admitted [[California]] as a free state and created the [[Fugitive Slave Act]]
 

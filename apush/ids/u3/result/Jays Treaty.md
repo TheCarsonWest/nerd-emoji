@@ -19,4 +19,4 @@ A treaty resolving issues left unresolved since the end of the American Revoluti
 * **Indirectly Led to Other Agreements:** The treaty paved the way for Pinckney's Treaty (1795) with [[Spain]], which secured American access to the [[Mississippi]] River and New Orleans. It also temporarily eased tensions with Britain, although issues like impressment would continue to cause problems.
 * **Demonstrated Challenges of Neutrality:** Jay's Treaty highlighted the difficulty for the newly formed [[United States]] to remain neutral in European conflicts, a recurring theme in early American history. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit 3]

@@ -19,4 +19,4 @@ The Dred Scott decision had a profound impact on the [[United States]], signific
 * **Furthered the divide between North and South**, as Northerners saw the decision as a victory for slavery, while Southerners viewed it as a validation of their rights.
 * **Contributed to the outbreak of the [[Civil War]]** as it essentially declared that the federal government could not restrict the expansion of slavery.
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

@@ -1,4 +1,4 @@
-# [[Equilibrium Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]
 # [[Approximation Techniques]] in AP Chemistry
 
 These notes cover approximation techniques useful in solving AP Chemistry problems where exact solutions are impractical or unnecessary.  Often, we make approximations to simplify calculations and focus on the dominant factors affecting a system.

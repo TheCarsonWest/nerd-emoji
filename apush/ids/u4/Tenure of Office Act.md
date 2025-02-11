@@ -1,4 +1,4 @@
-# ID: [[Tenure of Office Act]] ## When: March [[2]], 1867 
+# ID: [[Tenure of Office Act]] ## When: March [[2], 1867 
 ## Who: 
 * **President [[Andrew Johnson]]:**  Vetoed the bill, but Congress overrode his veto. 
 * **Radical [[Republicans]]:**  Led the push for the act as part of their Reconstruction plans.
@@ -9,4 +9,4 @@ The [[Tenure of Office Act]] prohibited the president from removing any federal 
 * **Presidential Power:** The [[Tenure of Office Act]]  was a major challenge to presidential power, as it limited the ability of the president to remove officials who disagreed with his policies. 
 * **Legacy:** While repealed in 1887, the act is a significant example of the political struggles of Reconstruction and the power dynamics between the legislative and executive branches.  It also represents a key example of how Congress attempted to limit the president's power during a time of great social and political change. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

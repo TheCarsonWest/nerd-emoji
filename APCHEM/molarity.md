@@ -11,10 +11,10 @@ Molarity = Moles of Solute / Volume of Solution (in liters)
 
 #### **Example:**
 
-If you have 0.[[5]] moles of NaCl dissolved in [[2]] liters of water, the [[molarity]] of the solution is:
+If you have 0.[[5] moles of NaCl dissolved in [[2] liters of water, the [[molarity]] of the solution is:
 
 ```
-Molarity = 0.[[5]] moles / [[2]] liters = 0.25 mol/L
+Molarity = 0.[[5] moles / [[2] liters = 0.25 mol/L
 ```
 
 ### **Diluting [[AP CHEM solutions]]**
@@ -33,12 +33,12 @@ $$
 
 **Example:**
 
-If you have 500 mL of a [[1]].0 M NaCl solution and want to dilute it to a final volume of [[1]] liter, the final [[molarity]] will be:
+If you have 500 mL of a [[1.0 M NaCl solution and want to dilute it to a final volume of [[1 liter, the final [[molarity]] will be:
 
 $$
-([[1]].0 \; M)(500 \; mL) = (M_2)(1000 \; mL)
+([[1.0 \; M)(500 \; mL) = (M_2)(1000 \; mL)
 $$$$
- M_2 = 0.[[5]]\; M
+ M_2 = 0.[[5]\; M
 $$
 
 **Stoichiometry and Molarity**
@@ -47,11 +47,11 @@ Molarity can be used in stoichiometric calculations to determine the number of m
 
 **Example:**
 
-If you have 100 mL of a 0.[[1]] M HCl solution and react it with 100 mL of a 0.[[1]] M NaOH solution, the reaction will produce NaCl and water. The moles of HCl and NaOH used are:
+If you have 100 mL of a 0.[[1 M HCl solution and react it with 100 mL of a 0.[[1 M NaOH solution, the reaction will produce NaCl and water. The moles of HCl and NaOH used are:
 
 ```
-Moles of HCl = (0.[[1]] mol/L)(100 mL) = 0.01 mol
-Moles of NaOH = (0.[[1]] mol/L)(100 mL) = 0.01 mol
+Moles of HCl = (0.[[1 mol/L)(100 mL) = 0.01 mol
+Moles of NaOH = (0.[[1 mol/L)(100 mL) = 0.01 mol
 ```
 
 **Additional Notes:**

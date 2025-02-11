@@ -19,4 +19,4 @@
 * **Philanthropy:**  Donated significantly to various institutions, including libraries and universities.  However, this philanthropy was intertwined with his business interests and image building.
 * **Debate over Capitalism:**  Morgan's actions fueled debates about the nature and ethics of laissez-faire capitalism and the growing power of big business.  His methods contributed to the rise of Progressive Era reforms aiming to curb corporate power.
 
-# [[IDS Unit 5]]
+# [[IDS Unit 5]

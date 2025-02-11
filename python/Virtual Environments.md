@@ -6,7 +6,7 @@ A virtual environment is an isolated space where you can install packages withou
 
 **Creating a Virtual Environment:**
 
-The most common way is using `venv` (Python [[3]].[[3]]+):
+The most common way is using `venv` (Python [[3].[[3]+):
 
 ```bash
 python3 -m venv .venv  # Creates a virtual environment named '.venv' in the current directory
@@ -15,7 +15,7 @@ python3 -m venv .venv  # Creates a virtual environment named '.venv' in the curr
 Other tools exist, like `conda` (often used with Anaconda):
 
 ```bash
-conda create -n myenv python=[[3]].9  # Creates a conda environment named 'myenv' with Python [[3]].9
+conda create -n myenv python=[[3].9  # Creates a conda environment named 'myenv' with Python [[3].9
 ```
 
 **Activating a Virtual Environment:**

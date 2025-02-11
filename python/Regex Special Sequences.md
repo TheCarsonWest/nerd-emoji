@@ -35,7 +35,7 @@ print(f"Words: {words}")
 
 
 # Find phone number (more complex example - requires more than just special sequences)
-phone_number = re.search(r"\d{[[3]]}-\d{[[3]]}-\d{[[4]]}", text)
+phone_number = re.search(r"\d{[[3]}-\d{[[3]}-\d{[[4]}", text)
 if phone_number:
     print(f"Phone number: {phone_number.group(0)}")
 ```

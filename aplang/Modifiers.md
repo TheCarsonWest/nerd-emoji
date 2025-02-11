@@ -30,7 +30,7 @@ Misplaced or dangling modifiers can lead to unclear or humorous sentences.  Gene
 
 **Equations (Illustrative -  Not directly related to modifiers, but showing LaTeX usage):**
 
-Inline equation: The area of a circle is given by $A = \pi r^[[2]]$.
+Inline equation: The area of a circle is given by $A = \pi r^[[2]$.
 
 Block equation:
 $$

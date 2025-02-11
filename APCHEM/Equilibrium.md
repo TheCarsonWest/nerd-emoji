@@ -32,9 +32,9 @@
 * **Calculating [[Equilibrium Concentrations:**  Often involves setting up an ICE (Initial, Change, Equilibrium]]) table and solving for unknown concentrations using the equilibrium constant expression.
 
 
-[[Equilibrium Calculations]]]]
+[[Equilibrium Calculations]]
 
-[[Le Chateliers Principle Examples]]]]
+[[Le Chateliers Principle Examples]]
 
 [[Acid-Base Equilibria]]  (This will cover weak acids/bases, $K_a$, $K_b$, pH calculations, buffers, etc.)
 

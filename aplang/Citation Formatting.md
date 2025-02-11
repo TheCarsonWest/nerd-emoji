@@ -5,7 +5,7 @@ This note covers the basics of citation formatting, focusing on different styles
 
 **Key Concepts:**
 
-* **In-text citations:**  Brief references within the text, usually author-year or a numerical system.  Example: (Smith, 2023) or [[[1]]].
+* **In-text citations:**  Brief references within the text, usually author-year or a numerical system.  Example: (Smith, 2023) or [[1].
 * **Bibliography/Works Cited/References:** A complete list of all cited sources at the end of the document.  This list should be consistent with the in-text citations.
 * **Citation Style Guides:**  Sets of rules for formatting citations.  Different fields (e.g., humanities, sciences) often have preferred styles.  Examples: APA, MLA, Chicago.
 
@@ -19,8 +19,8 @@ This note covers the basics of citation formatting, focusing on different styles
 
 **Basic In-Text Citation Structures:**
 
-* **Author-Year (e.g., APA):**  (Author's Last Name, Year).  For multiple authors: (Author [[1]] & Author [[2]], Year) or (Author [[1]] et al., Year) for more than two.
-* **Numerical (e.g., some scientific journals):**  A number corresponding to the entry in the bibliography.  Example: [[[1]]].
+* **Author-Year (e.g., APA):**  (Author's Last Name, Year).  For multiple authors: (Author [[1 & Author [[2], Year) or (Author [[1 et al., Year) for more than two.
+* **Numerical (e.g., some scientific journals):**  A number corresponding to the entry in the bibliography.  Example: [[1].
 
 **Bibliography Entry Elements:**
 

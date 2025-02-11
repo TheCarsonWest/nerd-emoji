@@ -10,11 +10,11 @@ def my_function(param1, param2):
   return result
 
 # Calling the function
-output = my_function([[5]], [[3]]) 
+output = my_function([[5], [[3]) 
 print(output)  # Output: 8
 ```
 
-* **Parameters and Arguments:**  `param1` and `param2` are parameters.  When you call the function, you provide arguments (e.g., `[[5]]` and `[[3]]`).
+* **Parameters and Arguments:**  `param1` and `param2` are parameters.  When you call the function, you provide arguments (e.g., `[[5]` and `[[3]`).
 
 * **Return Value:** The `return` statement specifies the value the function sends back.  If no `return` statement is present, the function implicitly returns `None`.
 

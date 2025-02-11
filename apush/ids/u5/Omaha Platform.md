@@ -1,6 +1,6 @@
 ## ID: [[Omaha Platform]]
 
-## When: July [[4]], 1892
+## When: July [[4], 1892
 
 ## Who:
 * **[[Populist Party]]:**  The platform was drafted and adopted by the People's Party ([[Populists]]) at their national convention in Omaha, [[Nebraska]].  Key figures included Ignatius Donnelly, Mary Elizabeth Lease, and James B. Weaver.
@@ -23,4 +23,4 @@ The [[Omaha Platform]] was the political platform of the [[Populist Party]], out
 * **Increased farmer political engagement:**  The platform mobilized farmers and agricultural workers, resulting in increased political participation and advocacy for their concerns.
 * **Limited electoral success (initially):** While the [[Populist Party]] failed to win the presidency, the [[Omaha Platform]] significantly influenced the political discourse of the time and laid the groundwork for future reform efforts.  The party's influence would wane, but many of its ideas gained wider acceptance.
 
-# [[IDS Unit 5]]
+# [[IDS Unit 5]

@@ -4,7 +4,7 @@
 ## Types of [[Azeotropes]] 
 There are two main types:
 
-* **Minimum-boiling azeotropes:** These boil at a lower temperature than either of their pure components.  The [[intermolecular forces]] between the components are weaker than those within the pure components, leading to a lower boiling point.  An example is ethanol and water (95.[[6]]% ethanol).
+* **Minimum-boiling azeotropes:** These boil at a lower temperature than either of their pure components.  The [[intermolecular forces]] between the components are weaker than those within the pure components, leading to a lower boiling point.  An example is ethanol and water (95.[[6]% ethanol).
 
 * **Maximum-boiling azeotropes:** These boil at a higher temperature than either of their pure components.  Stronger [[intermolecular forces]] between the components than within the pure components result in a higher boiling point.  An example is hydrochloric acid and water.
 

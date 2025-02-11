@@ -1,4 +1,4 @@
-# [[Equilibrium Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]
 # [[ICE Table Examples]]
 
 ICE tables are used to solve equilibrium problems.  They stand for **I**nitial, **C**hange, **E**quilibrium.
@@ -32,14 +32,14 @@ Let's say we start with 1.0 M $N_2$ and 1.5 M $H_2$, and the equilibrium constan
 
 We can now write the expression for $K_c$:
 
-$K_c = \frac{[NH_3]^2}{[N_2][H_2]^3} = \frac{(2x)^2}{(1.0 - x)(1.5 - 3x)^3} = 0.50$
+$K_c = \frac{[NH_3^2}{[N_2[H_2^3} = \frac{(2x)^2}{(1.0 - x)(1.5 - 3x)^3} = 0.50$
 
 This equation can be solved for $x$ (often requiring the quadratic formula or approximation methods). Once $x$ is found, the equilibrium concentrations can be calculated.
 
 
 **Example 2:  [[Equilibrium]] with an Initial Product Concentration**
 
-([[Equilibrium Constant Calculations]]]])
+([[Equilibrium Constant Calculations]])
 
 **Example 3:  Weak Acid/Base Equilibria**
 

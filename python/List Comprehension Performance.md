@@ -11,16 +11,16 @@ import time
 
 # Using a for loop
 start_time = time.time()
-my_list = []
+my_list = 1
 for i in range(1000000):
-  my_list.append(i*[[2]])
+  my_list.append(i*[[2])
 end_time = time.time()
 print(f"For loop time: {end_time - start_time:.4f} seconds")
 
 
 # Using list comprehension
 start_time = time.time()
-my_list = [i*[[2]] for i in range(1000000)]
+my_list = [i*[[2] for i in range(1000000)]
 end_time = time.time()
 print(f"List comprehension time: {end_time - start_time:.4f} seconds")
 ```

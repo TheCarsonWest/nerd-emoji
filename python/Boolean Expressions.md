@@ -28,12 +28,12 @@ Boolean expressions are expressions that evaluate to either `True` or `False`.  
 
 ```python
 x = 10
-y = [[5]]
+y = [[5]
 
 print(x > y)  # Output: True
 print(x == y)  # Output: False
-print(x > [[5]] and y < 10) # Output: True
-print(x < [[5]] or y > 10) # Output: False
+print(x > [[5] and y < 10) # Output: True
+print(x < [[5] or y > 10) # Output: False
 print(not (x == y)) # Output: True
 print(x in [10, 20, 30]) #Output: True
 print(x is y) #Output: False

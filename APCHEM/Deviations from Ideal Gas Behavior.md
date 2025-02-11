@@ -11,4 +11,4 @@
 - Since the ideal gasses don't attract each other, they give off much more pressure
 - You need to correct this by adding back to the pressure
 # [[Van der Waals Gas Equation]]
-# $$\left[ P+\frac{an^[[2]]}{V^[[2]]}\right]\left[V-nb\right]=nRT$$
+# $$\left[ P+\frac{an^[[2]}{V^[[2]}\right]\left[V-nb\right]=nRT$$

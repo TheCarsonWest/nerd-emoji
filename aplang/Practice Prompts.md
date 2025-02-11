@@ -21,7 +21,7 @@ These notes are for brainstorming and organizing practice prompts.
 **Examples of Prompts:**
 
 * **Essay:**  Discuss the impact of social media on political discourse.
-* **Short Answer:** Explain the significance of the $E=mc^[[2]]$ equation.
+* **Short Answer:** Explain the significance of the $E=mc^[[2]$ equation.
 * **Multiple Choice:** Which of the following is a primary source for studying the American [[Civil War]]?
     * a) A textbook on the [[Civil War]]
     * b) A letter written by a soldier during the [[Civil War]]
@@ -35,7 +35,7 @@ These notes are for brainstorming and organizing practice prompts.
 
 We should create templates to make prompt generation more efficient. For example:
 
-* **Compare/Contrast Template:**  Compare and contrast [Concept A] and [Concept B] in terms of [Aspect [[1]]], [Aspect [[2]]], and [Aspect [[3]]].
+* **Compare/Contrast Template:**  Compare and contrast [Concept A] and [Concept B] in terms of [Aspect [[1], [Aspect [[2]], and [Aspect [[3]].
 * **Problem-Solving Template:**  The community of [Location] is facing the challenge of [Problem].  Propose three solutions and analyze their potential benefits and drawbacks.
 
 

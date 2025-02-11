@@ -33,10 +33,10 @@ Notes on comma usage.
 
 **Equations (Illustrative, not directly related to commas):**
 
-The equation for the area of a circle is:  $A = \pi r^[[2]]$
+The equation for the area of a circle is:  $A = \pi r^[[2]$
 
 The quadratic formula is:
-## $$x = \frac{-b \pm \sqrt{b^[[2]] - 4ac}}{2a}$$
+## $$x = \frac{-b \pm \sqrt{b^[[2] - 4ac}}{2a}$$
 
 
 [[Further comma rules]]

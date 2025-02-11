@@ -9,4 +9,4 @@ Declared the [[United States]]' official neutrality in the conflict between [[Gr
 -  Angered pro-French Democratic-[[Republicans]] who felt obligated to help [[France]], leading to increased political partisanship between the Federalists and Democratic-[[Republicans]].
 -  Contributed to strained relations with [[France]], ultimately leading to the Quasi-War (an undeclared naval war) between 1798 and 1800. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit 3]

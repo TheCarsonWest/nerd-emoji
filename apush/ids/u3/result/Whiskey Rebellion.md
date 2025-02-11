@@ -14,4 +14,4 @@ Uprising in response to a federal excise tax on whiskey, enacted in 1791 to gene
 * **Highlighted Sectional Tensions:**  Exposed growing divisions between the more urban, pro-industry East and the agrarian West, foreshadowing future conflicts.
 * **Contributed to Political Party Formation:**  The government's response fueled the development of the first party system, with Federalists supporting the tax and Democratic-[[Republicans]] sympathizing with the rebels. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit 3]

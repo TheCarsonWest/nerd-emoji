@@ -14,19 +14,19 @@
 * **1951:** Denver becomes a major center for the aerospace industry.
 * **1960s-1970s:** [[Colorado]] experiences rapid population growth and economic development.
 * **1980:** Denver hosts the Democratic National Convention.
-* **1992:** [[Colorado]] Amendment [[2]] passed, banning anti-discrimination laws based on sexual orientation.
-* **2000:** [[Colorado]] Supreme Court strikes down Amendment [[2]].
+* **1992:** [[Colorado]] Amendment [[2] passed, banning anti-discrimination laws based on sexual orientation.
+* **2000:** [[Colorado]] Supreme Court strikes down Amendment [[2].
 * **2012:** [[Colorado]] becomes the first state to legalize recreational marijuana.
 
 **Important Legislation:**
 
 * **1876 [[Colorado]] Constitution:** Granted women the right to vote, making [[Colorado]] the first state to do so.
-* **Amendment [[2]] (1992):** Banned anti-discrimination laws based on sexual orientation.
+* **Amendment [[2] (1992):** Banned anti-discrimination laws based on sexual orientation.
 * **[[Colorado]] Amendment 64 (2012):** Legalized recreational marijuana.
 
 **Important Court Cases:**
 
-* **Evans v. Romer (1996):** The Supreme Court ruled that Amendment [[2]] violated the Equal Protection Clause of the [[14th amendment]].
+* **Evans v. Romer (1996):** The Supreme Court ruled that Amendment [[2] violated the Equal Protection Clause of the [[14th amendment]].
 
 **Major Industry:**
 

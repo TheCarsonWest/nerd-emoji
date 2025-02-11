@@ -1,5 +1,5 @@
 ## ID: [[Election of 1860]] 
-## When: November [[6]], 1860
+## When: November [[6], 1860
 
 ## Who:
 * **[[Abraham Lincoln]] (Republican)** -  Won the election despite not being on the ballot in all states.
@@ -16,4 +16,4 @@ A highly contested presidential election that marked a turning point in the grow
 * **End of Slavery:** The [[Civil War]] ultimately led to the abolition of slavery in the [[United States]], transforming the social, economic, and political landscape.
 * **Transformation of the US:** The election and its aftermath marked a dramatic shift in American politics and society, highlighting the deep divisions over slavery and the struggle for national unity. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

@@ -4,22 +4,22 @@
 **Creating [[Lists]]:**
 
 ```python
-my_list = [[[1]], [[2]], "hello", [[3]].14, True]
-empty_list = []
+my_list = [[1, [[2], "hello", [[3].14, True]
+empty_list = 1
 ```
 
 **Accessing Elements:**
  [[Lists]] are zero-indexed.
 
 ```python
-first_element = my_list[0]  # [[1]]
-last_element = my_list[-[[1]]] # True
+first_element = my_list[0]  # [[1
+last_element = my_list[-[[1] # True
 ```
 
 **Slicing:**
 
 ```python
-sub_list = my_list[[[1]]:[[4]]]  # [[[2]], "hello", [[3]].14] (exclusive of upper bound)
+sub_list = my_list[[1:[[4]]  # [[2], "hello", [[3].14 (exclusive of upper bound)
 ```
 
 **Methods:**
@@ -36,8 +36,8 @@ sub_list = my_list[[[1]]:[[4]]]  # [[[2]], "hello", [[3]].14] (exclusive of uppe
 * `extend(iterable)`: Extends the list by appending elements from another iterable.
 
 ```python
-my_list.append([[5]])
-my_list.insert([[2]], "world")
+my_list.append([[5])
+my_list.insert([[2], "world")
 my_list.remove("hello")
 print(my_list)  # Output will depend on previous operations.
 ```

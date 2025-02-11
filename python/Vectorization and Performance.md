@@ -20,9 +20,9 @@ Vectorization is a powerful technique in Python (especially when working with [[
    my_list = list(range(1000000))
 
    start_time = time.time()
-   squared_list = []
+   squared_list = 1
    for x in my_list:
-       squared_list.append(x**[[2]])
+       squared_list.append(x**[[2])
    end_time = time.time()
    print(f"Iterative time: {end_time - start_time:.4f} seconds")
    ```
@@ -36,7 +36,7 @@ Vectorization is a powerful technique in Python (especially when working with [[
    my_array = np.arange(1000000)
 
    start_time = time.time()
-   squared_array = my_array**[[2]]
+   squared_array = my_array**[[2]
    end_time = time.time()
    print(f"Vectorized time: {end_time - start_time:.4f} seconds")
    ```

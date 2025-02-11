@@ -1,6 +1,6 @@
 ## ID: Interstate Commerce Act
 
-## When: February [[4]], 1887
+## When: February [[4], 1887
 
 ## Who:
 * **Congress:** Passed the act.
@@ -19,4 +19,4 @@ The Interstate Commerce Act established the Interstate Commerce Commission (ICC)
 * **Legal Battles and Refinements:** The ICC's effectiveness improved over time through legal challenges, court rulings, and amendments to the act.  It laid the groundwork for future federal regulatory efforts.
 * **Shift in Power Dynamics:** Represented a shift in the balance of power between large corporations and the government, though the shift was gradual and contested.
 
-# [[IDS Unit 5]]
+# [[IDS Unit 5]

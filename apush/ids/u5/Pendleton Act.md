@@ -18,4 +18,4 @@ Established the [[United States]] Civil Service Commission, which introduced a m
 * **Limited Impact Initially:** While impactful, the Act initially only covered a small percentage of federal jobs; its reach expanded over time.
 * **Long-Term Effects:** Laid the groundwork for a more modern, merit-based civil service system in the [[United States]].
 
-# [[IDS Unit 5]]
+# [[IDS Unit 5]

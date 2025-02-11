@@ -21,13 +21,13 @@ for fruit in my_list:
 **Example with a range:**
 
 ```python
-for i in range([[5]]):  # iterates from 0 to [[4]]
+for i in range([[5]):  # iterates from 0 to [[4]
     print(i)
 
-for i in range([[1]],[[6]]): #iterates from [[1]] to [[5]]
+for i in range([[1,[[6]): #iterates from [[1 to [[5]
     print(i)
 
-for i in range([[1]],10,[[2]]): #iterates from [[1]] to 9 stepping by [[2]]
+for i in range([[1,10,[[2]): #iterates from [[1 to 9 stepping by [[2]
     print(i)
 
 ```
@@ -43,7 +43,7 @@ for char in my_string:
 **Iterating through dictionaries:**
 
 ```python
-my_dict = {"a": [[1]], "b": [[2]], "c": [[3]]}
+my_dict = {"a": [[1, "b": [[2], "c": [[3]}
 for key in my_dict:  # iterates through keys
     print(key, my_dict[key])
 
@@ -54,8 +54,8 @@ for key, value in my_dict.items(): #iterates through key-value pairs
 **Nested Loops:**
 
 ```python
-for i in range([[3]]):
-    for j in range([[2]]):
+for i in range([[3]):
+    for j in range([[2]):
         print(f"i = {i}, j = {j}")
 ```
 
@@ -68,8 +68,8 @@ for i in range([[3]]):
 **Example with `break`:**
 
 ```python
-for i in range([[5]]):
-    if i == [[3]]:
+for i in range([[5]):
+    if i == [[3]:
         break
     print(i)
 ```
@@ -77,8 +77,8 @@ for i in range([[5]]):
 **Example with `continue`:**
 
 ```python
-for i in range([[5]]):
-    if i == [[3]]:
+for i in range([[5]):
+    if i == [[3]:
         continue
     print(i)
 ```

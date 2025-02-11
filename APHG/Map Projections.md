@@ -1,6 +1,6 @@
 # [[APHG Home]]
 
-There are [[4]] common map projections. they are all distorted
+There are [[4] common map projections. they are all distorted
 ## [[Map Distortions]]
 # [[Map Types]]
 ## Robinson 

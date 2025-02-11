@@ -17,4 +17,4 @@
 * **Political Polarization:** The debates further divided the nation along sectional lines, strengthening the Republican Party's anti-slavery stance and solidifying the [[Democrats]]'s support for states' rights and [[popular sovereignty]].
 * **Lincoln's National Rise:** Despite losing the Senate election, the debates established Lincoln as a national figure and helped pave the way for his presidential victory in 1860. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

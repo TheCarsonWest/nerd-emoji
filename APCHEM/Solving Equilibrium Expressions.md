@@ -1,4 +1,4 @@
-# [[Equilibrium Constant Calculations]]]]
+# [[Equilibrium Constant Calculations]]
 # Solving [[Equilibrium]] Expressions
 
 This note covers solving equilibrium expressions, focusing on different scenarios and problem-solving strategies.  It assumes familiarity with writing equilibrium expressions.  If not, refer to [[Equilibrium Expressions]].

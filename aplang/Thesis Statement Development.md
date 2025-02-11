@@ -14,11 +14,11 @@
 
 **Formulating a Thesis Statement:**
 
-[[1]]. **Brainstorming:** [[Brainstorming Techniques]]
-[[2]]. **Identifying the main argument:** What is the central point you want to make?
-[[3]]. **Developing a working thesis:** Start with a preliminary statement and refine it as you research and write.
-[[4]]. **Refining the thesis:** Ensure clarity, focus, and arguability. Consider using the "because" method to state your claim and your reason for supporting it:  *Claim* because *reason*.  For example: "Shakespeare's Hamlet is a tragedy because of the protagonist's indecisiveness and the overwhelming forces of fate."
-[[5]]. **Testing the thesis:** Does it address the prompt? Can it be supported with evidence?  Will it guide the development of your paper?
+[[1. **Brainstorming:** [[Brainstorming Techniques]]
+[[2]. **Identifying the main argument:** What is the central point you want to make?
+[[3]. **Developing a working thesis:** Start with a preliminary statement and refine it as you research and write.
+[[4]. **Refining the thesis:** Ensure clarity, focus, and arguability. Consider using the "because" method to state your claim and your reason for supporting it:  *Claim* because *reason*.  For example: "Shakespeare's Hamlet is a tragedy because of the protagonist's indecisiveness and the overwhelming forces of fate."
+[[5]. **Testing the thesis:** Does it address the prompt? Can it be supported with evidence?  Will it guide the development of your paper?
 
 
 **Types of Thesis Statements:**

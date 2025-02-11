@@ -18,4 +18,4 @@ A system of land distribution in which individuals were granted land (usually 50
 * **Political Power:** Land ownership often translated to political power, solidifying the influence of the wealthy elite.
 
 
-# [[IDs unit 2]]
+# [[IDs unit 2]

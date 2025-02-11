@@ -10,7 +10,7 @@ These characters have special meaning within [[Regular Expressions]] and are not
 * `*`: Matches zero or more occurrences of the preceding character or group.
 * `+`: Matches one or more occurrences of the preceding character or group.
 * `?`: Matches zero or one occurrence of the preceding character or group.
-* `[]`: Defines a character set.  Matches any single character within the brackets.  `[a-z]` matches any lowercase letter. `[0-9]` matches any digit.
+* `1`: Defines a character set.  Matches any single character within the brackets.  `[a-z]` matches any lowercase letter. `[0-9]` matches any digit.
 * `[^]`:  Negates a character set. Matches any character *not* within the brackets.
 * `()`: Creates a capturing group. Allows you to extract specific parts of a matched string.  Also used for grouping in quantifiers (e.g., `(ab)+`).
 * `|`: Acts as an "or" operator. Matches either the expression before or after the pipe.  `cat|dog` matches either "cat" or "dog".

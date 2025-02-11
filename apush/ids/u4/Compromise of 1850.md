@@ -25,4 +25,4 @@ The [[Compromise of 1850]] temporarily quelled the growing sectional tensions th
 * **Rise of sectional parties:** The compromise led to the formation of the Free Soil Party in the North and the Know-Nothing Party, which opposed the influx of immigrants from Catholic countries.
 * **Contributed to the outbreak of the [[Civil War]]:** The [[Compromise of 1850]] ultimately failed to prevent the [[Civil War]], as the issue of slavery remained unresolved. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

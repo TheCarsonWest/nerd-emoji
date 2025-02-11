@@ -26,7 +26,7 @@
 
 **V. Structuring an Argument:**
 
-* **Linear:** Premise [[1]], Premise [[2]], ... Conclusion.  Simple, direct.
+* **Linear:** Premise [[1, Premise [[2], ... Conclusion.  Simple, direct.
 * **Convergent:** Multiple independent premises support the conclusion.  Stronger than linear.
 * **Chain:** Conclusion of one argument becomes premise of the next.
 * **Complex:** Combinations of the above.

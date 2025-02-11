@@ -6,7 +6,7 @@ Python functions can return values using the `return` statement.  The returned v
 def add(x, y):
   return x + y
 
-result = add([[5]], [[3]])
+result = add([[5], [[3])
 print(result)  # Output: 8
 
 def greet(name):

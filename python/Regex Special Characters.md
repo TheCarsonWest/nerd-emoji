@@ -16,7 +16,7 @@ These notes cover special characters used in [[Regular Expressions]] within Pyth
 
 * **`?` (Question Mark):** Matches zero or one occurrence of the preceding character or group.
 
-* **`[]` (Square Brackets):** Defines a character set.  e.g., `[abc]` matches 'a', 'b', or 'c'.  Ranges are possible: `[a-z]` matches any lowercase letter.  `[^abc]` negates the set (matches anything *except* a, b, or c).
+* **`1` (Square Brackets):** Defines a character set.  e.g., `[abc]` matches 'a', 'b', or 'c'.  Ranges are possible: `[a-z]` matches any lowercase letter.  `[^abc]` negates the set (matches anything *except* a, b, or c).
 
 * **`()` (Parentheses):** Creates a capturing group.  Used for extracting specific parts of a matched string.  Also useful for grouping parts of the regex for applying quantifiers.
 

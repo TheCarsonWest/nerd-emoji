@@ -54,9 +54,9 @@ Example:  The study's findings support the hypothesis that... (Smith et al., 202
 
 ##  Mathematical Formula Integration (Example)
 
-Suppose we have a function $f(x) = x^[[2]]$.  The integral of this function from $a$ to $b$ is given by:
+Suppose we have a function $f(x) = x^[[2]$.  The integral of this function from $a$ to $b$ is given by:
 
-$$ \int_a^b x^[[2]] dx = \left[ \frac{x^[[3]]}{[[3]]} \right]_a^b = \frac{b^[[3]]}{[[3]]} - \frac{a^[[3]]}{[[3]]} $$
+$$ \int_a^b x^[[2] dx = \left[ \frac{x^[[3]}{[[3]} \right]_a^b = \frac{b^[[3]}{[[3]} - \frac{a^[[3]}{[[3]} $$
 
 This needs to be cited if taken from a source.  Remember to cite the source of the formula if it's not common knowledge.  [[Mathematical Citation]]
 

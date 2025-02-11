@@ -27,8 +27,8 @@ The overall reaction order is the sum of the individual orders (m + n).  The rea
 * **Zero Order:**  The rate is independent of the reactant's concentration.  If [A] doubles, the rate stays the same.
 * **First Order:** The rate is directly proportional to the reactant's concentration. If [A] doubles, the rate doubles.
 * **Second Order:** The rate is proportional to the square of the reactant's concentration.  If [A] doubles, the rate quadruples.
-![](https://i.ytimg.com/vi/7I0Xg92_eA4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQ4AEMO0Ml8RjsNs9lov04Ob_SBQ)
-![](https://www.chadsprep.com/wp-content/uploads/2020/02/2nd-Order-Integrated-Rate-Law-Plots.png)
+!1(https://i.ytimg.com/vi/7I0Xg92_eA4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQ4AEMO0Ml8RjsNs9lov04Ob_SBQ)
+!1(https://www.chadsprep.com/wp-content/uploads/2020/02/2nd-Order-Integrated-Rate-Law-Plots.png)
 
 
 ## Determining [[Rate Laws]] 
@@ -63,9 +63,9 @@ The following data were collected for the reaction:  A + B → C
 
 | Experiment | [A] (M) | [B] (M) | Initial Rate (M/s) |
 |---|---|---|---|
-| [[1]] | 0.10 | 0.10 | [[1]].0 x 10⁻⁴ |
-| [[2]] | 0.20 | 0.10 | [[4]].0 x 10⁻⁴ |
-| [[3]] | 0.10 | 0.20 | [[2]].0 x 10⁻⁴ |
+| [[1 | 0.10 | 0.10 | [[1.0 x 10⁻⁴ |
+| [[2] | 0.20 | 0.10 | [[4].0 x 10⁻⁴ |
+| [[3] | 0.10 | 0.20 | [[2].0 x 10⁻⁴ |
 
 
 Determine the rate law for this reaction, including the value of the rate constant, *k*.
@@ -73,35 +73,35 @@ Determine the rate law for this reaction, including the value of the rate consta
 
 **Solution:**
 
-**[[1]]. Determine the order with respect to A:**
+**[[1. Determine the order with respect to A:**
 
-Compare experiments [[1]] and [[2]], where [B] is constant but [A] doubles:
+Compare experiments [[1 and [[2], where [B] is constant but [A] doubles:
 
-* The rate increases by a factor of [[4]] ([[4]].0 x 10⁻⁴ / [[1]].0 x 10⁻⁴ = [[4]]).
-* Since the rate quadruples when [A] doubles, the reaction is second order with respect to A (2² = [[4]]).
+* The rate increases by a factor of [[4] ([[4].0 x 10⁻⁴ / [[1.0 x 10⁻⁴ = [[4]).
+* Since the rate quadruples when [A] doubles, the reaction is second order with respect to A (2² = [[4]).
 
-**[[2]]. Determine the order with respect to B:**
+**[[2]. Determine the order with respect to B:**
 
-Compare experiments [[1]] and [[3]], where [A] is constant but [B] doubles:
+Compare experiments [[1 and [[3], where [A] is constant but [B] doubles:
 
-* The rate increases by a factor of [[2]] ([[2]].0 x 10⁻⁴ / [[1]].0 x 10⁻⁴ = [[2]]).
+* The rate increases by a factor of [[2] ([[2].0 x 10⁻⁴ / [[1.0 x 10⁻⁴ = [[2]).
 * Since the rate doubles when [B] doubles, the reaction is first order with respect to B.
 
-**[[3]]. Write the rate law:**
+**[[3]. Write the rate law:**
 
 The rate law is:  Rate = k[A]²[B]¹  or simply Rate = k[A]²[B]
 
-**[[4]]. Determine the value of the rate constant, k:**
+**[[4]. Determine the value of the rate constant, k:**
 
-Use the data from any experiment to solve for k. Let's use experiment [[1]]:
+Use the data from any experiment to solve for k. Let's use experiment [[1:
 
-[[1]].0 x 10⁻⁴ M/s = k (0.10 M)² (0.10 M)
+[[1.0 x 10⁻⁴ M/s = k (0.10 M)² (0.10 M)
 
-k = ([[1]].0 x 10⁻⁴ M/s) / (0.001 M³) = 0.[[1]] M⁻²s⁻¹
+k = ([[1.0 x 10⁻⁴ M/s) / (0.001 M³) = 0.[[1 M⁻²s⁻¹
 
-**[[5]]. Final Answer:**
+**[[5]. Final Answer:**
 
-The rate law for the reaction is:  Rate = 0.[[1]] M⁻²s⁻¹ [A]²[B]
+The rate law for the reaction is:  Rate = 0.[[1 M⁻²s⁻¹ [A]²[B]
 
 
 # Elementary Reactions

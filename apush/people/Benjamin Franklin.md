@@ -11,7 +11,7 @@
 
 * [[Declaration of Independence]]
 * [[Articles of Confederation]]
-* [[Treaty of Paris 1776]] (1783)
+* [[Treaty of Paris 1776] (1783)
 * [[Constitution of the United States]]
 * Poor Richard's Almanac
 

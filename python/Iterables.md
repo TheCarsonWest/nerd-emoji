@@ -10,11 +10,11 @@ An iterable is an object that can be iterated upon, meaning you can traverse thr
 
 **Examples:**
 
-* [[Lists]]: `my_list = [[[1]], [[2]], [[3]]]`
-* [[Tuples]]: `my_tuple = ([[1]], [[2]], [[3]])`
+* [[Lists]]: `my_list = [[1, [[2], [[3]]`
+* [[Tuples]]: `my_tuple = ([[1, [[2], [[3])`
 * Strings: `my_string = "abc"`
-* Sets: `my_set = {[[1]], [[2]], [[3]]}`
-* [[Dictionaries]] (keys or values): `my_dict = {"a": [[1]], "b": [[2]]}`
+* Sets: `my_set = {[[1, [[2], [[3]}`
+* [[Dictionaries]] (keys or values): `my_dict = {"a": [[1, "b": [[2]}`
 * [[Generators]]:  These are special iterable objects that generate values on demand.
 
 ```python
@@ -28,7 +28,7 @@ def my_generator(n):
     for i in range(n):
         yield i
 
-for i in my_generator([[5]]): #my_generator implicitly creates an iterator
+for i in my_generator([[5]): #my_generator implicitly creates an iterator
     print(i)
 
 # Manually creating and using an iterator

@@ -22,7 +22,7 @@ Amphoteric substances can act as both acids and bases.  This means they can dona
 * **With Bases:** An amphoteric substance acts as an acid, donating a proton. For example: $Al(OH)_3(s) + NaOH(aq) \rightarrow NaAl(OH)_4(aq)$
 
 
-[[Acid-Base Reactions  Brønsted-Lowry Theory]]]] Conjugate Acid-Base Pairs]]]]
+[[Acid-Base Reactions  Brønsted-Lowry Theory]] Conjugate Acid-Base Pairs]]
 
 **Further points to consider:**
 

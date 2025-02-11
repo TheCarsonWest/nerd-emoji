@@ -33,9 +33,9 @@ $2x = 0.6 M$  $\implies x = 0.3 M$
 
 Therefore, the equilibrium concentrations are:
 
-$[N_2] = 1.0 - 0.3 = 0.7 M$
-$[H_2] = 1.5 - 3(0.3) = 0.6 M$
-$[NH_3] = 0.6 M$
+$[N_2 = 1.0 - 0.3 = 0.7 M$
+$[H_2 = 1.5 - 3(0.3) = 0.6 M$
+$[NH_3 = 0.6 M$
 
 
 **Important Considerations:**
@@ -43,10 +43,10 @@ $[NH_3] = 0.6 M$
 *   The stoichiometric coefficients are crucial in determining the changes in concentration.
 *   The change in concentration is always negative for reactants and positive for products.
 *   The equilibrium constant ($K$) expression can be used to solve for unknown values in the ICE table. [[Equilibrium Constants]]
-*   For problems involving small $K$ values, we can often use approximations to simplify the calculations. [[Approximations in Equilibrium Calculations]]]]
+*   For problems involving small $K$ values, we can often use approximations to simplify the calculations. [[Approximations in Equilibrium Calculations]]
 
 
-[[Equilibrium Calculations]]]]
+[[Equilibrium Calculations]]
 [[Le Chateliers Principle]]
 
 

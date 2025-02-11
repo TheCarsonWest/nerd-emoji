@@ -39,7 +39,7 @@ These notes outline strategies for revising and editing written work.  The proce
 
 **Equations (Examples):**
 
-The ideal word count can be approximated using this formula:  $WordCount_{ideal} =  BaseWordCount \times ([[1]] + \alpha \times Difficulty)$ where $\alpha$ is a difficulty coefficient.
+The ideal word count can be approximated using this formula:  $WordCount_{ideal} =  BaseWordCount \times ([[1 + \alpha \times Difficulty)$ where $\alpha$ is a difficulty coefficient.
 
 The efficiency of the editing process can be modeled (though simplistically):
 $$Efficiency = \frac{Errors_{Initial} - Errors_{Final}}{Time_{Spent}}$$

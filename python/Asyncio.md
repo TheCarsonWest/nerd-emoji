@@ -12,7 +12,7 @@ import asyncio
 
 async def my_coroutine():
     print("Coroutine started")
-    await asyncio.sleep([[1]])  # Simulate an I/O operation
+    await asyncio.sleep([[1)  # Simulate an I/O operation
     print("Coroutine finished")
 
 async def main():
@@ -28,7 +28,7 @@ asyncio.run(main())
 ```python
 async def fetch_data():
     # Simulate fetching data from a network resource
-    await asyncio.sleep([[2]])
+    await asyncio.sleep([[2])
     return "Data fetched!"
 
 async def main():
@@ -62,12 +62,12 @@ asyncio.run(main())
 
 ```python
 async def coroutine1():
-    await asyncio.sleep([[1]])
-    return [[1]]
+    await asyncio.sleep([[1)
+    return [[1
 
 async def coroutine2():
-    await asyncio.sleep([[2]])
-    return [[2]]
+    await asyncio.sleep([[2])
+    return [[2]
 
 async def main():
   results = await asyncio.gather(coroutine1(), coroutine2())

@@ -22,4 +22,4 @@ A political party representing the interests of farmers and laborers in the [[Un
 * **Rise of Bryan:** William Jennings Bryan's campaign for president in 1896, representing the [[Populists]] and [[Democrats]], energized the movement and brought national attention to their concerns.  Even in defeat, it significantly changed political discourse.
 * **Decline:** The [[Populist Party]] gradually faded after the 1896 election, but its legacy lives on in the progressive reforms of the early 20th century.
 
-# [[IDS Unit 5]]
+# [[IDS Unit 5]

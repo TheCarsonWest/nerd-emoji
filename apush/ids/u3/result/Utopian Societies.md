@@ -15,4 +15,4 @@ Various groups and individuals, including:
 * **Reflection of Antebellum Reform Era:** Demonstrated the spirit of reform and experimentation that characterized the period before the [[Civil War]].
 * **Highlight Tensions:** Their failures often exposed the difficulties of achieving social perfection and the tensions between individual desires and communal goals. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit 3]

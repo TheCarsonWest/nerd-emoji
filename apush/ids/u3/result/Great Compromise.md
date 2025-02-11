@@ -11,7 +11,7 @@ A major compromise reached during the [[Constitutional Convention]]|[[Constituti
 **Key Features of the Compromise:**
 
 * **Bicameral Legislature:**  Created a two-house Congress:
-    * **Senate:** Each state would have equal representation ([[2]] senators per state).
+    * **Senate:** Each state would have equal representation ([[2] senators per state).
     * **House of Representatives:** Representation would be based on the population of each state. 
 
 ## Impact? Why Significant?: 
@@ -20,4 +20,4 @@ A major compromise reached during the [[Constitutional Convention]]|[[Constituti
 * **Balance of Power:** It established a balance of power between larger and smaller states, ensuring that both had a voice in the federal government. This balance remains a key characteristic of American democracy. 
 * **Legacy of Compromise:** The [[Great Compromise]] demonstrated the importance of compromise in a democracy and set a precedent for resolving future conflicts through negotiation. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit 3]

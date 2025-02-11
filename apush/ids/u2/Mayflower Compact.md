@@ -15,4 +15,4 @@ A social contract signed by 41 male Pilgrims aboard the Mayflower before landing
 * **Religious Motivation:**  While establishing a civil government, the compact was underpinned by the Pilgrims' strong religious beliefs and their desire to create a godly society in the New World.
 
 
-# [[IDS Unit 1]]
+# [[IDS Unit 1

@@ -12,4 +12,4 @@
 * **Muckraking Journalism:**  "[[How the Other Half Lives]]" is considered a seminal work of muckraking journalism, a style that aimed to expose social ills and corruption.  It established a powerful model for investigative journalism using photography and narrative to create social change.
 * **Influencing Public Policy:** The book's impact led to increased funding for social programs, improved infrastructure in poor neighborhoods, and a greater awareness of the need for social justice.  It directly influenced the thinking of reformers and shaped the agenda of progressive era legislation.
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

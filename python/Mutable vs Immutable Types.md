@@ -9,8 +9,8 @@ This refers to the ability of an object to change its value after it's created.
     my_string = "hello"
     my_string += " world"  # Creates a new string object; my_string now points to this new object.
     print(id(my_string)) #The memory address will change
-    my_tuple = ([[1]], [[2]], [[3]])
-    #my_tuple[0] = [[4]]  # This will raise a TypeError because tuples are immutable.
+    my_tuple = ([[1, [[2], [[3])
+    #my_tuple[0] = [[4]  # This will raise a TypeError because tuples are immutable.
     ```
     [[Immutable Types Deeper Dive]]
 
@@ -19,11 +19,11 @@ This refers to the ability of an object to change its value after it's created.
 
     Examples:
     ```python
-    my_list = [[[1]], [[2]], [[3]]]
-    my_list.append([[4]])  # Modifies the list in place.
+    my_list = [[1, [[2], [[3]]
+    my_list.append([[4])  # Modifies the list in place.
     print(id(my_list)) #The memory address will remain the same
-    my_dict = {"a": [[1]], "b": [[2]]}
-    my_dict["c"] = [[3]]  # Modifies the dictionary in place.
+    my_dict = {"a": [[1, "b": [[2]}
+    my_dict["c"] = [[3]  # Modifies the dictionary in place.
     ```
     [[Mutable Types Deeper Dive]]
 

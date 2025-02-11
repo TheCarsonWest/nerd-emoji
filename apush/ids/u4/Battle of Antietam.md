@@ -19,4 +19,4 @@
 
 Overall, the [[Battle of Antietam]] was a pivotal moment in the [[Civil War]], marking a turning point in the war's strategic and political landscape. It cemented the Union's resolve, strengthened Lincoln's leadership, and set the stage for the eventual emancipation of slaves. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

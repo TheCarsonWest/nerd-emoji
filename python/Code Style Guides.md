@@ -14,7 +14,7 @@ Key aspects:
 
 * **PEP 8:**  The official Python Enhancement Proposal for style.  It's the de facto standard and widely adopted.  Consider this your starting point.  See the detailed explanation in [[PEP 8 Deep Dive]].
 
-    *   **Indentation:**  Use [[4]] spaces, *never* tabs.
+    *   **Indentation:**  Use [[4] spaces, *never* tabs.
     *   **Line Length:** Aim for 79 characters per line.
     *   **Naming Conventions:**  `snake_case` for variables and functions, `CamelCase` for classes.
     *   **Blank Lines:** Use blank lines to separate logical sections of code.

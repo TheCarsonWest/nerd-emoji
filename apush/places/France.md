@@ -8,7 +8,7 @@
 * **American Revolution (1775-1783):** [[France]] provided crucial support to the American colonists, including financial aid, military supplies, and troops.
 * ** [[Louisiana]] Purchase (1803):** The [[United States]] purchased a vast territory from [[France]], doubling its size.
 * **Haitian Revolution (1791-1804):** A slave revolt in [[France]]'s Saint-Domingue colony inspired anti-slavery sentiments in the [[United States]].
-* **[[War of 1812]] (1812-1815):** [[France]] supported the [[United States]] against [[Great Britain]], although they did not actively participate in the war.
+* **[[War of 1812] (1812-1815):** [[France]] supported the [[United States]] against [[Great Britain]], although they did not actively participate in the war.
 * **Mexican-American War (1846-1848):** [[France]] mediated the Treaty of Guadalupe Hidalgo, which ended the war and resulted in the [[United States]] acquiring [[California]] and the Southwest.
 * **World War I (1914-1918):** [[France]] was a major ally of the [[United States]] and played a crucial role in the Allied victory.
 * **World War II (1939-1945):** [[France]] was occupied by Nazi Germany but later liberated by Allied forces, including the [[United States]] .

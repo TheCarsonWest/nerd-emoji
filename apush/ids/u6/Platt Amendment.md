@@ -1,6 +1,6 @@
 ## ID: [[Platt Amendment]]
 
-## When: March [[2]], 1901
+## When: March [[2], 1901
 
 ## Who: 
 * **[[United States]]:**  Influenced its creation and implementation.
@@ -16,4 +16,4 @@ An amendment to the U.S. Army Appropriations Act of 1901.  It stipulated seven c
 * **Precedent for Future Interventions:** The [[Platt Amendment]] served as a precedent for future U.S. interventions in Latin America, justifying actions under the Roosevelt Corollary and contributing to strained relationships with nations in the region.
 * **Limited Self-Determination:** The amendment underscored the limitations placed on newly independent nations in achieving true self-determination in the face of powerful external forces.
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

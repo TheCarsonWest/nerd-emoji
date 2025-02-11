@@ -1,6 +1,6 @@
 ## ID: Roosevelt Corollary to the [[Monroe Doctrine]]
 
-## When: December [[6]], 1904
+## When: December [[6], 1904
 
 ## Who:  President [[Theodore Roosevelt]]
 
@@ -14,4 +14,4 @@ An addition to the [[Monroe Doctrine]] (1823), asserting that the [[United State
 * **Negative Relations with Latin America:** The Corollary fostered negative relations between the US and many Latin American nations, creating lasting resentment and distrust.
 * **Precedent for Future Interventions:** The Roosevelt Corollary set a dangerous precedent for US interventionism in other regions of the world in later decades.
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

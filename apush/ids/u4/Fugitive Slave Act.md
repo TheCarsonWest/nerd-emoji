@@ -6,4 +6,4 @@ A law requiring citizens to return runaway slaves to their owners. It strengthen
 ## Impact? Why Significant?: 
 This law had a major impact on the debate about slavery and fueled abolitionist sentiments in the North.  It led to increased tensions between the North and the South, making the country more polarized. It also led to the creation of the Underground Railroad, a network of people who helped runaway slaves escape to freedom in the North. The [[Fugitive Slave Act]] is often cited as a major factor that contributed to the outbreak of the [[Civil War]]. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

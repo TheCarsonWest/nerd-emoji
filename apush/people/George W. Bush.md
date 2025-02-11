@@ -2,7 +2,7 @@
 
 **Background:**
 
-* Born July [[6]], 1946, in New Haven, [[Connecticut]]
+* Born July [[6], 1946, in New Haven, [[Connecticut]]
 * Son of former President [[George H]]. W. Bush
 * Graduated from Yale University and [[Harvard]] Business School
 

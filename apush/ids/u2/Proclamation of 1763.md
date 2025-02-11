@@ -1,5 +1,5 @@
-## ID: [[Proclamation of 1763]] 
-## When: October [[7]], 1763
+## ID: [[Proclamation of 1763] 
+## When: October [[7], 1763
 
 ## Who:
 * **Issued by:** King George III of [[Great Britain]] * **Affected:** American colonists, especially those west of the Appalachian Mountains, and Native American tribes.
@@ -15,4 +15,4 @@ A royal proclamation issued by the British government following [[Great Britain]
 * **Westward expansion delayed, not stopped:** Although intended to limit westward expansion, the Proclamation ultimately proved ineffective in stopping it. It merely delayed the process, setting the stage for future conflicts and struggles over land.
 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

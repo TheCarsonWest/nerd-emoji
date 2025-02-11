@@ -6,8 +6,8 @@ Python dictionaries are unordered collections of key-value pairs.  Keys must be 
 
 * **Key-Value Pairs:**  Data is stored as key-value pairs, allowing for efficient lookups using keys.
 * **Mutability:** [[Dictionaries]] are mutable, meaning you can add, remove, or modify elements after creation.
-* **Unordered:**  Prior to Python [[3]].[[7]], dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
-* **Hashing:** [[Dictionaries]] utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O([[1]]) on average.
+* **Unordered:**  Prior to Python [[3].[[7], dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
+* **Hashing:** [[Dictionaries]] utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O([[1) on average.
 
 
 **Creating [[Dictionaries]]:**

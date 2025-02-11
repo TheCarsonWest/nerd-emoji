@@ -35,7 +35,7 @@ def repeat(num_times):
         return wrapper
     return decorator_repeat
 
-@repeat(num_times=[[3]])
+@repeat(num_times=[[3])
 def greet(name):
     print(f"Hello, {name}!")
 
@@ -61,7 +61,7 @@ class CountCalls:
         self.count = 0
 
     def __call__(self, *args, **kwargs):
-        self.count += [[1]]
+        self.count += [[1
         print(f"Call count: {self.count}")
         return self.func(*args, **kwargs)
 

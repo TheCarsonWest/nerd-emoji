@@ -54,7 +54,7 @@ The gender of a pronoun (masculine, feminine, neuter) should generally match the
 
 **Equations (Illustrative - Not Directly Related to Nouns & Pronouns):**
 
-$x^[[2]] + y^[[2]] = r^[[2]]$ (Equation of a circle)
+$x^[[2] + y^[[2] = r^[[2]$ (Equation of a circle)
 
 ## $$ \int_a^b f(x) \,dx $$ ## (Definite integral)
 

@@ -16,7 +16,7 @@
  * Led the state during the Revolutionary War
 * **Minister to [[France]] (1785-1789):**
  * Represented the [[United States]] in Paris
- * Negotiated the [[Treaty of Paris 1776]] (1783)
+ * Negotiated the [[Treaty of Paris 1776] (1783)
 * **Secretary of State (1789-1793):**
  * Served under President [[George Washington]]
  * Drafted the [[Bill of Rights]]

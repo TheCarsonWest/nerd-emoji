@@ -6,15 +6,15 @@
 
 **Key Components:**
 
-[[1]]. **Introduction:** Begin by acknowledging the opposing viewpoint and demonstrating that you understand it.  Show you've listened and taken their perspective seriously.
+[[1. **Introduction:** Begin by acknowledging the opposing viewpoint and demonstrating that you understand it.  Show you've listened and taken their perspective seriously.
 
-[[2]]. **Summary of Opposing Viewpoint:**  Clearly and fairly summarize the other side's position.  Avoid distortion or caricature; aim for accurate representation.  This shows respect and willingness to engage.
+[[2]. **Summary of Opposing Viewpoint:**  Clearly and fairly summarize the other side's position.  Avoid distortion or caricature; aim for accurate representation.  This shows respect and willingness to engage.
 
-[[3]]. **Statement of Understanding:** Explain the contexts and circumstances where the opposing viewpoint is valid or reasonable.  Identify points of agreement, however small.  This builds rapport and reduces defensiveness.  Find common ground. Example: "While I disagree with the conclusion, I understand why you might hold that view given your experiences with X."
+[[3]. **Statement of Understanding:** Explain the contexts and circumstances where the opposing viewpoint is valid or reasonable.  Identify points of agreement, however small.  This builds rapport and reduces defensiveness.  Find common ground. Example: "While I disagree with the conclusion, I understand why you might hold that view given your experiences with X."
 
-[[4]]. **Statement of Your Position:**  Now present your own perspective.  Frame it as a solution or alternative that addresses the concerns and limitations of the opposing viewpoint, rather than simply refuting it.  Explain how your position might benefit *both* sides.
+[[4]. **Statement of Your Position:**  Now present your own perspective.  Frame it as a solution or alternative that addresses the concerns and limitations of the opposing viewpoint, rather than simply refuting it.  Explain how your position might benefit *both* sides.
 
-[[5]]. **Benefits of Compromise/Cooperation:** Explicitly state the mutual benefits of finding common ground or a compromise.  Highlight how this approach leads to a more positive and constructive outcome than simple conflict.
+[[5]. **Benefits of Compromise/Cooperation:** Explicitly state the mutual benefits of finding common ground or a compromise.  Highlight how this approach leads to a more positive and constructive outcome than simple conflict.
 
 
 **Structure:**  The structure can be flexible, but the key is to emphasize empathy and understanding throughout the argument.  Avoid aggressive language or framing the argument as a "win-lose" scenario.

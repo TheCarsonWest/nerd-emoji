@@ -1,6 +1,6 @@
 # [[Calc home]]
 
-The second [[derivative]], denoted as $f''(x)$ or $\frac{d^2y}{dx^[[2]]}$, provides crucial information about the shape and behavior of a function.  It helps us understand concavity and inflection points.
+The second [[derivative]], denoted as $f''(x)$ or $\frac{d^2y}{dx^[[2]}$, provides crucial information about the shape and behavior of a function.  It helps us understand concavity and inflection points.
 
 ## Concavity
 
@@ -13,25 +13,25 @@ The second [[derivative]] reveals the concavity of a function.
 * **$f''(x) = 0$ on an interval:** This doesn't automatically mean the function is neither concave up nor concave down.  Further investigation is needed. [[Test for Concavity]]
 
 ```desmos-graph
-y = x^[[3]] - 3x
-y = x^[[2]]
-y = -x^[[2]]
+y = x^[[3] - 3x
+y = x^[[2]
+y = -x^[[2]
 ```
 
 ## [[Inflection Points]] 
 An **inflection point** is a point on the graph where the concavity changes.  This means the function transitions from concave up to concave down, or vice versa.  To find inflection points:
 
-[[1]]. **Find the second [[derivative]]:** $f''(x)$.
-[[2]]. **Solve for $f''(x) = 0$ or where $f''(x)$ is undefined.**  These are potential inflection points.
-[[3]]. **Test the concavity on intervals around the potential inflection points.** If the concavity changes across a potential inflection point, it is an inflection point. If it doesn't change, it's not an inflection point. Second [[Derivative]] Test for [[Inflection Points]] 
+[[1. **Find the second [[derivative]]:** $f''(x)$.
+[[2]. **Solve for $f''(x) = 0$ or where $f''(x)$ is undefined.**  These are potential inflection points.
+[[3]. **Test the concavity on intervals around the potential inflection points.** If the concavity changes across a potential inflection point, it is an inflection point. If it doesn't change, it's not an inflection point. Second [[Derivative]] Test for [[Inflection Points]] 
 **Example:**
 
-Let's consider the function $f(x) = x^[[3]] - 3x$.
+Let's consider the function $f(x) = x^[[3] - 3x$.
 
-[[1]]. $f'(x) = 3x^[[2]] - [[3]]$
-[[2]]. $f''(x) = 6x$
-[[3]]. $f''(x) = 0$ when $x = 0$.
-[[4]]. Testing intervals:
+[[1. $f'(x) = 3x^[[2] - [[3]$
+[[2]. $f''(x) = 6x$
+[[3]. $f''(x) = 0$ when $x = 0$.
+[[4]. Testing intervals:
     * $x < 0$: $f''(x) < 0$ (concave down)
     * $x > 0$: $f''(x) > 0$ (concave up)
 

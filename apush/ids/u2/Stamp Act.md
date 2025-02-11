@@ -15,4 +15,4 @@ An act passed by the British Parliament that imposed a direct tax on the America
 * **Repeal (1766):** Due to the intense colonial resistance and economic disruption, the [[Stamp Act]] was repealed in 1766, though the Declaratory Act was passed simultaneously, asserting Parliament's right to tax the colonies.
 * **Long-Term Impact:** The [[Stamp Act]]'s legacy lies in its contribution to the development of colonial identity and the growing sentiment for independence from British rule.  It served as a key event in the chain of events leading up to the American Revolution.
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

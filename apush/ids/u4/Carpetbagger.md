@@ -22,4 +22,4 @@
 
 The term "[[Carpetbagger]]" is still used today as a derogatory term to describe people who are seen as outsiders who are trying to exploit a situation for their own gain.  It is important to note that the term is often used unfairly and without understanding the complex history of the Reconstruction Era. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

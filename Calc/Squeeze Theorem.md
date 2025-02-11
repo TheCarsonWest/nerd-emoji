@@ -6,8 +6,8 @@ The [[Squeeze Theorem]], also known as the Sandwich Theorem, is a powerful tool 
 
 Let $f(x)$, $g(x)$, and $h(x)$ be functions defined on an open interval containing $a$, except possibly at $a$ itself. If:
 
-[[1]].  $g(x) \leq f(x) \leq h(x)$ for all $x$ in the interval (except possibly at $x=a$)
-[[2]].  $\lim_{x \to a} g(x) = L$ and $\lim_{x \to a} h(x) = L$
+[[1.  $g(x) \leq f(x) \leq h(x)$ for all $x$ in the interval (except possibly at $x=a$)
+[[2].  $\lim_{x \to a} g(x) = L$ and $\lim_{x \to a} h(x) = L$
 
 Then:
 
@@ -18,23 +18,23 @@ $\lim_{x \to a} f(x) = L$
 
 ### Example
 
-Let's find the limit of the function $f(x) = x^[[2]] \sin(\frac{[[1]]}{x})$ as $x$ approaches 0.
+Let's find the limit of the function $f(x) = x^[[2] \sin(\frac{[[1}{x})$ as $x$ approaches 0.
 
-**[[1]]. Find bounding functions:**
+**[[1. Find bounding functions:**
 
-We know that $-[[1]] \leq \sin(\frac{[[1]]}{x}) \leq [[1]]$ for all $x$ (except $x=0$).  Multiplying this inequality by $x^[[2]]$, we get:
+We know that $-[[1 \leq \sin(\frac{[[1}{x}) \leq [[1$ for all $x$ (except $x=0$).  Multiplying this inequality by $x^[[2]$, we get:
 
-$-x^[[2]] \leq x^[[2]] \sin(\frac{[[1]]}{x}) \leq x^[[2]]$
+$-x^[[2] \leq x^[[2] \sin(\frac{[[1}{x}) \leq x^[[2]$
 
-**[[2]]. Find the limits of the bounding functions:**
+**[[2]. Find the limits of the bounding functions:**
 
-$\lim_{x \to 0} -x^[[2]] = 0$ and $\lim_{x \to 0} x^[[2]] = 0$
+$\lim_{x \to 0} -x^[[2] = 0$ and $\lim_{x \to 0} x^[[2] = 0$
 
-**[[3]]. Apply the [[Squeeze Theorem]]:**
+**[[3]. Apply the [[Squeeze Theorem]]:**
 
-Since $-x^[[2]] \leq x^[[2]] \sin(\frac{[[1]]}{x}) \leq x^[[2]]$ and both $-x^[[2]]$ and $x^[[2]]$ approach 0 as $x$ approaches 0, we can conclude that:
+Since $-x^[[2] \leq x^[[2] \sin(\frac{[[1}{x}) \leq x^[[2]$ and both $-x^[[2]$ and $x^[[2]$ approach 0 as $x$ approaches 0, we can conclude that:
 
-$\lim_{x \to 0} x^[[2]] \sin(\frac{[[1]]}{x}) = 0$
+$\lim_{x \to 0} x^[[2] \sin(\frac{[[1}{x}) = 0$
 
 ### Applications
 

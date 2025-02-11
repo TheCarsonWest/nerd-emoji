@@ -17,4 +17,4 @@ Overcrowded, unsanitary, and dangerous multi-family dwellings prevalent in rapid
 * **Tenement Reform Laws:**  [[New York]] and other cities passed legislation mandating minimum standards for tenement construction and occupancy, including improved sanitation, ventilation, and fire safety. This represents a step toward improved public health and welfare.
 * **Urban Planning:** The problems of tenement housing contributed to the growing movement for urban planning and reform, pushing for improved infrastructure, public services, and better living standards in cities.
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

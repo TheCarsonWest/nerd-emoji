@@ -16,4 +16,4 @@ John Wilkes Booth, a Confederate sympathizer, assassinated President [[Abraham L
 * **Elevated Lincoln to the status of a martyr.** His assassination solidified his place in history as a great leader and a symbol of the Union's victory.
 * **Led to increased efforts to apprehend Booth and his co-conspirators.**  The assassination prompted a widespread manhunt for Booth and his accomplices, resulting in their capture and trial.
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]

@@ -14,11 +14,11 @@ Recursive functions call themselves within their own definition.  This allows fo
 def factorial(n):
   """Calculates the factorial of a non-negative integer."""
   if n == 0:  # Base case
-    return [[1]]
+    return [[1
   else:
-    return n * factorial(n-[[1]])  # Recursive step
+    return n * factorial(n-[[1)  # Recursive step
 
-print(factorial([[5]]))  # Output: 120
+print(factorial([[5]))  # Output: 120
 ```
 
 **Important Considerations:**

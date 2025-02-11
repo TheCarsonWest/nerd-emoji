@@ -4,7 +4,7 @@
 * **Democratic-[[Republicans]]:** The dominant political party at the time.
 
 ## What: 
-A period in American history characterized by a sense of national unity and purpose. It followed the [[War of 1812]], which fostered a sense of national pride and diminished the Federalist Party's influence. 
+A period in American history characterized by a sense of national unity and purpose. It followed the [[War of 1812], which fostered a sense of national pride and diminished the Federalist Party's influence. 
 
 **Key Features:**
 * **One-Party System:** The Federalist Party practically ceased to exist, leading to little partisan conflict.
@@ -17,4 +17,4 @@ A period in American history characterized by a sense of national unity and purp
 * **Expansion and Development:**  Policies like the [[Monroe Doctrine]] and the acquisition of [[Florida]] expanded US territory and influence.
 * **Seeds of  [[Sectionalism]] :** Despite the surface harmony, issues like slavery and tariffs continued to simmer, eventually contributing to the rise of [[sectionalism]] and the demise of this era. 
 
-# [[IDS Unit 3]]
+# [[IDS Unit 3]

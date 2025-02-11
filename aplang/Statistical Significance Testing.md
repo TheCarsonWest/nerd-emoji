@@ -7,7 +7,7 @@
 
 * **Null Hypothesis ($H_0$):**  There is no effect (e.g., no difference between groups, no relationship between variables).  We aim to *reject* or *fail to reject* this hypothesis, not "prove" it.
 * **Alternative Hypothesis ($H_1$ or $H_a$):** There *is* an effect (e.g., there is a difference, there is a relationship).  This is what we hope to find evidence for.
-* **Significance Level ($\alpha$):** The probability of rejecting the null hypothesis when it is actually true (Type I error). Commonly set at 0.05 ([[5]]%).  [[Type I and Type II Errors]]
+* **Significance Level ($\alpha$):** The probability of rejecting the null hypothesis when it is actually true (Type I error). Commonly set at 0.05 ([[5]%).  [[Type I and Type II Errors]]
 * **p-value:** The probability of observing results as extreme as, or more extreme than, the ones obtained, *assuming the null hypothesis is true*. A small p-value suggests evidence against the null hypothesis.
 * **Test Statistic:** A value calculated from the sample data that is used to assess the evidence against the null hypothesis.  The specific test statistic depends on the type of test being used.
 * **Critical Region:** The range of values of the test statistic that lead to rejection of the null hypothesis.  This is determined by the significance level and the distribution of the test statistic under the null hypothesis.
@@ -23,12 +23,12 @@
 
 **Steps in Hypothesis Testing:**
 
-[[1]]. State the null and alternative hypotheses.
-[[2]]. Set the significance level ($\alpha$).
-[[3]]. Select an appropriate statistical test.
-[[4]]. Calculate the test statistic and p-value.
-[[5]]. Make a decision: Reject or fail to reject the null hypothesis based on the p-value and significance level.
-[[6]]. Interpret the results in the context of the research question.
+[[1. State the null and alternative hypotheses.
+[[2]. Set the significance level ($\alpha$).
+[[3]. Select an appropriate statistical test.
+[[4]. Calculate the test statistic and p-value.
+[[5]. Make a decision: Reject or fail to reject the null hypothesis based on the p-value and significance level.
+[[6]. Interpret the results in the context of the research question.
 
 
 **Important Considerations:**

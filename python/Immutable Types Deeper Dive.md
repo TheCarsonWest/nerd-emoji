@@ -30,10 +30,10 @@ print(id(my_string)) # shows a new memory location, because we created a new str
 **Example ([[Tuples]]):**
 
 ```python
-my_tuple = ([[1]], [[2]], [[3]])
-# my_tuple[0] = [[4]]  # This will raise a TypeError: 'tuple' object does not support item assignment.
-new_tuple = my_tuple + ([[4]],) # creates a new tuple with value [[4]] concatenated.
-print(new_tuple) # Output: ([[1]], [[2]], [[3]], [[4]])
+my_tuple = ([[1, [[2], [[3])
+# my_tuple[0] = [[4]  # This will raise a TypeError: 'tuple' object does not support item assignment.
+new_tuple = my_tuple + ([[4],) # creates a new tuple with value [[4] concatenated.
+print(new_tuple) # Output: ([[1, [[2], [[3], [[4])
 ```
 
 **Implications of Immutability:**

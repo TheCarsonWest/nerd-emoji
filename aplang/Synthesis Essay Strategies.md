@@ -29,7 +29,7 @@
 
 * **Body Paragraphs:** Each body paragraph should focus on a specific aspect of your argument, supported by evidence from multiple sources.  Use signal phrases to introduce quotes and paraphrases.  Analyze the evidence and explain how it supports your thesis.  Consider using a method like compare/contrast or argumentation. [[Argumentation Strategies]] [[Comparative Analysis]]
 
-* **Synthesis:**  Don't just summarize sources; synthesize them. Show how they relate to each other and build your argument.  Identify points of agreement, disagreement, and nuance.  $synthesis = \sum_{i=[[1]]}^{n} weight_i \times source_i$ (where $weight_i$ represents the importance of each source and $source_i$ represents the information from each source).  This is a simplified representation; actual synthesis is more nuanced.
+* **Synthesis:**  Don't just summarize sources; synthesize them. Show how they relate to each other and build your argument.  Identify points of agreement, disagreement, and nuance.  $synthesis = \sum_{i=[[1}^{n} weight_i \times source_i$ (where $weight_i$ represents the importance of each source and $source_i$ represents the information from each source).  This is a simplified representation; actual synthesis is more nuanced.
 
 
 * **Conclusion:** Restate your thesis in a new way and summarize your main points. Offer final thoughts or implications of your argument.  Avoid introducing new evidence.

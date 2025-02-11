@@ -15,4 +15,4 @@ Ragtime was a musical genre characterized by its syncopated rhythm,  a specific 
 * **Influence on Later Genres:** Its rhythmic innovations heavily influenced jazz, blues, and other popular music genres that followed. It helped pave the way for the evolution of American popular music in the 20th century.
 * **Technological influence:** The rise of player pianos and sheet music aided in Ragtime's popularity and distribution.
 
-# [[IDS Unit 6]]
+# [[IDS Unit 6]

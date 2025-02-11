@@ -16,7 +16,7 @@
 	- No formal boundaries
 
 **World Regions**
-**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdYBWZCwQKqyCr-Grm6khfqGVrkW8ewgSxIH76ArCbQd6W1uPiUqIPJQX1U6Cw6QSvsuVexTS0Do1pBb_TMkCKLabvIjinC7oM66ZWF0pYXTdXF6Kw2-mDlDakvjhrOqMyV5oCDh0Zkb9blCGJMujRhbCW1Ks5FUTGWGgI=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
+**!1(https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdYBWZCwQKqyCr-Grm6khfqGVrkW8ewgSxIH76ArCbQd6W1uPiUqIPJQX1U6Cw6QSvsuVexTS0Do1pBb_TMkCKLabvIjinC7oM66ZWF0pYXTdXF6Kw2-mDlDakvjhrOqMyV5oCDh0Zkb9blCGJMujRhbCW1Ks5FUTGWGgI=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
 - Large regions: Divided into subregions.
 - Subregions: Share characteristics with larger region but are distinctive in some ways.
 - Smaller regions: Can be based on physical or human geography.

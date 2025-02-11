@@ -29,7 +29,7 @@ Salt hydrolysis is the reaction of a salt with water to produce an acidic or bas
 
 Calculating the pH of solutions resulting from salt hydrolysis often involves using ICE tables and equilibrium expressions ($K_a$, $K_b$, $K_w$).  The specific method depends on the type of salt.
 
-[[ICE Tables and Equilibrium]] Calculations]]]]
+[[ICE Tables and Equilibrium]] Calculations]]
 
 **Relationship to $K_a$ and $K_b$**:
 

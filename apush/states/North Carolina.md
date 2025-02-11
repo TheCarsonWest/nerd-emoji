@@ -12,7 +12,7 @@
 * **1960:** Greensboro Woolworth lunch counter sit-ins launch the modern Civil Rights Movement.
 * **1973:** Roe v. Wade is decided, legalizing abortion in [[North Carolina]].
 * **1980:** Jesse Helms is elected to the U.S. Senate, becoming a prominent conservative voice.
-* **1994:** [[North Carolina]] passes Amendment [[1]] to its constitution, defining marriage as between one man and one woman.
+* **1994:** [[North Carolina]] passes Amendment [[1 to its constitution, defining marriage as between one man and one woman.
 * **2008:** [[Barack Obama]] becomes the first African American [[POTUS]], with strong support from [[North Carolina]] voters.
 
 **Important Legislation:**

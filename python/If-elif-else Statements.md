@@ -32,10 +32,10 @@ if x > 20:
     print("x is greater than 20")
 elif x > 10:
     print("x is greater than 10")
-elif x > [[5]]:
-    print("x is greater than [[5]]")
+elif x > [[5]:
+    print("x is greater than [[5]")
 else:
-    print("x is less than or equal to [[5]]")
+    print("x is less than or equal to [[5]")
 
 ```
 

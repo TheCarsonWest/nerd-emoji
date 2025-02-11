@@ -28,10 +28,10 @@ class Circle(Shape):
         self.radius = radius
 
     def area(self):
-        return [[3]].14159 * self.radius * self.radius
+        return [[3].14159 * self.radius * self.radius
 
     def perimeter(self):
-        return [[2]] * [[3]].14159 * self.radius
+        return [[2] * [[3].14159 * self.radius
 
 class Square(Shape):
     def __init__(self, side):
@@ -41,14 +41,14 @@ class Square(Shape):
         return self.side * self.side
 
     def perimeter(self):
-        return [[4]] * self.side
+        return [[4] * self.side
 
 #Trying to instantiate Shape will raise an error
 #my_shape = Shape() #TypeError: Can't instantiate abstract class Shape with abstract methods area, perimeter
 
-my_circle = Circle([[5]])
+my_circle = Circle([[5])
 print(my_circle.area())
-my_square = Square([[4]])
+my_square = Square([[4])
 print(my_square.perimeter())
 
 ```

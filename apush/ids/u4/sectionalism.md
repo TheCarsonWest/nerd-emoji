@@ -30,4 +30,4 @@ A deep-seated division in the [[United States]] based on geographic, economic, s
 * **[[Kansas]]-[[Nebraska Act]] (1854):** Allowed for [[popular sovereignty]] to decide on the issue of slavery in the territories, leading to violence and bloodshed in [[Kansas]].
 * **Dred Scott v. Sandford (1857):** Supreme Court decision that ruled that slaves were not citizens and had no rights, further dividing the nation. 
 
-# [[IDS Unit 4]]
+# [[IDS Unit 4]
