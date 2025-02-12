@@ -1,5 +1,6 @@
 # [[nexus]]
 # [[Thermodynamics]]
+# [[Equilibrium]]
 # [[chemical reactions]]
 # [[AP CHEM solutions]]
 # [[APCHEM Gasses]]

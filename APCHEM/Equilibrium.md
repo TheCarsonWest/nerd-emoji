@@ -1,3 +1,5 @@
+
+#chem #equilibrium
 # [[Le Chateliers Principle]]
 # [[Equilibrium]]
 
@@ -29,7 +31,7 @@
         * **Endothermic reactions ($ \Delta H > 0$):** Increasing temperature shifts right, decreasing temperature shifts left.
 
 
-* **Calculating [[Equilibrium Concentrations:**  Often involves setting up an ICE (Initial, Change, Equilibrium]]) table and solving for unknown concentrations using the equilibrium constant expression.
+* **Calculating [[Equilibrium Concentrations]]:  Often involves setting up an ICE (Initial, Change, Equilibrium]]) table and solving for unknown concentrations using the equilibrium constant expression.
 
 
 [[Equilibrium Calculations]]
