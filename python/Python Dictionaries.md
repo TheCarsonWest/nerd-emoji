@@ -6,7 +6,7 @@ Python dictionaries are unordered collections of key-value pairs.  Keys must be 
 
 * **Key-Value Pairs:**  Data is stored as key-value pairs, allowing for efficient lookups using keys.
 * **Mutability:** [[Dictionaries]] are mutable, meaning you can add, remove, or modify elements after creation.
-* **Unordered:**  Prior to Python [[3].[[7], dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
+* **Unordered:**  Prior to Python 3.7, dictionaries were unordered.  While they appear ordered in later versions, relying on this order is not recommended for code portability.
 * **Hashing:** [[Dictionaries]] utilize hashing for efficient key lookups.  This means that accessing a value by its key is typically very fast, O([[1) on average.
 
 
@@ -29,7 +29,7 @@ my_dict = dict(name="Bob", age=25, city="London")
 * From a list of tuples:
 
 ```python
-my_dict = dict([("name", "Charlie"), ("age", 35), ("city", "Paris")])
+my_dict = dict([("name", "Charlie"), ("age", 35), ("city", "Paris")]])
 ```
 
 
@@ -38,7 +38,7 @@ my_dict = dict([("name", "Charlie"), ("age", 35), ("city", "Paris")])
 Elements are accessed using their keys:
 
 ```python
-print(my_dict["name"])  # Output: Alice (or Bob, or Charlie, depending on which creation method above was used)
+print(my_dict["name"]])  # Output: Alice (or Bob, or Charlie, depending on which creation method above was used)
 ```
 
 If a key doesn't exist, a `KeyError` is raised.  Use the `get()` method to avoid this:
@@ -50,14 +50,14 @@ print(my_dict.get("country", "Unknown")) # Output: Unknown (or the country if it
 **Adding and Modifying Elements:**
 
 ```python
-my_dict["occupation"] = "Engineer" #Adding a new key-value pair
-my_dict["age"] = 31 #Modifying an existing key-value pair
+my_dict["occupation"]] = "Engineer" #Adding a new key-value pair
+my_dict["age"]] = 31 #Modifying an existing key-value pair
 ```
 
 **Removing Elements:**
 
 ```python
-del my_dict["city"] # Removes the key-value pair with key "city"
+del my_dict["city"]] # Removes the key-value pair with key "city"
 popped_value = my_dict.pop("age") #Removes and returns the value associated with the key "age"
 my_dict.popitem() #Removes and returns an arbitrary key-value pair
 ```
@@ -99,8 +99,8 @@ person = {
         "city": "Anytown",
         "zip": "12345"
     },
-    "phone_numbers": ["555-1234", "555-5678"]
+    "phone_numbers": ["555-1234", "555-5678"]]
 }
 
-print(person["address"]["city"]) # Accessing nested dictionaries
+print(person["address"]]["city"]]) # Accessing nested dictionaries
 ```

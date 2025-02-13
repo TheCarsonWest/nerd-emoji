@@ -11,14 +11,14 @@ $f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$
 This limit represents the slope of the tangent line to the graph of $f(x)$ at $x=a$.  If this limit exists, the function is differentiable at $x=a$.
 
 
-## [[2].  Relationship to [[Continuity]]
+## 2.  Relationship to [[Continuity]]
 
 [[Continuity]]
 
 A function must be continuous at a point to be differentiable at that point. However, [[continuity]] alone is not sufficient for differentiability.  A function can be continuous at a point but not differentiable there.
 
 
-## [[3]. Conditions for Non-[[Differentiability]]
+## 3. Conditions for Non-[[Differentiability]]
 
 A function is *not* differentiable at a point if any of the following occur:
 
@@ -35,7 +35,7 @@ y = abs(x)
 ```desmos-graph
 y = [[1/(x-[[1)
 {x>[[1}
-y = [[2]
+y = 2
 {x=[[1}
 y = x
 {x<[[1}
@@ -44,13 +44,13 @@ y = x
 * **Oscillating Function:** The function oscillates infinitely rapidly near the point.
 
 
-## [[4].  [[Differentiability]] and Smoothness
+## 4.  [[Differentiability]] and Smoothness
  [[Differentiability]] implies smoothness.  A differentiable function will have a smooth, continuous curve without any sharp corners, cusps, or vertical tangents. However, the converse is not always true (a function can be smooth but not differentiable everywhere).
 
 [[Higher Order Derivatives]]
 
 
-## [[5].  Practical Applications
+## 5.  Practical Applications
  [[Differentiability]] is crucial for many applications in Calculus AB, including:
 
 * **Finding instantaneous rates of change:** The [[derivative]] gives the instantaneous rate of change of a function at a specific point.
@@ -59,12 +59,12 @@ y = x
 * **Curve sketching:**  The [[derivative]] helps determine the increasing/decreasing intervals and concavity of a function.
 
 
-## [[6].  Checking for [[Differentiability]] 
+## 6.  Checking for [[Differentiability]] 
 To determine if a function is differentiable at a point, you typically:
 
 [[1. Check for [[continuity]] at the point.
-[[2]. Calculate the left-hand and right-hand derivatives using the limit definition.
-[[3]. If the left-hand and right-hand derivatives are equal and finite, the function is differentiable at the point.
+2. Calculate the left-hand and right-hand derivatives using the limit definition.
+3. If the left-hand and right-hand derivatives are equal and finite, the function is differentiable at the point.
 
 
 In summary, differentiability is a crucial concept in Calculus AB that connects the idea of a function's slope to its smoothness and [[continuity]]. Understanding the conditions for differentiability and non-differentiability is essential for mastering many important calculus concepts and applications.

@@ -20,7 +20,7 @@ The x-axis represents molecular speed, and the y-axis represents the number of m
 
 The Maxwell-Boltzmann distribution function, which gives the probability density for a molecule having a speed *v*, is given by:
 
-# $$f(v) = [[4]\pi (\frac{m}{[[2]\pi kT})^{\frac{[[3]}{[[2]}} v^[[2] e^{-\frac{mv^[[2]}{2kT}}$$
+# $$f(v) = 4\pi (\frac{m}{2\pi kT})^{\frac{3}{2}} v^2 e^{-\frac{mv^2}{2kT}}$$
 
 
 Where:

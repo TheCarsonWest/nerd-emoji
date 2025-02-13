@@ -5,21 +5,21 @@
 
 [[1. **Topic Sentence:**  This sentence introduces the main idea of the paragraph. It should directly relate to the thesis statement.  It needs to be clear, concise, and arguable.
 
-[[2]. **Supporting Evidence:** This section provides the evidence to back up the topic sentence. This can include:
+2. **Supporting Evidence:** This section provides the evidence to back up the topic sentence. This can include:
     * **Facts:**  Verifiable pieces of information.
     * **Statistics:** Numerical data.
     * **Examples:** Specific instances that illustrate the point.
     * **Anecdotes:** Brief stories that support the claim.
     * **Expert Opinions:** Quotations from authorities on the subject.  [[Citation Management]]
 
-[[3]. **Analysis/Explanation:** This section explains how the evidence supports the topic sentence and the overall argument. It's crucial to connect the evidence to the main point and avoid simply listing facts.  This section shows *why* the evidence matters.
+3. **Analysis/Explanation:** This section explains how the evidence supports the topic sentence and the overall argument. It's crucial to connect the evidence to the main point and avoid simply listing facts.  This section shows *why* the evidence matters.
 
-[[4]. **Transition:**  A sentence (or phrase) that smoothly connects this paragraph to the next.  It creates a logical flow of ideas.
+4. **Transition:**  A sentence (or phrase) that smoothly connects this paragraph to the next.  It creates a logical flow of ideas.
 
 
 **Equation for ideal paragraph length:**
 
-While there's no magic number, a good rule of thumb is to aim for $[[5]-[[7]$ sentences.  This can vary depending on the complexity of the argument and the length of the evidence.
+While there's no magic number, a good rule of thumb is to aim for $5-7$ sentences.  This can vary depending on the complexity of the argument and the length of the evidence.
 
 
 **Common Errors to Avoid:**

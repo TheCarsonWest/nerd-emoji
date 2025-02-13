@@ -28,10 +28,10 @@ $H_2(g) + Br_2(g) \rightarrow 2HBr(g)$
 A simplified mechanism is:
 
 [[1. **Initiation:** $Br_2(g) \rightarrow 2Br\cdot(g)$ (slow, unimolecular)
-[[2]. **Propagation:**
+2. **Propagation:**
     * $Br\cdot(g) + H_2(g) \rightarrow HBr(g) + H\cdot(g)$
     * $H\cdot(g) + Br_2(g) \rightarrow HBr(g) + Br\cdot(g)$
-[[3]. **Termination:**
+3. **Termination:**
     * $2Br\cdot(g) \rightarrow Br_2(g)$
     * $H\cdot(g) + Br\cdot(g) \rightarrow HBr(g)$
     * $2H\cdot(g) \rightarrow H_2(g)$

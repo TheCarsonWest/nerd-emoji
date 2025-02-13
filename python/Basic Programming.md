@@ -42,7 +42,7 @@ use comments to help people read your code and you are good
 x = input("Name: ")
 print("hello "+ x)
 print(f"I hope you are doing ok today {x}")
-print(x*[[5])
+print(x*5)
 ```
 ## input asks the user for their input in the console
 - it always gets output as a string

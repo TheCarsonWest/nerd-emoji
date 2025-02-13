@@ -26,10 +26,10 @@
 **Process of Analysis:**
 
 [[1. **Identify the text's context.** When and where was it created? Who is the intended audience?
-[[2]. **Summarize the main idea or argument.** What is the author trying to convey?
-[[3]. **Analyze the appeals (ethos, pathos, logos).** How does the author use each appeal to persuade the audience? Provide specific examples.
-[[4]. **Identify and analyze the rhetorical devices.** What techniques does the author employ to enhance the message's effectiveness?
-[[5]. **Evaluate the overall effectiveness of the rhetoric.**  How successful is the author in persuading the intended audience? Why or why not?
+2. **Summarize the main idea or argument.** What is the author trying to convey?
+3. **Analyze the appeals (ethos, pathos, logos).** How does the author use each appeal to persuade the audience? Provide specific examples.
+4. **Identify and analyze the rhetorical devices.** What techniques does the author employ to enhance the message's effectiveness?
+5. **Evaluate the overall effectiveness of the rhetoric.**  How successful is the author in persuading the intended audience? Why or why not?
 
 
 **Example:**  Analyzing a political speech would involve examining the speaker's credentials (ethos), the emotional appeals used (pathos), the evidence presented (logos), and the stylistic choices made (rhetorical devices).

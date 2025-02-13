@@ -17,14 +17,14 @@ Bitwise operators work directly on the individual bits of integers.  They are ra
 
 ```python
 a = 10  # Binary: 1010
-b = [[4]   # Binary: 0100
+b = 4   # Binary: 0100
 
 print(a & b)  # Output: 0 (Binary: 0000)
 print(a | b)  # Output: 14 (Binary: 1110)
 print(a ^ b)  # Output: 14 (Binary: 1110)
 print(~a)   # Output: -11 (depends on system's representation of negative numbers)
-print(a << [[2]) # Output: 40 (Binary: 101000)
-print(a >> [[1) # Output: [[5]  (Binary: 0101)
+print(a << 2) # Output: 40 (Binary: 101000)
+print(a >> [[1) # Output: 5  (Binary: 0101)
 
 ```
 

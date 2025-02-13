@@ -13,9 +13,9 @@ We use percent error to assess the accuracy of our approximations.  A low percen
 
 This is used extensively in equilibrium problems where the change in concentration ($x$) is significantly smaller than the initial concentration.  We assume that $x$ is negligible compared to the initial concentration.
 
-Example:  Consider the equilibrium reaction $HA \rightleftharpoons H^+ + A^-$. If the initial concentration of $HA$ is large and the $K_a$ is small, we can often approximate $[HA]_{eq} \approx [HA]_{initial}$.
+Example:  Consider the equilibrium reaction $HA \rightleftharpoons H^+ + A^-$. If the initial concentration of $HA$ is large and the $K_a$ is small, we can often approximate $[HA]]_{eq} \approx [HA]]_{initial}$.
 
-$K_a = \frac{[H^+][A^-]}{[HA]} \approx \frac{x^2}{[HA]_{initial}}$
+$K_a = \frac{[H^+]][A^-]]}{[HA]]} \approx \frac{x^2}{[HA]]_{initial}}$
 
 This simplifies the quadratic equation significantly.  Always check the validity of this assumption by calculating the percent error. If the percent error is below 5%, the approximation is generally considered valid.  [[Small x Approximation Validity]]
 

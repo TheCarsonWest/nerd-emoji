@@ -13,4 +13,4 @@
 * **Foundation for Trust-Busting:** The [[Square Deal]] laid the groundwork for Roosevelt's later trust-busting efforts, as he aimed to curb the power of monopolies and create a fairer economic playing field.  It demonstrated his belief in regulating big business for the benefit of society.
 * **Increased Presidential Power:** Roosevelt's actions expanded the power and influence of the presidency in domestic affairs, establishing a precedent for future presidents to intervene in economic and social issues.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

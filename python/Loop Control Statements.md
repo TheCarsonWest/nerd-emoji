@@ -8,8 +8,8 @@ The key loop control statements are:
 
 ```python
 for i in range([[1, 11):
-    if i == [[5]:
-        break  # Exit loop when i is [[5]
+    if i == 5:
+        break  # Exit loop when i is 5
     print(i) 
 ```
 
@@ -17,7 +17,7 @@ for i in range([[1, 11):
 
 ```python
 for i in range([[1, 11):
-    if i % [[2] == 0:
+    if i % 2 == 0:
         continue  # Skip even numbers
     print(i)
 ```
@@ -26,7 +26,7 @@ for i in range([[1, 11):
 
 ```python
 for i in range([[1, 11):
-    if i % [[2] == 0:
+    if i % 2 == 0:
         pass  # Do nothing for even numbers
     else:
         print(i)
@@ -43,7 +43,7 @@ else:
     print("Loop completed normally") #This will always print
 
 for i in range([[1, 11):
-    if i == [[5]:
+    if i == 5:
         break
     print(i)
 else:

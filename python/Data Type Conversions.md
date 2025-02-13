@@ -8,7 +8,7 @@ Python offers various ways to convert data from one type to another.  This is cr
 
 ```python
 int("10")  # Output: 10
-int(10.[[7])  # Output: 10
+int(10.7)  # Output: 10
 int("10a") # Output: ValueError
 ```
 
@@ -17,15 +17,15 @@ int("10a") # Output: ValueError
 ```python
 float("10")  # Output: 10.0
 float(10)   # Output: 10.0
-float("10.[[5]") # Output: 10.[[5]
+float("10.5") # Output: 10.5
 ```
 
 * **`str()`:** Converts a value to a string representation. This works for almost any data type.
 
 ```python
 str(10)    # Output: "10"
-str(10.[[5])  # Output: "10.[[5]"
-str([[1,[[2],[[3]]) # Output: "[[1, [[2], [[3]]"
+str(10.5)  # Output: "10.5"
+str([[1,2,3) # Output: "[[1, 2, 3"
 ```
 
 * **`bool()`:** Converts a value to a boolean (`True` or `False`).  Many values evaluate to `False` (e.g., 0, 0.0, "", 1, {}, None); most others are `True`.
@@ -41,8 +41,8 @@ bool(1)   # Output: False
 * **`list()`:** Converts an iterable (like a tuple or string) into a list.
 
 ```python
-list(([[1,[[2],[[3])) # Output: [[1, [[2], [[3]]
-list("abc")   # Output: ['a', 'b', 'c']
+list(([[1,2,3)) # Output: [[1, 2, 3
+list("abc")   # Output: ['a', 'b', 'c']]
 ```
 
 

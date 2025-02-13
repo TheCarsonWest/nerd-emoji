@@ -6,7 +6,7 @@ The `range()` function in Python is a built-in function that generates a sequenc
 
 ```python
 range(stop)
-range(start, stop[, step])
+range(start, stop[, step]])
 ```
 
 * `stop`:  The ending number (exclusive).  The sequence will go up to, but not include, this number.  This is the *only* required argument.
@@ -18,23 +18,23 @@ range(start, stop[, step])
 
 ```python
 # Basic usage:
-for i in range([[5]):  # iterates 0, [[1, [[2], [[3], [[4]
+for i in range(5):  # iterates 0, [[1, 2, 3, 4
     print(i)
 
 # Specifying start and stop:
-for i in range([[2], [[7]): # iterates [[2], [[3], [[4], [[5], [[6]
+for i in range(2, 7): # iterates 2, 3, 4, 5, 6
     print(i)
 
 # Specifying start, stop, and step:
-for i in range([[1, 10, [[2]): # iterates [[1, [[3], [[5], [[7], 9
+for i in range([[1, 10, 2): # iterates [[1, 3, 5, 7, 9
     print(i)
 
 # Negative step:
-for i in range(10, 0, -[[1): # iterates 10, 9, 8, [[7], [[6], [[5], [[4], [[3], [[2], [[1
+for i in range(10, 0, -[[1): # iterates 10, 9, 8, 7, 6, 5, 4, 3, 2, [[1
     print(i)
 
 #Creating a list from range:
-my_list = list(range([[1,[[6])) # Creates [[1, [[2], [[3], [[4], [[5]]
+my_list = list(range([[1,6)) # Creates [[1, 2, 3, 4, 5
 print(my_list)
 ```
 

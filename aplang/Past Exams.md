@@ -21,8 +21,8 @@ These notes are for reviewing past exams to identify recurring themes and improv
 Let's say we have analyzed three past exams:
 
 * **Exam [[1:**  Covered topics A, B, C.  Emphasis on short answer.
-* **Exam [[2]:** Covered topics B, D, E. Emphasis on multiple choice and problem solving.
-* **Exam [[3]:** Covered topics A, C, E. Balanced mix of question types.
+* **Exam 2:** Covered topics B, D, E. Emphasis on multiple choice and problem solving.
+* **Exam 3:** Covered topics A, C, E. Balanced mix of question types.
 
 This suggests that topics A, B, and E are frequently tested. Short answer and multiple choice questions are common. [[Exam 1 Analysis]], [[Exam 2 Analysis]], [[Exam 3 Analysis]]
 

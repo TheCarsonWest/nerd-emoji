@@ -15,4 +15,4 @@ The Progressive Party, nicknamed the "[[Bull Moose Party]]," was formed by [[The
 * **Short-lived but Influential:** Though the party itself was short-lived, it demonstrated the strength of the Progressive movement and its ability to mobilize support outside the established political parties. It helped push the major parties towards adopting many of the Progressive's reforms.
 * **Long-term impact on the political landscape:** The "Bull Moose" platform previewed many policies and reforms that would be enacted in the decades to come, signaling a shift towards stronger government regulation and social welfare programs.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

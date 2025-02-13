@@ -19,8 +19,8 @@ $$
 
 When balancing combustion reactions:
 [[1. **Start with carbon (C)**: Balance the number of carbon atoms by adjusting the number of **CO₂** molecules.
-[[2]. **Next, balance hydrogen (H)**: Balance the hydrogen atoms by adjusting the number of **H₂O** molecules.
-[[3]. **Finally, balance oxygen (O)**: Adjust the number of **O₂** molecules to account for the total number of oxygen atoms on the right-hand side of the equation.
+2. **Next, balance hydrogen (H)**: Balance the hydrogen atoms by adjusting the number of **H₂O** molecules.
+3. **Finally, balance oxygen (O)**: Adjust the number of **O₂** molecules to account for the total number of oxygen atoms on the right-hand side of the equation.
 
 #### Example: Combustion of Propane
 

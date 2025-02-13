@@ -37,7 +37,7 @@ $A_mB_n(s) \rightleftharpoons mA^+(aq) + nB^-(aq)$
 
 The $K_{sp}$ expression is:
 
-$K_{sp} = [A^+]^m[B^-]^n$
+$K_{sp} = [A^+]]^m[B^-]]^n$
 
 The $K_{sp}$ value is a constant at a given temperature and indicates the relative solubility of the ionic compound. A larger $K_{sp}$ value indicates higher solubility.  [[Equilibrium and Ksp Calculations]]
 

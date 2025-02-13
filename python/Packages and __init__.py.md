@@ -7,7 +7,7 @@ Python packages are a way of organizing related modules into a hierarchical stru
 
 ```python
 # mypackage/__init__.py
-__all__ = ["module1", "module2"] # This line controls what gets imported with `from mypackage import *`
+__all__ = ["module1", "module2"]] # This line controls what gets imported with `from mypackage import *`
 
 # Or, you can explicitly import modules to make them available:
 from .module1 import *

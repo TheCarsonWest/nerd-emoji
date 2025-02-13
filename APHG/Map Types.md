@@ -15,7 +15,7 @@ American Map(erm actually israel exists)
 
 ## Thematic Maps
 Show spatial aspects of information or of a phenomenon
-**![Image result for choropleth map](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfa03DO11lr4Z0IJjXH1X0G12M9A5gbjuGY4tl8B0pqzFlAuoWm7_exWfImQCyicsY1yQOIuMW9jbU4to_JR0p8DMRIoAm9Kx8yiBldpl6WIJeNI2KuLCxC3B6KjOF8jKp_fk5L-fA14_ndoLrKx6cNj7lbJi3RIuRCUQ=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)
+**![Image result for choropleth map]](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfa03DO11lr4Z0IJjXH1X0G12M9A5gbjuGY4tl8B0pqzFlAuoWm7_exWfImQCyicsY1yQOIuMW9jbU4to_JR0p8DMRIoAm9Kx8yiBldpl6WIJeNI2KuLCxC3B6KjOF8jKp_fk5L-fA14_ndoLrKx6cNj7lbJi3RIuRCUQ=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)
 ## Chlorpleth
 Shows data in a color scale
 ### Chloropleths are bad
@@ -44,4 +44,4 @@ Shows data in a color scale
 - ### Most common type: topographic map
 ## Cartograms
 ### Countries have different scales based on a statistic
-**![TCL_12e_Figure_03_03_L](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc1wptMrcXGHlbkkBozam2GW24stSOm3rIDnTuUddhrQ4EhZluK4iVhkET50rKxnUzQo-TXO4M7Fvya3oAkZbJ4VN3Swzkb2ynljZ9lKsiVMTQkAhqnBgM1WG8CWh6Kif8t9JNIFgPNfitwwzhqCfmXgOBftXqJKlRYjA=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**
+**![TCL_12e_Figure_03_03_L]](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc1wptMrcXGHlbkkBozam2GW24stSOm3rIDnTuUddhrQ4EhZluK4iVhkET50rKxnUzQo-TXO4M7Fvya3oAkZbJ4VN3Swzkb2ynljZ9lKsiVMTQkAhqnBgM1WG8CWh6Kif8t9JNIFgPNfitwwzhqCfmXgOBftXqJKlRYjA=s2048?key=1sZkp5wVuy1PrAAxkaYuDA)**

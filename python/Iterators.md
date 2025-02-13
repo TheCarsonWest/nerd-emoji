@@ -22,16 +22,16 @@ class MyIterator:
     def __next__(self):
         if self.index >= len(self.data):
             raise StopIteration
-        value = self.data[self.index]
+        value = self.data[self.index]]
         self.index += [[1
         return value
 
-my_iterator = MyIterator([[1, [[2], [[3], [[4], [[5]])
+my_iterator = MyIterator([[1, 2, 3, 4, 5)
 for item in my_iterator:
     print(item)
 
 #Manual Iteration
-my_iterator = MyIterator([[1,[[2],[[3]])
+my_iterator = MyIterator([[1,2,3)
 print(next(my_iterator))
 print(next(my_iterator))
 print(next(my_iterator))
@@ -47,7 +47,7 @@ Python's built-in functions and data structures already support iteration.  You 
 **Example with `for` loop (implicitly using iterators):**
 
 ```python
-my_list = [10, 20, 30]
+my_list = [10, 20, 30]]
 for item in my_list:  #The for loop implicitly calls iter() and next()
     print(item)
 ```

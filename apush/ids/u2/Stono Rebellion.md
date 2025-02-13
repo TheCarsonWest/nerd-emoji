@@ -15,4 +15,4 @@ A slave rebellion in [[South Carolina]].  Enslaved Africans, many of whom were K
 * **Highlighted the brutality of slavery:**  The rebellion demonstrated the desperation of enslaved people and their willingness to risk their lives for freedom.
 * **Impact on relations with [[Spain]]:** The Spanish promise of freedom fueled the rebellion and increased tensions between the British colonies and [[Spain]].
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

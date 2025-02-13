@@ -17,4 +17,4 @@ A series of acts passed by the British Parliament that imposed taxes on goods im
 * **Repeal (Except for Tea):**  The Townshend Acts were largely repealed in 1770 due to economic pressure and colonial resistance, however, the tax on tea was kept to symbolically assert British authority.  The continued tax on tea would ultimately become a major cause of the [[Boston Tea Party]].
 * **Increased Tensions:** The acts represented a significant escalation in the conflict between Britain and the colonies, laying the groundwork for the American Revolution.
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

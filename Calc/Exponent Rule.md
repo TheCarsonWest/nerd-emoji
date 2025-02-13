@@ -1,6 +1,6 @@
-## [[Exponent Rule]] ### $$\frac{d}{dx}[b^x] = b^x\ln(b)$$
+## [[Exponent Rule]] ### $$\frac{d}{dx}[b^x]] = b^x\ln(b)$$
 Hence
-### $$\frac{d}{dx}[e^x] = e^x$$
+### $$\frac{d}{dx}[e^x]] = e^x$$
 
 
 

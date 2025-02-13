@@ -23,7 +23,7 @@ To convert a binary string back to decimal:
 
 ```python
 binary_string = "1010"
-decimal_number = int(binary_string, [[2]) # The [[2] indicates base [[2] (binary)
+decimal_number = int(binary_string, 2) # The 2 indicates base 2 (binary)
 print(f"The decimal representation of {binary_string} is {decimal_number}") # Output: 10
 ```
 

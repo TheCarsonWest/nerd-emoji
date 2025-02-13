@@ -7,7 +7,7 @@
 
 **Accomplishments:**
 
-* Negotiated the [[Treaty of Paris 1776] (1783), which ended the American Revolution
+* Negotiated the [[Treaty of Paris 1776]] (1783), which ended the American Revolution
 * Served as the first U.S. Minister to [[Great Britain]] (1785-1788)
 * Helped draft the [[Declaration of Independence]]
 * Founded the American Academy of Arts and Sciences

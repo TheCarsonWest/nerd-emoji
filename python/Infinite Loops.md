@@ -32,8 +32,8 @@ An infinite loop is a loop that never terminates, meaning it continues to execut
    ```python
    i = 0
    while i < 10:
-       if i == [[5]:
-           continue # This will skip incrementing i when i is [[5], creating a potential problem
+       if i == 5:
+           continue # This will skip incrementing i when i is 5, creating a potential problem
        print(i)
        i += [[1 
    ```

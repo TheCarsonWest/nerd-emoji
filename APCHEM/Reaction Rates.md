@@ -30,12 +30,12 @@ $aA + bB \rightarrow cC + dD$
 
 The rate law can be written as:
 
-$Rate = k[A]^m[B]^n$
+$Rate = k[A]]^m[B]]^n$
 
 Where:
 
 * *k* is the rate constant, which is temperature-dependent.
-* *[A]* and *[B]* represent the molar concentrations of reactants A and B.
+* *[A]]* and *[B]]* represent the molar concentrations of reactants A and B.
 * *m* and *n* are the reaction orders with respect to A and B, respectively.  These are determined experimentally and are *not* necessarily equal to the stoichiometric coefficients *a* and *b*. [[Determining Reaction Orders]]
 
 ## Integrated [[Rate Laws]]
@@ -44,7 +44,7 @@ Integrated [[Rate Laws]] relate the concentration of a reactant to time.  They a
 
 ## Half-Life
 
-Half-life ($t_{[[1/[[2]}$) is the time required for the concentration of a reactant to decrease to half its initial value.  It is a useful concept for understanding the rate of decay processes, including radioactive decay and first-order [[chemical reactions]].  [[Half-Life Calculations]]
+Half-life ($t_{[[1/2}$) is the time required for the concentration of a reactant to decrease to half its initial value.  It is a useful concept for understanding the rate of decay processes, including radioactive decay and first-order [[chemical reactions]].  [[Half-Life Calculations]]
 
 ## [[Reaction Mechanisms]]
 

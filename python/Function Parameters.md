@@ -37,7 +37,7 @@ def sum_all(*args):
     total += num
   return total
 
-print(sum_all([[1, [[2], [[3])) # Output: [[6]
+print(sum_all([[1, 2, 3)) # Output: 6
 print(sum_all(10, 20, 30, 40)) # Output: 100
 ```
 
@@ -54,10 +54,10 @@ print_kwargs(name="Eve", age=30, city="[[New York]]")
 * **Combining Parameter Types:** You can combine different parameter types in a single function definition, but positional parameters must come before keyword parameters and `*args` before `**kwargs`.
 
 ```python
-def my_function(a, b, *args, c=[[5], **kwargs):
+def my_function(a, b, *args, c=5, **kwargs):
   print(f"a: {a}, b: {b}, args: {args}, c: {c}, kwargs: {kwargs}")
 
-my_function([[1, [[2], [[3], [[4], c=10, d=20)
+my_function([[1, 2, 3, 4, c=10, d=20)
 ```
 
 * **Parameter Annotations:** These are optional and provide type hints for better code readability and static analysis. They don't enforce type checking at runtime.

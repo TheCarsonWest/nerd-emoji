@@ -32,7 +32,7 @@ with my_context_manager("value1", "value2") as result:
 ```
 
 
-**[[2]. Using a class that implements the context management protocol (__enter__ and __exit__):**
+**2. Using a class that implements the context management protocol (__enter__ and __exit__):**
 
 This approach offers more control and flexibility, especially when dealing with complex resource management scenarios or cleanup that requires more than simple `try...finally` logic.
 

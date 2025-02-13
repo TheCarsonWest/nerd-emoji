@@ -15,4 +15,4 @@ A speech delivered by William Jennings Bryan at the Democratic National Conventi
 * **Symbol of Populism:** The Cross of Gold speech remains a powerful symbol of the Populist movement and its fight against the perceived injustices of the [[Gilded Age]] economic system.
 * **Shift in Political Alignment:** The election and the rhetoric surrounding it solidified a new political alignment, setting the stage for decades of debate over monetary policy and the role of government in the economy.
 
-# [[IDS Unit 5]
+# [[IDS Unit 5]]

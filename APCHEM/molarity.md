@@ -11,10 +11,10 @@ Molarity = Moles of Solute / Volume of Solution (in liters)
 
 #### **Example:**
 
-If you have 0.[[5] moles of NaCl dissolved in [[2] liters of water, the [[molarity]] of the solution is:
+If you have 0.5 moles of NaCl dissolved in 2 liters of water, the [[molarity]] of the solution is:
 
 ```
-Molarity = 0.[[5] moles / [[2] liters = 0.25 mol/L
+Molarity = 0.5 moles / 2 liters = 0.25 mol/L
 ```
 
 ### **Diluting [[AP CHEM solutions]]**
@@ -38,7 +38,7 @@ If you have 500 mL of a [[1.0 M NaCl solution and want to dilute it to a final v
 $$
 ([[1.0 \; M)(500 \; mL) = (M_2)(1000 \; mL)
 $$$$
- M_2 = 0.[[5]\; M
+ M_2 = 0.5\; M
 $$
 
 **Stoichiometry and Molarity**

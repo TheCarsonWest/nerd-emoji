@@ -13,7 +13,7 @@
 **Important Legislation:**
 
 * [[Virginia]] Company Charter (1606): Established the [[Virginia]] Company of London and granted it a monopoly on trade in the region.
-* [[Proclamation of 1763]: Restricting westward expansion by colonists.
+* [[Proclamation of 1763]]: Restricting westward expansion by colonists.
 * [[Virginia]] Declaration of Rights (1776): A precursor to the U.S. [[Bill of Rights]].
 * [[Virginia]] Plan (1787): Proposed a strong national government at the [[Constitutional Convention]].
 

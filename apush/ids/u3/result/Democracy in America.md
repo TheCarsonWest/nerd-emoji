@@ -10,4 +10,4 @@ A two-volume work published in 1835 and 1840 that analyzed American democracy, s
 - **Inspired further study of American democracy:** His work stimulated further scholarly analysis of American democracy and its unique characteristics. 
 - **Impact on American self-perception:**  Tocqueville's observations and insights helped Americans understand their own society and its distinctive features, prompting introspection and debate. 
 
-# [[IDS Unit 3]
+# [[IDS Unit 3]]

@@ -17,4 +17,4 @@ The [[Enlightenment]], a philosophical movement emphasizing reason, individualis
 * **Education and Scientific Inquiry:** The [[Enlightenment]] spurred advancements in education and scientific investigation, emphasizing reason and empirical observation.
 
 
-# [[APUSH Period 4]
+# [[APUSH Period 4]]

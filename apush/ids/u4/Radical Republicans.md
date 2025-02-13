@@ -25,8 +25,8 @@
     - Contributed to a period of intense political and social upheaval in the South.
     - Led to the rise of Southern white resistance, including the Ku Klux Klan and other white supremacist groups.
 - **Consequences:** 
-    - Radical Reconstruction ended with the [[Compromise of 1877], which allowed for a return of white supremacy in the South. 
+    - Radical Reconstruction ended with the [[Compromise of 1877]], which allowed for a return of white supremacy in the South. 
     - This set the stage for the Jim Crow era and the systematic disenfranchisement of Black Americans. 
     - Although not fully successful, the Radical [[Republicans]]' efforts remain a significant turning point in American history, highlighting the struggle for racial equality and the enduring legacy of Reconstruction. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

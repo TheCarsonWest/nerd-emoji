@@ -1,5 +1,5 @@
 [[Deviations from Ideal Gas Behavior]]
-# $$\left[ P+\frac{an^[[2]}{V^[[2]}\right]\left[V-nb\right]=nRT$$
+# $$\left[ P+\frac{an^2}{V^2}\right]]\left[V-nb\right]]=nRT$$
 ## P: Pressure
 ## V: Molar Volume (L)
 ## T: [[Temperature]] (K)

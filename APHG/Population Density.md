@@ -1,6 +1,6 @@
  [[Glossary]]
 
-# [Arithmetic Density]
+# [Arithmetic Density]]
 # $$ Density = {People \over Area} $$
 
 
@@ -12,14 +12,14 @@
 - Qatar
 
 
-# [Physiological Density]
+# [Physiological Density]]
 # $$ PhysDensity = {People \over Arable Land} $$
 ### High Physiological Countries
-- Singapore([[6] km$^[[2]$ of arable land for 6m people)
+- Singapore(6 km$^2$ of arable land for 6m people)
 - Hong Kong
 - Most of the middle east
 - Bangladesh
-# [Agricultural Density]
+# [Agricultural Density]]
 # $$Ag Density = {Farmers \over Arable Land} $$
 ### Farmer Dense Countries
 - Djibouti

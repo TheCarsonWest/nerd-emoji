@@ -14,4 +14,4 @@ A joint resolution of the U.S. Congress, attached as an amendment to the war dec
 * **Public Opinion & War Support:** The amendment played a role in swaying public opinion in favor of war by emphasizing the humanitarian aspects of the conflict.  It also helped to alleviate concerns about potential imperialistic designs.
 * **Shaping U.S. Foreign Policy:** The [[Teller Amendment]]'s legacy highlights the complexities of U.S. foreign policy, its tendency towards interventionism, and the frequent tension between idealistic pronouncements and pragmatic actions.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

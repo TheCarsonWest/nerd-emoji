@@ -9,7 +9,7 @@
 
 **Presidency:**
 
-* Inaugurated on March [[4], 1929.
+* Inaugurated on March 4, 1929.
 * Took office during the onset of the Great Depression.
 
 **Events Associated With:**

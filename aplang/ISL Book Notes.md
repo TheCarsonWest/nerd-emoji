@@ -22,18 +22,18 @@
 * **Model Selection:** Choosing the best model involves balancing bias and variance.  Techniques include: [[Cross-Validation]], [[Regularization]].
 
 
-**Chapter [[2]: Linear Regression**
+**Chapter 2: Linear Regression**
 
 * **Simple Linear Regression:**  Modeling the relationship between a single predictor variable $X$ and a continuous response variable $Y$ using a linear equation:  $Y = \beta_0 + \beta_1X + \epsilon$, where $\beta_0$ is the intercept, $\beta_1$ is the slope, and $\epsilon$ is the error term.  Estimating $\beta_0$ and $\beta_1$ using [[Least Squares Estimation]].
 
 * **Multiple Linear Regression:** Extending simple linear regression to include multiple predictor variables: $Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_pX_p + \epsilon$.  [[Model Assumptions]].
 
-* **Assessing Model Fit:** Using $R^[[2]$, adjusted $R^[[2]$, and [[Residual Plots]] to evaluate the model's goodness of fit.
+* **Assessing Model Fit:** Using $R^2$, adjusted $R^2$, and [[Residual Plots]] to evaluate the model's goodness of fit.
 
 * **Model Diagnostics:** Identifying and addressing potential problems such as [[Multicollinearity]] and [[Heteroscedasticity]].
 
 
-**Chapter [[3]:  Classification**
+**Chapter 3:  Classification**
 
 * **Logistic Regression:** Modeling the probability of a binary outcome using a logistic function: $P(Y=[[1|X) = \frac{[[1}{[[1 + exp(-\beta_0 - \beta_1X)}$. [[Logistic Regression Details]]
 

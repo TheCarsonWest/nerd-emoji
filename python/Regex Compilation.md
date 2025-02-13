@@ -7,10 +7,10 @@ Regex compilation is the process of transforming a regular expression string int
 import re
 
 # Uncompiled regex - slower for repeated use
-pattern_string = r"\b\w{[[5]}\b"  # Matches [[5]-letter words
+pattern_string = r"\b\w{5}\b"  # Matches 5-letter words
 
 # Compiled regex - faster for repeated use
-compiled_pattern = re.compile(r"\b\w{[[5]}\b") 
+compiled_pattern = re.compile(r"\b\w{5}\b") 
 
 text = "This is a test string with some five letter words."
 

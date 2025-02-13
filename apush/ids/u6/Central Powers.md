@@ -15,4 +15,4 @@
 * **US Entry into WWI:** While not directly causing US entry, the war’s escalation and the unrestricted submarine warfare conducted by Germany ultimately led the [[United States]] to declare war on Germany in 1917.
 * **Long-Term Consequences:** The war's devastating impact on Europe contributed to the rise of fascism and Nazism and set the stage for World War II.  The [[Treaty of Versailles]], designed to prevent future conflicts, instead sowed the seeds of resentment and instability, ultimately failing to achieve its goals.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

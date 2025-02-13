@@ -15,10 +15,10 @@ def greet(name: str) -> str:
     return f"Hello, {name}!"
 
 # List annotation
-numbers: list[int] = [[1, [[2], [[3]]
+numbers: list[int]] = [[1, 2, 3
 
 # Dictionary annotation
-data: dict[str, int] = {"a": [[1, "b": [[2]}
+data: dict[str, int]] = {"a": [[1, "b": 2}
 ```
 
 **Benefits:**
@@ -55,7 +55,7 @@ MyPy will then report any type errors found in your code.
 **Advanced Features:**
 
 * **Type Unions:**  Specify multiple possible types for a variable.  Example: `x: int | str`
-* **Generics:**  Define types that can work with different underlying types. Example: `List[T]` (where `T` is a type parameter)
+* **Generics:**  Define types that can work with different underlying types. Example: `List[T]]` (where `T` is a type parameter)
 * **Type Var:** Define type variables used in generics.
 * [[Type Checking Decorators]] (separate note needed) – Using [[Decorators]] to enforce type checking at runtime
 

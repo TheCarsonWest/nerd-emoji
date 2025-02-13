@@ -45,9 +45,9 @@ This note covers the use of imagery and sensory details in writing.  The goal is
 
 **Equations (Illustrative, not directly related to the core topic):**
 
-The area of a circle is given by:  $A = \pi r^[[2]$
+The area of a circle is given by:  $A = \pi r^2$
 
-The Pythagorean theorem states:  $$a^[[2] + b^[[2] = c^[[2]$$
+The Pythagorean theorem states:  $$a^2 + b^2 = c^2$$
 
 Where:
 

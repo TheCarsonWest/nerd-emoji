@@ -9,7 +9,7 @@
 
 * **[[Equilibrium]] Constant ($K$):**  A quantitative measure of the relative amounts of reactants and products at equilibrium.  For the generic reaction: $aA + bB \rightleftharpoons cC + dD$, the equilibrium constant expression is:
 
- ## $$K = \frac{[C]^c[D]^d}{[A]^a[B]^b}$$
+ ## $$K = \frac{[C]]^c[D]]^d}{[A]]^a[B]]^b}$$
 
 * **$K_c$ vs $K_p$**: $K_c$ uses molar concentrations, while $K_p$ uses partial pressures (for gaseous reactions).  The relationship between them is given by:
 

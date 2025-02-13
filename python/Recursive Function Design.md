@@ -18,7 +18,7 @@ def factorial(n):
   else:
     return n * factorial(n-[[1)  # Recursive step
 
-print(factorial([[5]))  # Output: 120
+print(factorial(5))  # Output: 120
 ```
 
 **Important Considerations:**

@@ -13,4 +13,4 @@ Slater emigrated to the [[United States]] and built the first successful water-p
 * **Development of Northern Manufacturing Centers:** The success of Slater's mill led to the establishment of more textile mills in New England, creating a foundation for the region's dominance in manufacturing.
 * **Impact on Society:** The [[Industrial Revolution]] brought about significant social changes, including the growth of cities, the rise of a middle class, and the emergence of new social problems associated with factory work, such as child labor and worker exploitation. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

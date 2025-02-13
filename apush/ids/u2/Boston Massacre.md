@@ -1,5 +1,5 @@
 ## ID: [[Boston Massacre]] 
-## When: March [[5], 1770
+## When: March 5, 1770
 
 ## Who:
 * **British Soldiers:**  Part of the 29th Regiment of Foot, under the command of Captain Thomas Preston.
@@ -16,4 +16,4 @@ A violent confrontation between British soldiers and a group of colonists in Bos
 * **Stepping Stone to Revolution:** The [[Boston Massacre]] is viewed as one of several key events leading to the American Revolutionary War. It galvanized colonial resistance and further eroded trust in British rule.
 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

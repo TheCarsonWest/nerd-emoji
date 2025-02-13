@@ -25,10 +25,10 @@
 * Authored the [[Bill of Rights]], which added 10 amendments to the Constitution
 * Guaranteed individual freedoms and protections
 
-**[[War of 1812]:**
+**[[War of 1812]]:**
 
 * Served as [[POTUS]] from 1809 to 1817
-* Led the country during the [[War of 1812]
+* Led the country during the [[War of 1812]]
 
 **Retirement and Later Life:**
 
@@ -45,7 +45,7 @@
 
 * American Revolution
 * [[Constitutional Convention]]
-* [[War of 1812]
+* [[War of 1812]]
 
 **People and Groups Associated with Madison:**
 

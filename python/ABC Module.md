@@ -2,7 +2,7 @@
 # Python Notes: [[ABC Module]] 
 **Current String:** `[[ABC Module]]`
 
-**Full List:** `['[[ABC Module]]']`
+**Full List:** `['[[ABC Module]]']]`
 
 
 The `ABC` module in Python stands for **Abstract Base Classes**.  It's used to define interfaces for classes.  This means you specify *what* methods a class *must* have, without specifying *how* those methods are implemented.
@@ -33,10 +33,10 @@ class Circle(Shape):
         self.radius = radius
 
     def area(self):
-        return [[3].14159 * self.radius * self.radius
+        return 3.14159 * self.radius * self.radius
 
     def perimeter(self):
-        return [[2] * [[3].14159 * self.radius
+        return 2 * 3.14159 * self.radius
 
 class Rectangle(Shape):
     def __init__(self,width, height):
@@ -47,16 +47,16 @@ class Rectangle(Shape):
         return self.width * self.height
     
     def perimeter(self):
-        return [[2]*(self.width + self.height)
+        return 2*(self.width + self.height)
 
 #This will raise a TypeError because Shape is an abstract class
 #shape = Shape()
 
-circle = Circle([[5])
+circle = Circle(5)
 print(f"Circle Area: {circle.area()}")
 print(f"Circle Perimeter: {circle.perimeter()}")
 
-rectangle = Rectangle([[4],[[6])
+rectangle = Rectangle(4,6)
 print(f"Rectangle Area: {rectangle.area()}")
 print(f"Rectangle Perimeter: {rectangle.perimeter()}")
 

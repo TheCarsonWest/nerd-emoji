@@ -2,7 +2,7 @@
 
 **Events and Policies:**
 
-* **[[Election of 1828]:** Van Buren, as [[Andrew Jackson]]'s running mate, helped secure Jackson's victory.
+* **[[Election of 1828]]:** Van Buren, as [[Andrew Jackson]]'s running mate, helped secure Jackson's victory.
 * **Jacksonian Era:** Van Buren served as Jackson's Secretary of State from 1829-1831 and Vice President from 1833-1837.
 * **Specie Circular (1836):** As Treasury Secretary under Jackson, Van Buren issued the Specie Circular, which required the payment of public lands to be made in gold or silver, contributing to the Panic of 1837.
 * **Independent Treasury System (1840):** As President, Van Buren established the Independent Treasury System, separating government funds from private banks.

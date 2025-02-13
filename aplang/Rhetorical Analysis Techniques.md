@@ -37,4 +37,4 @@ After analyzing the individual elements, consider how they work together to crea
 
 An example of a simple linear equation: $y = mx + b$
 
-A more complex equation showing the quadratic formula:  $$x = \frac{-b \pm \sqrt{b^[[2] - 4ac}}{2a}$$
+A more complex equation showing the quadratic formula:  $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$

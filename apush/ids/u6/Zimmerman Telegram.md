@@ -17,4 +17,4 @@ A secret diplomatic communication issued from the German Foreign Office in Janua
 * **Declaration of War:** While not the sole cause, the telegram was a crucial factor contributing to President Wilson's decision to ask Congress for a declaration of war against Germany in April 1917.  It provided undeniable proof of German intentions and removed remaining doubts among many Americans about the need for US intervention.
 * **Strengthened Allied Position:** The telegram boosted the morale and resolve of the Allied powers (Britain and [[France]]) by showcasing Germany's desperation and solidifying US support.  The shift in US public opinion made it much more likely that the US would join the war effort, changing the balance of power significantly.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

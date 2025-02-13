@@ -1,4 +1,4 @@
-## [[Product Rule]] ### $$\frac{d}{dx}[f(x)g(x)] = f'(x)g(x)+g'(x)f(x)$$
+## [[Product Rule]] ### $$\frac{d}{dx}[f(x)g(x)]] = f'(x)g(x)+g'(x)f(x)$$
 
 
 

@@ -8,7 +8,7 @@ This note covers Python operators.  Further notes will be needed for subtopics.
 
 ```python
 x = 10
-y = [[5]
+y = 5
 
 print(x + y)  # Addition
 print(x - y)  # Subtraction
@@ -23,7 +23,7 @@ print(x ** y) # Exponentiation
 
 ```python
 x = 10
-y = [[5]
+y = 5
 
 print(x == y) # Equal to
 print(x != y) # Not equal to
@@ -48,13 +48,13 @@ print(not x)   # Logical NOT
 
 ```python
 x = 10         # Simple assignment
-x += [[5]         # x = x + [[5]
-x -= [[5]         # x = x - [[5]
-x *= [[5]         # x = x * [[5]
-x /= [[5]         # x = x / [[5]
-x %= [[5]         # x = x % [[5]
-x **= [[5]        # x = x ** [[5]
-x //= [[5]        # x = x // [[5]
+x += 5         # x = x + 5
+x -= 5         # x = x - 5
+x *= 5         # x = x * 5
+x /= 5         # x = x / 5
+x %= 5         # x = x % 5
+x **= 5        # x = x ** 5
+x //= 5        # x = x // 5
 
 ```
 
@@ -63,9 +63,9 @@ x //= [[5]        # x = x // [[5]
 * **Membership [[Operators]]:** These test for membership in sequences (e.g., lists, tuples, strings).
 
 ```python
-my_list = [[1, [[2], [[3]]
+my_list = [[1, 2, 3
 print([[1 in my_list)  # True
-print([[4] in my_list)  # False
+print(4 in my_list)  # False
 print([[1 not in my_list) # False
 
 ```
@@ -73,8 +73,8 @@ print([[1 not in my_list) # False
 * **[[Identity]] [[Operators]]:** These test for object identity (whether two variables refer to the same object in memory).
 
 ```python
-x = [[1,[[2],[[3]]
-y = [[1,[[2],[[3]]
+x = [[1,2,3
+y = [[1,2,3
 z = x
 
 print(x is y) # False (different objects)

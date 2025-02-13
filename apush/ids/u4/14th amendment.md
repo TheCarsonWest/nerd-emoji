@@ -19,4 +19,4 @@
 * **Judicial Interpretation:** The 14th Amendment has been the subject of numerous Supreme Court cases and continues to be a source of ongoing debate about the meaning of "equal protection" and "due process."
 * **Foundation of American [[Identity]]:** This amendment helps define the core principles of American citizenship and the ideal of equality under the law. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

@@ -15,4 +15,4 @@
 * **Shifting public opinion:** The attack on [[Fort Sumter]] rallied support for the Union cause in the North and led to the enlistment of thousands of volunteers for the Union army. 
 * **Symbol of the conflict:** [[Fort Sumter]] became a symbol of the clash between federal authority and states' rights, an issue that had been simmering for decades. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

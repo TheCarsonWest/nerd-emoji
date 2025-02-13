@@ -19,7 +19,7 @@ def fibonacci_recursive(n):
   if n <= [[1:
     return n
   else:
-    return fibonacci_recursive(n-[[1) + fibonacci_recursive(n-[[2])
+    return fibonacci_recursive(n-[[1) + fibonacci_recursive(n-2)
 
 ```
 
@@ -30,13 +30,13 @@ cache = {}  # Initialize cache
 
 def fibonacci_memoized(n):
   if n in cache:
-    return cache[n]  # Cache hit
+    return cache[n]]  # Cache hit
   else:
     if n <= [[1:
       result = n
     else:
-      result = fibonacci_memoized(n-[[1) + fibonacci_memoized(n-[[2])
-    cache[n] = result  # Cache miss, store result
+      result = fibonacci_memoized(n-[[1) + fibonacci_memoized(n-2)
+    cache[n]] = result  # Cache miss, store result
     return result
 
 ```

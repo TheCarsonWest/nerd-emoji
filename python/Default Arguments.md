@@ -16,7 +16,7 @@ greet("Bob", "Good morning")  # Output: Good morning, Bob!
 
 ```python
 # Correct
-def func(a, b=[[2]):
+def func(a, b=2):
     pass
 
 # Incorrect - will raise a SyntaxError

@@ -6,7 +6,7 @@
 * **1776:** Ratifies the [[Declaration of Independence]]
 * **1781:** Battle of Cowpens, a turning point in the Revolutionary War
 * **1788:** Ratifies the Constitution
-* **1812:** [[War of 1812], Battle of Bladensburg
+* **1812:** [[War of 1812]], Battle of Bladensburg
 * **1861:** Secedes from the Union and joins the Confederate States of America
 * **1863:** [[Battle of Antietam]], a major battle of the [[Civil War]] * **1864:** Ratifies the [[13th amendment]] abolishing slavery
 * **1906:** Great Baltimore Fire

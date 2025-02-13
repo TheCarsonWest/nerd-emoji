@@ -46,7 +46,7 @@ class MyList:
     def __len__(self):
         return len(self.data)
 
-my_list = MyList([[1,[[2],[[3]])
+my_list = MyList([[1,2,3)
 print(len(my_list))
 ```
 
@@ -56,7 +56,7 @@ print(len(my_list))
 
 * `__iter__(self)`:  Makes your class iterable (using `for` loops).  Needs to return an iterator object. [[Iterators]] and [[Generators]]
 
-* `__getitem__(self, key)`: Allows accessing items using indexing (`my_object[index]`). [[Context Managers]]
+* `__getitem__(self, key)`: Allows accessing items using indexing (`my_object[index]]`). [[Context Managers]]
 
 
 **Further Exploration:**

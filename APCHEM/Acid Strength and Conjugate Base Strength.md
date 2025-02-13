@@ -7,7 +7,7 @@
 
   $HA(aq) \rightleftharpoons H^+(aq) + A^-(aq)$
 
-  $K_a = \frac{[H^+][A^-]}{[HA]}$
+  $K_a = \frac{[H^+]][A^-]]}{[HA]]}$
 
 * **pKa:** The negative logarithm of $K_a$.  A smaller $pK_a$ value indicates a stronger acid.  $pK_a = -\log_{10}K_a$
 

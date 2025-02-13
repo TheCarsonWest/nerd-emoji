@@ -7,7 +7,7 @@ Key functions:
 * `numpy.fft.fft()`: Computes the one-dimensional discrete Fourier Transform (DFT).
 ```python
 import numpy as np
-x = np.array([[1.0, [[2].0, [[1.0, -[[1.0])
+x = np.array([[1.0, 2.0, [[1.0, -[[1.0]])
 transformed_x = np.fft.fft(x)
 print(transformed_x)
 ```
@@ -48,7 +48,7 @@ transformed_image = np.fft.fft2(image)
 import matplotlib.pyplot as plt
 # Generate a simple sine wave
 t = np.linspace(0, [[1, 128, endpoint=False)
-sig = np.sin([[2]*np.pi*10*t)
+sig = np.sin(2*np.pi*10*t)
 # Add some noise
 sig += np.random.randn(128)*0.[[1
 # Compute and plot the FFT

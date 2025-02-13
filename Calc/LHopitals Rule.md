@@ -20,7 +20,7 @@ Let's say we want to evaluate the limit:
 ### $$\lim_{x \to 0} \frac{\sin(x)}{x}$$
 **[[1. Indeterminate Form:**  Substituting $x = 0$ directly gives us $\frac{\sin(0)}{0} = \frac{0}{0}$, which is an indeterminate form.
 
-**[[2]. Apply L'Hopital's Rule:**
+**2. Apply L'Hopital's Rule:**
 
 *  $f(x) = \sin(x)$
 *  $g(x) = x$
@@ -31,7 +31,7 @@ Therefore, we have:
 
 $$\lim_{x \to 0} \frac{\sin(x)}{x} = \lim_{x \to 0} \frac{\cos(x)}{[[1}$$
 
-**[[3]. Evaluate the Limit:**
+**3. Evaluate the Limit:**
 
 $$\lim_{x \to 0} \frac{\cos(x)}{[[1} = \frac{\cos(0)}{[[1} = [[1$$
 

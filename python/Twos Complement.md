@@ -13,13 +13,13 @@ Two's complement is a way to represent signed integers (positive and negative) i
 
 **Example (8-bit):**
 
-Let's represent [[5] and -[[5]:
+Let's represent 5 and -5:
 
-* **[[5]:** `00000101` (Positive, standard binary)
+* **5:** `00000101` (Positive, standard binary)
 
-* **-[[5]:**
+* **-5:**
     [[1. Invert bits: `11111010`
-    [[2]. Add [[1: `11111011`
+    2. Add [[1: `11111011`
 
 **Python Implementation:**
 
@@ -29,13 +29,13 @@ Python handles this internally, so you don't usually need to worry about the spe
 def twos_complement(n, bits):
     """Represents an integer using two's complement in a specified number of bits."""
     if n >= 0:
-        return bin(n)[[2]:].zfill(bits)  #Positive numbers
+        return bin(n)2:]].zfill(bits)  #Positive numbers
     else:
-        positive_equivalent = ([[1 << bits) + n #add [[2]^bits to get the positive equivalent
-        return bin(positive_equivalent)[[2]:].zfill(bits)
+        positive_equivalent = ([[1 << bits) + n #add 2^bits to get the positive equivalent
+        return bin(positive_equivalent)2:]].zfill(bits)
 
-print(twos_complement([[5], 8))  # Output: 00000101
-print(twos_complement(-[[5], 8)) # Output: 11111011
+print(twos_complement(5, 8))  # Output: 00000101
+print(twos_complement(-5, 8)) # Output: 11111011
 
 ```
 
