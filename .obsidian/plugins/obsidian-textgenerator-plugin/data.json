@@ -13,7 +13,7 @@
   "freeCursorOnStreaming": false,
   "allowJavascriptRun": false,
   "experiment": false,
-  "promptsPath": "textgenerator/templates",
+  "promptsPath": "/templates/",
   "textGenPath": "textgenerator/",
   "prefix": "\n\n",
   "tgSelectionLimiter": "^\\*\\*\\*",

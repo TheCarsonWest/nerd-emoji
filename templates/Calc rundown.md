@@ -1,2 +1,1 @@
-
-Make a calculus AB rundown on  <% tp.file.title %>  in markdown format(make use of headings), use the LaTeX equation library format when writing equations. For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]], make sure they are just short titles for seperate notes).
+Make a AP Calculus AB rundown on {{title}} in markdown format(make use of headings), use the LaTeX equation library format when writing equations. For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]], make sure they are just short titles for seperate notes)].
