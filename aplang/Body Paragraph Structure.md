@@ -3,7 +3,7 @@
 
 **Core Components:**
 
-[[1. **Topic Sentence:**  This sentence introduces the main idea of the paragraph. It should directly relate to the thesis statement.  It needs to be clear, concise, and arguable.
+1. **Topic Sentence:**  This sentence introduces the main idea of the paragraph. It should directly relate to the thesis statement.  It needs to be clear, concise, and arguable.
 
 2. **Supporting Evidence:** This section provides the evidence to back up the topic sentence. This can include:
     * **Facts:**  Verifiable pieces of information.

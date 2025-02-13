@@ -7,7 +7,7 @@
 ## What: 
 A foreign policy statement declaring that:
 
-[[1. **The Americas were closed to further European colonization.**  Any attempts to colonize or interfere in the Western Hemisphere by European powers would be considered a hostile act against the [[United States]].
+1. **The Americas were closed to further European colonization.**  Any attempts to colonize or interfere in the Western Hemisphere by European powers would be considered a hostile act against the [[United States]].
 2. **The [[United States]] would not interfere in the internal affairs of European nations** or their existing colonies. 
 3. **The [[United States]] recognized and would not interfere with existing colonies in the Western Hemisphere.**
 

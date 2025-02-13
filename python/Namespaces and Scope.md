@@ -11,7 +11,7 @@ There are several types of namespaces:
 
 Scope determines the accessibility of names.  It's the region of code where a particular name is visible and can be accessed.  Python uses the LEGB rule to search for names:
 
-[[1. **L**ocal: The innermost scope, where the name is defined.
+1. **L**ocal: The innermost scope, where the name is defined.
 2. **E**nclosing function locals:  If not found locally, Python searches outwards to enclosing functions.
 3. **G**lobal:  The module's namespace.
 4. **B**uilt-in: The namespace containing pre-defined functions and constants.

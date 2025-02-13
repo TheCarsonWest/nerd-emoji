@@ -4,7 +4,7 @@ Broadcasting is a powerful feature in NumPy that allows for efficient operations
 
 **Rules of Broadcasting:**
 
-[[1. **Shape Alignment:** NumPy compares the dimensions of the arrays from right to left.  If dimensions are equal or one of them is [[1, broadcasting is possible.
+1. **Shape Alignment:** NumPy compares the dimensions of the arrays from right to left.  If dimensions are equal or one of them is [[1, broadcasting is possible.
 
 2. **Dimension Expansion:** Dimensions of size [[1 are stretched (or "expanded") to match the corresponding dimension of the other array.
 

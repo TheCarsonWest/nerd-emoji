@@ -1,6 +1,6 @@
 ## Kitten Notes: A Deep Dive into Cuteness Overload 
 
-**[[1. Physical Characteristics:**
+**1. Physical Characteristics:**
 
 * **Size:** Tiny!  Newborn [[kittens]] are typically under 6 inches long and weigh around 3.5 ounces. They grow rapidly, reaching about half their adult size by 6 weeks old.
 * **Fur:** Soft, downy, and irresistible to touch! Kittens can be born with a variety of coat patterns and colors depending on their breed and parentage.

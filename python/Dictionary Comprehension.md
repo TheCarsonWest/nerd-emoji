@@ -17,7 +17,7 @@ Dictionary comprehension provides a concise way to create dictionaries in Python
 
 **Examples:**
 
-[[1. **Simple [[Dictionary Comprehension]]:**
+1. **Simple [[Dictionary Comprehension]]:**
 
 ```python
 squares = {x: x*x for x in range([[1, 6)} 

@@ -3,7 +3,7 @@
 
 The Toulmin model is a practical approach to analyzing arguments and constructing persuasive ones. It breaks down an argument into six key components:
 
-[[1. **Claim:** The main point or assertion being argued.  $Claim = P$
+1. **Claim:** The main point or assertion being argued.  $Claim = P$
 
 2. **Data/Grounds:** The evidence or facts used to support the claim. $Data = E$
 

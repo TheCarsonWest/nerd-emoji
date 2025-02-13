@@ -1,4 +1,4 @@
-### [[1. [[Demographic Transition Model]] 
+### 1. [[Demographic Transition Model]] 
 
 !1(https://populationeducation.org/wp-content/uploads/2014/10/dtm.png)
 
@@ -6,7 +6,7 @@ This model illustrates the shifts in birth rates, death rates, and population gr
 
 | Stage                   | Birth Rate  | Death Rate  | Population Growth               | Key Characteristics                                                                       | Examples                                                                            |
 | ----------------------- | ----------- | ----------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **[[1. Pre-industrial**   | High        | High        | Stable (low)                    | Limited healthcare, sanitation, and food security.                                        | Uncontacted tribes, everyone before the 1700s                                       |
+| **1. Pre-industrial**   | High        | High        | Stable (low)                    | Limited healthcare, sanitation, and food security.                                        | Uncontacted tribes, everyone before the 1700s                                       |
 | **2. Early Industrial** | High        | **Falling** | **Rapid increase**              | Improved sanitation and healthcare; reduced infant mortality. created by [[Cultural Lag]] | Poorer MENA, Africa, Central Asia                                                   |
 | **3. Late Industrial**  | **Falling** | **Falling** | **Slowing increase**            | Increased urbanization, education, and family planning.                                   | Central and South America, Wealthier MENA Countries, Wealthier SEA countries, India |
 | **4. Post-industrial**  | Low         | Low         | Stable (high) or **decreasing** | High living standards, aging population.                                                  | US, Canada, Argentina, Australia, New Zealand, Most of europe                       |
@@ -26,7 +26,7 @@ This model explains the leading causes of death in each stage of the demographic
 
 | Stage                                | Dominant Health Threats                                                                   |
 | ------------------------------------ | ----------------------------------------------------------------------------------------- |
-| **[[1. Pestilence and Famine**         | Infectious diseases, malnutrition                                                         |
+| **1. Pestilence and Famine**         | Infectious diseases, malnutrition                                                         |
 | **2. Receding Pandemics**            | Improved sanitation and healthcare lead to a decline in infectious diseases.              |
 | **3. Degenerative Diseases**         | Chronic illnesses like heart disease, cancer, and diabetes rise due to lifestyle changes. |
 | **4. Delayed Degenerative Diseases** | Medical advancements prolong life, delaying the onset of chronic diseases.                |

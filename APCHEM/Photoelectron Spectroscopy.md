@@ -4,7 +4,7 @@
 ** [[Photoelectron Spectroscopy]]**
 Photoelectron spectroscopy is a technique that measures the kinetic energy of electrons emitted from a material when it is irradiated with ultraviolet or X-ray radiation.
 ## How it works
-[[1. **Irradiation:** A sample is irradiated with photons (UV or X-rays) with known energy.
+1. **Irradiation:** A sample is irradiated with photons (UV or X-rays) with known energy.
 2. **Photoionization:** The photons interact with electrons in the sample, causing them to be ejected (photoionization).
 3. **Energy Analysis:** The kinetic energy of the emitted electrons is measured using an electron energy analyzer.
 ### Photoelectron spectroscopy provides information about the electronic structure of the material, including:

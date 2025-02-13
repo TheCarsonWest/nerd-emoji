@@ -2,13 +2,13 @@
 
 This rundown covers using the first [[derivative]] to analyze the behavior of a function.  We'll focus on finding [[Critical Point]], increasing/decreasing intervals, and local extrema.
 
-## [[1. Finding Critical Points
+## 1. Finding Critical Points
 
 Critical points are points in the domain of a function where the [[derivative]] is either zero or undefined.  These points are potential locations for local maxima, local minima, or neither.
 
 To find critical points:
 
-[[1. **Find the first [[derivative]]:** $f'(x)$
+1. **Find the first [[derivative]]:** $f'(x)$
 2. **Set the [[derivative]] equal to zero:** $f'(x) = 0$ and solve for $x$.  These are the critical points where the [[derivative]] is zero.
 3. **Find where the [[derivative]] is undefined:** Determine if there are any points in the domain of $f(x)$ where $f'(x)$ is undefined (e.g., division by zero, square root of a negative number). These are also critical points.
 
@@ -32,7 +32,7 @@ The first [[derivative]] tells us about the function's increasing and decreasing
 
 To find increasing/decreasing intervals:
 
-[[1. **Find the critical points.**
+1. **Find the critical points.**
 2. **Test intervals:** Choose test points in the intervals created by the critical points.  Plug these test points into $f'(x)$. If $f'(x) > 0$, the function is increasing in that interval; if $f'(x) < 0$, it's decreasing.
 
 
@@ -50,7 +50,7 @@ For $f(x) = x^3 - 3x$, the critical points are $x = -[[1$ and $x = [[1$.
 ### First [[Derivative]] test
 Local extrema occur at critical points.  The first [[derivative]] test helps determine whether a [[Critical Point]] is a local maximum, local minimum, or neither:
 
-[[1. **If $f'(x)$ changes from positive to negative at a [[Critical Point]] $c$, then $f(c)$ is a local maximum.**
+1. **If $f'(x)$ changes from positive to negative at a [[Critical Point]] $c$, then $f(c)$ is a local maximum.**
 2. **If $f'(x)$ changes from negative to positive at a [[Critical Point]] $c$, then $f(c)$ is a local minimum.**
 3. **If $f'(x)$ does not change sign at a [[Critical Point]] $c$, then $f(c)$ is neither a local maximum nor a local minimum (it could be a saddle point).**
 

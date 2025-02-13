@@ -1,7 +1,7 @@
 
 # [[ID Home]]
 
-[[1. [[Gilded Age]]
+1. [[Gilded Age]]
 2. [[Xenophobia]]
 3. [[Lilliputians]]
 4. [[Robber Barons]]

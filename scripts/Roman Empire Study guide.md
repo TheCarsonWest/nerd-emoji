@@ -1,7 +1,7 @@
 
 **I. The Foundation of Rome:**
 
-[[1.  **What were the key factors that contributed to the rise of the Roman Empire?** 
+1.  **What were the key factors that contributed to the rise of the Roman Empire?** 
     - Ambition, lust for conquest, a penchant for murder, and unparalleled technological advancements were all crucial elements.
 2.  **How did Roman building projects reflect the culture and ideology of the Empire?** 
     - Colossal structures like stadiums, palaces, roads, and aqueducts showcased Rome's power, technological superiority, and ambition.

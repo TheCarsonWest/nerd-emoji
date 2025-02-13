@@ -7,7 +7,7 @@ This note covers creating a recommended reading list.
 
 **Sections:**
 
-[[1. **Introduction:** Briefly explain the purpose of the reading list and the target audience.  Mention the criteria used for selecting the books (e.g., relevance, quality, accessibility).
+1. **Introduction:** Briefly explain the purpose of the reading list and the target audience.  Mention the criteria used for selecting the books (e.g., relevance, quality, accessibility).
 
 2. **Reading List:**  This is the core of the document.  Organize the list logically (chronologically, thematically, by difficulty level etc.).  For each book, include:
     * **Title:** *Book Title*

@@ -6,7 +6,7 @@ Different ways to create arrays in Python, focusing primarily on NumPy arrays wh
 
 **Methods:**
 
-[[1. **Using `numpy.array()`:** This is the most straightforward method.  It takes an iterable (like a list or tuple) as input.
+1. **Using `numpy.array()`:** This is the most straightforward method.  It takes an iterable (like a list or tuple) as input.
 
 ```python
 import numpy as np

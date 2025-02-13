@@ -16,7 +16,7 @@ new_list = [expression for item in iterable if condition]]
 
 **Examples:**
 
-[[1. **Squaring numbers:**
+1. **Squaring numbers:**
 
 ```python
 numbers = [[1, 2, 3, 4, 5

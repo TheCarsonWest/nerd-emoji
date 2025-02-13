@@ -8,7 +8,7 @@
 * **Supreme Court Justices:**  The Supreme Court justices who heard the case and ultimately ruled in favor of Ferguson.  (Knowing specific justices is not crucial for APUSH, but understanding the Court's conservative leanings at the time is).
 
 ## What:
-This Supreme Court case challenged the constitutionality of [[Louisiana]]'s Separate Car Act, which mandated racial segregation on public transportation.  Plessy, who was seven-eighths Caucasian, intentionally violated the law to challenge it. The Supreme Court ruled 7-[[1 in favor of Ferguson, upholding the legality of "separate but equal" facilities for Black and white Americans.
+This Supreme Court case challenged the constitutionality of [[Louisiana]]'s Separate Car Act, which mandated racial segregation on public transportation.  Plessy, who was seven-eighths Caucasian, intentionally violated the law to challenge it. The Supreme Court ruled 7-1 in favor of Ferguson, upholding the legality of "separate but equal" facilities for Black and white Americans.
 
 ## Impact: Why Significant?:
 * **Legalization of Jim Crow:** The Plessy v. Ferguson decision provided the legal framework for the Jim Crow laws that enforced racial segregation throughout the South for the next 50 years. These laws affected all aspects of life, including education, housing, transportation, and employment.

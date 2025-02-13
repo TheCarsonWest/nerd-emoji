@@ -1,7 +1,7 @@
 used in [[intermolecular forces]]
 
 # how to figure out the polarity of a molecule in 5 easy steps
-[[1. Is it an Ionic Compounds?
+1. Is it an Ionic Compounds?
 	- If yes, yes its polar
 2. Is it Metallic?
 	- If yes, then you are worried about the wrong thing right now my guy

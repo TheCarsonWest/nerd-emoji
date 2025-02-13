@@ -5,7 +5,7 @@
 
 **Key Steps:**
 
-[[1. **Identify Potential Counterarguments:** Brainstorm all possible objections to your main claim.  Consider different perspectives and levels of opposition.  This might involve:
+1. **Identify Potential Counterarguments:** Brainstorm all possible objections to your main claim.  Consider different perspectives and levels of opposition.  This might involve:
     * Considering different interpretations of the evidence.
     * Thinking about alternative explanations.
     * Identifying potential biases or weaknesses in your own argument. [[Identifying Biases in Arguments]]

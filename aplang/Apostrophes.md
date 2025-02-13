@@ -3,7 +3,7 @@
 
 [[Apostrophes]] indicate either possession or contractions.
 
-**[[1. Possession:**
+**1. Possession:**
 
 *   **Singular nouns:** Add an apostrophe + *s* ('s).  Example:  the dog's bone.
 *   **Plural nouns ending in *s*:** Add only an apostrophe after the *s*. Example: the dogs' bones.

@@ -3,10 +3,10 @@
 
 The [[Mean Value Theorem]] is a fundamental theorem in calculus that connects the average rate of change of a function to its instantaneous rate of change.  It essentially states that if a function is continuous and differentiable on an interval, there exists at least one point within that interval where the instantaneous rate of change (slope of the tangent line) equals the average rate of change over the entire interval.
 
-## [[1.  Statement of the [[Mean Value Theorem]] 
+## 1.  Statement of the [[Mean Value Theorem]] 
 Let $f$ be a function that satisfies the following two hypotheses:
 
-[[1. $f$ is continuous on the closed interval $[a, b]]$.
+1. $f$ is continuous on the closed interval $[a, b]]$.
 2. $f$ is differentiable on the open interval $(a, b)$.
 
 Then there exists a number $c$ in $(a, b)$ such that:
@@ -24,7 +24,7 @@ The [[Mean Value Theorem]] has a clear geometric interpretation. The equation $f
 ```desmos-graph
 y = x^2
 y = (3-0)/(2-0)*(x-0)+0
-y = [[1.5x
+y = 1.5x
 ```
 
 In the above graph, the curve represents $f(x) = x^2$, the interval is $[0,2$. The red line represents the secant line, and the blue line represents the tangent line at the point $c$ where the MVT holds.
@@ -38,7 +38,7 @@ In the above graph, the curve represents $f(x) = x^2$, the interval is $[0,2$. T
 
 Let $f$ be a function that satisfies the following hypotheses:
 
-[[1. $f$ is continuous on the closed interval $[a, b]]$.
+1. $f$ is continuous on the closed interval $[a, b]]$.
 2. $f$ is differentiable on the open interval $(a, b)$.
 3. $f(a) = f(b)$
 

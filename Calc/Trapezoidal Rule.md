@@ -17,13 +17,13 @@ This can be written more compactly as:
 
 Let's approximate $\int_1^3 x^2 \, dx$ using the [[Trapezoidal Rule]] with $n=4$ subintervals.
 
-[[1. **Find $\Delta x$:** $\Delta x = \frac{3 - [[1}{4} = 0.5$
+1. **Find $\Delta x$:** $\Delta x = \frac{3 - [[1}{4} = 0.5$
 
-2. **Find the $x_i$ values:** $x_0 = [[1$, $x_1 = [[1.5$, $x_2 = 2$, $x_3 = 2.5$, $x_4 = 3$
+2. **Find the $x_i$ values:** $x_0 = [[1$, $x_1 = 1.5$, $x_2 = 2$, $x_3 = 2.5$, $x_4 = 3$
 
 3. **Evaluate the function at each $x_i$:**
    $f(x_0) = f([[1) = [[1^2 = [[1$
-   $f(x_1) = f([[1.5) = [[1.5^2 = 2.25$
+   $f(x_1) = f(1.5) = 1.5^2 = 2.25$
    $f(x_2) = f(2) = 2^2 = 4$
    $f(x_3) = f(2.5) = 2.5^2 = 6.25$
    $f(x_4) = f(3) = 3^2 = 9$

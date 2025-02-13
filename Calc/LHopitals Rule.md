@@ -18,7 +18,7 @@ $$\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$$
 
 Let's say we want to evaluate the limit:
 ### $$\lim_{x \to 0} \frac{\sin(x)}{x}$$
-**[[1. Indeterminate Form:**  Substituting $x = 0$ directly gives us $\frac{\sin(0)}{0} = \frac{0}{0}$, which is an indeterminate form.
+**1. Indeterminate Form:**  Substituting $x = 0$ directly gives us $\frac{\sin(0)}{0} = \frac{0}{0}$, which is an indeterminate form.
 
 **2. Apply L'Hopital's Rule:**
 

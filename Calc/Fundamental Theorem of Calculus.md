@@ -46,7 +46,7 @@ $\int_1^3 x^2 \, dx = \left[ \frac{x^3}{3} \right]]_1^3 = \frac{3^3}{3} - \frac{
 
 ## Connecting the Two Parts
 
-The two parts of the FTC are intimately related. Part [[1 shows that differentiation "undoes" integration, while Part 2 uses this fact to provide a practical method for calculating definite [[integrals]].  Part 2 relies on the existence of an antiderivative, which is guaranteed (under certain conditions) by Part [[1.
+The two parts of the FTC are intimately related. Part [[1 shows that differentiation "undoes" integration, while Part 2 uses this fact to provide a practical method for calculating definite [[integrals]].  Part 2 relies on the existence of an antiderivative, which is guaranteed (under certain conditions) by Part 1.
 
 ## Visual Representation
 
@@ -55,7 +55,7 @@ y = x^2
 y = \int_0^x t^2 dt
 ```
 
-The graph shows $y=x^2$ (blue) and its accumulation function from 0 to x (red). Notice how the slope of the red curve at any point x is equal to the value of the blue curve at that point, illustrating FTC Part [[1.
+The graph shows $y=x^2$ (blue) and its accumulation function from 0 to x (red). Notice how the slope of the red curve at any point x is equal to the value of the blue curve at that point, illustrating FTC Part 1.
 
 
 ## Important Note:

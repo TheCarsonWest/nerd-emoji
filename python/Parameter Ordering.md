@@ -5,7 +5,7 @@ Python's function parameter ordering follows a specific pattern which can someti
 
 The general order is:
 
-[[1. **Positional Parameters:** These are the parameters that are filled based on their position in the function definition.  They *must* be provided in the correct order during function invocation.
+1. **Positional Parameters:** These are the parameters that are filled based on their position in the function definition.  They *must* be provided in the correct order during function invocation.
 
    ```python
    def my_func(a, b, c):

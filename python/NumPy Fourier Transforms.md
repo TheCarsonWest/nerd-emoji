@@ -7,7 +7,7 @@ Key functions:
 * `numpy.fft.fft()`: Computes the one-dimensional discrete Fourier Transform (DFT).
 ```python
 import numpy as np
-x = np.array([[1.0, 2.0, [[1.0, -[[1.0]])
+x = np.array(1.0, 2.0, 1.0, -1.0]])
 transformed_x = np.fft.fft(x)
 print(transformed_x)
 ```

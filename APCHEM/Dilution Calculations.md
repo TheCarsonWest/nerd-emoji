@@ -31,7 +31,7 @@ While the units for volume can technically be any unit as long as they are consi
 
 What volume of a 12.0 M HCl solution is required to prepare 250.0 mL of a 0.500 M HCl solution?
 
-[[1. **Identify knowns and unknowns:**
+1. **Identify knowns and unknowns:**
 
    $M_1$ = 12.0 M
    $V_1$ = ?

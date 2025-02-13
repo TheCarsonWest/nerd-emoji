@@ -11,7 +11,7 @@ Mutable vs. Immutable types:  A core concept in Python. Understanding this is cr
 
 **Pitfalls:**
 
-[[1. **Modifying lists within loops:**
+1. **Modifying lists within loops:**
     ```python
     my_list = [[1, 2, 3, 4
     for sublist in my_list:

@@ -16,7 +16,7 @@ A function is **concave up** if its graph is shaped like a cup ($\cup$), and **c
 ## Finding [[Inflection Points]] 
 Inflection points occur where the concavity of a function changes.  This means the second [[derivative]], $f''(x)$, changes sign.  To find inflection points, we follow these steps:
 
-[[1. **Find the second [[derivative]]:** $f''(x)$
+1. **Find the second [[derivative]]:** $f''(x)$
 2. **Find critical points of the second [[derivative]]:** Set $f''(x) = 0$ or find where $f''(x)$ is undefined.  These are potential inflection points.
 3. **Analyze the sign of $f''(x)$ around the critical points:**  If the sign of $f''(x)$ changes from positive to negative (or vice-versa) as $x$ passes through a [[Critical Point]], then that point is an inflection point.  If the sign does *not* change, it's not an inflection point.
 4. **Verify that the point is in the domain of the original function.**
@@ -29,7 +29,7 @@ Inflection points occur where the concavity of a function changes.  This means t
 
 Let's find the inflection points of the function $f(x) = x^3 - 3x^2 + 2x$.
 
-[[1. **First [[derivative]]:** $f'(x) = 3x^2 - 6x + 2$
+1. **First [[derivative]]:** $f'(x) = 3x^2 - 6x + 2$
 2. **Second [[derivative]]:** $f''(x) = 6x - 6$
 3. **Critical points:** Set $f''(x) = 0$:  $6x - 6 = 0 \implies x = [[1$
 4. **Sign analysis:**

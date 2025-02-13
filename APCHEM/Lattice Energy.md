@@ -12,7 +12,7 @@ Lattice energy ($U$) is the **enthalpy change** associated with the **formation 
 
 The Born-Haber cycle is a thermodynamic cycle that allows us to calculate lattice energy indirectly. It involves a series of steps, including:
 
-[[1. **Sublimation of the metal:** $M(s) \rightarrow M(g)$
+1. **Sublimation of the metal:** $M(s) \rightarrow M(g)$
 2. **Dissociation of the nonmetal:** $\frac{[[1}{2} X_2(g) \rightarrow X(g)$
 3. **Ionization of the metal:** $M(g) \rightarrow M^+(g) + e^-$
 4. **[[Electron affinity]] of the nonmetal:** $X(g) + e^- \rightarrow X^-(g)$

@@ -6,7 +6,7 @@ Hess's Law states that the total enthalpy change for a reaction is independent o
 
 Hess's Law is incredibly useful for determining the enthalpy change of reactions that are difficult or impossible to measure directly. We can manipulate known reactions and their enthalpy changes to calculate the unknown enthalpy change of a target reaction.  Here's the general process:
 
-[[1. **Identify the Target Reaction:** Clearly define the reaction for which you want to determine $\Delta H$.
+1. **Identify the Target Reaction:** Clearly define the reaction for which you want to determine $\Delta H$.
 
 2. **Gather Known Reactions:** Find reactions with known $\Delta H$ values that involve the reactants and products of your target reaction.
 

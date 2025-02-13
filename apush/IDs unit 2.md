@@ -1,6 +1,6 @@
 # [[ID Home]]
 
-[[1. [[Headright System]] 
+1. [[Headright System]] 
 2. [[House of Burgesses]] 
 3. [[Indentured Servitude]]
 4. [[Puritans]]

@@ -1,7 +1,7 @@
 # [[ID Home]]
 
 ## I: Immigration/[[Urbanization]]
-[[1. [[Great Chicago Fire]]
+1. [[Great Chicago Fire]]
 2. [[Chinese Exclusion Act]]
 3. [[Old Immigration vs New Immigration]]
 4. [[Plessy v Ferguson]]

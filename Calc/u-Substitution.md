@@ -3,7 +3,7 @@ This is the most fundamental technique for simplifying [[integrals]].  It involv
 
 **Steps:**
 
-[[1. Choose a suitable substitution, $u = g(x)$, where $g(x)$ is a part of the integrand.
+1. Choose a suitable substitution, $u = g(x)$, where $g(x)$ is a part of the integrand.
 2. Find $du = g'(x) dx$.
 3. Rewrite the integral in terms of $u$ and $du$.
 4. Integrate with respect to $u$.

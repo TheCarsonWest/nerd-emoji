@@ -35,16 +35,16 @@ Let's work through a couple of examples to solidify our understanding.
 
 This means hydrogen gas effuses approximately 3.98 times faster than oxygen gas.
 
-**Example 2:** An unknown gas effuses [[1.42 times faster than oxygen gas. What is the molar mass of the unknown gas?
+**Example 2:** An unknown gas effuses 1.42 times faster than oxygen gas. What is the molar mass of the unknown gas?
 
 Let the unknown gas be gas [[1 and oxygen gas be gas 2.
 
-$$ \frac{Rate_1}{Rate_2} = [[1.42 $$
+$$ \frac{Rate_1}{Rate_2} = 1.42 $$
 $$ M_2 = 32.00 \, g/mol $$
 
-$$ [[1.42 = \sqrt{\frac{32.00}{M_1}} $$
-$$ [[1.42^2 = \frac{32.00}{M_1} $$
-$$ M_1 = \frac{32.00}{[[1.42^2} \approx 15.9 \, g/mol $$
+$$ 1.42 = \sqrt{\frac{32.00}{M_1}} $$
+$$ 1.42^2 = \frac{32.00}{M_1} $$
+$$ M_1 = \frac{32.00}{1.42^2} \approx 15.9 \, g/mol $$
 
 The molar mass of the unknown gas is approximately 15.9 g/mol.
 

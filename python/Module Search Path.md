@@ -11,7 +11,7 @@ print(sys.path)
 
 The `sys.path` list typically includes:
 
-[[1. The directory containing the script being run (or the current directory if no script is specified).
+1. The directory containing the script being run (or the current directory if no script is specified).
 2. The directories specified by the `PYTHONPATH` environment variable (if set).
 3. Installation-dependent default locations (e.g., site-packages directories).
 

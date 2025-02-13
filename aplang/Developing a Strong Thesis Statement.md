@@ -5,7 +5,7 @@
 
 A strong thesis statement generally includes these three elements:
 
-[[1. **Specific Claim:**  A clear and focused assertion, not a general observation.  Avoid vague language.  Instead of "Shakespeare was a great writer," try something like "Shakespeare's use of iambic pentameter in *Hamlet* contributes to the play's dramatic tension."
+1. **Specific Claim:**  A clear and focused assertion, not a general observation.  Avoid vague language.  Instead of "Shakespeare was a great writer," try something like "Shakespeare's use of iambic pentameter in *Hamlet* contributes to the play's dramatic tension."
 
 2. **Reasoning/Roadmap:**  Briefly indicates the main points or arguments that will support your claim. This acts as a roadmap for your essay.  For example,  "...by highlighting internal conflict, foreshadowing key events, and creating a sense of inevitability."
 
@@ -22,7 +22,7 @@ A strong thesis statement generally includes these three elements:
 
 **III.  Formulating a Thesis:**
 
-[[1. **Start with a question:**  What is the central question you are trying to answer?  Your thesis statement should be a direct response.
+1. **Start with a question:**  What is the central question you are trying to answer?  Your thesis statement should be a direct response.
 
 2. **Brainstorm and research:**  Gather information to support your potential claims.
 

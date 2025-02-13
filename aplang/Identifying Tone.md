@@ -12,7 +12,7 @@
 
 **[[Identifying Tone]] in Practice:**
 
-[[1. **Read carefully:** Pay close attention to every word and sentence.  Don't skim.
+1. **Read carefully:** Pay close attention to every word and sentence.  Don't skim.
 2. **Annotate:** Underline or highlight words and phrases that evoke a particular emotion or feeling.
 3. **Consider the context:** The historical, social, and cultural context of the text can influence the tone.
 4. **Look for patterns:**  Are there recurring words or phrases that suggest a particular attitude?

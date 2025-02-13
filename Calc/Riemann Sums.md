@@ -4,7 +4,7 @@ Riemann sums are used to approximate the definite integral of a function, which 
 ## Types of [[Riemann Sums]] 
 There are three main types of Riemann sums, each differing in how the rectangle heights are determined:
 
-[[1. Left Riemann Sum: The height of each rectangle is determined by the function's value at the *left endpoint* of the subinterval.
+1. Left Riemann Sum: The height of each rectangle is determined by the function's value at the *left endpoint* of the subinterval.
 
 2. Right Riemann Sum: The height of each rectangle is determined by the function's value at the *right endpoint* of the subinterval.
 
@@ -27,10 +27,10 @@ where $x_i^*$ is a point in the $i$-th subinterval.  The choice of $x_i^*$ deter
 
 $\Delta x = \frac{2-0}{4} = 0.5$
 
-The subintervals are $[0, 0.5$, $[0.5, 1$, $[[1, [[1.5$, $[[1.5, 2$.
+The subintervals are $[0, 0.5$, $[0.5, 1$, $[[1, 1.5$, $1.5, 2$.
 
 The right Riemann sum is:
-$R_4 = f(0.5)(0.5) + f([[1)(0.5) + f([[1.5)(0.5) + f(2)(0.5) = 0.5(0.5^2 + [[1^2 + [[1.5^2 + 2^2) = 0.5(0.25 + [[1 + 2.25 + 4) = 3.75$
+$R_4 = f(0.5)(0.5) + f([[1)(0.5) + f(1.5)(0.5) + f(2)(0.5) = 0.5(0.5^2 + [[1^2 + 1.5^2 + 2^2) = 0.5(0.25 + [[1 + 2.25 + 4) = 3.75$
 
 
 ```desmos-graph

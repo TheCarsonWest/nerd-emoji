@@ -25,7 +25,7 @@
 
 **Process of Analysis:**
 
-[[1. **Identify the text's context.** When and where was it created? Who is the intended audience?
+1. **Identify the text's context.** When and where was it created? Who is the intended audience?
 2. **Summarize the main idea or argument.** What is the author trying to convey?
 3. **Analyze the appeals (ethos, pathos, logos).** How does the author use each appeal to persuade the audience? Provide specific examples.
 4. **Identify and analyze the rhetorical devices.** What techniques does the author employ to enhance the message's effectiveness?

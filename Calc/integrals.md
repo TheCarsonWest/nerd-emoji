@@ -1,7 +1,7 @@
 # [[Calc home]]
 Integrals are the cornerstone of integral calculus, essentially the inverse operation of differentiation.  They allow us to calculate areas under curves, volumes of solids, and much more.  This rundown covers the key concepts for Calculus AB.
 
-# [[1. Indefinite Integrals
+# 1. Indefinite Integrals
 
 The indefinite integral, denoted by $\int f(x) \, dx$, represents the *family* of functions whose [[derivative]] is $f(x)$.  The "$dx$" indicates that we are integrating with respect to the variable $x$.  The [[constant of integration]], $C$, is crucial because the [[derivative]] of a constant is zero.
 

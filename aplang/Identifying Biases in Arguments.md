@@ -24,7 +24,7 @@
 
 **Analyzing Arguments for Bias:**
 
-[[1. **Identify the conclusion:** What is the main point the arguer is trying to make?
+1. **Identify the conclusion:** What is the main point the arguer is trying to make?
 2. **Examine the premises:** What evidence or reasons are offered to support the conclusion?
 3. **Look for unsupported assertions:** Are there claims made without sufficient evidence?
 4. **Check for logical fallacies:** [[Logical Fallacies]] Are there flaws in the reasoning?

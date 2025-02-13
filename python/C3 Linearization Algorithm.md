@@ -11,7 +11,7 @@ The core goal is to maintain a consistent and predictable order for attribute lo
 
 The algorithm itself is complex, but can be understood through its principles:
 
-[[1. **Depth-First Search:**  It starts with the class itself, and then traverses the inheritance tree in a depth-first manner.
+1. **Depth-First Search:**  It starts with the class itself, and then traverses the inheritance tree in a depth-first manner.
 
 
 2. **Linearization:** It aims to create a linear order of superclasses, ensuring that all parents are visited in a consistent manner.

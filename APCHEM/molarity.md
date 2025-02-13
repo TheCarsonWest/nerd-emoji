@@ -33,10 +33,10 @@ $$
 
 **Example:**
 
-If you have 500 mL of a [[1.0 M NaCl solution and want to dilute it to a final volume of [[1 liter, the final [[molarity]] will be:
+If you have 500 mL of a 1.0 M NaCl solution and want to dilute it to a final volume of [[1 liter, the final [[molarity]] will be:
 
 $$
-([[1.0 \; M)(500 \; mL) = (M_2)(1000 \; mL)
+(1.0 \; M)(500 \; mL) = (M_2)(1000 \; mL)
 $$$$
  M_2 = 0.5\; M
 $$

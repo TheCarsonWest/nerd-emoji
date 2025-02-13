@@ -4,7 +4,7 @@ Context managers are a powerful feature in Python that allows you to manage reso
 
 There are two primary ways to define custom context managers:
 
-**[[1. Using the `contextlib.contextmanager` decorator:**
+**1. Using the `contextlib.contextmanager` decorator:**
 
 This is generally the preferred and more concise approach for simpler context managers.
 

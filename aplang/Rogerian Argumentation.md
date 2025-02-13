@@ -6,7 +6,7 @@
 
 **Key Components:**
 
-[[1. **Introduction:** Begin by acknowledging the opposing viewpoint and demonstrating that you understand it.  Show you've listened and taken their perspective seriously.
+1. **Introduction:** Begin by acknowledging the opposing viewpoint and demonstrating that you understand it.  Show you've listened and taken their perspective seriously.
 
 2. **Summary of Opposing Viewpoint:**  Clearly and fairly summarize the other side's position.  Avoid distortion or caricature; aim for accurate representation.  This shows respect and willingness to engage.
 

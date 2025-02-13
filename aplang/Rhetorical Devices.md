@@ -14,7 +14,7 @@ This document outlines various rhetorical devices and their applications.  I wil
 
 * **A. Figures of Speech:** These alter the typical meaning of words or phrases for effect.
 
-    * **[[1. Simile:** A direct comparison using "like" or "as."  Example:  "He fought like a lion."
+    * **1. Simile:** A direct comparison using "like" or "as."  Example:  "He fought like a lion."
     * **2. Metaphor:** An implied comparison, stating one thing *is* another. Example: "The world is a stage."
     * **3. Personification:** Giving human qualities to inanimate objects or abstract ideas. Example: "The wind whispered secrets."
     * **4. Hyperbole:**  Exaggeration for emphasis. Example: "I've told you a million times!"
@@ -29,7 +29,7 @@ This document outlines various rhetorical devices and their applications.  I wil
 
 * **B. Schemes:**  These involve changes in sentence structure or arrangement of words for stylistic effect.
 
-    * **[[1. Anaphora:** Repetition of a word or phrase at the beginning of successive clauses. Example:  "I have a dream... I have a dream..."
+    * **1. Anaphora:** Repetition of a word or phrase at the beginning of successive clauses. Example:  "I have a dream... I have a dream..."
     * **2. Epistrophe:** Repetition of a word or phrase at the end of successive clauses. Example: "...and that government of the people, by the people, for the people, shall not perish from the earth."
     * **3. Anadiplosis:** Repetition of the last word of one clause at the beginning of the next. Example: "Fear leads to anger. Anger leads to hate."
     * **4. Parallelism:**  Using similar grammatical structures to express related ideas. Example: "He came, he saw, he conquered."

@@ -29,7 +29,7 @@
 
 For each example:
 
-[[1. **Thesis Statement:** Write down the essay's main argument.
+1. **Thesis Statement:** Write down the essay's main argument.
 2. **Key Sources:** List the sources used and briefly describe their main points.
 3. **Synthesis Techniques:** Identify how the writer weaves together the sources (comparison, contrast, identifying common themes, etc.).
 4. **Strengths & Weaknesses:**  Critique the essay's effectiveness.  What works well? Where could it be improved?

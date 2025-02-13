@@ -4,7 +4,7 @@ Conda environments are isolated spaces that allow you to manage different projec
 
 Key features:
 
-* **Isolation:** Prevents dependency conflicts between projects.  If project A needs `pandas==[[1.0` and project B needs `pandas==2.0`, you can create separate environments to satisfy both.
+* **Isolation:** Prevents dependency conflicts between projects.  If project A needs `pandas==1.0` and project B needs `pandas==2.0`, you can create separate environments to satisfy both.
 
 * **Reproducibility:**  Easily recreate the exact environment used for a specific project, ensuring consistent results across different machines.  This is done via environment files (usually `.yml`).
 

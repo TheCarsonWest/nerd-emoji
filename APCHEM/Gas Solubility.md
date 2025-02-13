@@ -10,7 +10,7 @@ $C = k_H P = (0.034 \text{ mol/L·atm}) (2 \text{ atm}) = 0.068 \text{ mol/L}$
 
 This calculation provides a simplified model.  In reality, deviations from [[Henrys Law]] can occur at higher pressures or when the gas is highly soluble.
 ## Factors Affecting [[Gas Solubility]] 
-### [[1. Pressure: [[Henrys Law]]
+### 1. Pressure: [[Henrys Law]]
 
 ### 2. [[Temperature]]
 Generally, the [[Solubility]] of gases in liquids *decreases* with increasing [[Temperature]].  As [[Temperature]] rises, the kinetic energy of the gas molecules increases, allowing them to overcome the [[intermolecular forces]] holding them in solution and escape into the gaseous phase.  This is why a warm soda goes flat faster than a cold one.

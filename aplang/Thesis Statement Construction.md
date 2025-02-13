@@ -19,7 +19,7 @@
 
 **Formulating a Strong Thesis:**
 
-[[1. **Identify your topic:** What are you writing about? [[Topic Selection]]
+1. **Identify your topic:** What are you writing about? [[Topic Selection]]
 2. **Develop a central claim:** What is your main argument or point about this topic?
 3. **Refine your claim:** Is it specific enough? Is it debatable?  Avoid vague language.
 4. **Outline supporting points:** What evidence will you use to support your claim?  [[Evidence Gathering and Analysis]]

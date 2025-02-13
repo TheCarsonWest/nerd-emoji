@@ -7,7 +7,7 @@ NumPy broadcasting is a powerful mechanism that allows NumPy to perform operatio
 
 **Rules for Broadcasting:**
 
-[[1. **Shape Compatibility:** Two arrays are compatible if they have the same number of dimensions, or if one array has a dimension of size [[1 where the other has a dimension of size greater than [[1.
+1. **Shape Compatibility:** Two arrays are compatible if they have the same number of dimensions, or if one array has a dimension of size [[1 where the other has a dimension of size greater than 1.
 
 2. **Dimension Alignment:**  Arrays are aligned from right to left (i.e., least significant dimension first).  If dimensions are not compatible, an error will occur.
 

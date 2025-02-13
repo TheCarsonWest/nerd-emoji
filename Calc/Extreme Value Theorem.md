@@ -18,7 +18,7 @@ The [[Extreme Value Theorem]] is a fundamental concept in calculus that guarante
 
 To find the absolute maximum and minimum values of a continuous function $f(x)$ on a closed interval $[a, b]]$:
 
-[[1. **Find critical points:** Find all values of $x$ in the interval $(a, b)$ where $f'(x) = 0$ or $f'(x)$ is undefined.
+1. **Find critical points:** Find all values of $x$ in the interval $(a, b)$ where $f'(x) = 0$ or $f'(x)$ is undefined.
 2. **Evaluate the function:** Evaluate $f(x)$ at each [[Critical Point]] found in step [[1, and also at the endpoints $x = a$ and $x = b$.
 3. **Compare values:** The largest value among those found in step 2 is the absolute maximum, and the smallest value is the absolute minimum.
 
@@ -27,7 +27,7 @@ To find the absolute maximum and minimum values of a continuous function $f(x)$ 
 
 Let's find the absolute maximum and minimum values of $f(x) = x^3 - 3x + 2$ on the interval $[-2, 2$.
 
-[[1. **Find critical points:** $f'(x) = 3x^2 - 3 = 0$, which gives $x^2 = [[1$, so $x = [[1$ and $x = -[[1$. Both are in the interval $(-2, 2)$.
+1. **Find critical points:** $f'(x) = 3x^2 - 3 = 0$, which gives $x^2 = [[1$, so $x = [[1$ and $x = -[[1$. Both are in the interval $(-2, 2)$.
 
 2. **Evaluate the function:**
    $f(-2) = (-2)^3 - 3(-2) + 2 = -2$

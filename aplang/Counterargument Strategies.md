@@ -36,7 +36,7 @@ Several approaches can be used to address counterarguments, depending on the nat
 
 Regardless of the strategy employed, your response should be structured logically and clearly.  A common approach is:
 
-[[1. **State the counterargument:** Clearly summarize the opposing viewpoint.
+1. **State the counterargument:** Clearly summarize the opposing viewpoint.
 2. **Address the counterargument:** Use one of the strategies above to address the counterargument.
 3. **Transition back to your main argument:** Show how your response strengthens your overall argument.
 

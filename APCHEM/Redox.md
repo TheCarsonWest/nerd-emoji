@@ -13,13 +13,13 @@
 **Balancing [[Redox]] Equations:**
 
 **Half-Reaction Method:**
-[[1. **Identify** the oxidized and reduced species.
+1. **Identify** the oxidized and reduced species.
 2. **Write** half-reactions for oxidation and reduction.
 3. **Balance** each half-reaction:
 	 * Add water to balance oxygen atoms.
 	 * Add hydrogen ions ($H^+$) to balance hydrogen atoms.
 	 * Add electrons to balance charge.
-[[1. **Multiply** the half-reactions by appropriate factors to balance the number of electrons transferred.
+1. **Multiply** the half-reactions by appropriate factors to balance the number of electrons transferred.
 2. **Add** the balanced half-reactions to get the overall equation.
 
 **Example:**

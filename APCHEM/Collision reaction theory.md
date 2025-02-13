@@ -2,7 +2,7 @@
 
 Collision theory explains the rate of [[chemical reactions]] based on the frequency and effectiveness of collisions between reacting particles (atoms, ions, or molecules).  For a reaction to occur, reactant particles must collide with sufficient energy and proper orientation.
 
-## [[1. Collision Frequency
+## 1. Collision Frequency
 
 The rate of a reaction is directly proportional to the number of collisions per unit time between reactant particles.  Several factors influence collision frequency:
 

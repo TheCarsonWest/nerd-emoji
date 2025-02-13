@@ -15,7 +15,7 @@ The concavity of a function $f(x)$ at a point $x=c$ is determined by the sign of
 
 To find the intervals where a function is concave up or concave down, we follow these steps:
 
-[[1. **Find the second [[derivative]]:** Calculate $f''(x)$.
+1. **Find the second [[derivative]]:** Calculate $f''(x)$.
 2. **Find critical points of the second [[derivative]]:** Solve the equation $f''(x) = 0$ or find where $f''(x)$ is undefined. These points are potential boundaries for intervals of concavity.
 3. **Test intervals:** Choose test points in the intervals determined by the critical points of $f''(x)$.  Evaluate $f''(x)$ at each test point.
 4. **Determine concavity:**  If $f''(x) > 0$ in an interval, the function is concave up in that interval. If $f''(x) < 0$, the function is concave down.
@@ -25,7 +25,7 @@ To find the intervals where a function is concave up or concave down, we follow 
 
 Let's consider the function $f(x) = x^3 - 3x^2 + 2$.
 
-[[1. **First [[derivative]]:** $f'(x) = 3x^2 - 6x$
+1. **First [[derivative]]:** $f'(x) = 3x^2 - 6x$
 2. **Second [[derivative]]:** $f''(x) = 6x - 6$
 3. **Critical points of $f''(x)$:** $f''(x) = 0$ when $6x - 6 = 0$, which means $x = [[1$.
 4. **Test intervals:** We test the intervals $(-\infty, [[1)$ and $([[1, \infty)$.

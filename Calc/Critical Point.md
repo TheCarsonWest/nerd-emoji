@@ -8,7 +8,7 @@ Critical points are pivotal in understanding the behavior of a function.  They h
 
 A critical point of a function $f(x)$ occurs at any $x$-value where either:
 
-[[1.  $f'(x) = 0$ (the [[derivative]] is zero)
+1.  $f'(x) = 0$ (the [[derivative]] is zero)
 2.  $f'(x)$ is undefined (the [[derivative]] doesn't exist)
 
 In simpler terms, critical points are locations where the function's slope is either zero or undefined.
@@ -17,14 +17,14 @@ In simpler terms, critical points are locations where the function's slope is ei
 
 The process involves two steps:
 
-[[1. **Find the [[derivative]]:** Calculate $f'(x)$.
+1. **Find the [[derivative]]:** Calculate $f'(x)$.
 2. **Solve for critical points:**  Set $f'(x) = 0$ and solve for $x$.  Also, identify any $x$-values where $f'(x)$ is undefined (e.g., points of discontinuity or sharp corners).
 
 **Example:**
 
 Let's find the critical points of the function $f(x) = x^3 - 3x$.
 
-[[1.  The [[derivative]] is $f'(x) = 3x^2 - 3$.
+1.  The [[derivative]] is $f'(x) = 3x^2 - 3$.
 2.  Setting $f'(x) = 0$, we get $3x^2 - 3 = 0$, which simplifies to $x^2 = [[1$.  Thus, $x = [[1$ and $x = -[[1$ are critical points.
 3. $f'(x)$ is defined for all real numbers.
 
@@ -35,7 +35,7 @@ Therefore, the critical points are $x = [[1$ and $x = -[[1$.
 
 The first [[derivative]] test helps determine whether a critical point is a local maximum, local minimum, or neither.
 
-[[1. **Test points:** Choose test points in the intervals created by the critical points.
+1. **Test points:** Choose test points in the intervals created by the critical points.
 2. **Evaluate the [[derivative]]:**  Evaluate $f'(x)$ at each test point.
 3. **Interpret the sign:**
     * If $f'(x)$ changes from positive to negative, the critical point is a **local maximum**.
@@ -65,7 +65,7 @@ y = x^3 - 3x
 
 The second [[derivative]] test provides an alternative method for classifying critical points.  It's often easier to use than the first [[derivative]] test, but it only works when the second [[derivative]] exists.
 
-[[1. **Find the second [[derivative]]:** Calculate $f''(x)$.
+1. **Find the second [[derivative]]:** Calculate $f''(x)$.
 2. **Evaluate at critical points:** Evaluate $f''(x)$ at each critical point.
 3. **Interpret the sign:**
     * If $f''(x) < 0$, the critical point is a **local maximum**.

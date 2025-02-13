@@ -3,7 +3,7 @@
 
 The rate of a chemical reaction, often expressed as $\frac{\Delta [reactant]]}{\Delta t}$ or $\frac{\Delta [product]]}{\Delta t}$, is influenced by several key factors
 
-## [[1. Concentration of Reactants
+## 1. Concentration of Reactants
 
 Higher concentrations generally lead to faster [[reaction rates]].  More reactant particles are present in a given volume, increasing the frequency of collisions between them.  This is particularly important for bimolecular and higher-order reactions.  The rate law, often expressed as  $rate = k[A]]^m[B]]^n$, directly reflects this relationship, where  $[A]]$ and $[B]]$ are reactant concentrations, $k$ is the rate constant, and $m$ and $n$ are the reaction orders.
 

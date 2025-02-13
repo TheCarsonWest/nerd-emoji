@@ -33,7 +33,7 @@ Limits at infinity describe the behavior of a function as its input approaches p
 
 A function is continuous at a point $a$ if the following conditions hold:
 
-[[1. $f(a)$ is defined.
+1. $f(a)$ is defined.
 2. $\lim_{x \to a} f(x)$ exists.
 3. $\lim_{x \to a} f(x) = f(a)$.
 

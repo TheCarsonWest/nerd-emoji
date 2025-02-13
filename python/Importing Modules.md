@@ -31,7 +31,7 @@ print(getcwd()) #Prints current working directory.
 
 Python searches for modules in a specific order:
 
-[[1.  The current directory.
+1.  The current directory.
 2.  Locations specified by the `PYTHONPATH` environment variable.
 3.  Standard library directories.
 4.  Installation-specific directories (site-packages).

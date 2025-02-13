@@ -11,14 +11,14 @@ We can't easily solve this equation for $y$ in terms of $x$. However, we can sti
 **The key idea is to differentiate both sides of the equation with respect to $x$, treating $y$ as a function of $x$.** This means we'll use the [[chain rule]] whenever we encounter a term involving $y$.
 
 # Steps for [[Implicit Differentiation]] 
-[[1. **Differentiate both sides of the equation with respect to $x$.** Remember to use the [[chain rule]] when differentiating terms involving $y$. 
+1. **Differentiate both sides of the equation with respect to $x$.** Remember to use the [[chain rule]] when differentiating terms involving $y$. 
 2. **Solve the resulting equation for $\frac{dy}{dx}$.** This may involve algebraic manipulation.
 
 ### Example
 
 Let's find $\frac{dy}{dx}$ for the equation $x^2 + y^2 = 25$.
 
-[[1. **Differentiate both sides:**
+1. **Differentiate both sides:**
    $$\frac{d}{dx}(x^2 + y^2) = \frac{d}{dx}(25)$$
    $$2x + 2y \frac{dy}{dx} = 0$$
 

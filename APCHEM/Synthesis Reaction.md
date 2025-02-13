@@ -22,7 +22,7 @@
 
 **Example Problems:**
 
-**[[1. Predict the products of the following reaction:**
+**1. Predict the products of the following reaction:**
 
 $$ Li + F_2 → $$
 

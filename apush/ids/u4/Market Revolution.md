@@ -1,6 +1,6 @@
 # ID: [[Market Revolution]] ## When: 1790s - 1860s
 ## Who: 
-* **Entrepreneurs:** Individuals like [[John D]]. Rockefeller, [[Andrew Carnegie]], and Cornelius Vanderbilt who built large-scale industries and transportation networks.
+* **Entrepreneurs:** Individuals like [[John D. Rockefeller]], [[Andrew Carnegie]], and Cornelius Vanderbilt who built large-scale industries and transportation networks.
 * **Farmers:** Many farmers transitioned from subsistence agriculture to specialized cash crops, often utilizing new technologies like the [[cotton gin]] and the McCormick reaper. 
 * **Workers:** Increased demand for labor in factories and mills led to a growing working class, often facing harsh conditions and low wages.
 * **Government:** The federal government played a role in promoting industrialization through policies like protective tariffs and land grants for railroads.

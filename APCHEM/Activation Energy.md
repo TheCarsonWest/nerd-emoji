@@ -7,7 +7,7 @@ Activation energy (E<sub>a</sub>) is the minimum amount of energy required to in
 
 Activation energy is closely tied to the collision theory, which states that for a reaction to occur, reactant particles must:
 
-[[1. Collide with each other.
+1. Collide with each other.
 2. Collide with the correct orientation.
 3. Collide with sufficient energy to break existing bonds and form new ones.
 

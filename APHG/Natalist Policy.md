@@ -1,7 +1,7 @@
 # [[APHG Unit 2]]
 # Anti Natalist
 ## China
-**[[1. The One-Child Policy (1979-2016):** 
+**1. The One-Child Policy (1979-2016):** 
 * **Rationale:**  Control population growth and alleviate resource strain.
 	* tax people with two children more
 * **Impact:**  Dramatic population decline, ==skewed gender ratio==, 

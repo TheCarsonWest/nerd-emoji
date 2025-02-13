@@ -18,7 +18,7 @@ print(my_list[-1) # Output: 50
 *   Slicing extracts a portion of a sequence using `[start:stop:step]]`.
 *   `start` is the index of the first element to include (inclusive). Defaults to 0.
 *   `stop` is the index of the element to stop *before* (exclusive). Defaults to the length of the sequence.
-*   `step` is the increment between indices. Defaults to [[1.
+*   `step` is the increment between indices. Defaults to 1.
 
 ```python
 my_string = "abcdefg"

@@ -28,7 +28,7 @@ Where:
 * *f(v)* is the probability density function
 * *v* is the speed of the molecule
 * *m* is the mass of a single molecule
-* *k* is the Boltzmann constant ([[1.38 x 10<sup>-23</sup> [[J]]/K)
+* *k* is the Boltzmann constant (1.38 x 10<sup>-23</sup> [[J]]/K)
 * *T* is the absolute [[Temperature]] in Kelvin
 
 ## Implications

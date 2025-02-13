@@ -38,7 +38,7 @@ Step 2 (slow): $B + D \rightarrow E$
 
 Overall Reaction: $A + D \rightarrow C + E$
 
-[[1.  **Rate Law for the RDS:** Rate = $k[B]][D]]$
+1.  **Rate Law for the RDS:** Rate = $k[B]][D]]$
 
 2.  **Express Intermediates in Terms of Reactants:** Since step [[1 is fast and reversible, we can assume it is at equilibrium:
 
@@ -71,7 +71,7 @@ Catalysts affect the rate of reaction by providing an alternative reaction pathw
 
 ## Summary
 
-[[1.  Identify the rate-determining step (RDS).
+1.  Identify the rate-determining step (RDS).
 2.  Write the rate law for the RDS based on its stoichiometry.
 3.  If the RDS involves intermediates, express their concentrations in terms of reactants using prior fast equilibrium steps or the steady-state approximation.
 4.  The resulting rate law should only contain reactants and possibly catalysts.  It should agree with the experimentally determined rate law.

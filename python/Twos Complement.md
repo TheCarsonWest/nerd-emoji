@@ -9,7 +9,7 @@ Two's complement is a way to represent signed integers (positive and negative) i
 
 * **Positive Numbers:**  Represented in standard binary.
 
-* **Negative Numbers:** Calculated by inverting all bits (0s become 1s, 1s become 0s) and then adding [[1.
+* **Negative Numbers:** Calculated by inverting all bits (0s become 1s, 1s become 0s) and then adding 1.
 
 **Example (8-bit):**
 
@@ -18,7 +18,7 @@ Let's represent 5 and -5:
 * **5:** `00000101` (Positive, standard binary)
 
 * **-5:**
-    [[1. Invert bits: `11111010`
+    1. Invert bits: `11111010`
     2. Add [[1: `11111011`
 
 **Python Implementation:**

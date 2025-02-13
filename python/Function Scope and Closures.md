@@ -4,7 +4,7 @@ Python's scope rules determine where a variable is accessible within your code. 
 
 * **LEGB Rule:** Python uses the LEGB rule to search for a variable:
 
-    [[1. **L**ocal: Inside the current function or block of code.
+    1. **L**ocal: Inside the current function or block of code.
     2. **E**nclosing function locals: If the variable isn't found locally, Python searches the local scope of any enclosing functions. This is relevant for nested functions.
     3. **G**lobal: Variables declared at the module level (outside any function).
     4. **B**uilt-in: Predefined functions and constants available in Python (e.g., `len`, `print`).

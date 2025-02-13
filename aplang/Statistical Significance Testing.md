@@ -23,7 +23,7 @@
 
 **Steps in Hypothesis Testing:**
 
-[[1. State the null and alternative hypotheses.
+1. State the null and alternative hypotheses.
 2. Set the significance level ($\alpha$).
 3. Select an appropriate statistical test.
 4. Calculate the test statistic and p-value.

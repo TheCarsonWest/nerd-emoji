@@ -9,7 +9,7 @@
 
 **Basic Note Format (Footnote/Endnote):**
 
-[[1.  For books: Author's Last Name, *Title of Work*, (City of Publication: Publisher, Year), Page Number.  
+1.  For books: Author's Last Name, *Title of Work*, (City of Publication: Publisher, Year), Page Number.  
     *Example:* Smith, John, *A History of Cats*, ([[New York]]: Meow Press, 2023), 12.
 
 

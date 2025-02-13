@@ -7,7 +7,7 @@
 
 **Possible Refinement Approaches:**
 
-[[1. **Focus on a specific methodology:**
+1. **Focus on a specific methodology:**
     * [[Topic Refinement Methodologies]]  (This will be a separate note)
     *  Examples:  Keyword analysis, mind mapping, literature review, stakeholder interviews.  Consider focusing on *one* specific methodology.
 
@@ -50,7 +50,7 @@ Further refinement will require choosing ONE of the above approaches and further
 
 **Next Steps:**
 
-[[1. Choose ONE refinement approach from the list above.
+1. Choose ONE refinement approach from the list above.
 2. Create a detailed outline for the chosen approach, referencing other relevant notes (created from the list above).
 3. Begin literature review and research.
 
