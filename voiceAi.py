@@ -4,8 +4,8 @@ import time
 import google.generativeai as genai
 import keyboard
 
-genai.configure(api_key=open('/Users/carson/Desktop/nerd-emoji/api.txt','r').readline())
-model = genai.GenerativeModel("gemini-1.5-pro")
+genai.configure(api_key=open('api.txt','r').readline())
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 def ai_text(p):
     try:
@@ -56,7 +56,7 @@ def convert_continuous_speech_to_notes():
 
         # Step 3: Display or save notes
         print(ai_generated_notes)
-        with open(f'/Users/carson/Desktop/nerd-emoji/nerd-emoji/voice-ai-test/{time.time()}', 'w') as file:
+        with open(f'./{time.time()}', 'w') as file:
             file.write(ai_generated_notes)
 
 
