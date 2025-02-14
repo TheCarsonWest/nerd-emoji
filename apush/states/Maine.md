@@ -9,7 +9,7 @@
 * 1812: [[Maine]] fails to ratify the Hartford Convention, which sought to amend the Constitution and weaken the federal government.
 * 1820: [[Maine]] separates from [[Massachusetts]] and becomes the 23rd state.
 * 1832: [[Maine]] passes the first prohibition law in the [[United States]].
-* 1854: [[Maine]] passes the [[Kansas]]-[[Nebraska]] Act, which repeals the [[Missouri]] Compromise and allows slavery in the western territories.
+* 1854: [[Maine]] passes the [[Kansas-Nebraska Act]], which repeals the [[Missouri]] Compromise and allows slavery in the western territories.
 * 1861: [[Maine]] sends troops to fight in the [[Civil War]].
 * 1914: [[Maine]] passes the Seventeenth Amendment, which provides for the direct election of senators.
 * 1930s: [[Maine]] experiences economic decline during the Great Depression.
@@ -18,7 +18,7 @@
 **Important Legislation**
 
 * **[[Maine]] Law of 1851:** The first prohibition law in the [[United States]].
-* **[[Kansas]]-[[Nebraska]] Act of 1854:** Repealed the [[Missouri]] Compromise and allowed slavery in the western territories.
+* **[[Kansas-Nebraska Act]] of 1854:** Repealed the [[Missouri]] Compromise and allowed slavery in the western territories.
 * **Seventeenth Amendment of 1914:** Provided for the direct election of senators.
 
 **Important Court Cases**

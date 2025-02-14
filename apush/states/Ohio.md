@@ -7,7 +7,7 @@
 * **1812:** Battle of Tippecanoe fought in [[Ohio]].
 * **1835:** Toledo War with [[Michigan]].
 * **1850:** First Women's Rights Convention held in [[Ohio]].
-* **1854:** [[Kansas]]-[[Nebraska]] Act passes, repealing the [[Missouri]] Compromise and opening [[Ohio]] to slavery.
+* **1854:** [[Kansas-Nebraska Act]] passes, repealing the [[Missouri]] Compromise and opening [[Ohio]] to slavery.
 * **1857:** Oberlin-Wellington Rescue, a raid on a slave jail.
 * **1861:** [[Ohio]] secedes from the Union and joins the Confederacy during the [[Civil War]].
 * **1863:** [[Emancipation Proclamation]] issued, freeing slaves in [[Ohio]].
@@ -21,7 +21,7 @@
 
 * **Northwest Ordinance (1787):** Created the [[Ohio]] Territory.
 * **[[Missouri]] Compromise (1820):** Prohibited slavery in [[Ohio]].
-* **[[Kansas]]-[[Nebraska]] Act (1854):** Repealed the [[Missouri]] Compromise, opening [[Ohio]] to slavery.
+* **[[Kansas-Nebraska Act]] (1854):** Repealed the [[Missouri]] Compromise, opening [[Ohio]] to slavery.
 * **Soil Conservation and Domestic Allotment Act (1936):** Provided financial assistance to [[Ohio]] farmers.
 * **Brown v. Board of Education (1954):** Ruled that racial segregation in public schools is unconstitutional.
 

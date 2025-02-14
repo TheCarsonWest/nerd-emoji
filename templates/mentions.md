@@ -1,0 +1,1 @@
+{{#each mentions.linked}} {{this.results}} {{/each}}

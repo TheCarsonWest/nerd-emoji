@@ -11,7 +11,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/gpt-3-prompt-templates",
       "installed": false,
-      "downloads": 106410
+      "downloads": 106421
     },
     "dalle": {
       "packageId": "dalle",
@@ -24,7 +24,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-dalle-package",
       "installed": false,
-      "downloads": 106319
+      "downloads": 106330
     },
     "huggingface": {
       "packageId": "huggingface",
@@ -37,7 +37,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/huggingface",
       "installed": false,
-      "downloads": 106647
+      "downloads": 106658
     },
     "awesomePrompts": {
       "packageId": "awesomePrompts",
@@ -50,7 +50,7 @@
       "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
       "repo": "text-gen/awesome-tg-package",
       "installed": false,
-      "downloads": 12275
+      "downloads": 12286
     },
     "tts": {
       "packageId": "tts",
@@ -63,7 +63,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/TTS",
       "installed": false,
-      "downloads": 8617
+      "downloads": 8628
     },
     "vision": {
       "packageId": "vision",
@@ -75,7 +75,8 @@
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-vision",
-      "downloads": 8616
+      "installed": false,
+      "downloads": 8627
     },
     "smartConnections": {
       "packageId": "smartConnections",
@@ -87,7 +88,8 @@
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-smartConnections",
-      "downloads": 8615
+      "installed": false,
+      "downloads": 8626
     },
     "Experimental": {
       "packageId": "Experimental",
@@ -100,7 +102,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/experimental-package",
       "installed": false,
-      "downloads": 8464
+      "downloads": 8475
     },
     "testExtension": {
       "core": true,
@@ -132,6 +134,7 @@
       "core": true,
       "folderName": "excalidrawPackage",
       "price": 2,
+      "installed": false,
       "downloads": 0
     }
   },
