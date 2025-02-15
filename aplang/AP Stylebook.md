@@ -7,7 +7,7 @@
 
 * **Numbers:** Spell out numbers zero through nine; use figures for 10 and above.  Exceptions exist for ages, addresses, etc. (see [[Number Usage Rules]]).
 
-* **Dates & Times:**  Follow specific AP style for date and time formatting.  (e.g.,  Month Day, Year; [[3] p.m., not [[3] PM) (see [[Date and Time Formatting]]).
+* **Dates & Times:**  Follow specific AP style for date and time formatting.  (e.g.,  Month Day, Year; 3 p.m., not 3 PM) (see [[Date and Time Formatting]]).
 
 * **Abbreviations:** Use sparingly.  Spell out on first reference, then abbreviate if appropriate.  (See [[Abbreviations and Acronyms]]).
 
@@ -38,10 +38,10 @@
 
 **Equations (Examples):**
 
-Inline equation: The area of a circle is given by $A = \pi r^[[2]$.
+Inline equation: The area of a circle is given by $A = \pi r^2$.
 
 Block equation:
-$$ E = mc^[[2] $$
+$$ E = mc^2 $$
 
 
 **References:**

@@ -18,4 +18,4 @@
 * **Fueled social and economic transformations** in the US, contributing to the growth of capitalism and the rise of a national economy.
 * **Created challenges related to labor conditions, wages, and worker rights** that would continue to be debated throughout the 19th century. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

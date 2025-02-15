@@ -16,4 +16,4 @@
 * **Community Building:** [[Hull House]] fostered a sense of community among its diverse residents and promoted intercultural understanding.  It became a center for social activism and political engagement.
 * **Influence on Legislation:** Data gathered at [[Hull House]] helped inform and shape legislation related to child labor, housing, and public health.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

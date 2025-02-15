@@ -11,13 +11,13 @@ Water is amphoteric, meaning it can act as both an acid and a base.  This is due
    $H_2O(l) + H^+(aq) \rightleftharpoons H_3O^+(aq)$
    Here, water acts as a Brønsted-Lowry base, accepting a proton to form the hydronium ion ($H_3O^+$).
 
-## $$K_w = [H^+][OH^-] = 1.0 \times 10^{-14} \text{ at 25}^\circ C$$
+## $$K_w = [H^+]][OH^-]] = 1.0 \times 10^{-14} \text{ at 25}^\circ C$$
 
-The ion product constant for water ($K_w$) describes the equilibrium constant for the autoionization of water.  At 25°C, $K_w$ is $1.0 \times 10^{-14}$. This means that in pure water, $[H^+]=[OH^-]=1.0 \times 10^{-7}$ M.
+The ion product constant for water ($K_w$) describes the equilibrium constant for the autoionization of water.  At 25°C, $K_w$ is $1.0 \times 10^{-14}$. This means that in pure water, $[H^+]]=[OH^-]]=1.0 \times 10^{-7}$ M.
 
 * **pH and pOH:**
-    * $pH = -\log[H^+]$
-    * $pOH = -\log[OH^-]$
+    * $pH = -\log[H^+]]$
+    * $pOH = -\log[OH^-]]$
     * $pH + pOH = 14$ (at 25°C)
 
 [[Acids and Bases]]

@@ -9,9 +9,9 @@ Acid-base indicators are substances that change color depending on the pH of the
 
   The equilibrium constant for this reaction is the acid dissociation constant, $K_a$.
 
-  ## $$K_a = \frac{[H^+][In^-]}{[HIn]}$$
+  ## $$K_a = \frac{[H^+]][In^-]]}{[HIn]]}$$
 
-  The ratio of $[In^-]$ to $[HIn]$ determines the color observed.  At low pH (high $[H^+])$, the equilibrium shifts to the left, favoring the protonated form ($HIn$), resulting in one color. At high pH (low $[H^+])$, the equilibrium shifts to the right, favoring the deprotonated form ($In^-$), resulting in a different color. The pKa of the indicator determines the pH range over which the color change occurs.  The transition range is typically approximately one pH unit around the pKa value.
+  The ratio of $[In^-]]$ to $[HIn]]$ determines the color observed.  At low pH (high $[H^+]])$, the equilibrium shifts to the left, favoring the protonated form ($HIn$), resulting in one color. At high pH (low $[H^+]])$, the equilibrium shifts to the right, favoring the deprotonated form ($In^-$), resulting in a different color. The pKa of the indicator determines the pH range over which the color change occurs.  The transition range is typically approximately one pH unit around the pKa value.
 
 
 * **Examples:**

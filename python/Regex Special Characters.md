@@ -16,7 +16,7 @@ These notes cover special characters used in [[Regular Expressions]] within Pyth
 
 * **`?` (Question Mark):** Matches zero or one occurrence of the preceding character or group.
 
-* **`1` (Square Brackets):** Defines a character set.  e.g., `[abc]` matches 'a', 'b', or 'c'.  Ranges are possible: `[a-z]` matches any lowercase letter.  `[^abc]` negates the set (matches anything *except* a, b, or c).
+* **`1` (Square Brackets):** Defines a character set.  e.g., `[abc]]` matches 'a', 'b', or 'c'.  Ranges are possible: `[a-z]]` matches any lowercase letter.  `[^abc]]` negates the set (matches anything *except* a, b, or c).
 
 * **`()` (Parentheses):** Creates a capturing group.  Used for extracting specific parts of a matched string.  Also useful for grouping parts of the regex for applying quantifiers.
 
@@ -49,23 +49,23 @@ text = "The quick brown fox jumps over the lazy fox."
 pattern = r"fox"  # Matches the literal string "fox"
 
 matches = re.findall(pattern, text)
-print(matches)  # Output: ['fox', 'fox']
+print(matches)  # Output: ['fox', 'fox']]
 
 pattern = r".ox" # Matches any character followed by "ox"
 matches = re.findall(pattern, text)
-print(matches) # Output: ['fox', 'fox']
+print(matches) # Output: ['fox', 'fox']]
 
 pattern = r"f.x" # Matches 'f' followed by any character followed by 'x'
 matches = re.findall(pattern, text)
-print(matches) # Output: ['fox', 'fox']
+print(matches) # Output: ['fox', 'fox']]
 
 pattern = r"The.*fox" # Matches 'The' followed by any characters (except newline) followed by 'fox'
 matches = re.findall(pattern, text)
-print(matches) # Output: ['The quick brown fox']
+print(matches) # Output: ['The quick brown fox']]
 
 pattern = r"\bf\w+\b" #Matches whole words starting with 'f'
 matches = re.findall(pattern,text)
-print(matches) # Output: ['fox', 'fox']
+print(matches) # Output: ['fox', 'fox']]
 ```
 
 

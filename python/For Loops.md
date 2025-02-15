@@ -3,11 +3,11 @@
 Python's `for` loop iterates over a sequence (like a list, tuple, string, or range) or other iterable object.
 
 ```python
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry"]]
 for fruit in fruits:
   print(fruit)
 
-for i in range([[5]): # range([[5]) generates 0, [[1, [[2], [[3], [[4]
+for i in range(5): # range(5) generates 0, [[1, 2, 3, 4
   print(i)
 
 for i, fruit in enumerate(fruits): # enumerate gives both index and value
@@ -45,13 +45,13 @@ for value in person.values():
 
 ```python
 for i in range(10):
-  if i == [[5]:
-    break  # Stops the loop when i is [[5]
+  if i == 5:
+    break  # Stops the loop when i is 5
   print(i)
 
 for i in range(10):
-  if i == [[5]:
-    continue # Skips [[5]
+  if i == 5:
+    continue # Skips 5
   print(i)
 ```
 

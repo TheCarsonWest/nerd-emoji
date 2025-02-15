@@ -4,7 +4,7 @@ Context managers are a powerful feature in Python that allows you to manage reso
 
 There are two primary ways to define custom context managers:
 
-**[[1. Using the `contextlib.contextmanager` decorator:**
+**1. Using the `contextlib.contextmanager` decorator:**
 
 This is generally the preferred and more concise approach for simpler context managers.
 
@@ -32,7 +32,7 @@ with my_context_manager("value1", "value2") as result:
 ```
 
 
-**[[2]. Using a class that implements the context management protocol (__enter__ and __exit__):**
+**2. Using a class that implements the context management protocol (__enter__ and __exit__):**
 
 This approach offers more control and flexibility, especially when dealing with complex resource management scenarios or cleanup that requires more than simple `try...finally` logic.
 

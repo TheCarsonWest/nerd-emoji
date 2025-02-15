@@ -17,4 +17,4 @@ A military alliance formed between Germany, Austria-Hungary, and Italy.  The agr
 * **Italian Ambivalence:** Italy's membership in the [[Triple Alliance]] was somewhat tenuous.  Italy's participation in the [[Triple Alliance]] was more opportunistic than driven by genuine ideological alignment. Their later switch to the Allied side in WWI demonstrates this.
 * **Shifting Alliances:** The [[Triple Alliance]] demonstrated the ever-changing nature of international relations and the importance of military alliances in shaping foreign policy in the late 19th and early 20th centuries.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

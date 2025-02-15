@@ -15,4 +15,4 @@
 * **Monopolies and Trusts:** Carnegie's success also highlighted the growing power of monopolies and trusts during the [[Gilded Age]], sparking public debate about economic inequality and the need for government regulation.  His company's dominance raised concerns about unfair business practices and their impact on competition.
 * **Social Darwinism:** Carnegie's philosophy, while philanthropic, aligned with certain aspects of Social Darwinism, believing that the accumulation of wealth was a natural consequence of competition and that the wealthy had a responsibility to help those less fortunate.  This connection to Social Darwinism is a key aspect of understanding his legacy.
 
-# [[IDS Unit 5]
+# [[IDS Unit 5]]

@@ -54,7 +54,7 @@
 | The amount                              | المَبْلَغ                                  |
 | But                                     | وَلَكِن                                    |
 | I carry                                 | أَحْمِلُ                                   |
-| Dollars ( word number [[2])                | دُوْلارات                                  |
+| Dollars ( word number 2)                | دُوْلارات                                  |
 | I take                                  | آخُذُ                                      |
 | Dollars  (word number [[1)                | دولاراً                                    |
 | Also/too                                | أَيْضَاً                                   |

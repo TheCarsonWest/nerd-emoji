@@ -15,14 +15,14 @@ print(series)
 * **DataFrame:** A two-dimensional labeled data structure with columns of potentially different types. You can think of it like a spreadsheet or SQL table, or a dict of Series objects.  It has both a row and column index.
 
 ```python
-data = {'col1': [[1, [[2], [[3]], 'col2': [[4], [[5], [[6]], 'col3': [[7], 8, 9]}
+data = {'col1': [[1, 2, 3, 'col2': 4, 5, 6, 'col3': 7, 8, 9]]}
 df = pd.DataFrame(data)
 print(df)
 
 # Accessing data
-print(df['col1']) # Accessing a column
-print(df.iloc[0]) # Accessing a row by integer location
-print(df.loc[0, 'col1']) # Accessing a specific cell by label
+print(df['col1']]) # Accessing a column
+print(df.iloc[0]]) # Accessing a row by integer location
+print(df.loc[0, 'col1']]) # Accessing a specific cell by label
 ```
 
 [[Series Object]]  ([[DataFrame Object]])

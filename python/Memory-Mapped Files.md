@@ -29,9 +29,9 @@ try:
         mm = mmap.mmap(f.fileno(), 0) # Map the entire file
 
         # Access and modify the file's contents directly through mm
-        print(mm[:10]) # Read the first 10 bytes
+        print(mm[:10]]) # Read the first 10 bytes
 
-        mm[0:10] = b"Hello, world!" # Write to the first 10 bytes
+        mm[0:10]] = b"Hello, world!" # Write to the first 10 bytes
 
         mm.close()  # Close the mapped file
 except OSError as e:

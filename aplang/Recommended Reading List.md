@@ -7,19 +7,19 @@ This note covers creating a recommended reading list.
 
 **Sections:**
 
-[[1. **Introduction:** Briefly explain the purpose of the reading list and the target audience.  Mention the criteria used for selecting the books (e.g., relevance, quality, accessibility).
+1. **Introduction:** Briefly explain the purpose of the reading list and the target audience.  Mention the criteria used for selecting the books (e.g., relevance, quality, accessibility).
 
-[[2]. **Reading List:**  This is the core of the document.  Organize the list logically (chronologically, thematically, by difficulty level etc.).  For each book, include:
+2. **Reading List:**  This is the core of the document.  Organize the list logically (chronologically, thematically, by difficulty level etc.).  For each book, include:
     * **Title:** *Book Title*
     * **Author:** Author Name
     * **Year:** Year of Publication
-    * **Brief Description/Annotation:** A concise summary of the book's content and its relevance to the topic.  (Aim for [[2]-[[3] sentences max).  Consider highlighting key themes or perspectives.
+    * **Brief Description/Annotation:** A concise summary of the book's content and its relevance to the topic.  (Aim for 2-3 sentences max).  Consider highlighting key themes or perspectives.
     * **Recommended for:**  Specify target audiences for this book (e.g. beginners, advanced readers, people with a background in X).
-    * **Rating (Optional):**  Use a star system or other rating scale (e.g., [[1-[[5] stars).
+    * **Rating (Optional):**  Use a star system or other rating scale (e.g., [[1-5 stars).
     * **Link to Purchase (Optional):**  Include links to Amazon, Goodreads, or other relevant retailers.
 
 
-[[3]. **Further Reading (Optional):**  Include additional resources, such as articles, websites, or other reading lists that complement the main list.  This section can cover related or tangential topics. [[Further Reading Resources]]
+3. **Further Reading (Optional):**  Include additional resources, such as articles, websites, or other reading lists that complement the main list.  This section can cover related or tangential topics. [[Further Reading Resources]]
 
 
 **Example Entry:**

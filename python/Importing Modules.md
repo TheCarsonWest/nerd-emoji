@@ -16,7 +16,7 @@ Modules are files containing Python definitions and statements.  They provide a 
 ```python
 import math
 
-print(math.sqrt(25))  # Output: [[5].0
+print(math.sqrt(25))  # Output: 5.0
 
 from random import randint
 
@@ -31,10 +31,10 @@ print(getcwd()) #Prints current working directory.
 
 Python searches for modules in a specific order:
 
-[[1.  The current directory.
-[[2].  Locations specified by the `PYTHONPATH` environment variable.
-[[3].  Standard library directories.
-[[4].  Installation-specific directories (site-packages).
+1.  The current directory.
+2.  Locations specified by the `PYTHONPATH` environment variable.
+3.  Standard library directories.
+4.  Installation-specific directories (site-packages).
 
 ([[PYTHONPATH Environment Variable]])
 

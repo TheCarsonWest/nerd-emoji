@@ -31,24 +31,24 @@ While the units for volume can technically be any unit as long as they are consi
 
 What volume of a 12.0 M HCl solution is required to prepare 250.0 mL of a 0.500 M HCl solution?
 
-[[1. **Identify knowns and unknowns:**
+1. **Identify knowns and unknowns:**
 
    $M_1$ = 12.0 M
    $V_1$ = ?
    $M_2$ = 0.500 M
    $V_2$ = 250.0 mL
 
-[[2]. **Apply the dilution equation:**
+2. **Apply the dilution equation:**
 
    $(12.0 \, M)(V_1) = (0.500 \, M)(250.0 \, mL)$
 
-[[3]. **Solve for $V_1$:**
+3. **Solve for $V_1$:**
 
-   $V_1 = \frac{(0.500 \, M)(250.0 \, mL)}{12.0 \, M} = 10.[[4] \, mL$
+   $V_1 = \frac{(0.500 \, M)(250.0 \, mL)}{12.0 \, M} = 10.4 \, mL$
 
-Therefore, 10.[[4] mL of the 12.0 M HCl solution is needed.
+Therefore, 10.4 mL of the 12.0 M HCl solution is needed.
 
 
-**Example [[2]:**
+**Example 2:**
 
-You have 50.0 mL of a [[2].50
+You have 50.0 mL of a 2.50

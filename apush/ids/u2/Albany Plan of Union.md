@@ -15,4 +15,4 @@ A proposal by [[Benjamin Franklin]] for a unified government for the thirteen Br
 * **Precursor to later union efforts:** The Albany Plan's ideas about representation, taxation, and shared governance prefigured similar discussions that would take place during and after the American Revolution, ultimately leading to the creation of the [[Articles of Confederation]] and the [[United States]] Constitution.
 
 
-# [[IDS Unit 3]
+# [[IDS Unit 3]]

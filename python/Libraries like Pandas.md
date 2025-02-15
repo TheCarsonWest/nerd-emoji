@@ -21,24 +21,24 @@ Key features of libraries like Pandas include:
 import pandas as pd
 
 # Create a DataFrame
-data = {'Name': ['Alice', 'Bob', 'Charlie'],
+data = {'Name': ['Alice', 'Bob', 'Charlie']],
         'Age': [25, 30, 28,
-        'City': ['[[New York]]', 'London', 'Paris']}
+        'City': ['[[New York]]', 'London', 'Paris']]}
 df = pd.DataFrame(data)
 
 # Display the DataFrame
 print(df)
 
 # Calculate the average age
-average_age = df['Age'].mean()
+average_age = df['Age']].mean()
 print(f"Average age: {average_age}")
 
 # Filter for people older than 28
-older_than_28 = df[df['Age'] > 28
+older_than_28 = df[df['Age']] > 28
 print(older_than_28)
 
 # Group by city and calculate the average age for each city
-grouped = df.groupby('City')['Age'].mean()
+grouped = df.groupby('City')['Age']].mean()
 print(grouped)
 ```
 

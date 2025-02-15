@@ -17,4 +17,4 @@ An act passed by the British Parliament that granted the British East India Comp
 * **Symbol of Oppression:** The [[Tea Act]] became a powerful symbol of British tyranny and the colonists' fight for liberty. It highlighted the fundamental issue of colonial autonomy versus British control.
 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

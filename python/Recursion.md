@@ -21,7 +21,7 @@ def factorial(n):
   else:
     return n * factorial(n - [[1)  # Recursive step
 
-print(factorial([[5]))  # Output: 120
+print(factorial(5))  # Output: 120
 ```
 
 **Potential Issues:**
@@ -44,9 +44,9 @@ def fibonacci_recursive(n):
     if n <= [[1:
         return n
     else:
-        return fibonacci_recursive(n-[[1) + fibonacci_recursive(n-[[2])
+        return fibonacci_recursive(n-[[1) + fibonacci_recursive(n-2)
 
-print(fibonacci_recursive([[6])) # Output: 8 (but slow for larger n)
+print(fibonacci_recursive(6)) # Output: 8 (but slow for larger n)
 ```
 
 This recursive Fibonacci solution is inefficient because it recalculates many values multiple times.  An iterative approach would be significantly faster for larger values of `n`.

@@ -11,7 +11,7 @@ def my_sum(*args):
     total += num
   return total
 
-print(my_sum([[1, [[2], [[3]))  # Output: [[6]
+print(my_sum([[1, 2, 3))  # Output: 6
 print(my_sum(10, 20, 30, 40)) # Output: 100
 print(my_sum()) # Output: 0
 ```
@@ -40,13 +40,13 @@ def combined_example(*args, **kwargs):
   print("Positional arguments:", args)
   print("Keyword arguments:", kwargs)
 
-combined_example([[1, [[2], [[3], name="Bob", age=25)
+combined_example([[1, 2, 3, name="Bob", age=25)
 ```
 
 Output:
 
 ```
-Positional arguments: ([[1, [[2], [[3])
+Positional arguments: ([[1, 2, 3)
 Keyword arguments: {'name': 'Bob', 'age': 25}
 ```
 

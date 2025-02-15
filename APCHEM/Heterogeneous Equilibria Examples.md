@@ -13,7 +13,7 @@ Heterogeneous equilibria involve reactants and products in different phases.  Th
 
    $AgCl(s) \rightleftharpoons Ag^+(aq) + Cl^-(aq)$
 
-   The equilibrium constant expression is:  $K_{sp} = [Ag^+][Cl^-]$  ($K_{sp}$ is the solubility product constant).  Note that solid $AgCl$ is omitted. [[Solubility Product Constant]]
+   The equilibrium constant expression is:  $K_{sp} = [Ag^+]][Cl^-]]$  ($K_{sp}$ is the solubility product constant).  Note that solid $AgCl$ is omitted. [[Solubility Product Constant]]
 
 * **Decomposition of a solid:**
 

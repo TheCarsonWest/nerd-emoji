@@ -24,13 +24,13 @@
 
 **Analyzing Arguments for Bias:**
 
-[[1. **Identify the conclusion:** What is the main point the arguer is trying to make?
-[[2]. **Examine the premises:** What evidence or reasons are offered to support the conclusion?
-[[3]. **Look for unsupported assertions:** Are there claims made without sufficient evidence?
-[[4]. **Check for logical fallacies:** [[Logical Fallacies]] Are there flaws in the reasoning?
-[[5]. **Consider the source:** Is the source credible and unbiased?  What are their potential motivations?
-[[6]. **Consider alternative explanations:** Could the evidence be interpreted differently?
-[[7]. **Identify potential biases:**  Which of the biases listed above might be influencing the argument?
+1. **Identify the conclusion:** What is the main point the arguer is trying to make?
+2. **Examine the premises:** What evidence or reasons are offered to support the conclusion?
+3. **Look for unsupported assertions:** Are there claims made without sufficient evidence?
+4. **Check for logical fallacies:** [[Logical Fallacies]] Are there flaws in the reasoning?
+5. **Consider the source:** Is the source credible and unbiased?  What are their potential motivations?
+6. **Consider alternative explanations:** Could the evidence be interpreted differently?
+7. **Identify potential biases:**  Which of the biases listed above might be influencing the argument?
 
 
 **Example Analysis:**

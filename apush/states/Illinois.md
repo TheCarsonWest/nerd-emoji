@@ -5,7 +5,7 @@
 * **1787:** [[Illinois]] Territory created as part of the Northwest Territory
 * **1818:** [[Illinois]] admitted to the Union as the 21st state
 * **1833:** Black Hawk War fought between settlers and Native Americans
-* **1854:** [[Kansas]]-[[Nebraska]] Act, passed in part by [[Illinois]] Senator Stephen Douglas, which allowed slavery in the territories
+* **1854:** [[Kansas-Nebraska Act]], passed in part by [[Illinois]] Senator Stephen Douglas, which allowed slavery in the territories
 * **1861:** [[Illinois]] sends a record number of troops to fight in the [[Civil War]] * **1868:** University of [[Illinois]] at Urbana-Champaign founded
 * **1886:** Haymarket Massacre, a labor protest that turned violent, results in the deaths of several workers and police officers
 * **1893:** Columbian Exposition (World's Fair) held in Chicago

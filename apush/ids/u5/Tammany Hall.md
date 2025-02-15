@@ -16,4 +16,4 @@ A powerful political machine in [[New York]] City.  It used patronage, graft, co
 * **Public Backlash and Reform:** The excesses of [[Tammany Hall]] eventually led to public outrage and investigative journalism (e.g., [[Thomas Nast]]'s cartoons), contributing to the progressive reform movements that aimed to curb political corruption.
 * **Immigration and Urban Politics:**  [[Tammany Hall]]'s history highlights the complex relationship between immigrant communities, urban politics, and the challenges of rapid urbanization in the late 19th century.  It provided services but also exploited vulnerable populations.
 
-# [[IDS Unit 5]
+# [[IDS Unit 5]]

@@ -3,7 +3,7 @@
 
 **I. Vectors:**
 
-* **Definition:** A quantity with both magnitude and direction.  Represented graphically as arrows.  Can be represented algebraically as ordered tuples (e.g., $\begin{bmatrix} [[2] \\ [[3] \end{bmatrix}$ in $\mathbb{R}^[[2]$).
+* **Definition:** A quantity with both magnitude and direction.  Represented graphically as arrows.  Can be represented algebraically as ordered tuples (e.g., $\begin{bmatrix} 2 \\ 3 \end{bmatrix}$ in $\mathbb{R}^2$).
 
 * **Vector Addition:**  Geometrically, the tail-to-head method. Algebraically, component-wise addition:  $\begin{bmatrix} a \\ b \end{bmatrix} + \begin{bmatrix} c \\ d \end{bmatrix} = \begin{bmatrix} a+c \\ b+d \end{bmatrix}$.
 

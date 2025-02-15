@@ -2,14 +2,19 @@
 #chem #equilibrium
 # [[Le Chateliers Principle]]
 # [[Equilibrium]]
-
+# [[Acids and Bases]]
+# [[Solving Equilibrium Equations]]
+# [[ICE Tables]]
+# [[Approximations in Equilibrium Calculations]]
+# [[Base Dissociation Constant]]
+# [[Salt Hydrolysis]]
 **Key Concepts:**
 
 * **Dynamic [[Equilibrium]]:**  A state where the rates of the forward and reverse reactions are equal, resulting in no net change in concentrations of reactants and products.  $Rate_{forward} = Rate_{reverse}$
 
 * **[[Equilibrium]] Constant ($K$):**  A quantitative measure of the relative amounts of reactants and products at equilibrium.  For the generic reaction: $aA + bB \rightleftharpoons cC + dD$, the equilibrium constant expression is:
 
- ## $$K = \frac{[C]^c[D]^d}{[A]^a[B]^b}$$
+ ## $$K = \frac{[C]]^c[D]]^d}{[A]]^a[B]]^b}$$
 
 * **$K_c$ vs $K_p$**: $K_c$ uses molar concentrations, while $K_p$ uses partial pressures (for gaseous reactions).  The relationship between them is given by:
 

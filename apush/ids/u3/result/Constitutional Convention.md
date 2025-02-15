@@ -21,4 +21,4 @@ Key Issues and Compromises:
 * **Left some issues unresolved**, such as slavery, which would continue to cause tension and ultimately lead to the [[Civil War]]. 
 * **Debates over ratification** led to the development of the **Federalist** and **Anti-Federalist** factions, shaping early American political thought. 
 
-# [[IDS Unit 3]
+# [[IDS Unit 3]]

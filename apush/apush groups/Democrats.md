@@ -1,6 +1,6 @@
 # The [[Democrats]] ### Symbol: donkey, because they are ass
 The Democratic Party, one of the two major political parties in the [[United States]], boasts a long and complex history, evolving alongside the nation itself. Its roots trace back to the \
-Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Adams]] in the [[election of 1824], where he and his people split from the [[Democratic-Republican]]s
+Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Adams]] in the [[election of 1824]], where he and his people split from the [[Democratic-Republican]]s
 
 
 ## **The Early Years (1800-1828):**

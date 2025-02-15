@@ -19,12 +19,12 @@
 
 A structured approach is needed:
 
-[[1. **Identify the source:** Who is providing the information? What are their credentials?
-[[2]. **Examine the source's purpose:** What is the goal of the source?  Are they trying to persuade, inform, or entertain?
-[[3]. **Evaluate the evidence:**  What evidence is presented to support the claims? Is the evidence sufficient and credible?
-[[4]. **Check for bias:** Does the source show any bias or partiality? [[Bias Detection]]
-[[5]. **Compare to other sources:** Does the information align with what other credible sources say?
-[[6]. **Consider the context:**  What is the overall context of the information?  Does it fit within a broader narrative?
+1. **Identify the source:** Who is providing the information? What are their credentials?
+2. **Examine the source's purpose:** What is the goal of the source?  Are they trying to persuade, inform, or entertain?
+3. **Evaluate the evidence:**  What evidence is presented to support the claims? Is the evidence sufficient and credible?
+4. **Check for bias:** Does the source show any bias or partiality? [[Bias Detection]]
+5. **Compare to other sources:** Does the information align with what other credible sources say?
+6. **Consider the context:**  What is the overall context of the information?  Does it fit within a broader narrative?
 
 **Consequences of Low [[Source Credibility]]:**
 

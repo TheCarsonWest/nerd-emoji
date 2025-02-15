@@ -9,7 +9,7 @@
 
 * **Examples of Weak Bases:** Ammonia ($NH_3$), amines (organic compounds with $NH_2$ group). These partially dissociate in water. $NH_3 + H_2O \rightleftharpoons NH_4^+ + OH^-$
 
-* **$K_b$ ([[Base Dissociation Constant]]):**  A measure of base strength.  A larger $K_b$ value indicates a stronger base.  For the reaction $B + H_2O \rightleftharpoons BH^+ + OH^-$,  $K_b = \frac{[BH^+][OH^-]}{[B]}$
+* **$K_b$ ([[Base Dissociation Constant]]):**  A measure of base strength.  A larger $K_b$ value indicates a stronger base.  For the reaction $B + H_2O \rightleftharpoons BH^+ + OH^-$,  $K_b = \frac{[BH^+]][OH^-]]}{[B]]}$
 
 * **$pK_b$: ** $pK_b = -\log{K_b}$.  A smaller $pK_b$ value indicates a stronger base.
 

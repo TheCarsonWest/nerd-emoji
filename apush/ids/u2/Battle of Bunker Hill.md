@@ -2,7 +2,7 @@
 ## When: June 17, 1775
 
 ## Who:
-* **British:** General William Howe and approximately [[2],400 troops.
+* **British:** General William Howe and approximately 2,400 troops.
 * **Colonials/Patriots:**  Colonel William Prescott (primarily) and approximately [[1,500 militia from [[Massachusetts]], [[New Hampshire]], [[Rhode Island]], and [[Connecticut]].  
 
 ## What: 
@@ -15,4 +15,4 @@ A significant early battle of the American Revolutionary War, fought on Breed's 
 * **Strategic Implications:** While a tactical victory for the British, it delayed their advance toward the siege of Boston and ultimately proved a pivotal battle in the early stages of the war, highlighting the Patriots' readiness to resist the British.
 * **Tactical Learning:**  The battle provided both sides with valuable lessons in siege warfare and combat strategies. The British learned the hard way about attacking fortified positions. The Patriots refined their defensive tactics.
 
-# [[APUSH Period 4]
+# [[APUSH Period 4]]

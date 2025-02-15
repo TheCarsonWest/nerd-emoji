@@ -17,4 +17,4 @@ A series of state laws passed in the Midwest (and some Southern states) in respo
 * **Weakened by Wabash Case (1886):** The Supreme Court's decision in *Wabash, St. Louis & Pacific Railway Co. v. [[Illinois]]* limited the power of states to regulate interstate commerce, weakening the effectiveness of the [[Granger Laws]].  This spurred the creation of the Interstate Commerce Commission (ICC).
 * **Rise of Populism:** The Granger movement and the subsequent fight for fair railroad rates contributed to the rise of the Populist movement, which advocated for farmers' rights and greater government regulation.
 
-# [[IDS Unit 5]
+# [[IDS Unit 5]]

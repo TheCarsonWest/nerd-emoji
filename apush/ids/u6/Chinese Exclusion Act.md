@@ -1,6 +1,6 @@
 ## ID: [[Chinese Exclusion Act]]
 
-## When: May [[6], 1882
+## When: May 6, 1882
 
 ## Who: 
 * **Congress:** Passed the act.  
@@ -8,7 +8,8 @@
 * **Target Population:** Chinese immigrants in the [[United States]].
 
 ## What: 
-The [[Chinese Exclusion Act]] was a [[United States]] federal law that prohibited all immigration of Chinese laborers.  It was initially enacted for ten years, and was periodically renewed until its repeal in 1943.  The act also barred Chinese from becoming naturalized citizens.
+# 10 years 
+The [[Chinese Exclusion Act]] was a [[United States]] federal law that prohibited all immigration of Chinese laborers.  It was initially enacted for ten years, and was periodically renewed until its repeal in 1943.  The act also barred Chinese from becoming naturalized citizens. 
 
 ## Impact: Why Significant?:
 * **Nativism and [[Xenophobia]]:** The act exemplified growing nativism and anti-immigrant sentiment in the late 19th century [[United States]].  It reflected fears about competition for jobs and cultural differences.
@@ -18,4 +19,4 @@ The [[Chinese Exclusion Act]] was a [[United States]] federal law that prohibite
 * **Formation of Chinese American Communities:** While significantly restricting immigration, the Act also led to the development of tightly-knit Chinese American communities focused on mutual support and self-reliance.  This resulted in distinct cultural enclaves in American cities.
 
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

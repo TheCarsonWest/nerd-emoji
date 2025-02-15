@@ -18,4 +18,4 @@ A brief war between the [[United States]] and [[Spain]], sparked by the sinking 
 * **[[Platt Amendment]]:** This amendment, imposed on Cuba as a condition of its independence, gave the US significant influence over Cuban affairs, demonstrating the limitations of Cuban sovereignty.  
 * **Philippine-American War:**  The US victory in the [[Spanish-American War]] led directly to the prolonged and brutal Philippine-American War (1899-1902), further highlighting the complexities and costs of American imperialism.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

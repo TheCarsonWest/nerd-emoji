@@ -18,16 +18,16 @@
 
 * **Discrete Random Variables:**
     * Probability Mass Function (PMF): $P(X=x) = p(x)$
-    * Expected Value: $E[X] = \sum_x x p(x)$
-    * Variance: $Var(X) = E[(X - E[X])^[[2]] = E[X^[[2]] - (E[X])^[[2]$
+    * Expected Value: $E[X]] = \sum_x x p(x)$
+    * Variance: $Var(X) = E[(X - E[X]])^2 = E[X^2 - (E[X]])^2$
     * [[Discrete Probability Distributions]]  (Binomial, Poisson, Geometric, etc.)
 
 
 * **Continuous Random Variables:**
     * Probability Density Function (PDF): $f(x)$ such that $P(a \le X \le b) = \int_a^b f(x) dx$.
     * Cumulative Distribution Function (CDF): $F(x) = P(X \le x) = \int_{-\infty}^x f(t) dt$
-    * Expected Value: $E[X] = \int_{-\infty}^{\infty} x f(x) dx$
-    * Variance: $Var(X) = E[(X - E[X])^[[2]] = \int_{-\infty}^{\infty} (x - E[X])^[[2] f(x) dx$
+    * Expected Value: $E[X]] = \int_{-\infty}^{\infty} x f(x) dx$
+    * Variance: $Var(X) = E[(X - E[X]])^2 = \int_{-\infty}^{\infty} (x - E[X]])^2 f(x) dx$
     * [[Continuous Probability Distributions]] (Normal, Exponential, Uniform, etc.)
 
 

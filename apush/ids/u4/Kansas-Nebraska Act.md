@@ -6,4 +6,4 @@ The [[Kansas]]-[[Nebraska Act]] was a controversial piece of legislation that al
 ## Impact: Why Significant?: 
 This act effectively repealed the [[Missouri Compromise]] of 1820 which prohibited slavery north of the 36°30′ parallel. This angered many in the North, leading to increased tensions between the North and South. It also sparked a violent struggle in [[Kansas]], known as "[[Bleeding Kansas]]," as pro-slavery and anti-slavery factions clashed. The [[Kansas]]-[[Nebraska Act]] is seen as a major factor in the escalation of sectional tensions that ultimately led to the [[Civil War]]. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

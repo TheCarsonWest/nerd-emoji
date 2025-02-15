@@ -10,10 +10,10 @@ import re
 
 Here's a breakdown of common special [[Sequences]]:
 
-* `\d`: Matches any decimal digit (0-9).  Equivalent to `[0-9]`.
-* `\D`: Matches any non-digit character. Equivalent to `[^0-9]`.
-* `\w`: Matches any alphanumeric character (a-z, A-Z, 0-9, and underscore _). Equivalent to `[a-zA-Z0-9_]`.
-* `\W`: Matches any non-alphanumeric character. Equivalent to `[^a-zA-Z0-9_]`.
+* `\d`: Matches any decimal digit (0-9).  Equivalent to `[0-9]]`.
+* `\D`: Matches any non-digit character. Equivalent to `[^0-9]]`.
+* `\w`: Matches any alphanumeric character (a-z, A-Z, 0-9, and underscore _). Equivalent to `[a-zA-Z0-9_]]`.
+* `\W`: Matches any non-alphanumeric character. Equivalent to `[^a-zA-Z0-9_]]`.
 * `\s`: Matches any whitespace character (space, tab, newline).
 * `\S`: Matches any non-whitespace character.
 * `\b`: Matches a word boundary (the position between a word character and a non-word character).  Useful for finding whole words.
@@ -35,7 +35,7 @@ print(f"Words: {words}")
 
 
 # Find phone number (more complex example - requires more than just special sequences)
-phone_number = re.search(r"\d{[[3]}-\d{[[3]}-\d{[[4]}", text)
+phone_number = re.search(r"\d{3}-\d{3}-\d{4}", text)
 if phone_number:
     print(f"Phone number: {phone_number.group(0)}")
 ```

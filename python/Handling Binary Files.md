@@ -27,10 +27,10 @@ with open("myfile.bin", "rb") as f:
 
 #Reading into a buffer
 with open("myfile.bin", "rb") as f:
-    buffer = bytearray([[4]) #Pre-allocate a buffer of [[4] bytes.
+    buffer = bytearray(4) #Pre-allocate a buffer of 4 bytes.
     bytes_read = f.readinto(buffer)
     print(buffer) #Output: bytearray(b'\x00\x01\x02\x03')
-    print(bytes_read) #Output: [[4]
+    print(bytes_read) #Output: 4
 ```
 
 **Important Considerations:**

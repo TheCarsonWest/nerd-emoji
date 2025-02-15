@@ -1,4 +1,4 @@
-## [[Natural Log Rule]] ### $$\frac{d}{dx}[\ln(x)] = \frac{[[1}{x} $$
+## [[Natural Log Rule]] ### $$\frac{d}{dx}[\ln(x)]] = \frac{[[1}{x} $$
 
 
 

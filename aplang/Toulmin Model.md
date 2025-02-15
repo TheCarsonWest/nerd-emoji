@@ -3,17 +3,17 @@
 
 The Toulmin model is a practical approach to analyzing arguments and constructing persuasive ones. It breaks down an argument into six key components:
 
-[[1. **Claim:** The main point or assertion being argued.  $Claim = P$
+1. **Claim:** The main point or assertion being argued.  $Claim = P$
 
-[[2]. **Data/Grounds:** The evidence or facts used to support the claim. $Data = E$
+2. **Data/Grounds:** The evidence or facts used to support the claim. $Data = E$
 
-[[3]. **Warrant:** The underlying assumption or principle that connects the data to the claim. This often isn't explicitly stated but is crucial for the argument's validity.  $Warrant =  E \implies P$
+3. **Warrant:** The underlying assumption or principle that connects the data to the claim. This often isn't explicitly stated but is crucial for the argument's validity.  $Warrant =  E \implies P$
 
-[[4]. **Backing:**  Support for the warrant.  This further justifies the underlying assumption. $Backing = Justification(Warrant)$
+4. **Backing:**  Support for the warrant.  This further justifies the underlying assumption. $Backing = Justification(Warrant)$
 
-[[5]. **Qualifier:** Words or phrases that limit the scope of the claim (e.g., "probably," "in most cases," "generally"). $Qualifier = q$
+5. **Qualifier:** Words or phrases that limit the scope of the claim (e.g., "probably," "in most cases," "generally"). $Qualifier = q$
 
-[[6]. **Rebuttal:**  Exceptions to the claim or circumstances under which the claim might not hold true. $Rebuttal = R$
+6. **Rebuttal:**  Exceptions to the claim or circumstances under which the claim might not hold true. $Rebuttal = R$
 
 
 A complete argument, using the Toulmin model can be represented as:

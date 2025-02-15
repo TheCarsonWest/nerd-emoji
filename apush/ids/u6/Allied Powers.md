@@ -1,6 +1,6 @@
 ## ID: [[Allied Powers]]' Entry into WWI
 
-## When: September [[5], 1914 (and ongoing)
+## When: September 5, 1914 (and ongoing)
 
 ## Who:
 * **[[Allied Powers]]:** Primarily [[Great Britain]], [[France]], and Russia (later joined by the [[United States]], Italy, Japan, and others).
@@ -17,4 +17,4 @@ Following the assassination of Archduke Franz Ferdinand on June 28, 1914, a seri
 * **Social Change:** The war significantly impacted American society, spurring social and political reforms, but also fueling anxieties about social unrest and radicalism (Red Scare).
 * **[[Treaty of Versailles]] & [[League of Nations]]:** The eventual Allied victory shaped the [[Treaty of Versailles]], which imposed harsh terms on Germany and led to the creation of the [[League of Nations]] (although the US did not join). The consequences of the treaty contributed to the rise of extremist ideologies and ultimately to WWII.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

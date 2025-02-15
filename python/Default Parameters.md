@@ -16,7 +16,7 @@ greet("Bob", "Hi")  # Output: Hi, Bob!
 
 ```python
 # Correct
-def func(a, b=[[2]):
+def func(a, b=2):
     pass
 
 # Incorrect - will raise a SyntaxError
@@ -31,8 +31,8 @@ def add_to_list(item, my_list=1):
   my_list.append(item)
   return my_list
 
-print(add_to_list([[1))  # Output: [[1]
-print(add_to_list([[2]))  # Output: [[1, [[2]]  <-- Unexpected!  The list persists between calls.
+print(add_to_list([[1))  # Output: 1
+print(add_to_list(2))  # Output: [[1, 2  <-- Unexpected!  The list persists between calls.
 ```
 
 To avoid this, use `None` as the default and create the list inside the function:
@@ -44,8 +44,8 @@ def add_to_list(item, my_list=None):
   my_list.append(item)
   return my_list
 
-print(add_to_list([[1))  # Output: [[1]
-print(add_to_list([[2]))  # Output: [[2]]
+print(add_to_list([[1))  # Output: 1
+print(add_to_list(2))  # Output: 2
 ```
 
 [[Function Parameters]]

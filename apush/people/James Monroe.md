@@ -2,7 +2,7 @@
 
 **Events:**
 
-* [[War of 1812] (Secretary of State)
+* [[War of 1812]] (Secretary of State)
 * [[Missouri]] Compromise (President)
 * [[Monroe Doctrine]] (President)
 
@@ -19,7 +19,7 @@
 
 **Impact on the Country:**
 
-* **Strengthened national sovereignty:** Monroe's leadership during the [[War of 1812] and his negotiation of the [[Monroe Doctrine]] cemented the [[United States]] as an independent power.
+* **Strengthened national sovereignty:** Monroe's leadership during the [[War of 1812]] and his negotiation of the [[Monroe Doctrine]] cemented the [[United States]] as an independent power.
 * **Promoted economic growth:** The [[Era of Good Feelings]] fostered a period of economic prosperity and internal improvements.
 * **Expanded territorial boundaries:** The [[Missouri]] Compromise resolved the issue of slavery in newly acquired territories, allowing for the nation's westward expansion.
 * **Defended national interests:** The [[Monroe Doctrine]] protected the [[United States]] from European influence and intervention in the Americas.

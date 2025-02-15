@@ -18,4 +18,4 @@ The formation of the Republican Party marked a major turning point in American p
 
 The Republican Party, despite its initial focus on the issue of slavery, would ultimately become a major force in American politics, shaping the nation's future for decades to come. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

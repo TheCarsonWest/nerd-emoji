@@ -15,4 +15,4 @@ A period of violent conflict in [[Kansas]] Territory over whether it would be ad
 * **Political polarization:** The conflict further divided the political landscape, contributing to the formation of the Republican Party.
 * **Precursor to [[Civil War]]:** [[Bleeding Kansas]] served as a violent foreshadowing of the larger conflict that would erupt in 1861. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

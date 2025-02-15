@@ -16,7 +16,7 @@
 - [[Demographic Transition Model]]
 ## People
 - [[Refugee]]
-## [[Unit 3] 
+## [[Unit 3]] 
 - [[Culture]]
 - [[Cultural Trait]]
 - [[Artifacts]]

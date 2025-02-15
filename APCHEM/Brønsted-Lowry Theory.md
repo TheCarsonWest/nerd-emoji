@@ -24,7 +24,7 @@ The Brønsted-Lowry theory defines acids and bases based on the transfer of prot
 
 * **$K_a$ and $K_b$:** The acid dissociation constant ($K_a$) and base dissociation constant ($K_b$) quantify the strength of weak acids and bases, respectively.  A larger $K_a$ or $K_b$ indicates a stronger acid or base. [[Equilibrium Constants]]
 
-* **pH and pOH:**  These scales measure the acidity and basicity of a solution, respectively. They are related to the concentration of $H_3O^+$ and $OH^-$ ions.  $pH = -\log_{10}[H_3O^+]$ and $pOH = -\log_{10}[OH^-]$. At 25°C, $pH + pOH = 14$. [[pH and pOH Calculations]]
+* **pH and pOH:**  These scales measure the acidity and basicity of a solution, respectively. They are related to the concentration of $H_3O^+$ and $OH^-$ ions.  $pH = -\log_{10}[H_3O^+]]$ and $pOH = -\log_{10}[OH^-]]$. At 25°C, $pH + pOH = 14$. [[pH and pOH Calculations]]
 
 * **Titrations:**  Titrations are used to determine the concentration of an unknown acid or base by reacting it with a solution of known concentration. [[Acid-Base Titrations]]
 

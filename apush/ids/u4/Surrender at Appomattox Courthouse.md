@@ -15,4 +15,4 @@ General Lee, facing overwhelming Union forces and a dwindling supply of men and 
 * **Reconstruction Era:** The surrender initiated the Reconstruction Era, a period of rebuilding and reintegration of the South back into the Union. This era was marked by significant social and political changes, including the passage of the 13th, 14th, and 15th Amendments, which abolished slavery, granted citizenship to African Americans, and provided them the right to vote. 
 * **Impact on Southern Society:** The surrender led to the collapse of the Confederacy and the dismantling of the Southern social and economic system that was based on slavery. The defeat of the Confederacy also resulted in a profound shift in power dynamics within the [[United States]], giving greater power to the federal government.
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

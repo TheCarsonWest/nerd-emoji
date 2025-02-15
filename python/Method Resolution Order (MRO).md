@@ -20,7 +20,7 @@ class C(A):
 class D(B, C):
     pass
 
-print(D.mro()) # Output: [<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>]
+print(D.mro()) # Output: [<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>]]
 d = D()
 d.method() # Output: B (because B is listed before C in the [[MRO]])
 
@@ -54,7 +54,7 @@ class C(A):
 class D(B,C):
     pass
 
-print(D.mro()) # Output: [<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>]
+print(D.mro()) # Output: [<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>]]
 
 d = D()
 d.method() # Prints 'A', as it's resolved correctly in the [[MRO]] ```

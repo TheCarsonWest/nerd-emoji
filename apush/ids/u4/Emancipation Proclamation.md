@@ -11,4 +11,4 @@ A presidential proclamation issued during the [[Civil War]] that declared all sl
 * **Weakened the Confederacy:** The Proclamation effectively freed slaves in Confederate-held areas, depriving the Confederacy of a significant labor force and military resource.
 * **Set the stage for Reconstruction:** The [[Emancipation Proclamation]] laid the groundwork for the [[13th amendment]], which officially abolished slavery in the [[United States]], and the subsequent Reconstruction era focused on integrating former slaves into American society. 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

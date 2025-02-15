@@ -12,9 +12,9 @@ def my_decorator_1(func):
 
 def my_decorator_2(func):
   def wrapper():
-    print("Decorator [[2] before")
+    print("Decorator 2 before")
     func()
-    print("Decorator [[2] after")
+    print("Decorator 2 after")
   return wrapper
 
 @my_decorator_1
@@ -29,9 +29,9 @@ This will output:
 
 ```
 Decorator [[1 before
-Decorator [[2] before
+Decorator 2 before
 Hello!
-Decorator [[2] after
+Decorator 2 after
 Decorator [[1 after
 ```
 

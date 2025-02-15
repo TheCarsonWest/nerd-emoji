@@ -3,7 +3,7 @@
 
 ```python
 my_dict = {"name": "Alice", "age": 30, "city": "[[New York]]"}
-print(my_dict["name"])  # Accessing values using keys
+print(my_dict["name"]])  # Accessing values using keys
 ```
 
 Accessing a non-existent key raises a `KeyError`.  Use the `get()` method for safer access:
@@ -15,15 +15,15 @@ print(my_dict.get("country", "Unknown")) # Returns "Unknown" if "country" is not
 Adding and modifying entries:
 
 ```python
-my_dict["occupation"] = "Engineer"
-my_dict["age"] = 31
+my_dict["occupation"]] = "Engineer"
+my_dict["age"]] = 31
 ```
 
 Iterating through dictionaries:
 
 ```python
 for key in my_dict:
-    print(key, my_dict[key])
+    print(key, my_dict[key]])
 
 for key, value in my_dict.items():
     print(key, value)

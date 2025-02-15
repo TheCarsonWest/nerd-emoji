@@ -11,11 +11,11 @@ Key characteristics:
 
 Examples of iterables:
 
-*   [[Lists]]:  `[[1, [[2], [[3]]`
-*   [[Tuples]]: `([[1, [[2], [[3])`
+*   [[Lists]]:  `[[1, 2, 3`
+*   [[Tuples]]: `([[1, 2, 3)`
 *   Strings: `"hello"`
-*   Sets: `{[[1, [[2], [[3]}`
-*   [[Dictionaries]]: `{"a": [[1, "b": [[2]}` (iterates over keys by default)
+*   Sets: `{[[1, 2, 3}`
+*   [[Dictionaries]]: `{"a": [[1, "b": 2}` (iterates over keys by default)
 *   Files (opened in read mode)
 *   Custom classes implementing `__iter__`
 
@@ -26,7 +26,7 @@ Iteration vs. [[Iterators]]: [[Iterators]] vs. [[Iterables]]
 Using iterables in `for` loops:
 
 ```python
-my_list = [[1, [[2], [[3], [[4], [[5]]
+my_list = [[1, 2, 3, 4, 5
 for item in my_list:
     print(item)
 

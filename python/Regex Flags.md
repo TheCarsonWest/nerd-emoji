@@ -12,7 +12,7 @@ import re
 
 text = "Hello World"
 match = re.search("world", text, re.IGNORECASE)
-print(match) # <re.Match object; span=([[6], 11), match='World'>
+print(match) # <re.Match object; span=(6, 11), match='World'>
 ```
 
 * `re.MULTILINE` (or `re.M`):  Makes `^` and `$` match the beginning and end of each line (instead of the entire string).
@@ -24,7 +24,7 @@ text = """line one
 line two
 line three"""
 matches = re.findall(r"^line", text, re.MULTILINE)
-print(matches) # ['line', 'line', 'line']
+print(matches) # ['line', 'line', 'line']]
 ```
 
 * `re.DOTALL` (or `re.S`): Makes the `.` special character match any character, including newline characters (`\n`).  Without this flag, `.` will not match newlines.
@@ -46,9 +46,9 @@ import re
 
 text = "Hello 世界"
 match = re.findall(r"\w+", text) #Without ASCII flag
-print(match) # ['Hello', '世界']
+print(match) # ['Hello', '世界']]
 match = re.findall(r"\w+", text, re.ASCII) #With ASCII flag
-print(match) # ['Hello']
+print(match) # ['Hello']]
 ```
 
 
@@ -60,7 +60,7 @@ import re
 pattern = re.compile(r"""
     \d+         # one or more digits
     \s+         # one or more whitespace characters
-    [a-zA-Z]+   # one or more letters
+    [a-zA-Z]]+   # one or more letters
 """, re.VERBOSE)
 
 text = "123 abc"

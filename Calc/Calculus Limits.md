@@ -33,13 +33,13 @@ Limits at infinity describe the behavior of a function as its input approaches p
 
 A function is continuous at a point $a$ if the following conditions hold:
 
-[[1. $f(a)$ is defined.
-[[2]. $\lim_{x \to a} f(x)$ exists.
-[[3]. $\lim_{x \to a} f(x) = f(a)$.
+1. $f(a)$ is defined.
+2. $\lim_{x \to a} f(x)$ exists.
+3. $\lim_{x \to a} f(x) = f(a)$.
 
 ### [[Intermediate Value Theorem]]
 
-The [[Intermediate Value Theorem]] states that if a function $f(x)$ is continuous on a closed interval $[a, b]$ and $k$ is any number between $f(a)$ and $f(b)$, then there exists at least one number $c$ in the interval $[a, b]$ such that $f(c) = k$.
+The [[Intermediate Value Theorem]] states that if a function $f(x)$ is continuous on a closed interval $[a, b]]$ and $k$ is any number between $f(a)$ and $f(b)$, then there exists at least one number $c$ in the interval $[a, b]]$ such that $f(c) = k$.
 
 ### Applications of Limits
 

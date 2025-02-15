@@ -1,6 +1,6 @@
 ## ID: [[Clayton Antitrust Act]]
 
-## When: June [[5], 1914
+## When: June 5, 1914
 
 ## Who:  President [[Woodrow Wilson]] and the 63rd Congress
 
@@ -13,4 +13,4 @@
 * **Progressive Era Reform:** The Clayton Act was a key piece of legislation in the Progressive Era, reflecting the broader movement to curb the power of big business and promote social and economic justice.
 * **Long-Term Impact:** The Clayton Act, along with the Sherman Act and subsequent legislation, continues to shape antitrust law in the [[United States]] today, influencing how mergers and acquisitions are reviewed and how businesses are regulated.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

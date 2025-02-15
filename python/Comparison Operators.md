@@ -4,7 +4,7 @@ Python's comparison operators are used to compare values and return a Boolean re
 
 ```python
 x = 10
-y = [[5]
+y = 5
 
 print(x == y)  # False: Equal to
 print(x != y)  # True: Not equal to
@@ -17,9 +17,9 @@ print(x <= y)  # False: Less than or equal to
 These operators can be chained for more complex comparisons:
 
 ```python
-x = [[5]
+x = 5
 y = 10
-z = [[5]
+z = 5
 
 print(x < y and y > z) # True - uses `and` which is a boolean operator which can be covered separately.
 print(x == z or x > y) # True - uses `or`, another boolean operator.
@@ -36,7 +36,7 @@ print(x == z or x > y) # True - uses `or`, another boolean operator.
 **Example of Precedence:**
 
 ```python
-print([[1 < [[2] and [[2] < [[3])  #True,  comparison before and
+print([[1 < 2 and 2 < 3)  #True,  comparison before and
 
-print ([[1 < ([[2] and [[2]) < [[3]) #Error: Invalid operand for and, needs a boolean
+print ([[1 < (2 and 2) < 3) #Error: Invalid operand for and, needs a boolean
 ```

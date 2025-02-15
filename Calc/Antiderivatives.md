@@ -43,29 +43,29 @@ where:
 
 ## [[Initial Value Problems]]
 
-An initial value problem provides an initial condition, which allows us to determine the specific value of the constant of integration, $C$.  For example, if we are given that $F(0) = [[5]$ and $F'(x) = 2x$, then we can find the specific antiderivative.
+An initial value problem provides an initial condition, which allows us to determine the specific value of the constant of integration, $C$.  For example, if we are given that $F(0) = 5$ and $F'(x) = 2x$, then we can find the specific antiderivative.
 
-Since $\int 2x \, dx = x^[[2] + C$, we can use the initial condition:
+Since $\int 2x \, dx = x^2 + C$, we can use the initial condition:
 
-$F(0) = 0^[[2] + C = [[5]$, so $C = [[5]$.  Therefore, the specific antiderivative is $F(x) = x^[[2] + [[5]$.
+$F(0) = 0^2 + C = 5$, so $C = 5$.  Therefore, the specific antiderivative is $F(x) = x^2 + 5$.
 
 
 ##  Examples
 
-**Example [[1:** Find the antiderivative of $f(x) = 3x^[[2] + 2x - [[1$.
+**Example [[1:** Find the antiderivative of $f(x) = 3x^2 + 2x - [[1$.
 
-$\int (3x^[[2] + 2x - [[1) \, dx = x^[[3] + x^[[2] - x + C$
-
-
-**Example [[2]:** Find the antiderivative of $f(x) = e^{2x} + \cos(x)$.
-
-$\int (e^{2x} + \cos(x)) \, dx = \frac{[[1}{[[2]}e^{2x} + \sin(x) + C$
+$\int (3x^2 + 2x - [[1) \, dx = x^3 + x^2 - x + C$
 
 
-**Example [[3]:** Solve the initial value problem: $F'(x) = 4x^[[3] - 6x$ and $F([[1) = [[2]$.
+**Example 2:** Find the antiderivative of $f(x) = e^{2x} + \cos(x)$.
 
-$\int (4x^[[3] - 6x) \, dx = x^[[4] - 3x^[[2] + C$
+$\int (e^{2x} + \cos(x)) \, dx = \frac{[[1}{2}e^{2x} + \sin(x) + C$
 
-Using the initial condition: $F([[1) = [[1^[[4] - [[3]([[1)^[[2] + C = [[2]$, which gives $C = [[4]$.
 
-Therefore, $F(x) = x^[[4] - 3x^[[2]
+**Example 3:** Solve the initial value problem: $F'(x) = 4x^3 - 6x$ and $F([[1) = 2$.
+
+$\int (4x^3 - 6x) \, dx = x^4 - 3x^2 + C$
+
+Using the initial condition: $F([[1) = [[1^4 - 3([[1)^2 + C = 2$, which gives $C = 4$.
+
+Therefore, $F(x) = x^4 - 3x^2

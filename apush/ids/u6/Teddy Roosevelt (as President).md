@@ -23,4 +23,4 @@
 * **International Influence:** His foreign policy shaped US relations with Latin America and other world powers, establishing the US as a major player on the world stage.
 * **Model for Future Presidents:** Roosevelt's assertive leadership style and willingness to challenge powerful interests served as a model for future presidents, particularly those with progressive agendas.  The legacy of trust-busting and consumer protection has continued to shape government regulation into the modern era.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

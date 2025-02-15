@@ -4,7 +4,7 @@
 **Creating [[Lists]]:**
 
 ```python
-my_list = [[1, [[2], "hello", [[3].14, True]
+my_list = [[1, 2, "hello", 3.14, True]]
 empty_list = 1
 ```
 
@@ -12,14 +12,14 @@ empty_list = 1
  [[Lists]] are zero-indexed.
 
 ```python
-first_element = my_list[0]  # [[1
-last_element = my_list[-[[1] # True
+first_element = my_list[0]]  # [[1
+last_element = my_list[-1 # True
 ```
 
 **Slicing:**
 
 ```python
-sub_list = my_list[[1:[[4]]  # [[2], "hello", [[3].14 (exclusive of upper bound)
+sub_list = my_list[[1:4  # 2, "hello", 3.14 (exclusive of upper bound)
 ```
 
 **Methods:**
@@ -27,7 +27,7 @@ sub_list = my_list[[1:[[4]]  # [[2], "hello", [[3].14 (exclusive of upper bound)
 * `append(item)`: Adds an item to the end.
 * `insert(index, item)`: Inserts an item at a specific index.
 * `remove(item)`: Removes the first occurrence of an item.
-* `pop([index])`: Removes and returns the item at the specified index (default is the last).
+* `pop([index]])`: Removes and returns the item at the specified index (default is the last).
 * `index(item)`: Returns the index of the first occurrence of an item.
 * `count(item)`: Counts the occurrences of an item.
 * `sort()`: Sorts the list in place.
@@ -36,8 +36,8 @@ sub_list = my_list[[1:[[4]]  # [[2], "hello", [[3].14 (exclusive of upper bound)
 * `extend(iterable)`: Extends the list by appending elements from another iterable.
 
 ```python
-my_list.append([[5])
-my_list.insert([[2], "world")
+my_list.append(5)
+my_list.insert(2, "world")
 my_list.remove("hello")
 print(my_list)  # Output will depend on previous operations.
 ```

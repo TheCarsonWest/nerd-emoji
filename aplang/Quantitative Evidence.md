@@ -54,4 +54,4 @@
 
 ## $$ \bar{x} = \frac{\sum_{i=[[1}^{n} x_i}{n} $$  (Formula for the sample mean)
 
-## $$ s = \sqrt{\frac{\sum_{i=[[1}^{n}(x_i - \bar{x})^[[2]}{n-[[1}} $$ (Formula for the sample standard deviation)
+## $$ s = \sqrt{\frac{\sum_{i=[[1}^{n}(x_i - \bar{x})^2}{n-[[1}} $$ (Formula for the sample standard deviation)

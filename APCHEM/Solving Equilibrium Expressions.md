@@ -7,25 +7,25 @@ This note covers solving equilibrium expressions, focusing on different scenario
 
 These involve solving for one unknown in the equilibrium expression, given the equilibrium concentrations of all other species.
 
-* **Example:**  For the reaction $A \rightleftharpoons B$, with $K_c = 10$, and $[A]_{eq} = 2M$. Find $[B]_{eq}$.
+* **Example:**  For the reaction $A \rightleftharpoons B$, with $K_c = 10$, and $[A]]_{eq} = 2M$. Find $[B]]_{eq}$.
 
-   $K_c = \frac{[B]_{eq}}{[A]_{eq}} \implies 10 = \frac{[B]_{eq}}{2} \implies [B]_{eq} = 20M$
+   $K_c = \frac{[B]]_{eq}}{[A]]_{eq}} \implies 10 = \frac{[B]]_{eq}}{2} \implies [B]]_{eq} = 20M$
 
 
 **2. [[ICE Tables (Initial, Change, Equilibrium]]):**
 
 These are crucial when only initial concentrations and the equilibrium constant are known.
 
-* **Method:**  Construct a table with columns for initial concentration ([I]), change in concentration ($\Delta$), and equilibrium concentration ([E]).  Use the stoichiometry of the balanced equation to relate changes in concentration.  Solve the resulting equilibrium expression.
+* **Method:**  Construct a table with columns for initial concentration ([I]]), change in concentration ($\Delta$), and equilibrium concentration ([E]]).  Use the stoichiometry of the balanced equation to relate changes in concentration.  Solve the resulting equilibrium expression.
 
-* **Example:** For $2A \rightleftharpoons B$, $K_c = 4$, $[A]_i = 1M$, $[B]_i = 0M$. Find equilibrium concentrations.
+* **Example:** For $2A \rightleftharpoons B$, $K_c = 4$, $[A]]_i = 1M$, $[B]]_i = 0M$. Find equilibrium concentrations.
 
    | Species | I     | $\Delta$   | E       |
    |---------|-------|-----------|---------|
    | A       | 1     | -2x       | 1-2x    |
    | B       | 0     | +x        | x       |
 
-   $K_c = \frac{[B]_{eq}}{[A]_{eq}^2} = \frac{x}{(1-2x)^2} = 4$.  Solving the quadratic equation gives $x$, and thus equilibrium concentrations.  ([[Solving Quadratic Equations]])
+   $K_c = \frac{[B]]_{eq}}{[A]]_{eq}^2} = \frac{x}{(1-2x)^2} = 4$.  Solving the quadratic equation gives $x$, and thus equilibrium concentrations.  ([[Solving Quadratic Equations]])
 
 **3. Manipulating [[Equilibrium]] Expressions:**
 

@@ -1,5 +1,5 @@
 # ID: 15th Amendment
-## When:  February [[3], 1870
+## When:  February 3, 1870
 ## Who:  
 * **Proposed:**  39th [[United States]] Congress
 * **Ratified:**  States of the Union 
@@ -12,4 +12,4 @@
 * **Challenges and Limitations:**  Despite the amendment, widespread voter suppression tactics, including poll taxes, literacy tests, and intimidation, continued to disenfranchise many African Americans throughout the late 19th and early 20th centuries. 
 * **Legacy:**  The 15th Amendment remains a cornerstone of American democracy, and its fight for equal voting rights continues to inspire efforts towards a more just and inclusive society.  
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

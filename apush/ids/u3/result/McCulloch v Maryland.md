@@ -17,4 +17,4 @@ A landmark Supreme Court case that centered around the constitutionality of the 
 * **Strengthened National Government:**  McCulloch v. [[Maryland]] tipped the balance of power in favor of the federal government, contributing to the growth of a strong national government. 
 * **Long-Term Impact:**  The principles established in this case continue to influence the relationship between federal and state governments, particularly in areas like taxation, commerce, and regulation. 
 
-# [[IDS Unit 3]
+# [[IDS Unit 3]]

@@ -16,14 +16,14 @@ def my_generator(n):
     for i in range(n):
         yield i
 
-gen = my_generator([[5])
+gen = my_generator(5)
 print(next(gen))  # Output: 0
 print(next(gen))  # Output: [[1
-print(list(gen))  # Output: [[2], [[3], [[4]] #consuming the rest
+print(list(gen))  # Output: 2, 3, 4 #consuming the rest
 
 #using for loop
-for i in my_generator([[3]):
-    print(i) #output 0,[[1,[[2]
+for i in my_generator(3):
+    print(i) #output 0,[[1,2
 
 ```
 
@@ -32,8 +32,8 @@ for i in my_generator([[3]):
 Similar to list comprehensions, generator expressions offer a concise way to create generators. They use parentheses `()` instead of square brackets `1`.
 
 ```python
-gen_expr = (i**[[2] for i in range([[5]))
-print(list(gen_expr)) #Output: [0, [[1, [[4], 9, 16
+gen_expr = (i**2 for i in range(5))
+print(list(gen_expr)) #Output: [0, [[1, 4, 9, 16
 ```
 
 **Advantages over [[Lists]]:**

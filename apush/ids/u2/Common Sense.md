@@ -15,4 +15,4 @@ A pamphlet written by Thomas Paine advocating for American independence from [[G
 * **[[Declaration of Independence]]:** Its influence is evident in the [[Declaration of Independence]], which followed later that same year.
 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

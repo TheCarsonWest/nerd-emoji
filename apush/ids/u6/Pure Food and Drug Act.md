@@ -18,4 +18,4 @@ A landmark piece of legislation that prohibited the interstate commerce of adult
 * **Public Health Impact:**  By improving food and drug quality, the act significantly reduced disease and death caused by contaminated products.
 * **Increased Public Trust:** The act's passage helped to restore public trust in the government's ability to protect consumers from unsafe products.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]

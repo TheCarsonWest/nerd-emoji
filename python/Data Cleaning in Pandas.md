@@ -38,19 +38,19 @@ import pandas as pd
 import numpy as np
 
 # Sample DataFrame with missing values and outliers
-data = {'A': [[1, [[2], np.nan, [[4], [[5], 100], 
-        'B': ['apple', 'banana', 'orange', 'apple', 'banana', 'Apple']}
+data = {'A': [[1, 2, np.nan, 4, 5, 100]], 
+        'B': ['apple', 'banana', 'orange', 'apple', 'banana', 'Apple']]}
 df = pd.DataFrame(data)
 
 # Handling missing values
 df_cleaned = df.dropna() # Remove rows with NaN
-df_filled = df.fillna({'A': df['A'].mean()}) # Fill NaN with mean of column A
+df_filled = df.fillna({'A': df['A']].mean()}) # Fill NaN with mean of column A
 
 # Handling outliers (example: removing values > 10 in column A)
-df_no_outliers = df_filled[df_filled['A'] <= 10]
+df_no_outliers = df_filled[df_filled['A']] <= 10]]
 
 #String Manipulation - lowercase and remove leading/trailing whitespace
-df_cleaned['B'] = df_cleaned['B'].str.lower().str.strip()
+df_cleaned['B']] = df_cleaned['B']].str.lower().str.strip()
 
 print(df)
 print(df_cleaned)

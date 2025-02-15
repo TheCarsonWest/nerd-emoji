@@ -16,4 +16,4 @@ Networks of communication established by patriot leaders in the thirteen America
 * **Foundation of Revolutionary Organization:** The committees served as a precursor to the Continental Congress, demonstrating the capacity for colonial cooperation on a larger scale.
 
 
-# [[IDS Unit 4]
+# [[IDS Unit 4]]

@@ -33,12 +33,12 @@ Conditions are boolean expressions that evaluate to either `True` or `False`.  C
 ```python
 x = 10
 
-if x > [[5]:
-  print("x is greater than [[5]")
-elif x == [[5]:
-  print("x is equal to [[5]")
+if x > 5:
+  print("x is greater than 5")
+elif x == 5:
+  print("x is equal to 5")
 else:
-  print("x is less than [[5]")
+  print("x is less than 5")
 ```
 
 **Nested [[Conditional Statements]]:**
@@ -47,15 +47,15 @@ You can nest conditional statements within each other:
 
 ```python
 x = 10
-y = [[5]
+y = 5
 
-if x > [[5]:
+if x > 5:
   if y < 10:
-    print("x is greater than [[5] and y is less than 10")
+    print("x is greater than 5 and y is less than 10")
   else:
-    print("x is greater than [[5] but y is not less than 10")
+    print("x is greater than 5 but y is not less than 10")
 else:
-  print("x is not greater than [[5]")
+  print("x is not greater than 5")
 ```
 
 **Short-hand Conditional Expressions (Ternary Operator):**
@@ -64,7 +64,7 @@ Python offers a concise way to write simple conditional statements using the ter
 
 ```python
 x = 10
-result = "x is greater than [[5]" if x > [[5] else "x is not greater than [[5]"
+result = "x is greater than 5" if x > 5 else "x is not greater than 5"
 print(result)
 ```
 

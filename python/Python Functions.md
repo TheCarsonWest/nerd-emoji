@@ -24,7 +24,7 @@ def my_function(param1, param2):
 Functions are called by using their name followed by parentheses containing any necessary arguments.
 
 ```python
-result = my_function([[5], [[3])  # Calls my_function with arguments [[5] and [[3]
+result = my_function(5, 3)  # Calls my_function with arguments 5 and 3
 print(result)  # Prints 8
 ```
 
@@ -48,7 +48,7 @@ These are small, anonymous functions defined using the `lambda` keyword. They ar
 
 ```python
 square = lambda x: x*x
-print(square([[5])) # Prints 25
+print(square(5)) # Prints 25
 ```
 
 **Recursive Functions:**

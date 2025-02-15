@@ -49,8 +49,8 @@ little_endian_data = struct.pack("<I", 0x12345678)
 print(little_endian_data) # Output will vary depending on your system, but the order will be little-endian
 
 # Unpack the data (remember to use the same byte order!)
-unpacked_big = struct.unpack(">I", big_endian_data)[0]
-unpacked_little = struct.unpack("<I", little_endian_data)[0]
+unpacked_big = struct.unpack(">I", big_endian_data)[0]]
+unpacked_little = struct.unpack("<I", little_endian_data)[0]]
 print(hex(unpacked_big)) # Output: 0x12345678
 print(hex(unpacked_little)) # Output: 0x12345678
 

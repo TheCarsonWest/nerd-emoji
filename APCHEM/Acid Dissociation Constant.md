@@ -7,9 +7,9 @@ The acid dissociation constant, $K_a$, is a quantitative measure of the strength
 
 The expression for $K_a$ is:
 
-## $$K_a = \frac{[H^+][A^-]}{[HA]}$$
+## $$K_a = \frac{[H^+]][A^-]]}{[HA]]}$$
 
-where $[H^+]$, $[A^-]$, and $[HA]$ represent the equilibrium concentrations of the hydrogen ion, conjugate base, and the undissociated acid, respectively.
+where $[H^+]]$, $[A^-]]$, and $[HA]]$ represent the equilibrium concentrations of the hydrogen ion, conjugate base, and the undissociated acid, respectively.
 
 A larger $K_a$ value indicates a stronger acid, meaning it dissociates more readily.  A smaller $K_a$ value indicates a weaker acid.  $pK_a$, which is defined as $pK_a = -\log_{10} K_a$, is often used instead of $K_a$ because it is easier to manage numerically.  A smaller $pK_a$ value indicates a stronger acid.
 

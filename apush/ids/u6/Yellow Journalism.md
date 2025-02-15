@@ -18,4 +18,4 @@ A style of journalism characterized by sensationalism, exaggeration, and a focus
 * **Ethical Concerns:** Raised serious ethical questions about the responsibility of the press and the potential for manipulation of the public through biased and inaccurate reporting.  It led to calls for greater journalistic integrity, though the practices persisted in various forms.
 * **[[Spanish-American War]]:**  A direct contributor to the outbreak of the [[Spanish-American War]] in 1898.  The public's appetite for war, fueled by sensationalized accounts, made intervention politically viable.
 
-# [[IDS Unit 6]
+# [[IDS Unit 6]]
