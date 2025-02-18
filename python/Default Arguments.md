@@ -20,7 +20,7 @@ def func(a, b=2):
     pass
 
 # Incorrect - will raise a SyntaxError
-def func(a=[[1, b):
+def func(a=1, b):
     pass
 ```
 

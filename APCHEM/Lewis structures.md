@@ -18,9 +18,9 @@ Lewis dot structures are a simple yet powerful tool in chemistry for visualizing
 
 **Examples:**
 
-* **Hydrogen ($H$):**  Hydrogen has [[1 valence electron. Its Lewis dot structure is simply $H\cdot$.
+* **Hydrogen ($H$):**  Hydrogen has 1 valence electron. Its Lewis dot structure is simply $H\cdot$.
 
-* **Water ($H_2O$):**  Each hydrogen has [[1 valence electron, and oxygen has 6.  To form a stable [[octet]], oxygen shares two electrons with each hydrogen, forming two [[covalent bonds]]. 
+* **Water ($H_2O$):**  Each hydrogen has 1 valence electron, and oxygen has 6.  To form a stable [[octet]], oxygen shares two electrons with each hydrogen, forming two [[covalent bonds]]. 
 
 * **Methane ($CH_4$):**  Carbon has 4 valence electrons, and each hydrogen has 1. Carbon shares one electron with each of the four hydrogen atoms, forming four single bonds. 
 

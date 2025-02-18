@@ -20,7 +20,7 @@ These notes are for reviewing past exams to identify recurring themes and improv
 
 Let's say we have analyzed three past exams:
 
-* **Exam [[1:**  Covered topics A, B, C.  Emphasis on short answer.
+* **Exam 1:**  Covered topics A, B, C.  Emphasis on short answer.
 * **Exam 2:** Covered topics B, D, E. Emphasis on multiple choice and problem solving.
 * **Exam 3:** Covered topics A, C, E. Balanced mix of question types.
 
@@ -35,7 +35,7 @@ This suggests that topics A, B, and E are frequently tested. Short answer and mu
 * Develop a time management strategy for exam day.
 
 
-## $$ \text{Average Score} = \frac{\sum_{i=[[1}^{N} S_i}{N} $$
+## $$ \text{Average Score} = \frac{\sum_{i=1}^{N} S_i}{N} $$
 
 Where $S_i$ is the score on question $i$ and $N$ is the total number of questions.  This helps gauge overall performance and identify areas needing improvement.
 

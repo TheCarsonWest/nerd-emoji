@@ -48,8 +48,8 @@ This note contains a list of resources for further reading, categorized for easi
 
 **Useful Equations:**
 
-* **Mean:** $ \mu = \frac{[[1}{N} \sum_{i=[[1}^{N} x_i $
-* **Variance:** $ \sigma^2 = \frac{[[1}{N} \sum_{i=[[1}^{N} (x_i - \mu)^2 $
+* **Mean:** $ \mu = \frac{1}{N} \sum_{i=1}^{N} x_i $
+* **Variance:** $ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 $
 * **Standard Deviation:** $ \sigma = \sqrt{\sigma^2} $
 
 

@@ -43,7 +43,7 @@ Regardless of the strategy employed, your response should be structured logicall
 
 **IV. Examples:**
 
-* **Example [[1 (Refutation):**  Counterargument: "Raising the minimum wage will hurt small businesses."  Refutation: "Studies show that a modest increase in the minimum wage has little to no negative impact on employment, and can actually stimulate economic growth by increasing consumer spending."
+* **Example 1 (Refutation):**  Counterargument: "Raising the minimum wage will hurt small businesses."  Refutation: "Studies show that a modest increase in the minimum wage has little to no negative impact on employment, and can actually stimulate economic growth by increasing consumer spending."
 
 * **Example 2 (Concession and Rebuttal):** Counterargument: "Climate change is a natural phenomenon, not caused by human activity." Concession and Rebuttal: "While it's true that the Earth's climate has naturally fluctuated in the past, the rate of warming observed in recent decades is unprecedented and directly correlates with increased greenhouse gas emissions from human activities."
 

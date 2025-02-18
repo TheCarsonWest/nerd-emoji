@@ -52,7 +52,7 @@
 
 ## Qatar and UAE(Immigration)
 !1(https://upload.wikimedia.org/wikipedia/commons/f/fc/Qatar_single_age_population_pyramid_2020.png)
-!1(https://upload.wikimedia.org/wikipedia/commons/[[1/15/United_Arab_Emirates_single_age_population_pyramid_2020.png)
+!1(https://upload.wikimedia.org/wikipedia/commons/1/15/United_Arab_Emirates_single_age_population_pyramid_2020.png)
 - this is mainly because there is a lot of work to be found in the gulf states
 - Most of these immigrants(written as surplus) are young single indians and pakistanis working on building skyscrapers and world cup fields.
 - They don't really care about their own human rights because they are making that cash baby

@@ -16,7 +16,7 @@
     *Example:* Doe, Jane. "The Impact of Social Media." *Journal of Communication*, vol. 70, no. 2, 2020, pp. 300-320.  [[Journal Article Formatting]]
 
 *   **Websites:**  Author's last name, Author's first name (if available). "Title of Page." *Website Name*, date of publication or last update, URL. 
-    *Example:*  Jones, Sarah. "MLA Style Guide." *Purdue OWL*, [[1 Oct. 2023, https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/index.html. [[Website Citation Examples]]
+    *Example:*  Jones, Sarah. "MLA Style Guide." *Purdue OWL*, 1 Oct. 2023, https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/index.html. [[Website Citation Examples]]
 
 
 **III.  Special Cases:**

@@ -15,7 +15,7 @@ This note covers creating a recommended reading list.
     * **Year:** Year of Publication
     * **Brief Description/Annotation:** A concise summary of the book's content and its relevance to the topic.  (Aim for 2-3 sentences max).  Consider highlighting key themes or perspectives.
     * **Recommended for:**  Specify target audiences for this book (e.g. beginners, advanced readers, people with a background in X).
-    * **Rating (Optional):**  Use a star system or other rating scale (e.g., [[1-5 stars).
+    * **Rating (Optional):**  Use a star system or other rating scale (e.g., 1-5 stars).
     * **Link to Purchase (Optional):**  Include links to Amazon, Goodreads, or other relevant retailers.
 
 

@@ -12,19 +12,19 @@ Different ways to create arrays in Python, focusing primarily on NumPy arrays wh
 import numpy as np
 
 # From a list
-my_array = np.array([[1, 2, 3, 4, 5)
+my_array = np.array(1, 2, 3, 4, 5)
 print(my_array)
 
 # From a tuple
-my_array = np.array(([[1, 2, 3, 4, 5))
+my_array = np.array((1, 2, 3, 4, 5))
 print(my_array)
 
 # From a list of lists (creates a 2D array)
-my_2d_array = np.array([[1, 2, 3, 4)
+my_2d_array = np.array(1, 2, 3, 4)
 print(my_2d_array)
 
 # Specifying the data type
-my_array = np.array([[1, 2, 3, dtype=float) #forces creation of a floating point array
+my_array = np.array(1, 2, 3, dtype=float) #forces creation of a floating point array
 print(my_array)
 ```
 
@@ -45,7 +45,7 @@ print(my_array)
 ```python
 import numpy as np
 
-my_array = np.linspace(0, [[1, 5) # 5 evenly spaced numbers from 0 to [[1 (inclusive)
+my_array = np.linspace(0, 1, 5) # 5 evenly spaced numbers from 0 to 1 (inclusive)
 print(my_array)
 
 my_array = np.linspace(0, 10, num=6) # 6 evenly spaced numbers from 0 to 10
@@ -90,7 +90,7 @@ print(identity_matrix)
 ```python
 import numpy as np
 
-random_array = np.random.rand(3,2) # 3x2 array of random floats between 0 and [[1
+random_array = np.random.rand(3,2) # 3x2 array of random floats between 0 and 1
 print(random_array)
 
 random_integers = np.random.randint(0,10, size=(2,3)) # 2x3 array of random integers between 0 and 9

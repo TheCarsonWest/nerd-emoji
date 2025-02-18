@@ -46,7 +46,7 @@ class MyList:
     def __len__(self):
         return len(self.data)
 
-my_list = MyList([[1,2,3)
+my_list = MyList(1,2,3)
 print(len(my_list))
 ```
 

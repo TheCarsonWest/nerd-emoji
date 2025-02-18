@@ -12,25 +12,25 @@ There are three main types of Riemann sums, each differing in how the rectangle 
 
 
 ##  Calculating [[Riemann Sums]] 
-Let's consider a function $f(x)$ on the interval $[a, b]]$. We divide this interval into $n$ subintervals of equal width, $\Delta x = \frac{b-a}{n}$.  The $i$-th subinterval is $[x_{i-[[1}, x_i]]$, where $x_i = a + i\Delta x$.
+Let's consider a function $f(x)$ on the interval $[a, b]]$. We divide this interval into $n$ subintervals of equal width, $\Delta x = \frac{b-a}{n}$.  The $i$-th subinterval is $[x_{i-1}, x_i]]$, where $x_i = a + i\Delta x$.
 
 The general formula for a Riemann sum is:
-# $$ \sum_{i=[[1}^{n} f(x_i^*) \Delta x $$
+# $$ \sum_{i=1}^{n} f(x_i^*) \Delta x $$
 where $x_i^*$ is a point in the $i$-th subinterval.  The choice of $x_i^*$ determines the type of Riemann sum:
 * Left Riemann Sum: 
-### $$x_i^* = x_{i-[[1} = a + (i-[[1)\Delta x$$
+### $$x_i^* = x_{i-1} = a + (i-1)\Delta x$$
 * Right Riemann Sum: 
 ### $$x_i^* = x_i = a + i\Delta x$$
 * Midpoint Riemann Sum: 
-### $$x_i^* = \frac{x_{i-[[1} + x_i}{2} = a + (i - \frac{[[1}{2})\Delta x$$
+### $$x_i^* = \frac{x_{i-1} + x_i}{2} = a + (i - \frac{1}{2})\Delta x$$
 ### Example: Approximate the area under the curve $f(x) = x^2$ from $x=0$ to $x=2$ using a right Riemann sum with $n=4$ subintervals.
 
 $\Delta x = \frac{2-0}{4} = 0.5$
 
-The subintervals are $[0, 0.5$, $[0.5, 1$, $[[1, 1.5$, $1.5, 2$.
+The subintervals are $[0, 0.5$, $[0.5, 1$, $1, 1.5$, $1.5, 2$.
 
 The right Riemann sum is:
-$R_4 = f(0.5)(0.5) + f([[1)(0.5) + f(1.5)(0.5) + f(2)(0.5) = 0.5(0.5^2 + [[1^2 + 1.5^2 + 2^2) = 0.5(0.25 + [[1 + 2.25 + 4) = 3.75$
+$R_4 = f(0.5)(0.5) + f(1)(0.5) + f(1.5)(0.5) + f(2)(0.5) = 0.5(0.5^2 + 1^2 + 1.5^2 + 2^2) = 0.5(0.25 + 1 + 2.25 + 4) = 3.75$
 
 
 ```desmos-graph
@@ -42,14 +42,14 @@ x = 2
 
 ## [[Error Analysis]]
 
-The error in a Riemann sum approximation is the difference between the actual value of the definite integral and the approximation. The error decreases as the number of subintervals ($n$) increases.  Generally, the error is proportional to $\frac{[[1}{n}$.  More sophisticated error bounds exist, but are beyond the scope of AB calculus.
+The error in a Riemann sum approximation is the difference between the actual value of the definite integral and the approximation. The error decreases as the number of subintervals ($n$) increases.  Generally, the error is proportional to $\frac{1}{n}$.  More sophisticated error bounds exist, but are beyond the scope of AB calculus.
 
 
 ##  Relationship to Definite [[integrals]]
 
 As the number of subintervals ($n$) approaches infinity, the Riemann sum converges to the definite integral:
 
-$\lim_{n \to \infty} \sum_{i=[[1}^{n} f(x_i^*) \Delta x = \int_a^b f(x) dx$
+$\lim_{n \to \infty} \sum_{i=1}^{n} f(x_i^*) \Delta x = \int_a^b f(x) dx$
 
 This is the fundamental theorem of calculus, connecting the concept of Riemann sums to the process of integration.
 

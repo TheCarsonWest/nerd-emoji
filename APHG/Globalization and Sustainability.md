@@ -19,7 +19,7 @@
 	- Seeing Ukrainian iphone footage of their house getting exploded makes you care more about it than if you saw it from a news helicopter
 - **The media is democratic now**
 	- Tank Man should have never been recorded in its time, but if it happened today there would be 300 videos of it released by everyone around it
-	- The mainstream media [[1) doesn't matter anymore 2) can't push their agenda without someone pointing out they are lying anymore.
+	- The mainstream media 1) doesn't matter anymore 2) can't push their agenda without someone pointing out they are lying anymore.
 ### Government Policies
 #### Globalization is only possible if governments make it profitable(which it is right now)
 - **NAFTA**

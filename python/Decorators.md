@@ -61,7 +61,7 @@ class CountCalls:
         self.count = 0
 
     def __call__(self, *args, **kwargs):
-        self.count += [[1
+        self.count += 1
         print(f"Call count: {self.count}")
         return self.func(*args, **kwargs)
 

@@ -29,7 +29,7 @@ MAX_ATTEMPTS = 3
 usrnm = "Bob"       # Too short and cryptic
 productPrice = 10  # Inconsistent casing
 2items = 2        # Starts with a number (invalid)
-if = [[1             # Uses a reserved keyword (invalid)
+if = 1             # Uses a reserved keyword (invalid)
 
 ```
 

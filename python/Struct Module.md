@@ -38,10 +38,10 @@ print(packed_data_little_endian)
 
 | Character | C Type             | Python Type(s)     | Size (bytes) |
 |-----------|----------------------|----------------------|---------------|
-| `x`       | pad byte            |                     | [[1             |
-| `c`       | char                | bytes (length [[1)    | [[1             |
-| `b`       | signed char         | int                 | [[1             |
-| `B`       | unsigned char       | int                 | [[1             |
+| `x`       | pad byte            |                     | 1             |
+| `c`       | char                | bytes (length 1)    | 1             |
+| `b`       | signed char         | int                 | 1             |
+| `B`       | unsigned char       | int                 | 1             |
 | `h`       | short               | int                 | 2             |
 | `H`       | unsigned short      | int                 | 2             |
 | `i`       | int                 | int                 | 4             |

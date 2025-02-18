@@ -3,16 +3,16 @@
 
 * **Creation:**
 ```python
-my_tuple = ([[1, 2, 3, "apple", 4.5)  # Using parentheses
-another_tuple = [[1, 2, 3  # Parentheses are optional for simple tuples
+my_tuple = (1, 2, 3, "apple", 4.5)  # Using parentheses
+another_tuple = 1, 2, 3  # Parentheses are optional for simple tuples
 empty_tuple = ()
-single_element_tuple = ([[1,) #Note the comma for single-element tuples
+single_element_tuple = (1,) #Note the comma for single-element tuples
 
 ```
 
 * **Accessing Elements:** Similar to [[Lists]], use indexing.
 ```python
-print(my_tuple[0]])  # Output: [[1
+print(my_tuple[0]])  # Output: 1
 print(my_tuple[-1) # Output: 4.5
 ```
 
@@ -28,9 +28,9 @@ my_tuple[0]] = 10  # Raises TypeError: 'tuple' object does not support item assi
 
 * **Tuple Packing and Unpacking:**
 ```python
-packed_tuple = ([[1, 2, 3)
+packed_tuple = (1, 2, 3)
 a, b, c = packed_tuple  # Unpacking
-print(a, b, c)  # Output: [[1 2 3
+print(a, b, c)  # Output: 1 2 3
 
 ```
 

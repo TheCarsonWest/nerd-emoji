@@ -6,7 +6,7 @@
 **Key Components:**
 
 * **Competence:** Demonstrating expertise and knowledge in the relevant field.  This can be shown through:
-    *  $Experience = \sum_{i=[[1}^{n} Achievements_i$  (where $Achievements_i$ represents individual accomplishments)
+    *  $Experience = \sum_{i=1}^{n} Achievements_i$  (where $Achievements_i$ represents individual accomplishments)
     *  [[Demonstrating Expertise]]
     *  [[Showcasing Credentials]]
 * **Character:**  Projecting integrity, honesty, and good moral values.  This involves:

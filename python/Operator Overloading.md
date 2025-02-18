@@ -18,7 +18,7 @@ class MyVector:
     def __str__(self): #Overloads the str() function.
         return f"({self.x}, {self.y})"
 
-v1 = MyVector([[1, 2)
+v1 = MyVector(1, 2)
 v2 = MyVector(3, 4)
 v3 = v1 + v2  # Uses the __add__ method
 print(v3) # prints (4,6)

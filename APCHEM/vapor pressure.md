@@ -16,7 +16,7 @@ When the rate of vaporization equals the rate of condensation, a dynamic equilib
 
 * **[[Temperature]]:**  Increasing temperature increases the kinetic energy of molecules, leading to more molecules escaping into the vapor phase and thus a higher [[vapor pressure]]. This relationship is described by the **Clausius-Clapeyron Equation:**
 
-$ln(P_2/P_1) = - \Delta H_{vap}/R ([[1/T_2 - [[1/T_1)$
+$ln(P_2/P_1) = - \Delta H_{vap}/R (1/T_2 - 1/T_1)$
 
 where:
 * $P_1$ and $P_2$ are the vapor pressures at temperatures $T_1$ and $T_2$ respectively.
@@ -30,7 +30,7 @@ where:
 **Examples**
 
 * **Evaporation of Water:** At room temperature, water molecules constantly escape from the liquid surface, creating a small [[vapor pressure]]. This is why a puddle of water eventually dries up.
-* **Boiling Point:** The boiling point of a liquid is the [[Temperature]] at which its [[vapor pressure]] equals the external atmospheric pressure. For example, water boils at 100°C at standard atmospheric pressure ([[1 atm).
+* **Boiling Point:** The boiling point of a liquid is the [[Temperature]] at which its [[vapor pressure]] equals the external atmospheric pressure. For example, water boils at 100°C at standard atmospheric pressure (1 atm).
 * **Volatile Liquids:** Liquids with high vapor pressures at room [[Temperature]] are called volatile liquids. Examples include acetone, ethanol, and gasoline.
 
 **Applications**

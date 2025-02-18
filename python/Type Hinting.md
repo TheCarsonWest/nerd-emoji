@@ -15,10 +15,10 @@ def greet(name: str) -> str:
     return f"Hello, {name}!"
 
 # List annotation
-numbers: list[int]] = [[1, 2, 3
+numbers: list[int]] = 1, 2, 3
 
 # Dictionary annotation
-data: dict[str, int]] = {"a": [[1, "b": 2}
+data: dict[str, int]] = {"a": 1, "b": 2}
 ```
 
 **Benefits:**

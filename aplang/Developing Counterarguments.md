@@ -23,7 +23,7 @@
 
 Let's say my claim is: "$Increased funding for public transportation leads to reduced traffic congestion$".
 
-* **Potential Counterargument [[1:**  Increased funding for public transportation might lead to higher taxes.
+* **Potential Counterargument 1:**  Increased funding for public transportation might lead to higher taxes.
     * **Refutation:** While increased funding might require higher taxes, the long-term economic benefits of reduced traffic congestion (e.g., increased productivity, reduced fuel consumption) outweigh the costs. [[Economic Analysis of Public Transportation]]
 
 * **Potential Counterargument 2:**  Public transportation is inefficient and unreliable in many areas.

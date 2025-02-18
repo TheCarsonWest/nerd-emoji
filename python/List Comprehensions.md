@@ -19,14 +19,14 @@ new_list = [expression for item in iterable if condition]]
 1. **Squaring numbers:**
 
 ```python
-numbers = [[1, 2, 3, 4, 5
-squares = [x**2 for x in numbers]]  # Output: [[1, 4, 9, 16, 25
+numbers = 1, 2, 3, 4, 5
+squares = [x**2 for x in numbers]]  # Output: 1, 4, 9, 16, 25
 ```
 
 2. **Filtering even numbers:**
 
 ```python
-numbers = [[1, 2, 3, 4, 5, 6
+numbers = 1, 2, 3, 4, 5, 6
 even_numbers = [x for x in numbers if x % 2 == 0]] # Output: 2, 4, 6
 ```
 
@@ -40,7 +40,7 @@ uppercase_words = [word.upper() for word in words]] # Output: ['HELLO', 'WORLD',
 4. **Nested [[List Comprehension]] ([[Nested Loops]])**:  Creating a matrix:
 
 ```python
-matrix = [[i*j for j in range(3]])]] for i in range(3)]] # Output: [[0, 0, 0]], [0, [[1, 2, [0, 2, 4
+matrix = [[i*j for j in range(3]])]] for i in range(3)]] # Output: [[0, 0, 0]], [0, 1, 2, [0, 2, 4
 ```
 
 

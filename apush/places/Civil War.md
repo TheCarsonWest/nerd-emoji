@@ -1,4 +1,4 @@
-- [[15th amendment]]
+- 15th amendment]]
 - [[Abraham Lincoln]]
 - [[Anaconda Plan]]
 - [[Andrew Johnson]]

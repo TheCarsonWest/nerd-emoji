@@ -22,7 +22,7 @@ Key characteristics:
 import numpy as np
 
 # Creating a 2D ndarray
-arr = np.array([[1, 2, 3, 4, 5, 6)
+arr = np.array(1, 2, 3, 4, 5, 6)
 
 # Accessing elements
 print(arr[0, 1)  # Output: 2

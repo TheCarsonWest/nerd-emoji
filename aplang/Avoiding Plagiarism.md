@@ -38,7 +38,7 @@
 
 **Example of a correctly cited sentence:**
 
-"The quick brown fox jumps over the lazy dog" ($a_i = \sum_{i=[[1}^n x_i$).  (Smith, 2023, p. 10).
+"The quick brown fox jumps over the lazy dog" ($a_i = \sum_{i=1}^n x_i$).  (Smith, 2023, p. 10).
 
 **Equation Example:** The Pythagorean theorem is represented by the equation:
 

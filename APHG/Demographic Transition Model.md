@@ -36,8 +36,8 @@ This model explains the leading causes of death in each stage of the demographic
 ### Important Statistics:
 
 * **[[Total Fertility Rate]] (TFR):** Average number of children per woman.
-* **Replacement Rate:** TFR of 2.[[1 needed for a stable population.
-* **[[Infant Mortality Rate]] (IMR):** Number of infant deaths per [[1,000 live births.
+* **Replacement Rate:** TFR of 2.1 needed for a stable population.
+* **[[Infant Mortality Rate]] (IMR):** Number of infant deaths per 1,000 live births.
 * **Zero Population Growth (ZPG):** Birth rate equals death rate.
 * **[[Migration]]:** Movement of people within and between countries, impacting [[population distribution]].
 

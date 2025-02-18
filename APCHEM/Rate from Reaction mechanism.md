@@ -16,11 +16,11 @@ Elementary reactions describe what happens at the molecular level. They are sing
 
 Most reactions proceed through multiple elementary steps.  The overall rate law for these reactions is determined by the rate-determining step.
 
-### Case [[1:  RDS is the First Step
+### Case 1:  RDS is the First Step
 
 If the slowest step is the first step, the rate law for the overall reaction is simply the rate law of that elementary step.  For example:
 
-Step [[1 (slow):  $A + B \rightarrow C$
+Step 1 (slow):  $A + B \rightarrow C$
 Step 2 (fast): $C + D \rightarrow E$
 
 Overall Reaction: $A + B + D \rightarrow E$
@@ -33,14 +33,14 @@ If the slowest step is *not* the first step, the rate law can be more complicate
 
 **Example:**
 
-Step [[1 (fast, reversible): $A \rightleftharpoons B + C$
+Step 1 (fast, reversible): $A \rightleftharpoons B + C$
 Step 2 (slow): $B + D \rightarrow E$
 
 Overall Reaction: $A + D \rightarrow C + E$
 
 1.  **Rate Law for the RDS:** Rate = $k[B]][D]]$
 
-2.  **Express Intermediates in Terms of Reactants:** Since step [[1 is fast and reversible, we can assume it is at equilibrium:
+2.  **Express Intermediates in Terms of Reactants:** Since step 1 is fast and reversible, we can assume it is at equilibrium:
 
     $K_{eq} = \frac{[B]][C]]}{[A]]}$  where $K_{eq}$ is the equilibrium constant.
 
@@ -48,7 +48,7 @@ Overall Reaction: $A + D \rightarrow C + E$
 
 3.  **Substitute into the RDS Rate Law:**
 
-    Rate = $k\frac{K_{eq}[A]]}{[C]]}[D]] = k'[A]][D]][C]]^{-[[1}$ where $k' = kK_{eq}$
+    Rate = $k\frac{K_{eq}[A]]}{[C]]}[D]] = k'[A]][D]][C]]^{-1}$ where $k' = kK_{eq}$
 
     [[Equilibrium Constant]]
     [[Steady-State Approximation]]

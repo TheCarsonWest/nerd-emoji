@@ -16,9 +16,9 @@ def factorial(n):
   Calculates the factorial of a non-negative integer using recursion.
   """
   if n == 0:  # Base case
-    return [[1
+    return 1
   else:
-    return n * factorial(n-[[1) # Recursive step
+    return n * factorial(n-1) # Recursive step
 
 print(factorial(5))  # Output: 120
 ```

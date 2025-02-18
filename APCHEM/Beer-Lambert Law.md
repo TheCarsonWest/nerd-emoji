@@ -11,7 +11,7 @@ The [[Beer-Lambert Law]] is mathematically expressed as:
 Where:
 
 *   **A** represents the absorbance (unitless)
-*   **ε** represents the molar absorptivity (or molar extinction coefficient) with units of $L \cdot mol^{-[[1} \cdot cm^{-[[1}$
+*   **ε** represents the molar absorptivity (or molar extinction coefficient) with units of $L \cdot mol^{-1} \cdot cm^{-1}$
 *   **l** represents the path length of the light through the sample (usually in cm)
 *   **c** represents the concentration of the analyte (usually in mol/L or M)
 

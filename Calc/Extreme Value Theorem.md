@@ -19,7 +19,7 @@ The [[Extreme Value Theorem]] is a fundamental concept in calculus that guarante
 To find the absolute maximum and minimum values of a continuous function $f(x)$ on a closed interval $[a, b]]$:
 
 1. **Find critical points:** Find all values of $x$ in the interval $(a, b)$ where $f'(x) = 0$ or $f'(x)$ is undefined.
-2. **Evaluate the function:** Evaluate $f(x)$ at each [[Critical Point]] found in step [[1, and also at the endpoints $x = a$ and $x = b$.
+2. **Evaluate the function:** Evaluate $f(x)$ at each [[Critical Point]] found in step 1, and also at the endpoints $x = a$ and $x = b$.
 3. **Compare values:** The largest value among those found in step 2 is the absolute maximum, and the smallest value is the absolute minimum.
 
 
@@ -27,15 +27,15 @@ To find the absolute maximum and minimum values of a continuous function $f(x)$ 
 
 Let's find the absolute maximum and minimum values of $f(x) = x^3 - 3x + 2$ on the interval $[-2, 2$.
 
-1. **Find critical points:** $f'(x) = 3x^2 - 3 = 0$, which gives $x^2 = [[1$, so $x = [[1$ and $x = -[[1$. Both are in the interval $(-2, 2)$.
+1. **Find critical points:** $f'(x) = 3x^2 - 3 = 0$, which gives $x^2 = 1$, so $x = 1$ and $x = -1$. Both are in the interval $(-2, 2)$.
 
 2. **Evaluate the function:**
    $f(-2) = (-2)^3 - 3(-2) + 2 = -2$
-   $f(-[[1) = (-[[1)^3 - 3(-[[1) + 2 = 4$
-   $f([[1) = ([[1)^3 - 3([[1) + 2 = 0$
+   $f(-1) = (-1)^3 - 3(-1) + 2 = 4$
+   $f(1) = (1)^3 - 3(1) + 2 = 0$
    $f(2) = (2)^3 - 3(2) + 2 = 4$
 
-3. **Compare values:** The absolute maximum is 4, which occurs at $x = -[[1$ and $x = 2$. The absolute minimum is -2, which occurs at $x = -2$.
+3. **Compare values:** The absolute maximum is 4, which occurs at $x = -1$ and $x = 2$. The absolute minimum is -2, which occurs at $x = -2$.
 
 
 ```desmos-graph
@@ -44,7 +44,7 @@ y = x^3 - 3x + 2
 
 ##  Important Note
 
-The EVT only guarantees the existence of absolute extrema; it doesn't provide a method for finding them if the function is not differentiable or the interval is not closed.  For example, the function $f(x) = x$ on the open interval $(0, [[1)$ has no absolute maximum or minimum.
+The EVT only guarantees the existence of absolute extrema; it doesn't provide a method for finding them if the function is not differentiable or the interval is not closed.  For example, the function $f(x) = x$ on the open interval $(0, 1)$ has no absolute maximum or minimum.
 
 
 ## Summary

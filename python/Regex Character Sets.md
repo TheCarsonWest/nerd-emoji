@@ -22,10 +22,10 @@ string = "Hello, World! 123"
 match = re.findall(r"[aeiou]]", string)  # Output: ['e', 'o', 'o']]
 
 # Match any digit
-match = re.findall(r"[0-9]]", string)  # Output: ['[[1', '2', '3']]
+match = re.findall(r"[0-9]]", string)  # Output: ['1', '2', '3']]
 
 # Match any character except a space
-match = re.findall(r"[^ ]]", string) #Output: ['H', 'e', 'l', 'l', 'o', ',', 'W', 'o', 'r', 'l', 'd', '!', '[[1', '2', '3']]
+match = re.findall(r"[^ ]]", string) #Output: ['H', 'e', 'l', 'l', 'o', ',', 'W', 'o', 'r', 'l', 'd', '!', '1', '2', '3']]
 
 # Match any uppercase or lowercase letter
 match = re.findall(r"[a-zA-Z]]", string) # Output: ['H', 'e', 'l', 'l', 'o', 'W', 'o', 'r', 'l', 'd']]

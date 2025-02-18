@@ -19,7 +19,7 @@ This note covers the basics of citation formatting, focusing on different styles
 
 **Basic In-Text Citation Structures:**
 
-* **Author-Year (e.g., APA):**  (Author's Last Name, Year).  For multiple authors: (Author [[1 & Author 2, Year) or (Author [[1 et al., Year) for more than two.
+* **Author-Year (e.g., APA):**  (Author's Last Name, Year).  For multiple authors: (Author 1 & Author 2, Year) or (Author 1 et al., Year) for more than two.
 * **Numerical (e.g., some scientific journals):**  A number corresponding to the entry in the bibliography.  Example: 1.
 
 **Bibliography Entry Elements:**

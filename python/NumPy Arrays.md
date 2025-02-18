@@ -16,10 +16,10 @@ NumPy arrays are created using the `numpy.array()` function.
 import numpy as np
 
 # From a list
-arr1 = np.array([[1, 2, 3, 4, 5) 
+arr1 = np.array(1, 2, 3, 4, 5) 
 
 # From a list of lists (creates a 2D array)
-arr2 = np.array([[1, 2, 3, 4, 5, 6)
+arr2 = np.array(1, 2, 3, 4, 5, 6)
 
 # Using other functions like arange, zeros, ones, etc.
 arr3 = np.arange(10) # Creates an array from 0 to 9
@@ -57,7 +57,7 @@ arr7 = arr1 * arr1 # Element-wise multiplication
 arr8 = arr2[:2, :2 # Selects a subarray
 
 # Reshaping arrays
-arr9 = arr1.reshape(5,[[1) # Reshapes arr1 into a 5x1 array
+arr9 = arr1.reshape(5,1) # Reshapes arr1 into a 5x1 array
 
 # Linear algebra operations ([[NumPy Linear Algebra]])
 # ...

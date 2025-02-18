@@ -1,7 +1,7 @@
 # [[Useful Websites and Articles]]
 # [[ISL Book Notes]]
 
-**Chapter [[1: Introduction to Statistical Learning**
+**Chapter 1: Introduction to Statistical Learning**
 
 * **What is Statistical Learning?**  The goal is to build a model relating a response variable $Y$ to a set of predictor variables $X_1, X_2, ..., X_p$.  We can use this model to:
     * Predict the response $Y$ for new values of $X$.
@@ -35,7 +35,7 @@
 
 **Chapter 3:  Classification**
 
-* **Logistic Regression:** Modeling the probability of a binary outcome using a logistic function: $P(Y=[[1|X) = \frac{[[1}{[[1 + exp(-\beta_0 - \beta_1X)}$. [[Logistic Regression Details]]
+* **Logistic Regression:** Modeling the probability of a binary outcome using a logistic function: $P(Y=1|X) = \frac{1}{1 + exp(-\beta_0 - \beta_1X)}$. [[Logistic Regression Details]]
 
 * **K-Nearest Neighbors:** Classifying a new observation based on the majority class among its $k$ nearest neighbors in the feature space. [[KNN Algorithm]]
 

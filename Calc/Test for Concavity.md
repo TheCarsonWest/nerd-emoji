@@ -27,11 +27,11 @@ Let's consider the function $f(x) = x^3 - 3x^2 + 2$.
 
 1. **First [[derivative]]:** $f'(x) = 3x^2 - 6x$
 2. **Second [[derivative]]:** $f''(x) = 6x - 6$
-3. **Critical points of $f''(x)$:** $f''(x) = 0$ when $6x - 6 = 0$, which means $x = [[1$.
-4. **Test intervals:** We test the intervals $(-\infty, [[1)$ and $([[1, \infty)$.
-    * For $x = 0$ (in $(-\infty, [[1)$): $f''(0) = -6 < 0$, so $f(x)$ is concave down on $(-\infty, [[1)$.
-    * For $x = 2$ (in $([[1, \infty)$): $f''(2) = 6 > 0$, so $f(x)$ is concave up on $([[1, \infty)$.
-5. **Inflection Point:** Since the concavity changes at $x=[[1$, there is an inflection point at $x=[[1$.
+3. **Critical points of $f''(x)$:** $f''(x) = 0$ when $6x - 6 = 0$, which means $x = 1$.
+4. **Test intervals:** We test the intervals $(-\infty, 1)$ and $(1, \infty)$.
+    * For $x = 0$ (in $(-\infty, 1)$): $f''(0) = -6 < 0$, so $f(x)$ is concave down on $(-\infty, 1)$.
+    * For $x = 2$ (in $(1, \infty)$): $f''(2) = 6 > 0$, so $f(x)$ is concave up on $(1, \infty)$.
+5. **Inflection Point:** Since the concavity changes at $x=1$, there is an inflection point at $x=1$.
 
 
 ```desmos-graph

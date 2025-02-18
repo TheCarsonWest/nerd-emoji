@@ -23,15 +23,15 @@ class MyIterator:
         if self.index >= len(self.data):
             raise StopIteration
         value = self.data[self.index]]
-        self.index += [[1
+        self.index += 1
         return value
 
-my_iterator = MyIterator([[1, 2, 3, 4, 5)
+my_iterator = MyIterator(1, 2, 3, 4, 5)
 for item in my_iterator:
     print(item)
 
 #Manual Iteration
-my_iterator = MyIterator([[1,2,3)
+my_iterator = MyIterator(1,2,3)
 print(next(my_iterator))
 print(next(my_iterator))
 print(next(my_iterator))

@@ -37,7 +37,7 @@ $ \text{Frequency} = \frac{\text{Number of figures of speech}}{\text{Total numbe
 This can be used to compare the density of figurative language across different texts.
 
 
-## $$ \text{Figurative [[Language]] Density} = \frac{\sum_{i=[[1}^{n} F_i}{W} $$
+## $$ \text{Figurative [[Language]] Density} = \frac{\sum_{i=1}^{n} F_i}{W} $$
 
 Where:
 

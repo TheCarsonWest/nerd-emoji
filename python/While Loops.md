@@ -6,7 +6,7 @@ While loops in Python execute a block of code repeatedly as long as a given cond
 count = 0
 while count < 5:
     print(count)
-    count += [[1
+    count += 1
 ```
 
 The loop continues until `count` is no longer less than 5.  We must ensure the condition eventually becomes false to avoid an infinite loop.
@@ -26,7 +26,7 @@ The loop continues until `count` is no longer less than 5.  We must ensure the c
 count = 0
 while True:
     print(count)
-    count += [[1
+    count += 1
     if count >= 5:
         break
 ```
@@ -36,7 +36,7 @@ while True:
 ```python
 count = 0
 while count < 5:
-    count += [[1
+    count += 1
     if count == 3:
         continue  # Skip printing 3
     print(count)

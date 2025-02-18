@@ -11,14 +11,14 @@ range(start, stop[, step]])
 
 * `stop`:  The ending number (exclusive).  The sequence will go up to, but not include, this number.  This is the *only* required argument.
 * `start`: The starting number (inclusive). Defaults to 0 if not specified.
-* `step`: The increment between each number. Defaults to [[1 if not specified.  Can be negative for reverse iteration.
+* `step`: The increment between each number. Defaults to 1 if not specified.  Can be negative for reverse iteration.
 
 
 **Examples:**
 
 ```python
 # Basic usage:
-for i in range(5):  # iterates 0, [[1, 2, 3, 4
+for i in range(5):  # iterates 0, 1, 2, 3, 4
     print(i)
 
 # Specifying start and stop:
@@ -26,15 +26,15 @@ for i in range(2, 7): # iterates 2, 3, 4, 5, 6
     print(i)
 
 # Specifying start, stop, and step:
-for i in range([[1, 10, 2): # iterates [[1, 3, 5, 7, 9
+for i in range(1, 10, 2): # iterates 1, 3, 5, 7, 9
     print(i)
 
 # Negative step:
-for i in range(10, 0, -[[1): # iterates 10, 9, 8, 7, 6, 5, 4, 3, 2, [[1
+for i in range(10, 0, -1): # iterates 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
     print(i)
 
 #Creating a list from range:
-my_list = list(range([[1,6)) # Creates [[1, 2, 3, 4, 5
+my_list = list(range(1,6)) # Creates 1, 2, 3, 4, 5
 print(my_list)
 ```
 

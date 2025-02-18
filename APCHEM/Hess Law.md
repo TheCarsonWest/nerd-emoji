@@ -22,24 +22,24 @@ Hess's Law is incredibly useful for determining the enthalpy change of reactions
 
 Let's say we want to find the enthalpy change ($\Delta H$) for the formation of carbon dioxide from carbon monoxide:
 
-**Target Reaction:** $CO(g) + \frac{[[1}{2}O_2(g) \rightarrow CO_2(g) \quad \Delta H = ?$
+**Target Reaction:** $CO(g) + \frac{1}{2}O_2(g) \rightarrow CO_2(g) \quad \Delta H = ?$
 
 We are given the following reactions and their enthalpy changes:
 
 * **Reaction 1:** $C(s) + O_2(g) \rightarrow CO_2(g) \quad \Delta H_1 = -393.5 \text{ kJ}$
-* **Reaction 2:** $C(s) + \frac{[[1}{2}O_2(g) \rightarrow CO(g) \quad \Delta H_2 = -110.5 \text{ kJ}$
+* **Reaction 2:** $C(s) + \frac{1}{2}O_2(g) \rightarrow CO(g) \quad \Delta H_2 = -110.5 \text{ kJ}$
 
-To obtain the target reaction, we need to reverse Reaction 2 and then add it to Reaction [[1:
+To obtain the target reaction, we need to reverse Reaction 2 and then add it to Reaction 1:
 
-* **Reversed Reaction 2:** $CO(g) \rightarrow C(s) + \frac{[[1}{2}O_2(g) \quad \Delta H_2' = +110.5 \text{ kJ}$
+* **Reversed Reaction 2:** $CO(g) \rightarrow C(s) + \frac{1}{2}O_2(g) \quad \Delta H_2' = +110.5 \text{ kJ}$
 
 Now, add Reaction 1 and the reversed Reaction 2:
 
-$C(s) + O_2(g) + CO(g) \rightarrow CO_2(g) + C(s) + \frac{[[1}{2}O_2(g)$
+$C(s) + O_2(g) + CO(g) \rightarrow CO_2(g) + C(s) + \frac{1}{2}O_2(g)$
 
-Canceling out the common species ($C(s)$ and $\frac{[[1}{2}O_2(g)$) gives us the target reaction:
+Canceling out the common species ($C(s)$ and $\frac{1}{2}O_2(g)$) gives us the target reaction:
 
-$CO(g) + \frac{[[1}{2}O_2(g) \rightarrow CO_2(g)$
+$CO(g) + \frac{1}{2}O_2(g) \rightarrow CO_2(g)$
 
 Finally, add the enthalpy changes:
 

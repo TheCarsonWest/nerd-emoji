@@ -14,7 +14,7 @@ Frozen sets are immutable versions of Python's built-in `set` type.  This means 
 Frozen sets are created using the `frozenset()` constructor:
 
 ```python
-my_set = {[[1, 2, 3}
+my_set = {1, 2, 3}
 frozen_set = frozenset(my_set)  # Create a frozen set from a regular set
 
 empty_frozen_set = frozenset() # Create an empty frozen set
@@ -26,7 +26,7 @@ another_frozen_set = frozenset(4,5,6) #from a list
 **Operations:**
 
 ```python
-set1 = frozenset({[[1, 2, 3})
+set1 = frozenset({1, 2, 3})
 set2 = frozenset({3, 4, 5})
 
 union_set = set1 | set2  # Union

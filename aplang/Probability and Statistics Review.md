@@ -8,9 +8,9 @@
     * Event: A subset of the sample space.
     * Probability of an event A: $P(A) = \frac{\text{number of favorable outcomes}}{\text{total number of outcomes}}$  (for equally likely outcomes).
     * Axioms of probability:
-        * $0 \le P(A) \le [[1$ for any event A.
-        * $P(\Omega) = [[1$
-        * If $A_1, A_2, ...$ are mutually exclusive events, then $P(\bigcup_{i=[[1}^{\infty} A_i) = \sum_{i=[[1}^{\infty} P(A_i)$.
+        * $0 \le P(A) \le 1$ for any event A.
+        * $P(\Omega) = 1$
+        * If $A_1, A_2, ...$ are mutually exclusive events, then $P(\bigcup_{i=1}^{\infty} A_i) = \sum_{i=1}^{\infty} P(A_i)$.
     * Conditional probability: $P(A|B) = \frac{P(A \cap B)}{P(B)}$ if $P(B) > 0$.
     * Bayes' Theorem: $P(A|B) = \frac{P(B|A)P(A)}{P(B)}$
     * Independence: Two events A and B are independent if $P(A \cap B) = P(A)P(B)$.

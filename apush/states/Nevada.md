@@ -46,6 +46,6 @@
 **Impact on the Rest of the Country:**
 
 * [[Nevada]] has been a major center of gambling and entertainment since the 1950s.
-* The [[Nevada]] Test Site was the site of over [[1,000 nuclear tests from 1951 to 1992.
+* The [[Nevada]] Test Site was the site of over 1,000 nuclear tests from 1951 to 1992.
 * [[Nevada]]'s legalization of recreational marijuana in 2017 has made the state a pioneer in the legalization movement.
 * [[Nevada]] is a swing state in presidential elections and has voted for both Democratic and Republican candidates in recent years.

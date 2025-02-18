@@ -26,7 +26,7 @@
 
 **Important Court Cases:**
 
-* **Evans v. Romer (1996):** The Supreme Court ruled that Amendment 2 violated the Equal Protection Clause of the [[14th amendment]].
+* **Evans v. Romer (1996):** The Supreme Court ruled that Amendment 2 violated the Equal Protection Clause of the 14th amendment]].
 
 **Major Industry:**
 

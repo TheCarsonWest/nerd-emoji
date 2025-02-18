@@ -11,8 +11,8 @@ The general order is:
    def my_func(a, b, c):
        print(f"a: {a}, b: {b}, c: {c}")
 
-   my_func([[1, 2, 3)  # Correct order
-   my_func(3, 2, [[1)  # Different order, but still positional
+   my_func(1, 2, 3)  # Correct order
+   my_func(3, 2, 1)  # Different order, but still positional
    ```
 
 2. **Keyword Parameters (Named Arguments):**  These parameters are specified using the `parameter_name=value` syntax.  The order of keyword parameters doesn't matter as long as the parameter names are correct.
@@ -21,7 +21,7 @@ The general order is:
    def my_func(a, b, c):
        print(f"a: {a}, b: {b}, c: {c}")
 
-   my_func(c=3, a=[[1, b=2) # Order doesn't matter here
+   my_func(c=3, a=1, b=2) # Order doesn't matter here
    ```
 
 3. **[[Default Parameters]]:** These parameters have a default value assigned in the function definition. If a value is not provided during invocation, the default value is used.  Default parameters *must* come after non-default parameters.
@@ -30,8 +30,8 @@ The general order is:
    def my_func(a, b, c=3): # c has a default value
        print(f"a: {a}, b: {b}, c: {c}")
 
-   my_func([[1, 2) # c defaults to 3
-   my_func([[1, 2, 4) # c is overridden to 4
+   my_func(1, 2) # c defaults to 3
+   my_func(1, 2, 4) # c is overridden to 4
    ```
 
 4. **`*args` (Variable Positional Arguments):**  This allows a function to accept a variable number of positional arguments.  These arguments are collected into a tuple.
@@ -40,7 +40,7 @@ The general order is:
    def my_func(a, b, *args):
        print(f"a: {a}, b: {b}, args: {args}")
 
-   my_func([[1, 2, 3, 4, 5) # args will be (3, 4, 5)
+   my_func(1, 2, 3, 4, 5) # args will be (3, 4, 5)
    ```
    [[Variable Arguments]]
 
@@ -50,7 +50,7 @@ The general order is:
    def my_func(a, b, **kwargs):
        print(f"a: {a}, b: {b}, kwargs: {kwargs}")
 
-   my_func([[1, 2, c=3, d=4) # kwargs will be {'c': 3, 'd': 4}
+   my_func(1, 2, c=3, d=4) # kwargs will be {'c': 3, 'd': 4}
    ```
    [[Variable Keyword Arguments]]
 

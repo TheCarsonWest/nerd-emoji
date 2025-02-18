@@ -9,19 +9,19 @@ Python offers several built-in data structures:
 * **[[Lists]]:** Ordered, mutable (changeable) sequences of items.  Allow duplicate elements.
 
 ```python
-my_list = [[1, 2, "hello", 3.14, True]]
+my_list = 1, 2, "hello", 3.14, True]]
 ```
 
 * **[[Tuples]]:** Ordered, immutable (unchangeable) sequences of items. Allow duplicate elements.  Useful for representing fixed collections of data.
 
 ```python
-my_tuple = ([[1, 2, "hello", 3.14, True)
+my_tuple = (1, 2, "hello", 3.14, True)
 ```
 
 * **Sets:** Unordered collections of unique items.  Useful for membership testing and eliminating duplicates.
 
 ```python
-my_set = {[[1, 2, 3, 3, 4} # {[[1, 2, 3, 4}
+my_set = {1, 2, 3, 3, 4} # {1, 2, 3, 4}
 ```
 
 * **[[Dictionaries]]:**  Unordered collections of key-value pairs.  Keys must be immutable (e.g., strings, numbers, tuples), values can be any data type.  Provides efficient lookups by key.

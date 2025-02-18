@@ -7,7 +7,7 @@ fruits = ["apple", "banana", "cherry"]]
 for fruit in fruits:
   print(fruit)
 
-for i in range(5): # range(5) generates 0, [[1, 2, 3, 4
+for i in range(5): # range(5) generates 0, 1, 2, 3, 4
   print(i)
 
 for i, fruit in enumerate(fruits): # enumerate gives both index and value
