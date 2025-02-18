@@ -18,7 +18,7 @@ def get_transcript_without_timestamps(video_id):
   """
 
   try:
-    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+    transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["en-US"])
   except YouTubeTranscriptApi.NoTranscriptFound:
     print("No transcript found for video ID:", video_id)
     return None
@@ -30,7 +30,7 @@ def get_transcript_without_timestamps(video_id):
   return text_transcript
 
 genai.configure(api_key=open('api.txt','r').readline())
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 
 def ai_text(p):
@@ -55,7 +55,7 @@ if transcript:
   # Prepare the prompt for text generation
   prompt = transcript + """\nRewrite the transcript above as an article.
   """
-
+  prompt = transcript + "Summarize the video in an article of 500 words or more."
   # Generate text using your chosen library (replace `ai_text` if needed)
   article_text = ai_text(prompt)
 

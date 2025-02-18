@@ -3,67 +3,87 @@
     "default": {
       "packageId": "default",
       "name": "Default Prompts Package",
-      "version": "0.0.5",
-      "minTextGeneratorVersion": "0.1.0",
+      "version": "0.0.9",
+      "minTextGeneratorVersion": "0.5.0",
       "description": "This is the main package that comes with Text Generator plugin in Obsidian",
       "author": "Noureddine Haouari",
       "tags": "writing, brainstorming",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/gpt-3-prompt-templates"
+=======
       "repo": "text-gen/gpt-3-prompt-templates",
       "installed": false,
       "downloads": 106421
+>>>>>>> origin/master
     },
     "dalle": {
       "packageId": "dalle",
       "name": "OpenAI Dalle Package",
-      "version": "0.1.0",
-      "minTextGeneratorVersion": "0.5.0",
+      "version": "0.1.1",
+      "minTextGeneratorVersion": "0.7.0",
       "description": "The package contains some interessting Dalle-2/Dalle-3 prompt templates",
       "author": "Noureddine Haouari",
       "tags": "photo, dalle-2, dalle-3",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/tg-dalle-package"
+=======
       "repo": "text-gen/tg-dalle-package",
       "installed": false,
       "downloads": 106330
+>>>>>>> origin/master
     },
     "huggingface": {
       "packageId": "huggingface",
       "name": "Huggingface Prompts Package",
-      "version": "0.0.1",
-      "minTextGeneratorVersion": "0.1.0",
+      "version": "0.0.4",
+      "minTextGeneratorVersion": "0.5.0",
       "description": "Huggingface Prompts comes with Text Generator plugin in Obsidian",
       "author": "Noureddine Haouari",
       "tags": "writing, brainstorming, huggingface",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/huggingface"
+=======
       "repo": "text-gen/huggingface",
       "installed": false,
       "downloads": 106658
+>>>>>>> origin/master
     },
     "awesomePrompts": {
       "packageId": "awesomePrompts",
       "name": "Awesome Prompts",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "minTextGeneratorVersion": "0.5.7",
       "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
       "author": "f",
       "tags": "writing, brainstorming, awesome",
       "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
+<<<<<<< HEAD
+      "repo": "text-gen/awesome-tg-package"
+=======
       "repo": "text-gen/awesome-tg-package",
       "installed": false,
       "downloads": 12286
+>>>>>>> origin/master
     },
     "tts": {
       "packageId": "tts",
       "name": "Text To Speech Package",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "minTextGeneratorVersion": "0.6.0",
       "description": "Contains Text To Speech Templates and support for TTS for other templates",
       "author": "Noureddine",
       "tags": "TTS, Speak",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/TTS"
+=======
       "repo": "text-gen/TTS",
       "installed": false,
       "downloads": 8628
+>>>>>>> origin/master
     },
     "vision": {
       "packageId": "vision",
@@ -74,9 +94,13 @@
       "author": "Noureddine",
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/tg-vision"
+=======
       "repo": "text-gen/tg-vision",
       "installed": false,
       "downloads": 8627
+>>>>>>> origin/master
     },
     "smartConnections": {
       "packageId": "smartConnections",
@@ -87,22 +111,30 @@
       "author": "Noureddine",
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/tg-smartConnections"
+=======
       "repo": "text-gen/tg-smartConnections",
       "installed": false,
       "downloads": 8626
+>>>>>>> origin/master
     },
     "Experimental": {
       "packageId": "Experimental",
       "name": "Experimental Package",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "minTextGeneratorVersion": "0.6.6",
       "description": "Contains experimental templates",
       "author": "Noureddine",
       "tags": "experiments",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
+<<<<<<< HEAD
+      "repo": "text-gen/experimental-package"
+=======
       "repo": "text-gen/experimental-package",
       "installed": false,
       "downloads": 8475
+>>>>>>> origin/master
     },
     "testExtension": {
       "core": true,
@@ -118,8 +150,7 @@
       "repo": "text-gen/gpt-3-prompt-templates",
       "folderName": "testExtension",
       "price": 20,
-      "installed": false,
-      "downloads": 0
+      "installed": false
     },
     "excalidraw": {
       "packageId": "excalidraw",
@@ -133,9 +164,13 @@
       "repo": "text-gen/tg-excalidraw",
       "core": true,
       "folderName": "excalidrawPackage",
+<<<<<<< HEAD
+      "price": 2
+=======
       "price": 2,
       "installed": false,
       "downloads": 0
+>>>>>>> origin/master
     }
   },
   "resources": {},
