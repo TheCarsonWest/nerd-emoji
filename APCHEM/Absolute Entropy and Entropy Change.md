@@ -1,5 +1,5 @@
-Make a AP Chemistry rundown on Absolute Entropy and Entropy Change  in markdown format(make use of headings), use the LaTeX equation library format when writing equations. For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]], make sure they are just short titles for seperate notes)
-
+# [[Equilibrium]]
+# [[Thermodynamics]]
 # Absolute Entropy and Entropy Change: An AP Chemistry Rundown
 
 ## What is Entropy?
@@ -22,11 +22,11 @@ Unlike other thermodynamic state functions like enthalpy ($\Delta H$), entropy h
 
 The entropy change ($\Delta S$) represents the change in disorder during a process.  It's calculated as the difference between the final and initial entropies:
 
-$ \Delta S = S_{final} - S_{initial} $
+$\Delta S = S_{final} - S_{initial}$
 
 For a chemical reaction at standard conditions (298 K and 1 atm), the standard entropy change ($\Delta S^\circ$) is given by:
 
-$ \Delta S^\circ_{rxn} = \sum nS^\circ_{products} - \sum mS^\circ_{reactants} $
+$\Delta S^\circ_{rxn} = \sum nS^\circ_{products} - \sum mS^\circ_{reactants}$
 
 where *n* and *m* are the stoichiometric coefficients of the products and reactants, respectively, and $S^\circ$ represents the standard molar entropy of each substance.
 
