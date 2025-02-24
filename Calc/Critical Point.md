@@ -25,10 +25,10 @@ The process involves two steps:
 Let's find the critical points of the function $f(x) = x^3 - 3x$.
 
 1.  The [[derivative]] is $f'(x) = 3x^2 - 3$.
-2.  Setting $f'(x) = 0$, we get $3x^2 - 3 = 0$, which simplifies to $x^2 = [[1$.  Thus, $x = [[1$ and $x = -[[1$ are critical points.
+2.  Setting $f'(x) = 0$, we get $3x^2 - 3 = 0$, which simplifies to $x^2 = 1$.  Thus, $x = 1$ and $x = -1$ are critical points.
 3. $f'(x)$ is defined for all real numbers.
 
-Therefore, the critical points are $x = [[1$ and $x = -[[1$.
+Therefore, the critical points are $x = 1$ and $x = -1$.
 
 
 ## Classifying Critical Points: The First [[Derivative]] Test
@@ -44,13 +44,13 @@ The first [[derivative]] test helps determine whether a critical point is a loca
 
 **Example (continued):**
 
-For $f(x) = x^3 - 3x$, the critical points are $x = [[1$ and $x = -[[1$.
+For $f(x) = x^3 - 3x$, the critical points are $x = 1$ and $x = -1$.
 
-*   For $x < -[[1$, $f'(x) > 0$.
-*   For $-[[1 < x < [[1$, $f'(x) < 0$.
-*   For $x > [[1$, $f'(x) > 0$.
+*   For $x < -1$, $f'(x) > 0$.
+*   For $-1 < x < 1$, $f'(x) < 0$.
+*   For $x > 1$, $f'(x) > 0$.
 
-Thus, $x = -[[1$ is a local maximum, and $x = [[1$ is a local minimum.
+Thus, $x = -1$ is a local maximum, and $x = 1$ is a local minimum.
 
 ```desmos-graph
 y = x^3 - 3x
@@ -77,8 +77,8 @@ The second [[derivative]] test provides an alternative method for classifying cr
 
 For $f(x) = x^3 - 3x$, $f''(x) = 6x$.
 
-*   At $x = -[[1$, $f''(-[[1) = -6 < 0$, so $x = -[[1$ is a local maximum.
-*   At $x = [[1$, $f''([[1) = 6 > 0$, so $x = [[1$ is a local minimum.
+*   At $x = -1$, $f''(-1) = -6 < 0$, so $x = -1$ is a local maximum.
+*   At $x = 1$, $f''(1) = 6 > 0$, so $x = 1$ is a local minimum.
 
 ##  Important Note: Local vs. Global Extrema
 

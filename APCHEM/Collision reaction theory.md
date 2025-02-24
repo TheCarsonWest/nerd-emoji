@@ -38,9 +38,9 @@ where:
 
 The Arrhenius equation can be linearized to determine $E_a$ experimentally:
 
-$\ln k = \ln A - \frac{E_a}{R} \cdot \frac{[[1}{T}$
+$\ln k = \ln A - \frac{E_a}{R} \cdot \frac{1}{T}$
 
-A plot of $\ln k$ vs. $\frac{[[1}{T}$ yields a straight line with a slope of $-\frac{E_a}{R}$.
+A plot of $\ln k$ vs. $\frac{1}{T}$ yields a straight line with a slope of $-\frac{E_a}{R}$.
 
 ## 5. Catalysts
 

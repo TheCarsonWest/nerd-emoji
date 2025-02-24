@@ -44,7 +44,7 @@ x = 10 #Global scope
 def outer_function():
     x = 5 #Enclosing function locals
     def inner_function():
-        x = [[1 #Local scope
+        x = 1 #Local scope
         print(f"Inner: x = {x}")
 
     inner_function()

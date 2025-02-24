@@ -9,9 +9,9 @@ x = 10          # Integer
 y = 3.14       # Float
 name = "Alice"  # String
 is_active = True # Boolean
-my_list = [[1, 2, 3 # List
+my_list = 1, 2, 3 # List
 my_tuple = (4, 5, 6) # Tuple
-my_dict = {"a": [[1, "b": 2} # Dictionary
+my_dict = {"a": 1, "b": 2} # Dictionary
 ```
 
 **[[Data Types]]:**

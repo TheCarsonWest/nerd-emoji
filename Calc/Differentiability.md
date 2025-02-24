@@ -33,12 +33,12 @@ y = abs(x)
 * **Discontinuity:** The function is discontinuous (has a jump, hole, or asymptote) at the point.
 
 ```desmos-graph
-y = [[1/(x-[[1)
-{x>[[1}
+y = 1/(x-1)
+{x>1}
 y = 2
-{x=[[1}
+{x=1}
 y = x
-{x<[[1}
+{x<1}
 ```
 
 * **Oscillating Function:** The function oscillates infinitely rapidly near the point.

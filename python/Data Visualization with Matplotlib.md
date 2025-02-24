@@ -8,7 +8,7 @@ Key aspects to cover:
     * `matplotlib.pyplot.plot()` function:  Creating line plots.  Experiment with different line styles, markers, and colors.
     ```python
     import matplotlib.pyplot as plt
-    plt.plot([[1, 2, 3, 4, 5, 6, 7, 8)
+    plt.plot(1, 2, 3, 4, 5, 6, 7, 8)
     plt.xlabel("X-axis")
     plt.ylabel("Y-axis")
     plt.title("Simple Line Plot")
@@ -16,7 +16,7 @@ Key aspects to cover:
     ```
     * Scatter plots using `matplotlib.pyplot.scatter()`: Show relationships between two variables.  Example with color-coding.
     ```python
-    plt.scatter([[1, 2, 3, 4, 5, 6, 7, 8, c=['red', 'green', 'blue', 'yellow']])
+    plt.scatter(1, 2, 3, 4, 5, 6, 7, 8, c=['red', 'green', 'blue', 'yellow']])
     plt.show()
     ```
     * Bar charts and Histograms using `matplotlib.pyplot.bar()` and `matplotlib.pyplot.hist()`: Visualizing categorical and numerical data distributions.

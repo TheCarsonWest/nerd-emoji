@@ -16,7 +16,7 @@ import asyncio
 
 async def async_generator():
     for i in range(3):
-        await asyncio.sleep([[1)  # Simulate an asynchronous operation
+        await asyncio.sleep(1)  # Simulate an asynchronous operation
         yield i
 
 async def main():
@@ -61,7 +61,7 @@ async def async_generator_with_error_handling():
             yield i
     except ValueError as e:
         print(f"Caught an exception: {e}")
-        yield -[[1 # Yield a special value to signal an error
+        yield -1 # Yield a special value to signal an error
 
 
 async def main_with_error_handling():

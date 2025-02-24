@@ -1,6 +1,6 @@
 # [[nexus]]
 # [[Calc Rules and theorems]]
-# Unit [[1
+# Unit 1
 ### [[Calculus Limits]]
 ### [[Indeterminate Forms]]
 # Unit 2/3 - [[derivative]] stuff

@@ -25,14 +25,14 @@ Let's say we want to evaluate the limit:
 *  $f(x) = \sin(x)$
 *  $g(x) = x$
 *  $f'(x) = \cos(x)$
-*  $g'(x) = [[1$
+*  $g'(x) = 1$
 
 Therefore, we have:
 
-$$\lim_{x \to 0} \frac{\sin(x)}{x} = \lim_{x \to 0} \frac{\cos(x)}{[[1}$$
+$$\lim_{x \to 0} \frac{\sin(x)}{x} = \lim_{x \to 0} \frac{\cos(x)}{1}$$
 
 **3. Evaluate the Limit:**
 
-$$\lim_{x \to 0} \frac{\cos(x)}{[[1} = \frac{\cos(0)}{[[1} = [[1$$
+$$\lim_{x \to 0} \frac{\cos(x)}{1} = \frac{\cos(0)}{1} = 1$$
 
-**So, $\lim_{x \to 0} \frac{\sin(x)}{x} = [[1$.**
+**So, $\lim_{x \to 0} \frac{\sin(x)}{x} = 1$.**

@@ -25,13 +25,13 @@ float("10.5") # Output: 10.5
 ```python
 str(10)    # Output: "10"
 str(10.5)  # Output: "10.5"
-str([[1,2,3) # Output: "[[1, 2, 3"
+str(1,2,3) # Output: "1, 2, 3"
 ```
 
 * **`bool()`:** Converts a value to a boolean (`True` or `False`).  Many values evaluate to `False` (e.g., 0, 0.0, "", 1, {}, None); most others are `True`.
 
 ```python
-bool([[1)    # Output: True
+bool(1)    # Output: True
 bool(0)    # Output: False
 bool("")   # Output: False
 bool("hello") # Output: True
@@ -41,7 +41,7 @@ bool(1)   # Output: False
 * **`list()`:** Converts an iterable (like a tuple or string) into a list.
 
 ```python
-list(([[1,2,3)) # Output: [[1, 2, 3
+list((1,2,3)) # Output: 1, 2, 3
 list("abc")   # Output: ['a', 'b', 'c']]
 ```
 

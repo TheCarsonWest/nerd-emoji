@@ -35,7 +35,7 @@ Let $f(x) = x^3 - 2x - 5$. We want to prove that $f(x)$ has a root in the interv
 
 1. **[[Continuity]]:**  $f(x)$ is a polynomial function, which is continuous everywhere.
 2. **Interval:** We are considering the closed interval $2,3$.
-3. **Values at endpoints:**  $f(2) = 8 - 4 - 5 = -[[1$ and $f(3) = 27 - 6 - 5 = 16$.
+3. **Values at endpoints:**  $f(2) = 8 - 4 - 5 = -1$ and $f(3) = 27 - 6 - 5 = 16$.
 4. **Intermediate value:** Since $f(2)$ is negative and $f(3)$ is positive, the IVT guarantees that there exists a value $c$ in the interval $(2,3)$ such that $f(c) = 0$. 
 
 Therefore, we have proven that $f(x) = x^3 - 2x - 5$ has a root in the interval $2,3$.

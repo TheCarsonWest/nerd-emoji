@@ -20,7 +20,7 @@ print(math.sqrt(25))  # Output: 5.0
 
 from random import randint
 
-print(randint([[1, 10)) # Output: A random integer between [[1 and 10 (inclusive)
+print(randint(1, 10)) # Output: A random integer between 1 and 10 (inclusive)
 
 from os import path, getcwd
 

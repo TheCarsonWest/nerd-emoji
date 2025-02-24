@@ -5,7 +5,7 @@ This note covers examples of using `for` loops in Python.
 * **Basic Iteration:**
 
 ```python
-my_list = [[1, 2, 3, 4, 5
+my_list = 1, 2, 3, 4, 5
 for item in my_list:
     print(item)
 ```
@@ -21,7 +21,7 @@ for char in my_string:
 * **Iterating through dictionaries:**
 
 ```python
-my_dict = {"a": [[1, "b": 2, "c": 3}
+my_dict = {"a": 1, "b": 2, "c": 3}
 for key in my_dict:
     print(f"Key: {key}, Value: {my_dict[key]]}")
 

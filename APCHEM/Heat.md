@@ -10,7 +10,7 @@ where:
 
 * q = heat transferred
 * m = mass of the substance
-* c = specific heat capacity (the amount of heat required to raise the temperature of [[1 gram of a substance by [[1°C)
+* c = specific heat capacity (the amount of heat required to raise the temperature of 1 gram of a substance by 1°C)
 * ΔT = change in temperature (final temperature - initial temperature)
 
 # [[Thermodynamics]]

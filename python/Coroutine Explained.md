@@ -19,7 +19,7 @@ import asyncio
 
 async def my_coroutine(name):
     print(f"Coroutine {name} started")
-    await asyncio.sleep([[1)  # Simulate some asynchronous operation
+    await asyncio.sleep(1)  # Simulate some asynchronous operation
     print(f"Coroutine {name} finished")
     return f"Result from {name}"
 
@@ -30,7 +30,7 @@ async def main():
     result1 = await coro1
     result2 = await coro2
 
-    print(f"Result [[1: {result1}")
+    print(f"Result 1: {result1}")
     print(f"Result 2: {result2}")
 
 if __name__ == "__main__":

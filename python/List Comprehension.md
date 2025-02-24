@@ -19,14 +19,14 @@ new_list = [expression for item in iterable if condition]]
 1.  Squaring numbers:
 
     ```python
-    numbers = [[1, 2, 3, 4, 5
-    squares = [x**2 for x in numbers]]  # [[1, 4, 9, 16, 25
+    numbers = 1, 2, 3, 4, 5
+    squares = [x**2 for x in numbers]]  # 1, 4, 9, 16, 25
     ```
 
 2.  Filtering even numbers:
 
     ```python
-    numbers = [[1, 2, 3, 4, 5, 6
+    numbers = 1, 2, 3, 4, 5, 6
     even_numbers = [x for x in numbers if x % 2 == 0]] # 2, 4, 6
     ```
 
@@ -40,8 +40,8 @@ new_list = [expression for item in iterable if condition]]
 4.  Nested loops (equivalent to nested for loops):
 
     ```python
-    matrix = [[1, 2, 3, 4
-    flattened_matrix = [num for row in matrix for num in row]] # [[1, 2, 3, 4
+    matrix = 1, 2, 3, 4
+    flattened_matrix = [num for row in matrix for num in row]] # 1, 2, 3, 4
     ```
 
 

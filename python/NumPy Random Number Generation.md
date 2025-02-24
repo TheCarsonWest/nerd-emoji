@@ -5,17 +5,17 @@ NumPy's `random` module (now deprecated; use `numpy.random` directly) provides f
 
 **Key Functions & Concepts:**
 
-* **`numpy.random.rand(d0, d1, ..., dn)`:** Creates an array of the given shape and fills it with random floats sampled from a uniform distribution over `[0, [[1)`.
+* **`numpy.random.rand(d0, d1, ..., dn)`:** Creates an array of the given shape and fills it with random floats sampled from a uniform distribution over `[0, 1)`.
 
 ```python
 import numpy as np
 
-# 3x3 array of random floats between 0 and [[1
+# 3x3 array of random floats between 0 and 1
 random_array = np.random.rand(3, 3)
 print(random_array)
 ```
 
-* **`numpy.random.randn(d0, d1, ..., dn)`:** Creates an array of the given shape and fills it with random floats sampled from a standard normal (Gaussian) distribution (mean=0, standard deviation=[[1).
+* **`numpy.random.randn(d0, d1, ..., dn)`:** Creates an array of the given shape and fills it with random floats sampled from a standard normal (Gaussian) distribution (mean=0, standard deviation=1).
 
 ```python
 # 2x2 array of random floats from a standard normal distribution
@@ -26,8 +26,8 @@ print(normal_array)
 * **`numpy.random.randint(low, high=None, size=None, dtype=int)`:** Returns random integers from `low` (inclusive) to `high` (exclusive).  If `high` is `None`, then results are from 0 to `low`.
 
 ```python
-# 5 random integers between [[1 and 10 (inclusive)
-random_integers = np.random.randint([[1, 11, 5) # 11 is exclusive
+# 5 random integers between 1 and 10 (inclusive)
+random_integers = np.random.randint(1, 11, 5) # 11 is exclusive
 print(random_integers)
 ```
 
@@ -35,13 +35,13 @@ print(random_integers)
 
 ```python
 # Sample 3 elements from an array with replacement
-my_array = np.array([[1, 2, 3, 4, 5)
+my_array = np.array(1, 2, 3, 4, 5)
 sample = np.random.choice(my_array, size=3, replace=True)
 print(sample)
 
 
 # Sample with probabilities
-probabilities = np.array([0.[[1, 0.2, 0.3, 0.2, 0.2) # must sum to [[1
+probabilities = np.array([0.1, 0.2, 0.3, 0.2, 0.2) # must sum to 1
 weighted_sample = np.random.choice(my_array, size=3, replace=True, p=probabilities)
 print(weighted_sample)
 ```

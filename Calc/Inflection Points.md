@@ -31,13 +31,13 @@ Let's find the inflection points of the function $f(x) = x^3 - 3x^2 + 2x$.
 
 1. **First [[derivative]]:** $f'(x) = 3x^2 - 6x + 2$
 2. **Second [[derivative]]:** $f''(x) = 6x - 6$
-3. **Critical points:** Set $f''(x) = 0$:  $6x - 6 = 0 \implies x = [[1$
+3. **Critical points:** Set $f''(x) = 0$:  $6x - 6 = 0 \implies x = 1$
 4. **Sign analysis:**
 
-   * For $x < [[1$, $f''(x) < 0$ (concave down)
-   * For $x > [[1$, $f''(x) > 0$ (concave up)
+   * For $x < 1$, $f''(x) < 0$ (concave down)
+   * For $x > 1$, $f''(x) > 0$ (concave up)
 
-Since the concavity changes from down to up at $x = [[1$, there is an inflection point at $x = [[1$.  To find the $y$-coordinate, substitute $x = [[1$ into the original function: $f([[1) = [[1^3 - 3([[1)^2 + 2([[1) = 0$.  Therefore, the inflection point is $([[1, 0)$.
+Since the concavity changes from down to up at $x = 1$, there is an inflection point at $x = 1$.  To find the $y$-coordinate, substitute $x = 1$ into the original function: $f(1) = 1^3 - 3(1)^2 + 2(1) = 0$.  Therefore, the inflection point is $(1, 0)$.
 
 
 ```desmos-graph

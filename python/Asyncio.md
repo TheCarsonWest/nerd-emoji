@@ -12,7 +12,7 @@ import asyncio
 
 async def my_coroutine():
     print("Coroutine started")
-    await asyncio.sleep([[1)  # Simulate an I/O operation
+    await asyncio.sleep(1)  # Simulate an I/O operation
     print("Coroutine finished")
 
 async def main():
@@ -62,8 +62,8 @@ asyncio.run(main())
 
 ```python
 async def coroutine1():
-    await asyncio.sleep([[1)
-    return [[1
+    await asyncio.sleep(1)
+    return 1
 
 async def coroutine2():
     await asyncio.sleep(2)

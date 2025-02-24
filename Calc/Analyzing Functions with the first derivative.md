@@ -16,11 +16,11 @@ To find critical points:
 
 Let $f(x) = x^3 - 3x$. Then $f'(x) = 3x^2 - 3$.
 
-Setting $f'(x) = 0$, we get $3x^2 - 3 = 0$, which gives $x = \pm [[1$.
+Setting $f'(x) = 0$, we get $3x^2 - 3 = 0$, which gives $x = \pm 1$.
 
 $f'(x)$ is defined for all real numbers, so there are no additional critical points where the [[derivative]] is undefined.
 
-Therefore, the critical points are $x = [[1$ and $x = -[[1$.
+Therefore, the critical points are $x = 1$ and $x = -1$.
 
 
 ## 2. Increasing and Decreasing Intervals
@@ -38,11 +38,11 @@ To find increasing/decreasing intervals:
 
 **Example (continuing from above):**
 
-For $f(x) = x^3 - 3x$, the critical points are $x = -[[1$ and $x = [[1$.
+For $f(x) = x^3 - 3x$, the critical points are $x = -1$ and $x = 1$.
 
-* **Interval $(-\infty, -[[1)$:** Test point $x = -2$. $f'(-2) = 3(-2)^2 - 3 = 9 > 0$, so $f(x)$ is increasing on $(-\infty, -[[1)$.
-* **Interval $(-[[1, [[1)$:** Test point $x = 0$. $f'(0) = -3 < 0$, so $f(x)$ is decreasing on $(-[[1, [[1)$.
-* **Interval $([[1, \infty)$:** Test point $x = 2$. $f'(2) = 9 > 0$, so $f(x)$ is increasing on $([[1, \infty)$.
+* **Interval $(-\infty, -1)$:** Test point $x = -2$. $f'(-2) = 3(-2)^2 - 3 = 9 > 0$, so $f(x)$ is increasing on $(-\infty, -1)$.
+* **Interval $(-1, 1)$:** Test point $x = 0$. $f'(0) = -3 < 0$, so $f(x)$ is decreasing on $(-1, 1)$.
+* **Interval $(1, \infty)$:** Test point $x = 2$. $f'(2) = 9 > 0$, so $f(x)$ is increasing on $(1, \infty)$.
 
 
 ## 3. Local Extrema (Local Maxima and Minima)
@@ -57,8 +57,8 @@ Local extrema occur at critical points.  The first [[derivative]] test helps det
 
 **Example (continuing from above):**
 
-* At $x = -[[1$, $f'(x)$ changes from positive to negative, so $f(-[[1) = (-[[1)^3 - 3(-[[1) = 2$ is a local maximum.
-* At $x = [[1$, $f'(x)$ changes from negative to positive, so $f([[1) = ([[1)^3 - 3([[1) = -2$ is a local minimum.
+* At $x = -1$, $f'(x)$ changes from positive to negative, so $f(-1) = (-1)^3 - 3(-1) = 2$ is a local maximum.
+* At $x = 1$, $f'(x)$ changes from negative to positive, so $f(1) = (1)^3 - 3(1) = -2$ is a local minimum.
 
 
 ```desmos-graph

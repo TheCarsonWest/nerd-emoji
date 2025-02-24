@@ -4,7 +4,7 @@
 **Creating [[Lists]]:**
 
 ```python
-my_list = [[1, 2, "hello", 3.14, True]]
+my_list = 1, 2, "hello", 3.14, True]]
 empty_list = 1
 ```
 
@@ -12,14 +12,14 @@ empty_list = 1
  [[Lists]] are zero-indexed.
 
 ```python
-first_element = my_list[0]]  # [[1
+first_element = my_list[0]]  # 1
 last_element = my_list[-1 # True
 ```
 
 **Slicing:**
 
 ```python
-sub_list = my_list[[1:4  # 2, "hello", 3.14 (exclusive of upper bound)
+sub_list = my_list1:4  # 2, "hello", 3.14 (exclusive of upper bound)
 ```
 
 **Methods:**

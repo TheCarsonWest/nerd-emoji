@@ -13,7 +13,7 @@ Derivatives represent the **instantaneous rate of change** of a function.  This 
 
 ## Examples
 
-**Example [[1:** Find the slope of the tangent line to the curve defined by the equation $x^2 + y^2 = 25$ at the point $(3, 4)$.
+**Example 1:** Find the slope of the tangent line to the curve defined by the equation $x^2 + y^2 = 25$ at the point $(3, 4)$.
 
 1. **Differentiate both sides:** 
 $$2x + 2y \frac{dy}{dx} = 0$$

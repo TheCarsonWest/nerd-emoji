@@ -40,7 +40,7 @@ Each body paragraph should focus on a single supporting argument for your thesis
 
 Let's say the thesis is:  "The widespread use of social media negatively impacts the mental health of teenagers."
 
-*   **Paragraph [[1:**  Focus on cyberbullying and its effects.
+*   **Paragraph 1:**  Focus on cyberbullying and its effects.
 *   **Paragraph 2:** Explore the link between social media usage and feelings of inadequacy/low self-esteem due to social comparison.
 *   **Paragraph 3:**  Discuss the impact of social media addiction on sleep patterns and overall well-being.
 *   **Paragraph 4:** Address a counterargument:  "Social media can be a positive tool for connection". Rebuttal:  While true, the negative effects outweigh the positives in this demographic.

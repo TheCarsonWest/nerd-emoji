@@ -58,7 +58,7 @@
 
 **VIII.  Inner Product (Dot Product):**
 
-* Definition: A way to multiply two vectors to produce a scalar value.  $u \cdot v = \sum_{i=[[1}^n u_i v_i$.   Useful for finding angles between vectors and projections. [[Inner Product and Orthogonality]]
+* Definition: A way to multiply two vectors to produce a scalar value.  $u \cdot v = \sum_{i=1}^n u_i v_i$.   Useful for finding angles between vectors and projections. [[Inner Product and Orthogonality]]
 
 
 **IX. Orthogonality:**

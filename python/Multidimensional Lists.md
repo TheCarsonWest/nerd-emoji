@@ -7,19 +7,19 @@ Multidimensional lists in Python are lists within lists, creating a structure th
 ```python
 # A 2D list (matrix)
 matrix = [
-    [[1, 2, 3,
+    1, 2, 3,
     4, 5, 6,
     7, 8, 9]]
 ]]
 
 # Accessing elements:
-print(matrix[0]][0]])  # Output: [[1 (first row, first column)
+print(matrix[0]][0]])  # Output: 1 (first row, first column)
 print(matrix12)  # Output: 6 (second row, third column)
 
 
 # A 3D list (e.g., a cube of data)
 cube = [
-    [[1, 2, 3, 4,
+    1, 2, 3, 4,
     5, 6, [[7, 8]],
     [[9, 10]], [11, 12]]
 ]]

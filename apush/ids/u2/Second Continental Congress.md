@@ -1,5 +1,5 @@
 ## ID: [[Second Continental Congress]] 
-## When: May 10, 1775 – March [[1, 1781
+## When: May 10, 1775 – March 1, 1781
 
 ## Who:  Delegates from thirteen colonies (eventually)
 

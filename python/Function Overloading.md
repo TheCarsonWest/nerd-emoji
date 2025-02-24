@@ -11,8 +11,8 @@ def my_function(x, y):
 def my_function(x, y, z):
   return x + y + z
 
-print(my_function([[1, 2, 3)) # Output: 6
-#print(my_function([[1,2)) #This will throw an error because the first definition is overwritten.
+print(my_function(1, 2, 3)) # Output: 6
+#print(my_function(1,2)) #This will throw an error because the first definition is overwritten.
 ```
 
 To achieve similar functionality to function overloading in Python, you can use:
@@ -23,9 +23,9 @@ To achieve similar functionality to function overloading in Python, you can use:
 def my_function(x, y=0, z=0):
   return x + y + z
 
-print(my_function([[1, 2, 3))  # Output: 6
-print(my_function([[1, 2))    # Output: 3
-print(my_function([[1))      # Output: [[1
+print(my_function(1, 2, 3))  # Output: 6
+print(my_function(1, 2))    # Output: 3
+print(my_function(1))      # Output: 1
 ```
 
 2. **[[Variable-Length Arguments]] (*args and **kwargs):** Use `*args` to accept a variable number of positional arguments and `**kwargs` to accept a variable number of keyword arguments. This provides maximum flexibility.
@@ -38,8 +38,8 @@ def my_function(*args, **kwargs):
   print(kwargs)
   return sum
 
-print(my_function([[1, 2, 3, 4, 5)) # Output: 15
-print(my_function(a=[[1, b=2, c=3)) # Output: 0, {'a': [[1, 'b': 2, 'c': 3}
+print(my_function(1, 2, 3, 4, 5)) # Output: 15
+print(my_function(a=1, b=2, c=3)) # Output: 0, {'a': 1, 'b': 2, 'c': 3}
 
 ```
 

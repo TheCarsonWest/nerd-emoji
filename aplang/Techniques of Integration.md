@@ -5,9 +5,9 @@ These notes cover various methods for evaluating indefinite and definite [[integ
 
 **I. Basic Integrals:**
 
-*   [[Power Rule]]: $\int x^n dx = \frac{x^{n+[[1}}{n+[[1} + C$,  $n \neq -[[1$
+*   [[Power Rule]]: $\int x^n dx = \frac{x^{n+1}}{n+1} + C$,  $n \neq -1$
 *   Exponential Rule: $\int e^x dx = e^x + C$
-*   Logarithmic Rule: $\int \frac{[[1}{x} dx = \ln|x| + C$
+*   Logarithmic Rule: $\int \frac{1}{x} dx = \ln|x| + C$
 *   Trigonometric Integrals:  [[Trigonometric Integrals]] (This will be a separate note)
 
 
@@ -24,14 +24,14 @@ These notes cover various methods for evaluating indefinite and definite [[integ
 
 
 *   **Improper Integrals:** Integrals with infinite limits or discontinuous integrands. [[Improper Integrals Types and Solutions]] (This will be a separate note).  We need to consider:
-    *   Type [[1: $\int_a^{\infty} f(x) dx = \lim_{t \to \infty} \int_a^t f(x) dx$
+    *   Type 1: $\int_a^{\infty} f(x) dx = \lim_{t \to \infty} \int_a^t f(x) dx$
     *   Type 2: $\int_{-\infty}^b f(x) dx = \lim_{t \to -\infty} \int_t^b f(x) dx$
     *   Type 3: $\int_{-\infty}^{\infty} f(x) dx = \int_{-\infty}^c f(x) dx + \int_c^{\infty} f(x) dx$  where $c$ is any real number.
 
 
 **III. Tables of Integrals:**
 
-While we aim to master the techniques above, it's useful to have a table of [[integrals]] for quick reference.  Many textbooks and online resources provide comprehensive tables. $ \int \frac{[[1}{x^2 + a^2} dx = \frac{[[1}{a} \arctan(\frac{x}{a}) + C$ is a common example.
+While we aim to master the techniques above, it's useful to have a table of [[integrals]] for quick reference.  Many textbooks and online resources provide comprehensive tables. $ \int \frac{1}{x^2 + a^2} dx = \frac{1}{a} \arctan(\frac{x}{a}) + C$ is a common example.
 
 
 **IV. Numerical Integration:**

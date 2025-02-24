@@ -33,4 +33,4 @@ $$ Li + F_2 → 2 LiF $$
 **2. Calculate the mass of copper(II) oxide produced when 10.0 g of copper reacts with excess oxygen gas.**
 
 $$ 2 Cu + O2 → 2 CuO $$
-$$ 10.0 g Cu × \left(\frac{[[1 \text{ mol Cu}}{63.55 \text{ g Cu}}\right) × \left(\frac{2 \text{ mol CuO}}{2 \text{ mol Cu}}\right) × \left(\frac{79.55 \text{ g CuO}}{[[1 \text{ mol CuO}}\right) = 12.7 g CuO $$
+$$ 10.0 g Cu × \left(\frac{1 \text{ mol Cu}}{63.55 \text{ g Cu}}\right) × \left(\frac{2 \text{ mol CuO}}{2 \text{ mol Cu}}\right) × \left(\frac{79.55 \text{ g CuO}}{1 \text{ mol CuO}}\right) = 12.7 g CuO $$

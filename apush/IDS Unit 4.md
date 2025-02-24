@@ -38,9 +38,9 @@
 31. [[The Assassination of Abraham Lincoln]]
 
 ## Reconstruction
-32. [[13th amendment]]
-33. [[14th amendment]]
-34. [[15th amendment]]
+32. 13th amendment]]
+33. 14th amendment]]
+34. 15th amendment]]
 35. [[Radical Republicans]]
 36. [[Black Codes]]
 37. [[Civil Rights Act of 1866]]

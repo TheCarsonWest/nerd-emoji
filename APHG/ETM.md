@@ -8,14 +8,14 @@ The [[ETM]] is considered a **sub-model** of the DTM. It complements the DTM's f
 
 **Stages of the Epidemiological Transition Model:**
 
-**Stage [[1: Age of Pestilence and Famine (High Mortality)**
+**Stage 1: Age of Pestilence and Famine (High Mortality)**
 
 * **Characteristics:**  
     * High death rates from infectious diseases (e.g., plague, smallpox, cholera)
     * Famine and malnutrition are common
     * Life expectancy is low (around 30 years)
     * Limited access to sanitation and healthcare
-    * Corresponds to Stage [[1 of the DTM (high birth and death rates)
+    * Corresponds to Stage 1 of the DTM (high birth and death rates)
 
 **Stage 2: Age of Receding Pandemics (Declining Mortality)**
 

@@ -24,10 +24,10 @@ for fruit in my_list:
 for i in range(5):  # iterates from 0 to 4
     print(i)
 
-for i in range([[1,6): #iterates from [[1 to 5
+for i in range(1,6): #iterates from 1 to 5
     print(i)
 
-for i in range([[1,10,2): #iterates from [[1 to 9 stepping by 2
+for i in range(1,10,2): #iterates from 1 to 9 stepping by 2
     print(i)
 
 ```
@@ -43,7 +43,7 @@ for char in my_string:
 **Iterating through dictionaries:**
 
 ```python
-my_dict = {"a": [[1, "b": 2, "c": 3}
+my_dict = {"a": 1, "b": 2, "c": 3}
 for key in my_dict:  # iterates through keys
     print(key, my_dict[key]])
 

@@ -27,7 +27,7 @@ Where:
 
 While the units for volume can technically be any unit as long as they are consistent on both sides of the equation, it is generally easiest to work with liters (L) or milliliters (mL).  Make sure your units are consistent!
 
-**Example [[1:**
+**Example 1:**
 
 What volume of a 12.0 M HCl solution is required to prepare 250.0 mL of a 0.500 M HCl solution?
 

@@ -30,7 +30,7 @@ Logic is the study of valid reasoning.  It provides frameworks and tools to anal
 
 Logos relies heavily on logic.  To construct a strong, persuasive argument based on logos, you must use sound logic.  A lack of logical rigor weakens the persuasive power of the argument, even if the premises are factually correct.  For example:
 
-Premise [[1: All men are mortal.
+Premise 1: All men are mortal.
 Premise 2: Socrates is a man.
 Conclusion: Therefore, Socrates is mortal.
 

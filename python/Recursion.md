@@ -17,9 +17,9 @@ def factorial(n):
   Calculates the factorial of a non-negative integer using recursion.
   """
   if n == 0:  # Base case
-    return [[1
+    return 1
   else:
-    return n * factorial(n - [[1)  # Recursive step
+    return n * factorial(n - 1)  # Recursive step
 
 print(factorial(5))  # Output: 120
 ```
@@ -41,10 +41,10 @@ print(factorial(5))  # Output: 120
 
 ```python
 def fibonacci_recursive(n):
-    if n <= [[1:
+    if n <= 1:
         return n
     else:
-        return fibonacci_recursive(n-[[1) + fibonacci_recursive(n-2)
+        return fibonacci_recursive(n-1) + fibonacci_recursive(n-2)
 
 print(fibonacci_recursive(6)) # Output: 8 (but slow for larger n)
 ```

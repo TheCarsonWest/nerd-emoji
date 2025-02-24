@@ -51,9 +51,9 @@ It's crucial to revise your thesis statement as you write.  Your initial thesis 
 
 **Formula (for argumentative thesis):**
 
-$ \text{Claim} + \text{Because} + \text{Reason [[1} + \text{Reason 2} + \text{Reason 3} $
+$ \text{Claim} + \text{Because} + \text{Reason 1} + \text{Reason 2} + \text{Reason 3} $
 
-## $$ \text{Claim} + \text{Because} + \text{Reason [[1}, \text{Reason 2}, \text{and Reason 3} $$
+## $$ \text{Claim} + \text{Because} + \text{Reason 1}, \text{Reason 2}, \text{and Reason 3} $$
 
 
 This formula provides a basic framework, but the structure will adapt depending on the complexity of your argument.

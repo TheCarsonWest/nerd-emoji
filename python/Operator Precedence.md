@@ -7,7 +7,7 @@ Here's a table summarizing Python operator precedence (from highest to lowest):
 
 | Precedence | Operator(s)             | Description                               | Associativity |
 |------------|--------------------------|-------------------------------------------|-----------------|
-| [[1          | `**`                     | Exponentiation                             | Right-to-left   |
+| 1          | `**`                     | Exponentiation                             | Right-to-left   |
 | 2          | `~`, `+`, `-`           | Bitwise NOT, unary plus, unary minus      | Right-to-left   |
 | 3          | `*`, `/`, `//`, `%`      | Multiplication, division, floor division, modulo | Left-to-right  |
 | 4          | `+`, `-`                 | Addition, subtraction                     | Left-to-right  |

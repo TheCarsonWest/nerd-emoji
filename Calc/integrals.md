@@ -22,7 +22,7 @@ The definite integral can be approximated using [[Riemann Sums]] (left, right, m
 
 The [[Fundamental Theorem of Calculus]] connects differentiation and integration.  It states:
 
-* **Part [[1:** If $F(x) = \int_a^x f(t) \, dt$, then $F'(x) = f(x)$.
+* **Part 1:** If $F(x) = \int_a^x f(t) \, dt$, then $F'(x) = f(x)$.
 * **Part 2:** $\int_a^b f(x) \, dx = F(b) - F(a)$, where $F(x)$ is an antiderivative of $f(x)$.
 
 This theorem provides a powerful method for evaluating definite [[integrals]].
@@ -43,5 +43,5 @@ y = x
 ```
 
 * **Average value of a function:** The average value of $f(x)$ on the interval $[a, b]]$ is 
-### $$\frac{[[1}{b-a} \int_a^b f(x) \, dx$$
+### $$\frac{1}{b-a} \int_a^b f(x) \, dx$$
 This rundown provides a concise overview of [[integrals]] in Calculus AB.  Remember to practice extensively to master these concepts and techniques.

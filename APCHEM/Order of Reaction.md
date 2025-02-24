@@ -50,7 +50,7 @@ If experimentally determined rate law is: $Rate = k[NO]]^2[O_2$
 
 * The reaction is second order with respect to NO.
 * The reaction is first order with respect to O<sub>2</sub>.
-* The overall reaction order is 3 (2 + [[1).
+* The overall reaction order is 3 (2 + 1).
 
 
 ## Factors Affecting Reaction Rate

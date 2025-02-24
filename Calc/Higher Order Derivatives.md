@@ -27,7 +27,7 @@ Let's consider the function $f(x) = x^3 - 3x^2 + 2x$.
 * **Second [[Derivative]]:** $f''(x) = 6x - 6$
 * **Third [[Derivative]]:** $f'''(x) = 6$
 
-We can see that the second derivative is zero at $x = [[1$.  This means that there is an inflection point at $x = [[1$.  Furthermore, the second derivative is positive for $x > [[1$ and negative for $x < [[1$, indicating that the function is concave up for $x > [[1$ and concave down for $x < [[1$.
+We can see that the second derivative is zero at $x = 1$.  This means that there is an inflection point at $x = 1$.  Furthermore, the second derivative is positive for $x > 1$ and negative for $x < 1$, indicating that the function is concave up for $x > 1$ and concave down for $x < 1$.
 
 ### Applications
 

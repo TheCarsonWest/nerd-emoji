@@ -37,7 +37,7 @@ Where:
 
 The Clausius-Clapeyron equation relates the [[vapor pressure]] of a liquid to its temperature and heat of vaporization:
 
-$\ln \left(\frac{P_2}{P_1}\right) = \frac{-\Delta H_{vap}}{R} \left(\frac{[[1}{T_2} - \frac{[[1}{T_1}\right)$
+$\ln \left(\frac{P_2}{P_1}\right) = \frac{-\Delta H_{vap}}{R} \left(\frac{1}{T_2} - \frac{1}{T_1}\right)$
 
 Where:
 

@@ -8,7 +8,7 @@
 * **1788:** Ratifies the Constitution
 * **1812:** [[War of 1812]], Battle of Bladensburg
 * **1861:** Secedes from the Union and joins the Confederate States of America
-* **1863:** [[Battle of Antietam]], a major battle of the [[Civil War]] * **1864:** Ratifies the [[13th amendment]] abolishing slavery
+* **1863:** [[Battle of Antietam]], a major battle of the [[Civil War]] * **1864:** Ratifies the 13th amendment]] abolishing slavery
 * **1906:** Great Baltimore Fire
 * **1933:** Ratifies the 21st Amendment repealing Prohibition
 * **1954:** Brown v. Board of Education, a landmark Supreme Court case

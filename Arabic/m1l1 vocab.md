@@ -56,7 +56,7 @@
 | I carry                                 | أَحْمِلُ                                   |
 | Dollars ( word number 2)                | دُوْلارات                                  |
 | I take                                  | آخُذُ                                      |
-| Dollars  (word number [[1)                | دولاراً                                    |
+| Dollars  (word number 1)                | دولاراً                                    |
 | Also/too                                | أَيْضَاً                                   |
 | Around/approximately                    | حَوَالِي                                   |
 | Sixty-two 62                            | إِثْنَان وَ سِتُّون ٦٢                     |

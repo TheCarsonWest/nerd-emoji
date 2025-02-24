@@ -26,7 +26,7 @@ The following equations can be used to calculate [[ion concentration]]:
 
 Calculate the [[molarity]] of a solution that contains 5.85 g of NaCl in 250 mL of solution.
 
-**Step [[1:** Calculate the moles of NaCl present in the solution.
+**Step 1:** Calculate the moles of NaCl present in the solution.
 $$
 \text{moles of NaCl} = \frac{5.85 \text{ g}}{58.44 \text{ g / mol}} = 0.100\text{  mol}
 $$

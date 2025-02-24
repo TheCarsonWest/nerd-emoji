@@ -4,7 +4,7 @@ E.G. Ravenstein, a 19th-century geographer, formulated a set of laws to describe
 
 Key Laws:
 
-# [[1: Most migrants move only a short distance:
+# 1: Most migrants move only a short distance:
 -  This distance decay principle suggests that migration decreases with increasing distance.  People are more likely to move to nearby locations due to familiar environments, lower transportation costs, and easier communication.
 - Its easier to move short distances than long distances, duh
 # 2: Migrants who move longer distances tend to go to large cities: 
@@ -31,7 +31,7 @@ Key Laws:
 - This reflects the life cycle stage where individuals are most likely to be seeking employment, education, or family opportunities.
 # 6: Males are more likely to migrate than females:
 - Men are more ambitious than women and are much more likely to take a big risk by moving 
-- Indians moving to dubai to work in construction until they die creates the 3:[[1 male:female ratio
+- Indians moving to dubai to work in construction until they die creates the 3:1 male:female ratio
 # 7: Most moves are economic
 - tryna get the bag
 - not much more to say

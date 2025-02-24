@@ -24,7 +24,7 @@ An infinite loop is a loop that never terminates, meaning it continues to execut
    i = 0
    while i < 10:
        print(i)
-       i -= [[1 # Decrements i instead of incrementing
+       i -= 1 # Decrements i instead of incrementing
    ```
 
 * **Incorrect use of `break` and `continue`:**  These statements can be misused to accidentally create infinite loops.  `break` exits the loop entirely, while `continue` skips the rest of the current iteration and proceeds to the next.
@@ -35,7 +35,7 @@ An infinite loop is a loop that never terminates, meaning it continues to execut
        if i == 5:
            continue # This will skip incrementing i when i is 5, creating a potential problem
        print(i)
-       i += [[1 
+       i += 1 
    ```
 
 **Debugging:**
@@ -52,7 +52,7 @@ An infinite loop is a loop that never terminates, meaning it continues to execut
 i = 0
 while i < 10:
     print(i)
-    i += [[1  # Correct increment
+    i += 1  # Correct increment
 ```
 
 
