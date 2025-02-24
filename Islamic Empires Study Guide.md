@@ -46,3 +46,24 @@
 	2. The Muslims and Muhamad left for Medina and embarked on a journey to Medina that they called the Hijra
 	3. Medina (مدينة) is Arabic for city, the nickname for Medina is The City of the Prophet
 	4. Muhamad went there as he was invited to mediate a tribal conflict.
+15. How did the city of Baghdad become a center of learning during the Golden Age of Islam?
+	1. Baghdad was chosen as the location for the House of Wisdom, which made many scholars, even non-Muslims, gather there in order to collaborate with others. By providing a central location for great minds to unite, Baghdad, and the Islamic Empire it was in, got the best innovations and advances in technology of the time.
+16. What were some of the significant scientific innovations that emerged during the Golden Age of Islam?
+	1. The Arabic numeral system(the one we all use)
+	2. Algebra (Algebra is the actually the Anglicized version of Al-Jibr, the scientist who made it)
+	3. Trigonometry
+	4. Laid the groundwork for how disease transmits(Germ Theory)
+	5. Medical Practices such as cataract surgery
+	6. Dentistry
+	7. Soap made with Lye
+17. What role did trade play in the Islamic Empires? What innovations were made to facilitate trade?
+	1. Being in the Middle East, the middle of known world, the Muslim Empires controlled global trade between everyone
+	2. The creation of the check system would facilitate trade so that merchants wouldn't have to haul large sums of money back and forth
+18. What were the Crusades? What impact did they have on the Islamic world? On Europe?
+	1. The Crusades were a set of religious wars in which Christian forces tried to take back lands that the Muslim empires had taken from them, including Jerusalem, the holy city. When the crusaders came back from the east, they came with goods, particularly spices, they have taken from the lands. This would make Europe come out of isolation and participating in global trade, culminating eventually in the age of Exploration.
+19. Who was Osman Bey, and why is he important in Ottoman history?
+	1. Osman Bey was a warlord who emerged from the nomadic Turkic people in Anatolia. He is considered the founder of the Ottoman Dynasty and is credited with having a miraculous dream foretelling a powerful lineage. 
+20. Why did the early Ottomans primarily expand westward?
+	2.  The early Ottomans primarily expanded westward because the territories to the east and south were controlled by other Muslims, so they focused their expansion towards Christian territories in the west
+21. What was the significance of the Ottoman conquest of Bursa in 1326?
+	1. The conquest of Bursa was significant because it allowed the Ottomans to settle into a permanent territory and establish a government, transition away from nomadism.
