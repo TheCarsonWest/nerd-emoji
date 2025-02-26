@@ -13,7 +13,7 @@ Then:
 
 $\lim_{x \to a} f(x) = L$
 
-### [Desmos example]](https://www.desmos.com/calculator/s7ztp99uvn)
+### [Desmos example](https://www.desmos.com/calculator/s7ztp99uvn)
 
 
 ### Example

@@ -1,7 +1,7 @@
 # My 24-25 Notes
 
 # Start at [[nexus]] if you are on web viewer or obsidian
-# Go to [[here]](https://thecarsonwest.github.io/test/public/[[nexus]]/) to see the web viewer
+# Go to [here](https://thecarsonwest.github.io/test/public/nexus/) to see the web viewer
 
 ## [Obsidian vault github](https://github.com/TheCarsonWest/nerd-emoji)
 ## [Website github(held together by spaghetti code)](https://github.com/TheCarsonWest/TheCarsonWest.github.io)
@@ -40,7 +40,7 @@ By June 2025 there will be a [full obsidian vault](https://obsidian.md/), (and n
 
 Once I'm done with the year I'll post the grades I got on everything(and AP Test Sores once those come out)
 
-[Past Test Scores]](./past-test-scores.png)
+[Past Test Scores](./past-test-scores.png)
 - AP ES: 5
 - AP CS A: 5
 - AP Gov: 4

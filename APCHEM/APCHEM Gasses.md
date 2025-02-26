@@ -8,4 +8,4 @@
 ## [[Deviations from Ideal Gas Behavior]]
 ## [[Effusion Rate]]
 
-## [Van Der Waals Calculator]](https://www.desmos.com/calculator/dfwqngruiv)
+## [Van Der Waals Calculator](https://www.desmos.com/calculator/dfwqngruiv)

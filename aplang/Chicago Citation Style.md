@@ -18,14 +18,14 @@
 
 
 3.  For websites: Author's Name (if available), "Title of Page," Website Name, URL, Accessed Date.
-    *Example:*  "Cats and Dogs," American Kennel Club, [https://www.akc.org/]](https://www.akc.org/), accessed October 26, 2023.
+    *Example:*  "Cats and Dogs," American Kennel Club, [https://www.akc.org/](https://www.akc.org/), accessed October 26, 2023.
 
 
 **Bibliography Format:**  The bibliography lists all cited works alphabetically by author's last name.  Format largely mirrors the note format but without page numbers.
 
 * **Book Example:** Smith, John. *A History of Cats*. [[New York]]: Meow Press, 2023.
 * **Journal Article Example:** Jones, Mary. "The Psychology of Purring." *Feline Studies* 15, no. 2 (2022): 55-78.
-* **Website Example:** "Cats and Dogs." American Kennel Club.  [https://www.akc.org/]](https://www.akc.org/). Accessed October 26, 2023.
+* **Website Example:** "Cats and Dogs." American Kennel Club.  [https://www.akc.org/](https://www.akc.org/). Accessed October 26, 2023.
 
 
 **Specific Cases:**

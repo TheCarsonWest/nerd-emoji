@@ -39,8 +39,8 @@ Key aspects to cover:
 
 
 * **Useful Resources:**
-    * Matplotlib official documentation: [https://matplotlib.org/]](https://matplotlib.org/)
-    * Matplotlib tutorials and examples: [Numerous online tutorials available]](Search online for "Matplotlib tutorials")
+    * Matplotlib official documentation: [https://matplotlib.org/](https://matplotlib.org/)
+    * Matplotlib tutorials and examples: [Numerous online tutorials available](Search online for "Matplotlib tutorials")
 
 * **Related Notes:** [[Data Wrangling with Pandas]] (for preparing data for visualization)
 

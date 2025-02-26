@@ -72,6 +72,6 @@
 | **مَعَكِ**                   | With you femin.              |
 | **أُمي**                     | Mom                          |
 
-[Previous]](https://ncvps.instructure.com/courses/60842/modules/items/25249845)[Next]](https://ncvps.instructure.com/courses/60842/modules/items/25249851)
+[Previous](https://ncvps.instructure.com/courses/60842/modules/items/25249845)[Next](https://ncvps.instructure.com/courses/60842/modules/items/25249851)
 
  M4: Lesson Three Overview Module Four Lesson Three Conversation

@@ -19,7 +19,7 @@ Key Laws:
 	- US to Mexico: Retired Americans to to Mexico (really just Cancun) for the warm weather and cheap prices
 - **Return Migration**: People have had enough of the country they move to, and come back once 
 	- Lebanon -> Turkey -> Lebanon (-> Turkey?)
-	- [Beirut Explosion]](https://www.youtube.com/watch?v=Inzz0iKcB9c) + Inflation + bank run, people leave the country
+	- [Beirut Explosion](https://www.youtube.com/watch?v=Inzz0iKcB9c) + Inflation + bank run, people leave the country
 	- Things are stablilizing so people came back
 	- Hezbollah decided to poke the lion's balls and now they are involved with the Hamas War, so everyone is back to being gone
 - Chain Migration

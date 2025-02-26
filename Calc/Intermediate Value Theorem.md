@@ -13,7 +13,7 @@ Imagine a continuous curve representing the function $f(x)$ on the interval $[a,
 
 **Example:** Consider the function $f(x) = x^2$ on the interval $[0,2$.  $f(0) = 0$ and $f(2) = 4$.  Since $f(x)$ is continuous, the IVT tells us that for any value $k$ between 0 and 4, there exists a value $c$ in the interval $(0,2)$ such that $f(c) = k$.
 
-# [Desmos Exploration]](https://www.desmos.com/calculator/qrkkua0100)
+# [Desmos Exploration](https://www.desmos.com/calculator/qrkkua0100)
 
 ### Key Points
 

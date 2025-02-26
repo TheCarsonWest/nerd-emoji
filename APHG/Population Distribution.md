@@ -30,10 +30,10 @@
 
 
 ## Maps
-**![TCL_12e_Figure_02_02_L]](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUccNOtJwISgnv0khZ-BiBlyfL3ClVlUVWLcvt5EEAOZCuoARp06ekTnI91X-1dYGgcEtXimGKfB929oayd1zv5VXPajStfQ5q7ct5ZSMeD8JPclMBvl5nZdcyZMvAivDEEEUGZQc9HYa9EeX1k7exyD_QtW4D_dukatfQ=s2048?key=B659LZ_lNi3daDyxDVX5ew)**
+**![TCL_12e_Figure_02_02_L](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUccNOtJwISgnv0khZ-BiBlyfL3ClVlUVWLcvt5EEAOZCuoARp06ekTnI91X-1dYGgcEtXimGKfB929oayd1zv5VXPajStfQ5q7ct5ZSMeD8JPclMBvl5nZdcyZMvAivDEEEUGZQc9HYa9EeX1k7exyD_QtW4D_dukatfQ=s2048?key=B659LZ_lNi3daDyxDVX5ew)**
 ### Each one of these areas has about 1 billion people
 
-**![TCL_12e_Figure_02_04_L]](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcz3zP5g_8vZGTKwhAIgVDM9MDNWkr2I_Nobqaa9yMCrVHNrWJf6809DZ2gKgc-vKKbkrpx9D1s8ShVkaitO0EG0fOGaFSi9yBNKxwT4qXLLr6SuapbAOtPBLxow-hia8ewAe3XHERnAB-rLDsa_SD4Pd7Ebk6Dp76_Rj4=s2048?key=B659LZ_lNi3daDyxDVX5ew)**
+**![TCL_12e_Figure_02_04_L](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcz3zP5g_8vZGTKwhAIgVDM9MDNWkr2I_Nobqaa9yMCrVHNrWJf6809DZ2gKgc-vKKbkrpx9D1s8ShVkaitO0EG0fOGaFSi9yBNKxwT4qXLLr6SuapbAOtPBLxow-hia8ewAe3XHERnAB-rLDsa_SD4Pd7Ebk6Dp76_Rj4=s2048?key=B659LZ_lNi3daDyxDVX5ew)**
 ### [[population density]] map
 ### Denses locations
 - East Asia

@@ -9,7 +9,7 @@
 * **[[Virginia]] [[House of Burgesses]] (1769-1775):**
  * Elected to represent Albemarle County
  * Drafted the [[Virginia]] Declaration of Rights (1776)
-* ** [[First Continental Congress]] and [[Second Continental Congress]](1775-1776):**
+* ** [[First Continental Congress]] and [[Second Continental Congress](1775-1776):**
  * Served as a delegate from [[Virginia]]
  * Drafted the [[Declaration of Independence]] (1776)
 * **Governor of [[Virginia]] (1779-1781):**

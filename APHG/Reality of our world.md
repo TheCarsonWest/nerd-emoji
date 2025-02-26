@@ -27,7 +27,7 @@ heres some cities that are in africa
 	- Trade
 		- Tariffs stop poor countries from trading cheap stuff
 	- Corruption
-		- [Indian Road revealed as a carpet lol]](https://www.israelnationalnews.com/en/news/372619)
+		- [Indian Road revealed as a carpet lol](https://www.israelnationalnews.com/en/news/372619)
 		- Maduro (communist hyperinflation guy)
 - Social Factors
 	- Discrimination
