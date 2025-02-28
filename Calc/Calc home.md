@@ -31,3 +31,6 @@
 ### [[Antiderivatives]]
 ### [[Constant of Integration]]
 ## [[integrals]]
+# Unit 6: Differential Equations
+## [[Differential Equations]]
+## [[Slope Fields]]

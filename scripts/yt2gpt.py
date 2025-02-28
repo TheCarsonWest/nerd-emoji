@@ -18,7 +18,7 @@ def get_transcript_without_timestamps(video_id):
   """
 
   try:
-    transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["en-US"])
+    transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["en"])
   except YouTubeTranscriptApi.NoTranscriptFound:
     print("No transcript found for video ID:", video_id)
     return None

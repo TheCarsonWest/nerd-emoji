@@ -1,4 +1,4 @@
-## ID: Booker T. [[Washington]] and the [[Atlanta Compromise]] (Late 1890s)
+## ID: Booker T. Washington and the [[Atlanta Compromise]] (Late 1890s)
 
 ## When: 1895
 

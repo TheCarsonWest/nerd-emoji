@@ -26,7 +26,7 @@
 21. [[Wisconsin Idea (Robert LaFollete)]]
 22. [[Progressive Amendments (16-19).md]]
 23. [[Teddy Roosevelt (as President)]]
-24. [[Bully Pulpit.md]]
+24. [[Bully Pulpit]]
 25. [[Square Deal]]
 26. [[The Jungle]]
 27. [[Meat Inspection Act]]
