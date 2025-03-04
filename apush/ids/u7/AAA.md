@@ -48,7 +48,7 @@ An international organization established after World War I to promote internati
 
 ## Who:
 *   **Affected:** American citizens across all socioeconomic classes and around the globe
-*   **Presidents during:** [[Herbert Hoover]] (early years), [[Franklin D]]. Roosevelt (later years)
+*   **Presidents during:** [[Herbert Hoover]] (early years), [[Franklin D. Roosevelt]] (later years)
 
 ## What:
 
@@ -68,12 +68,12 @@ The worst economic downturn in modern history, characterized by widespread unemp
 ## When: 1933-1939
 
 ## Who:
-*   **President:** [[Franklin D]]. Roosevelt (FDR)
+*   **President:** [[Franklin D. Roosevelt]] (FDR)
 *   **Agencies and Administrators:** Harry Hopkins, Frances Perkins (First female cabinet member)
 
 ## What:
 
-A series of programs and policies enacted by President [[Franklin D]]. Roosevelt in response to the [[Great Depression]]. These programs aimed to provide relief, recovery, and reform to the American economy and society.
+A series of programs and policies enacted by President [[Franklin D. Roosevelt]] in response to the [[Great Depression]]. These programs aimed to provide relief, recovery, and reform to the American economy and society.
 
 ## Impact: Why Significant?:
 *   **Expanded Government Role:** Dramatically expanded the role of the federal government in the economy and in the lives of ordinary Americans.

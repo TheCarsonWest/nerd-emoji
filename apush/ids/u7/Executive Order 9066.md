@@ -3,7 +3,7 @@
 ## When: February 19, 1942
 
 ## Who:
-* **President [[Franklin D]]. Roosevelt:** Issued the Executive Order.
+* **President [[Franklin D. Roosevelt]]:** Issued the Executive Order.
 * **Japanese Americans:** Primarily affected, though also impacted some German and Italian Americans.
 * **US Government:** Responsible for implementing the order.
 

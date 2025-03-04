@@ -3,7 +3,7 @@
 ## When: March 11, 1941
 
 ## Who:
-* **[[United States]]:** [[Franklin D]]. Roosevelt (President) and the US Congress
+* **[[United States]]:** [[Franklin D. Roosevelt]] (President) and the US Congress
 * **Allied Nations (primarily):** [[Great Britain]], Soviet Union, China
 
 ## What:

@@ -44,7 +44,7 @@ An international organization formed after World War I to promote peace and coop
 
 ## Who:
 * **Affected:** The entire [[United States]] and most of the industrialized world.
-* **Presidents During:** [[Herbert Hoover]] (initially), [[Franklin D]]. Roosevelt (implemented the [[New Deal]])
+* **Presidents During:** [[Herbert Hoover]] (initially), [[Franklin D. Roosevelt]] (implemented the [[New Deal]])
 
 ## What:
 The most severe economic downturn in modern history, characterized by widespread unemployment, bank failures, business closures, and a sharp decline in economic activity. It began with the stock market crash of 1929 and lasted throughout the 1930s.
@@ -52,7 +52,7 @@ The most severe economic downturn in modern history, characterized by widespread
 ## Impact: Why Significant?:
 * **Widespread Suffering:** Caused immense hardship for millions of Americans, leading to poverty, homelessness, and social unrest.
 * **[[Dust Bowl]]:** Exacerbated by the [[Dust Bowl]] in the Great Plains, which led to agricultural devastation and mass migration.
-* **[[New Deal]]:**  Prompted the implementation of President [[Franklin D]]. Roosevelt's [[New Deal]] programs, which aimed to provide relief, recovery, and reform.
+* **[[New Deal]]:**  Prompted the implementation of President [[Franklin D. Roosevelt]]'s [[New Deal]] programs, which aimed to provide relief, recovery, and reform.
 * **Increased Government Role:**  Led to a significant expansion of the federal government's role in the economy and in providing social welfare.
 * **Lasting Impact on Economic Thought:**  The [[Great Depression]] influenced economic theory and policy, leading to a greater emphasis on government regulation and intervention to stabilize the economy.
 
@@ -63,7 +63,7 @@ The most severe economic downturn in modern history, characterized by widespread
 ## When: 1933-1939
 
 ## Who:
-* **President:** [[Franklin D]]. Roosevelt (FDR)
+* **President:** [[Franklin D. Roosevelt]] (FDR)
 
 ## What:
 A series of programs and reforms enacted in the [[United States]] between 1933 and 1939 with the goal of ending the [[Great Depression]]. It can be broadly categorized into three "Rs": Relief, Recovery, and Reform.
@@ -84,7 +84,7 @@ A series of programs and reforms enacted in the [[United States]] between 1933 a
 ## Who:
 * **[[Allied Powers]]:** [[United States]], [[Great Britain]], Soviet Union, [[France]], China, and others.
 * **[[Axis Powers]]:** Germany, Italy, Japan.
-* **US Presidents:** [[Franklin D]]. Roosevelt (until his death in 1945), [[Harry S]]. Truman
+* **US Presidents:** [[Franklin D. Roosevelt]] (until his death in 1945), [[Harry S]]. Truman
 
 ## What:
 A global war involving the vast majority of the world's nations, ultimately divided into two opposing military alliances: the Allies and the Axis.

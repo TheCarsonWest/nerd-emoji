@@ -27,7 +27,7 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 
 ## **The 20th Century:**
 
-* **[[New Deal]]:** **[[Franklin D]]. Roosevelt]]**'s presidency marked a significant shift, ushering in the **[[New Deal]]**, a series of programs aimed at addressing the [[Great Depression]]. This era cemented the Democratic Party's association with social welfare programs and government intervention in the economy.
+* **[[New Deal]]:** **[[Franklin D. Roosevelt]]]]**'s presidency marked a significant shift, ushering in the **[[New Deal]]**, a series of programs aimed at addressing the [[Great Depression]]. This era cemented the Democratic Party's association with social welfare programs and government intervention in the economy.
 * **Civil Rights:**  The Democratic Party played a crucial role in the Civil Rights Movement, with figures like **[[Lyndon B]]. Johnson]]** pushing for legislation to dismantle segregation and ensure equal rights.
 * **Cold War:**  The party navigated the Cold War, supporting the containment of communism while also advocating for diplomacy and peaceful coexistence.
 
@@ -40,7 +40,7 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 **Key Figures:**
 
 * **[[Andrew Jackson]]:** Seventh President, Founded the party.
-* **[[Franklin D]]. Roosevelt]]:** Thirty-second President, architect of the [[New Deal]]
+* **[[Franklin D. Roosevelt]]]]:** Thirty-second President, architect of the [[New Deal]]
 * **[[Harry S]]. Truman]]:** Thirty-third President, responsible for the Marshall Plan and NATO
 * **[[Lyndon B]]. Johnson]]:** Thirty-sixth President, championed the Civil Rights Act and the Great Society
 * **[[Jimmy Carter]]:** Thirty-ninth President, focused on doing absolutely nothing

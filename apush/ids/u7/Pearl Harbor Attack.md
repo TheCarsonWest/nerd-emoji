@@ -5,7 +5,7 @@
 ## Who: 
 * **Attackers:** Imperial Japanese Navy
 * **Attacked:** [[United States]] Naval Base at Pearl Harbor, [[Hawaii]]
-* **President:** [[Franklin D]]. Roosevelt (President of the [[United States]])
+* **President:** [[Franklin D. Roosevelt]] (President of the [[United States]])
 
 ## What: 
 

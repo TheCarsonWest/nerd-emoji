@@ -48,7 +48,7 @@ An international organization established after World War I to promote peace and
 
 ## Who: 
 * **[[Herbert Hoover]]:** President at the start of the Depression.
-* **[[Franklin D]]. Roosevelt:** President who implemented the [[New Deal]] to combat the Depression.
+* **[[Franklin D. Roosevelt]]:** President who implemented the [[New Deal]] to combat the Depression.
 * **American Public:** Suffered widespread unemployment, poverty, and hardship.
 
 ## What: 
@@ -58,7 +58,7 @@ A severe worldwide economic downturn that began with the stock market crash of O
 ## Impact: Why Significant?: 
 * **Widespread Economic Hardship:**  Led to mass unemployment, bank failures, foreclosures, and poverty across the US and the globe.
 * **Hoover's Response:** Initially, President Hoover favored a limited government response, relying on voluntary cooperation and private charity. His policies were widely criticized as inadequate.
-* **Rise of the [[New Deal]]:** The [[Great Depression]] led to the election of [[Franklin D]]. Roosevelt and the implementation of the [[New Deal]], a series of government programs and reforms designed to alleviate suffering and stimulate economic recovery.
+* **Rise of the [[New Deal]]:** The [[Great Depression]] led to the election of [[Franklin D. Roosevelt]] and the implementation of the [[New Deal]], a series of government programs and reforms designed to alleviate suffering and stimulate economic recovery.
 * **Expanded Role of Government:** The [[New Deal]] dramatically expanded the role of the federal government in the economy and in providing social welfare.
 * **Lasting Reforms:** The [[New Deal]] created many lasting programs and institutions, such as Social Security, the FDIC, and the [[TVA]], that continue to shape American society today.
 * **Changed Political Landscape:**  Shifted the Democratic party to favor a more interventionist role for the government.
@@ -71,7 +71,7 @@ A severe worldwide economic downturn that began with the stock market crash of O
 ## When: 1933-1939
 
 ## Who: 
-* **[[Franklin D]]. Roosevelt (FDR):** President of the [[United States]].
+* **[[Franklin D. Roosevelt]] (FDR):** President of the [[United States]].
 * **"Brain Trust":** Group of advisors who helped develop [[New Deal]] policies.
 * **Congress:** Passed [[New Deal]] legislation.
 
@@ -98,7 +98,7 @@ A series of programs and reforms enacted in the [[United States]] between 1933 a
 ## Who: 
 * **[[Allied Powers]]:** [[United States]], [[Great Britain]], Soviet Union, [[France]], etc.
 * **[[Axis Powers]]:** Germany, Japan, Italy
-* **[[Franklin D]]. Roosevelt (FDR):** President of the US during most of the war.
+* **[[Franklin D. Roosevelt]] (FDR):** President of the US during most of the war.
 * **[[Harry S]]. Truman:** President of the US at the end of the war.
 
 ## What: 

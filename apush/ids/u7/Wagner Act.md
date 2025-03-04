@@ -5,7 +5,7 @@
 ## Who:
 *   Sponsored by Senator Robert F. Wagner of [[New York]].
 *   Passed by the U.S. Congress.
-*   Signed into law by President [[Franklin D]]. Roosevelt.
+*   Signed into law by President [[Franklin D. Roosevelt]].
 *   Impacted both employers and employees in the private sector.
 
 ## What:

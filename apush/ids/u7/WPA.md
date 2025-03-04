@@ -3,12 +3,12 @@
 ## When: May 6, 1935 (Established)
 
 ## Who: 
-* **President [[Franklin D]]. Roosevelt:** As part of his [[New Deal]] program.
+* **President [[Franklin D. Roosevelt]]:** As part of his [[New Deal]] program.
 * **Harry Hopkins:** Headed the [[WPA]].
 
 ## What: 
 
-The Works Progress Administration ([[WPA]]) was a massive public works program enacted during the [[Great Depression]] under President [[Franklin D]]. Roosevelt's [[New Deal]]. It aimed to provide jobs and income to unemployed Americans by funding a wide variety of projects, including construction of public buildings, roads, bridges, and airports. The [[WPA]] also employed artists, writers, musicians, and actors in arts-related projects.
+The Works Progress Administration ([[WPA]]) was a massive public works program enacted during the [[Great Depression]] under President [[Franklin D. Roosevelt]]'s [[New Deal]]. It aimed to provide jobs and income to unemployed Americans by funding a wide variety of projects, including construction of public buildings, roads, bridges, and airports. The [[WPA]] also employed artists, writers, musicians, and actors in arts-related projects.
 
 ## Impact: Why Significant?: 
 * **Job Creation:** Provided millions of jobs to unemployed workers, offering crucial income during the Depression.
