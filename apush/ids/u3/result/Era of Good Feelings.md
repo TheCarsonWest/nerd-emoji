@@ -17,4 +17,4 @@ A period in American history characterized by a sense of national unity and purp
 * **Expansion and Development:**  Policies like the [[Monroe Doctrine]] and the acquisition of [[Florida]] expanded US territory and influence.
 * **Seeds of  [[Sectionalism]] :** Despite the surface harmony, issues like slavery and tariffs continued to simmer, eventually contributing to the rise of [[sectionalism]] and the demise of this era. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

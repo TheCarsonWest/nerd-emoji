@@ -4,7 +4,7 @@
 * **1215:** Magna Carta signed, limiting the power of the monarchy
 * **1497:** John Cabot claims Newfoundland for England
 * **1607:** Jamestown founded as the first permanent English colony in North America
-* **1620:** Mayflower brings Pilgrims to Plymouth, [[Massachusetts]]|[[Massachusetts]([[Mayflower Compact]])
+* **1620:** Mayflower brings Pilgrims to Plymouth, [[Massachusetts]]|[[Massachusetts]]([[Mayflower Compact]])
 * **1754-1763:** [[French and Indian War]] (Seven Years' War)
 * **1765:** [[Stamp Act]] passed, sparking American Revolution
 * **1776:** [[Declaration of Independence]] adopted

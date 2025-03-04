@@ -1,4 +1,4 @@
-# ID: [[Second Great Awakening]] ## When: 1790s - 1840s
+# ID: [[Second [[Great Awakening]] ## When: 1790s - 1840s
 ## Who: 
 - **Key Preachers:** Charles Grandison Finney, Lyman Beecher, Barton Stone, Peter Cartwright, Richard Allen
 - **Various Protestant denominations:** Baptists, Methodists, Presbyterians 
@@ -11,4 +11,4 @@ A series of religious revivals that swept across the [[United States]], characte
 - ** Democratization of American Christianity:**  Contributed to a more democratic and accessible form of [[religion]], shifting away from established hierarchies. 
 - **Increased Religious fervor:**  Deepend the religious landscape of the [[United States]], shaping American identity and values. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

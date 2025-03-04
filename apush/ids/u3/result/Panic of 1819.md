@@ -14,4 +14,4 @@ The first major financial crisis in the [[United States]], characterized by wide
 - **Contributed to  [[sectionalism]] :** The Panic hit different regions unevenly, with the South experiencing a more severe and prolonged downturn. This intensified sectional tensions over economic issues like tariffs and internal improvements. 
 - **Marked a shift in American economic life:**  The Panic marked a transition from a period of rapid expansion and speculation to one of greater economic uncertainty and caution.
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

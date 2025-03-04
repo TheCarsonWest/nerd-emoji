@@ -2,7 +2,7 @@
 ## WHEN: May 25 - September 17, 1787 
 ## WHO: 55 delegates (from 12 states, [[Rhode Island]] did not participate) including:
 * **[[James Madison]]** ("Father of the Constitution" for his role in drafting and promoting the document)
-* **[[George Washington]]** (presided over the Convention, lending legitimacy and authority)
+* **[[George [[Washington]]** (presided over the Convention, lending legitimacy and authority)
 * **[[Alexander Hamilton]]** (advocated for a strong central government)
 * **[[Benjamin Franklin]]** (elder statesman, helped forge compromises)
 * **Roger Sherman**  (proposed the [[Connecticut]] Compromise)
@@ -21,4 +21,4 @@ Key Issues and Compromises:
 * **Left some issues unresolved**, such as slavery, which would continue to cause tension and ultimately lead to the [[Civil War]]. 
 * **Debates over ratification** led to the development of the **Federalist** and **Anti-Federalist** factions, shaping early American political thought. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

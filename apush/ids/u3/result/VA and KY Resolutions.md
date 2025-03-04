@@ -14,4 +14,4 @@
 - **Political Theory:**  Introduced important concepts about the relationship between the federal government and the states, sparking a debate that continues today. 
 - **Limited Impact at the Time:** While important in the long term, the resolutions failed to overturn the Alien and Sedition Acts, as no other states adopted them. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

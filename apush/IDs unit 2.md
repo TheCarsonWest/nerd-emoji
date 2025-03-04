@@ -17,7 +17,7 @@
 15. [[Stamp Act]]
 16. [[Sons of Liberty]]
 17. [[Townshend Act]] 
-18. [[Letters from a Farmer in Pennsylvania]]
+18. [[Letters from a Farmer in [[Pennsylvania]]
 19. [[Committees of Correspondence]]
 20. [[Boston Massacre]]
 21. [[Tea Act]]

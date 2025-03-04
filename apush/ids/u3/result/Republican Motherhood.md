@@ -8,4 +8,4 @@ An evolving idea about the role of women in the new American republic. It emphas
 * **Laid groundwork for future women's rights movements:** While it did not directly advocate for suffrage or equal rights, it planted the seed for women's participation in the public sphere by emphasizing their influence on future generations and their importance to the republic's success.
 * **Strengthened the idea of republican values:** By focusing on the domestic sphere as a training ground for citizenship, it reinforced the values of civic virtue, public service, and education that were vital to the new nation. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

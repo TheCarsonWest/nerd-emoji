@@ -15,4 +15,4 @@ A plan to address the national debt incurred during the American Revolution.  Th
 * **Fueled partisan divisions:** The report sparked intense debate between Federalists (who supported Hamilton's plan) and Democratic-[[Republicans]] (who opposed its expansion of federal power), foreshadowing the two-party system. 
 * **Compromise & the "Dinner Table bargain":** Led to a compromise where the South agreed to assumption in exchange for the nation's capital being located in the South ([[Washington]] D.C.). This demonstrated the growing [[sectionalism]] in the new nation. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

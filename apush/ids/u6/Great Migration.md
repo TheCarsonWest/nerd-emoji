@@ -9,7 +9,7 @@
 ## IMPACT: Why Significant?:
 * **Transformation of Urban Landscapes:** Northern and Midwestern cities experienced significant demographic shifts, leading to the growth of Black communities and influencing urban development.
 * **Rise of Black Political Power:** The increased concentration of Black populations in Northern cities led to the formation of strong political organizations and a rise in Black political influence.  This contributed to the growth of the Civil Rights Movement.
-* **Cultural Change:** The [[Great Migration]] contributed to the flourishing of Black cultural expression in art, literature, music (Harlem Renaissance), and other areas.
+* **Cultural Change:** The [[Great Migration]] contributed to the flourishing of Black cultural expression in art, literature, music ([[Harlem Renaissance]]), and other areas.
 * **Economic Change:** While facing continued discrimination, Black migrants contributed significantly to the industrial workforce and helped fuel economic growth in the North.
 * **Increased Racial Tensions:** The influx of Black migrants led to increased racial tensions and competition for jobs and housing in many Northern cities, resulting in events like the Red Summer of 1919.
 * **Shift in the South's economy and demographics:** The South lost a significant portion of its agricultural workforce, forcing economic adjustments and impacting social dynamics.  It ultimately altered the racial balance of power in the South, though racial inequality persisted.

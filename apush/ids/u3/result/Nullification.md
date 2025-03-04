@@ -14,4 +14,4 @@
 * **Influenced the debate over slavery:** The principle of nullification was used by Southern states to defend their right to maintain slavery, arguing that the federal government could not interfere with their "domestic institutions."  This led to an escalation of tensions between North and South, ultimately contributing to the outbreak of the [[Civil War]].
 * **Continued to be invoked in debates over federal power throughout American history:**  The concept of nullification, while ultimately rejected by the Supreme Court, has continued to be invoked by proponents of states' rights in various debates, such as those over gun control, environmental regulations, and immigration policy. 
 
-# [[IDS Unit 3]]
+# [[IDS [[Unit 3]]

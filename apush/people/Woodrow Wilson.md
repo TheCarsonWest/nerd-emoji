@@ -5,9 +5,9 @@
 **Major Events:**
 
 * **World War I:** Led the [[United States]] into the war in 1917, aiming to "make the world safe for democracy."
-* **[[Treaty of Versailles]]:** Negotiated the treaty ending World War I, which established the [[League of Nations]].
+* **[[apush/ids/u6/Treaty of Versailles]]:** Negotiated the treaty ending World War I, which established the [[apush/ids/u6/League of Nations]].
 * **Russian Revolution:** Sent troops to intervene in the Russian [[Civil War]], opposing the Bolsheviks.
-* **[[Fourteen Points]]:** Articulated a vision for a peaceful world based on self-determination, free trade, and international cooperation.
+* **[[apush/ids/u6/Fourteen Points]]:** Articulated a vision for a peaceful world based on self-determination, free trade, and international cooperation.
 
 **Important Legislation Signed:**
 
@@ -20,11 +20,11 @@
 
 * **[[Democrats]]:** Wilson was a prominent member of the [[Democrats]] and its leader during his presidency.
 * **Progressive Movement:** Wilson embraced progressive ideals, such as social justice, economic reform, and expanded government regulation.
-* **[[League of Nations]]:** Wilson was a driving force behind the creation of the [[League of Nations]], an international organization aimed at preventing war.
+* **[[apush/ids/u6/League of Nations]]:** Wilson was a driving force behind the creation of the [[apush/ids/u6/League of Nations]], an international organization aimed at preventing war.
 
 **Impact on the Country:**
 
 * **Domestic Policies:** Wilson's progressive policies had a significant impact on the American economy and society, including the establishment of minimum wage laws, child labor laws, and expanded educational opportunities.
-* **Foreign Policy:** Wilson's idealism shaped American foreign policy, leading to the nation's involvement in World War I and the creation of the [[League of Nations]].
+* **Foreign Policy:** Wilson's idealism shaped American foreign policy, leading to the nation's involvement in World War I and the creation of the [[apush/ids/u6/League of Nations]].
 * **Legacy:** Wilson is remembered as a complex and influential figure. His domestic reforms and foreign policy initiatives left a lasting mark on American history, despite the setbacks encountered in his later years.
 # [[APUSH people]]

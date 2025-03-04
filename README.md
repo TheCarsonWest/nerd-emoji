@@ -1,7 +1,7 @@
 # My 24-25 Notes
 
 # Start at [[nexus]] if you are on web viewer or obsidian
-# Go to [here](https://thecarsonwest.github.io/test/public/nexus/) to see the web viewer
+# Go to [here](https://thecarsonwest.github.io/test/public/[[nexus]]/) to see the web viewer
 
 ## [Obsidian vault github](https://github.com/TheCarsonWest/nerd-emoji)
 ## [Website github(held together by spaghetti code)](https://github.com/TheCarsonWest/TheCarsonWest.github.io)

@@ -3,7 +3,7 @@ from time import sleep
 import google.generativeai as genai
 
 genai.configure(api_key=open('api.txt','r').readline())
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 def ai_text(p):
     try:
@@ -21,7 +21,7 @@ def create_files(file_names, file_extension):
 
         # Generate the prompt with clear instructions and context
         prompt = f"""
-Create a notecard on the APUSH "Unit 6 – Urbanization, Progressivism, Imperialism, WWI" topic ({file_name}), using this following format:
+Create a notecard on the APUSH "Unit 7 - Treaty of Versailles and League of Nations, 1920’s/Great Depression, New Deal, and WWII" topic ({file_name}), using this following format:
 WHEN: (Some of these are given within the parantheses above) (exact date if possible, if not narrow it down to a specific time period...acts/laws, specific events, etc should have specific dates. AP exam questions are ALWAYS broken down into certain time frames; timelines will be very important)
 
 WHO: (who is involved or who started the event or concept; if a person - who is the person, President, Doctor, lawyer, etc. that would be important to know) 
@@ -56,7 +56,7 @@ A pivotal battle of the American Civil War fought in Gettysburg, [[Pennsylvania]
         response = ai_text(prompt)+"\n# [[IDS Unit 6]]"
 
         # Write the generated text to the file
-        with open("./result/"+file_name.split(" - ")[0]+'.md', 'w') as file:
+        with open("./result/"+file_name.split(" - ")[0], 'w') as file:
             file.write(response)
             print('created '+file_name.split(" - ")[0])
         sleep(1)
