@@ -21,11 +21,11 @@ Consider the reaction:  $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$
 
 Let's say we start with 1.0 M $N_2$ and 1.5 M $H_2$, and at equilibrium, we have 0.6 M $NH_3$.  We can set up the ICE table as follows:
 
-|             | $N_2$       | $3H_2$      | $2NH_3$     |
-|-------------|-------------|-------------|-------------|
-| **I**nitial  |  1.0 M      |  1.5 M      |   0 M       |
-| **C**hange   |  $-x$       |  $-3x$      |  $+2x$      |
-| **E**quilibrium| $1.0 - x$   | $1.5 - 3x$  |   $2x$      |
+|                 | $N_2$     | $3H_2$     | $2NH_3$ |
+| --------------- | --------- | ---------- | ------- |
+| **I**nitial     | 1.0 M     | 1.5 M      | 0 M     |
+| **C**hange      | $-x$      | $-3x$      | $+2x$   |
+| **E**quilibrium | $1.0 - x$ | $1.5 - 3x$ | $2x$    |
 
 Since we know the equilibrium concentration of $NH_3$ is 0.6 M, we can solve for $x$:
 

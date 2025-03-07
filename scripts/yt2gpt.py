@@ -1,7 +1,7 @@
 from youtube_transcript_api import YouTubeTranscriptApi
 import google.generativeai as genai
 import time
-
+import sys
 
 # Import for Generative AI (if still using `generativeai`)
 # import google.generativeai as genai
@@ -44,7 +44,7 @@ def ai_text(p):
 
 # Get user input for video ID
 #video_id = input("Enter the YouTube video ID: ")
-video_id = input("Enter the YouTube video ID: ")
+video_id = sys.argv[1] if len(sys.argv) > 1 else input("Enter the YouTube video ID: ")
 
 
 
@@ -53,9 +53,8 @@ transcript = get_transcript_without_timestamps(video_id)
 
 if transcript:
   # Prepare the prompt for text generation
-  prompt = transcript + """\nRewrite the transcript above as an article.
+  prompt = transcript + """\nRewrite the transcript above as an article. Use as many words as you need to
   """
-  prompt = transcript + "Summarize the video in an article of 500 words or more."
   # Generate text using your chosen library (replace `ai_text` if needed)
   article_text = ai_text(prompt)
 
