@@ -19,4 +19,4 @@ A foreign policy statement declaring that:
 * **Had little impact at the time** as the U.S. lacked the military strength to enforce it. Its significance grew later in the 19th century as the U.S. became a stronger nation. 
 * **Remains a cornerstone of U.S. foreign policy today**, though its interpretation and application have evolved over time. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

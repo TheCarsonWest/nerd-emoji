@@ -16,4 +16,4 @@ A series of four laws passed by the Federalist-controlled Congress:
 * **Raised important questions about the balance between national security and individual liberties:**  These questions continue to be debated in the U.S. today.
 * **The [[Kentucky]] and [[Virginia]] Resolutions:**  These resolutions, secretly authored by Jefferson and Madison, argued that states had the right to nullify federal laws they deemed unconstitutional, laying the groundwork for future sectional conflicts. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

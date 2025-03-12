@@ -13,4 +13,4 @@ A group that aimed to relocate free Black Americans to the continent of Africa. 
 * **Had lasting impact:** Liberia's existence as a nation today is a direct result of the [[American Colonization Society]]'s actions. 
 * **Reflected complexities of the period:** The Society represents the complex and often contradictory attitudes towards race and slavery in the antebellum [[United States]]. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

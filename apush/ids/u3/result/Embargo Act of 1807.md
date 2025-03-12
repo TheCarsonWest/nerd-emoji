@@ -11,4 +11,4 @@ An act that prohibited American ships from sailing to any foreign port. This was
 * **Demonstrated the limits of peaceful coercion:** Showed that economic pressure alone was insufficient to protect American interests on the high seas.
 * **Spurred domestic industrial growth:** Forced the U.S. to become more self-sufficient by encouraging the growth of domestic manufacturing, though on a limited scale. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

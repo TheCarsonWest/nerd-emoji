@@ -18,4 +18,4 @@ The [[Election of 1824]] was the first contested presidential election in US his
 * **"Corrupt Bargain" Controversy:** Jackson's supporters accused Adams and Clay of a "corrupt bargain," claiming Clay had swayed the House vote in exchange for a position in Adams' administration. This controversy fueled Jackson's future political campaigns and helped define the political landscape for years to come.
 * **Shift in Power Dynamics:** The election highlighted the increasing importance of popular support and the potential for future conflicts between the executive and legislative branches of government. It also set a precedent for contested elections and the potential for power shifts within the party system. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

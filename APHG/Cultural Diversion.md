@@ -1,4 +1,4 @@
-# [[Unit 3]]
+# [[APHG Unit 3]]
 
 Here are some key concepts that are relevant to understanding cultural divergence, explained briefly:
 

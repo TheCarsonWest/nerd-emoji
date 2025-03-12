@@ -11,4 +11,4 @@ A letter published in newspapers, announcing [[Washington]]'s decision not to se
 * **Advocacy for Neutrality in Foreign Affairs:** Emphasized avoiding "entangling alliances" with European powers, advocating for a focus on domestic issues and neutrality in foreign conflicts. This shaped early American foreign policy.
 * **Cements [[Washington]]'s Legacy:** Solidified his image as a selfless leader devoted to the republic's success. His warnings about national unity and foreign entanglements continue to resonate in American political discourse. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

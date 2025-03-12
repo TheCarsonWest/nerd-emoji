@@ -21,4 +21,4 @@ Key recommendations included:
 * **Contributed to the rise of industrialization:** While not immediately transformative, the report's ideas laid the foundation for the eventual growth of American manufacturing and contributed to the nation's shift from an agrarian to an industrial economy.
 * **Long-term impact:** The debate over tariffs, government support for industry, and infrastructure development continues to resonate in American political and economic discourse today. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]

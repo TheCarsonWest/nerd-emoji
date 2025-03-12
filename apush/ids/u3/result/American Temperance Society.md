@@ -9,4 +9,4 @@ A national organization dedicated to promoting moderation and eventually complet
 - **Political activism:** It spurred a wave of temperance legislation, culminating in the eventual passage of the 18th Amendment (1919) which prohibited the manufacture, sale, and transportation of alcohol, ushering in the era of Prohibition.
 - **Foundation for other reform movements:** The ATS served as a model for later social reform organizations, particularly those focused on public health and morality, and provided women with a platform for social activism. 
 
-# [[IDS [[Unit 3]]
+# [[IDS Unit 3]]
