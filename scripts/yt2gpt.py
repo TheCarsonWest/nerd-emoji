@@ -2,7 +2,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import google.generativeai as genai
 import time
 import sys
-
+import os
 # Import for Generative AI (if still using `generativeai`)
 # import google.generativeai as genai
 # import requests  # This import might already be present
@@ -29,16 +29,16 @@ def get_transcript_without_timestamps(video_id):
 
   return text_transcript
 
-genai.configure(api_key=open('api.txt','r').readline())
-model = genai.GenerativeModel("gemini-2.0-flash")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 
 def ai_text(p):
     try:
         return model.generate_content(p).text
-    except:
+    except Exception as e:
         time.sleep(5)
-        print('eror, waiting')
+        print(e)
         return ai_text(p)
 
 
