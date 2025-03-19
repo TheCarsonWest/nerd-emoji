@@ -3,9 +3,9 @@
 ## WHEN: 1942-1946 (Peak Activity: 1942-1945)
 
 ## WHO:
-*   **Key Scientists:** [[J]]. Robert Oppenheimer (scientific director), Enrico Fermi, Leo Szilard, Albert Einstein (wrote letter urging action)
+*   **Key Scientists:** [[J. Robert Oppenheimer]] (scientific director), Enrico Fermi, Leo Szilard, Albert Einstein (wrote letter urging action)
 *   **Military Leadership:** General Leslie Groves (military director)
-*   **Government:** President [[Franklin D. Roosevelt]], President [[Harry S]]. Truman
+*   **Government:** President [[Franklin D. Roosevelt]], President [[Harry S. Truman]]
 *   **Participating Nations:** [[United States]], United Kingdom, Canada
 
 ## WHAT:

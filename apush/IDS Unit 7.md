@@ -23,7 +23,7 @@
 23. [[Model T]]
 24. [[Speakeasies]]
 25. [[Lend-Lease Act]]
-26. [[Allied Powers]]
+26. [[Allied Powers WWII]]
 27. [[Axis Powers]]
 28. [[Nazism]]
 29. [[Holocaust]]

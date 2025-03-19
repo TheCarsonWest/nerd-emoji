@@ -1,0 +1,24 @@
+Here is my archaic notes on this subject, make them more more and thourough.
+
+- First agricultural reovlution
+	- Neolithic period
+		- Happened in your 5 river valleys
+			- SW Asia
+			- East Asia
+			- South Asia
+			- Africa
+			- America
+	- Thats what carl saucer thinks at least
+	- Involved Animal domestication and plant domestication
+		- Animal: raisign and caring for animals so that they arent wild anymore
+		- Plant: cultivating and such
+- Things where pretty boring just farming for a while
+- Then it shifted after 1492 and the columbian exchange
+	- More different foods means more foods
+- Second Agricultural Revolution
+	- Accompanied industrial revolution
+	- Mechanized everythingn
+	- bunch of tehcbnology
+- Third aggricyultual revoution 
+	- Tries to make famring more efficient and sustainable
+	- GMOs and stuff

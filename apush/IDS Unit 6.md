@@ -43,7 +43,7 @@
 37. [[Triple Alliance]]
 38. [[Triple Entente]]
 39. [[Central Powers]]
-40. [[Allied Powers]]
+40. [[Allied Powers WWII]]
 41. [[Unrestricted Submarine Warfare]]
 42. [[Sinking of the Lusitania]]
 43. [[Sussex Pledge]]

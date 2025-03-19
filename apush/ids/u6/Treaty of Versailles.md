@@ -3,7 +3,7 @@
 ## When: June 28, 1919
 
 ## Who: 
-* **[[Allied Powers]]:** Primarily the "Big Four":  [[United States]] (President [[Woodrow Wilson]]), [[Great Britain]] (David Lloyd George), [[France]] (Georges Clemenceau), and Italy (Vittorio Emanuele Orlando).  Germany was forced to accept the terms.
+* **[[Allied Powers WWII]]:** Primarily the "Big Four":  [[United States]] (President [[Woodrow Wilson]]), [[Great Britain]] (David Lloyd George), [[France]] (Georges Clemenceau), and Italy (Vittorio Emanuele Orlando).  Germany was forced to accept the terms.
 
 ## What: 
 The [[Treaty of Versailles]] formally ended World War I.  It imposed harsh penalties on Germany, including:
