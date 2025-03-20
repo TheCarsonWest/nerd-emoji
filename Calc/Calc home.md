@@ -35,3 +35,6 @@
 ## [[Differential Equations]]
 ## [[Slope Fields]]
 ## [[Separable Equations]]
+# Unit 7: Applications of Integrals
+## [[Average of a function]]
+## [[Movement functions with integrals]]
