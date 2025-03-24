@@ -22,6 +22,6 @@
 *   **Improved Wages and Working Conditions:** Contributed to higher wages, better benefits, and improved working conditions for unionized workers.
 *   **Increased Labor Disputes:** The rise of unions and collective bargaining also led to increased labor disputes and strikes in some industries.
 *   **Shift in Power:** Shifted the balance of power between employers and employees, giving workers a greater voice in the workplace.
-*   **Foundation for Future Labor Law:** Established the foundation for much of modern U.S. labor law.  Remains a cornerstone of labor relations in the [[United States]], albeit with significant amendments over time (such as the Taft-Hartley Act of 1947).
+*   **Foundation for Future Labor Law:** Established the foundation for much of modern U.S. labor law.  Remains a cornerstone of labor relations in the [[United States]], albeit with significant amendments over time (such as the [[Taft-Hartley Act]] of 1947).
 
 # [[IDS Unit 7]]

@@ -34,5 +34,5 @@
 **Impact on the Rest of the Country:**
 
 * [[Utah]]'s role as a Mormon stronghold has influenced the country's religious diversity.
-* The state's nuclear weapons testing program was a significant part of the U.S. Cold War defense strategy.
+* The state's nuclear weapons testing program was a significant part of the U.S. [[Cold War]] defense strategy.
 * [[Utah]]'s high quality of life and economic growth have made it a model for other states.

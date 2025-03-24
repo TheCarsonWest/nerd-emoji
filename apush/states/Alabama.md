@@ -6,19 +6,16 @@
 * 1819-1861: [[Alabama]] admitted as a slave state in 1819; secedes from the Union in 1861
 * 1865: [[Alabama]] readmitted to the Union
 * 1954: Brown v. Board of Education desegregates public schools
-* 1955-1956: Montgomery Bus Boycott
-* 1963: Civil Rights Act of 1963 prohibits racial discrimination
+* 1955-1956: [[Montgomery Bus Boycott]] * 1963: Civil Rights Act of 1963 prohibits racial discrimination
 * 1964: [[Alabama]] legislature refuses to seat duly elected Black members
-* 1965: Selma to Montgomery marches force Voting Rights Act of 1965
-
+* 1965: Selma to Montgomery marches force [[Voting Rights Act of 1965]] 
 **Important Legislation:**
 
 * Articles of Secession (1861)
 * [[Black Codes]] (1865-1877)
 * [[Jim Crow laws]] (post-Reconstruction era)
 * Civil Rights Act of 1963
-* Voting Rights Act of 1965
-
+* [[Voting Rights Act of 1965]] 
 **Important Court Cases:**
 
 * Dred Scott v. Sandford (1857)

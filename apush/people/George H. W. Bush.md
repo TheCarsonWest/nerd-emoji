@@ -20,7 +20,7 @@
 
 **Impact on the Country:**
 
-* **Foreign Policy Legacy:** His leadership during the end of the Cold War and the Gulf War cemented his reputation as a skilled diplomat and commander-in-chief.
+* **Foreign Policy Legacy:** His leadership during the end of the [[Cold War]] and the Gulf War cemented his reputation as a skilled diplomat and commander-in-chief.
 * **Domestic Policy:** Signed important legislation on environmental protection and civil rights, but struggled with economic issues.
 * **Public Perception:** Popular at the end of his presidency due to his handling of the Gulf War, but his approval ratings declined in his final year due to the recession.
 * **Historical Assessment:** Generally regarded as a successful foreign policy president who faced domestic economic challenges and struggled to connect with the American people.

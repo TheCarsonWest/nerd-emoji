@@ -41,9 +41,7 @@ Democrat party: Founded by [[Andrew Jackson]] after he lost to [[John Quincy Ada
 
 * **[[Andrew Jackson]]:** Seventh President, Founded the party.
 * **[[Franklin D. Roosevelt]]]]:** Thirty-second President, architect of the [[New Deal]]
-* **[[Harry S. Truman]]]]:** Thirty-third President, responsible for the Marshall Plan and NATO
-* **[[Lyndon B]]. Johnson]]:** Thirty-sixth President, championed the Civil Rights Act and the Great Society
-* **[[Jimmy Carter]]:** Thirty-ninth President, focused on doing absolutely nothing
+* **[[Harry S. Truman]]]]:** Thirty-third President, responsible for the [[Marshall Plan]] and [[NATO]] * **[[Lyndon B]]. Johnson]]:** Thirty-sixth President, championed the Civil Rights Act and the [[Great Society]] * **[[Jimmy Carter]]:** Thirty-ninth President, focused on doing absolutely nothing
 * **[[Bill Clinton]]:** Forty-second President, focused on rizzing up his interns
 * **[[Barack Obama]]:** Forty-fourth President, first African-American president, focused on dividing the country and blowing up the middle east
 * **[[Joe Biden]]:** Forty-sixth President, focused on taking naps in his [[Delaware]] mansion

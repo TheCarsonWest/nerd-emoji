@@ -6,7 +6,7 @@
 * **1889:** Unassigned Lands of [[Oklahoma]] opened to white settlers, leading to the [[Oklahoma]] Land Run.
 * **1907:** [[Oklahoma]] Territory becomes the 46th state of the Union.
 * **1930s:** Dust Bowl devastates [[Oklahoma]]'s agricultural economy.
-* **1950s and 1960s:** Civil Rights Movement makes significant strides in [[Oklahoma]].
+* **1950s and 1960s:** [[Civil Rights Movement]] makes significant strides in [[Oklahoma]].
 * **1970s and 1980s:** Oil and gas industry booms, leading to economic prosperity.
 * **1992:** [[Oklahoma]] City bombing claims 168 lives and becomes a symbol of domestic terrorism.
 * **2000s and 2010s:** [[Oklahoma]] continues to grapple with economic and social issues, including energy dependence and Native American rights.
@@ -32,6 +32,6 @@
 
 * **Native American History:** [[Oklahoma]] played a significant role in the forced relocation and assimilation of Native American tribes.
 * **Land Rush:** The [[Oklahoma]] Land Run was a pivotal event in American westward expansion.
-* **Civil Rights:** [[Oklahoma]] witnessed important Civil Rights Movement milestones, including the integration of schools and other public spaces.
+* **Civil Rights:** [[Oklahoma]] witnessed important [[Civil Rights Movement]] milestones, including the integration of schools and other public spaces.
 * **Economic Impact:** [[Oklahoma]]'s oil and gas industry has had a major impact on the national energy landscape.
 * **[[Oklahoma]] City Bombing:** The bombing highlighted the dangers of domestic terrorism and led to increased security measures across the country.

@@ -14,7 +14,7 @@ A flourishing of African American artistic and intellectual life during the 1920
 ## IMPACT: Why Significant?:
 
 * **Cultural Impact:** Celebrated African American culture and experience, contributing significantly to American art, music, and literature. Helped define a new Black identity and challenged racial stereotypes.
-* **Political Impact:** Laid the groundwork for the Civil Rights Movement by promoting racial pride, demanding social and political equality, and providing a platform for Black voices.
+* **Political Impact:** Laid the groundwork for the [[Civil Rights Movement]] by promoting racial pride, demanding social and political equality, and providing a platform for Black voices.
 * **Artistic Legacy:** Inspired future generations of African American artists and writers. Influenced subsequent artistic and literary movements.
 * **Increased Awareness:** Raised awareness of the contributions and struggles of African Americans among both Black and white audiences. Helped bridge the racial divide, though significant inequality persisted.
 * **Pan-Africanism:** Further fostered a sense of Pan-Africanism and connection to the African diaspora.

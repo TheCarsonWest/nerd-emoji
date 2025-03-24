@@ -3,7 +3,7 @@
 **Events Associated With:**
 
 * World War II (Supreme Allied Commander)
-* Korean War (Negotiated ceasefire)
+* [[Korean War]] (Negotiated ceasefire)
 
 **Important Legislation Signed:**
 

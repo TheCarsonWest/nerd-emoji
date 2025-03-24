@@ -12,7 +12,7 @@
 - 1912: [[New Mexico]] becomes the 47th state of the [[United States]]
 - 1943: The Manhattan Project begins in Los Alamos, [[New Mexico]]
 - 1945: The [[United States]] drops atomic bombs on Hiroshima and Nagasaki, Japan, ending World War II
-- 1962: The Cuban Missile Crisis brings the world to the brink of nuclear war
+- 1962: The [[Cuban Missile Crisis]] brings the world to the brink of nuclear war
 - 1969: Neil Armstrong and Buzz Aldrin become the first humans to walk on the moon, and their lunar module is named "Eagle" after the state bird of [[New Mexico]]
 
 **Important Legislation**

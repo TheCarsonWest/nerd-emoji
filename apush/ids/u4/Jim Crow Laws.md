@@ -10,7 +10,7 @@ A system of state and local laws enacted in the Southern and some border states 
 ## Impact: Why Significant?:
 * **Perpetuation of Racial Inequality:** Jim Crow laws solidified racial segregation and inequality in the South. They denied African Americans basic rights and opportunities, undermining the gains made during Reconstruction.
 * **Suppression of Black Political Power:** These laws effectively disenfranchise Black voters and prevented them from participating in the political process.
-* **Rise of Civil Rights Movement:**  The enduring injustices of Jim Crow laws fueled the Civil Rights Movement of the mid-20th century, which ultimately led to the passage of landmark legislation like the Civil Rights Act of 1964 and the Voting Rights Act of 1965.
+* **Rise of Civil Rights Movement:**  The enduring injustices of Jim Crow laws fueled the [[Civil Rights Movement]] of the mid-20th century, which ultimately led to the passage of landmark legislation like the [[Civil Rights Act of 1964]] and the Voting Rights Act of 1965.
 * **Long-Lasting Legacy:** Even after the legal dismantling of Jim Crow, its legacy of racial disparities in areas like education, healthcare, and criminal justice continues to impact the [[United States]] today. 
 
 # [[IDS Unit 4]]

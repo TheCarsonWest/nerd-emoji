@@ -15,6 +15,6 @@ A set of principles proposed by the US to ensure equal trade access for all coun
 * **Limited Chinese Sovereignty:** While ostensibly promoting equal access, the policy ultimately undermined China's sovereignty and contributed to its ongoing political instability.
 * **Increased US Involvement in Asia:** Marked a significant step in the US's growing presence and influence in East Asia, laying the groundwork for future interventions and conflicts in the region.  This involvement significantly shaped the development of US foreign policy throughout the 20th century.
 * **Foundation for future conflicts:** The [[Open Door Policy]]'s failure to truly create equal access and its contribution to Chinese instability helped fuel further international competition and tension in the region, ultimately contributing to the rise of Japanese militarism and the Second Sino-Japanese War, events that had significant global consequences.
-* **Precursor to Cold War tensions:** The competition for influence in China, partially fueled by the policy's inherent limitations, laid the foundation for later Cold War competition between the [[United States]] and the Soviet Union in the region.
+* **Precursor to [[Cold War]] tensions:** The competition for influence in China, partially fueled by the policy's inherent limitations, laid the foundation for later [[Cold War]] competition between the [[United States]] and the Soviet Union in the region.
 
 # [[IDS Unit 6]]

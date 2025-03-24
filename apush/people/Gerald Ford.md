@@ -2,8 +2,7 @@
 
 # The only unelected president ever
 * Watergate scandal and Nixon's resignation
-* Vietnam War
-* Economic recession
+* [[Vietnam War]] * Economic recession
 
 **Important Legislation Signed:**
 

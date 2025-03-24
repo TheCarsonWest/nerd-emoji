@@ -25,6 +25,6 @@ A far-right, racist, and antisemitic ideology and political movement that domina
     * **Entry into WWII:** Nazi aggression and the attack on Pearl Harbor prompted the US to enter World War II.
     * **War Production:** The US economy was transformed by the war effort, leading to industrial growth and the end of the [[Great Depression]].
     * **Post-War World Order:** The US emerged as a global superpower after the war, playing a key role in shaping the post-war international order and containing the spread of communism. The lessons learned from the rise of [[Nazism]] influenced the creation of the United Nations and other international organizations aimed at preventing future conflicts and promoting human rights.
-    * **Civil Rights Movement:** The hypocrisy of fighting for freedom abroad while denying rights to African Americans at home fueled the Civil Rights Movement in the US.
+    * **Civil Rights Movement:** The hypocrisy of fighting for freedom abroad while denying rights to African Americans at home fueled the [[Civil Rights Movement]] in the US.
 
 # [[IDS Unit 7]]

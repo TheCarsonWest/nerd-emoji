@@ -17,7 +17,7 @@
 * **1934:** [[California]] passes the **[[California]] Water Project Act**, authorizing the construction of dams and canals to manage water resources.
 * **1942:** Japanese Americans are interned in camps throughout [[California]] during World War II.
 * **1954:** **Brown v. Board of Education** Supreme Court decision outlaws racial segregation in schools, including in [[California]].
-* **1969:** Kent State shootings mark a turning point in the Vietnam War anti-war movement.
+* **1969:** Kent State shootings mark a turning point in the [[Vietnam War]] anti-war movement.
 * **1970s:** [[California]] becomes a major center of the counterculture movement.
 * **1980s:** [[California]] experiences rapid economic growth, fueled by the technology industry.
 * **1994:** Proposition 187, a controversial proposition denying undocumented immigrants access to public benefits, is passed but later overturned by the courts.

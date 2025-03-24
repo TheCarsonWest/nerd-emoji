@@ -15,8 +15,8 @@
 
 * **Whitewater Scandal (1978-1998):** Clinton and his wife, Hillary Clinton, were accused of improper financial dealings related to a real estate investment.
 * **Impeachment (1998):** The Republican-controlled House of Representatives impeached Clinton on charges of perjury and obstruction of justice related to his affair with Monica Lewinsky. He was acquitted by the Senate in 1999.
-* **NATO Expansion (1999):** Clinton approved the expansion of NATO to include several Eastern European countries.
-* **Kosovo War (1999):** Clinton authorized NATO airstrikes against Serbia to stop violence against ethnic Albanians in Kosovo.
+* **NATO Expansion (1999):** Clinton approved the expansion of [[NATO]] to include several Eastern European countries.
+* **Kosovo War (1999):** Clinton authorized [[NATO]] airstrikes against Serbia to stop violence against ethnic Albanians in Kosovo.
 
 **Important Legislation Signed:**
 

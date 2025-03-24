@@ -21,8 +21,7 @@
 * **1865:** [[Nevada]] Legalizes Gambling
 * **1905:** [[Nevada]] Passes [[Pure Food and Drug Act]]
 * **1953:** [[Nevada]] Passes [[Nevada]] Test Site Act
-* **1974:** [[Nevada]] Passes Equal Rights Amendment
-* **1987:** [[Nevada]] Passes [[Nevada]] Gaming Control Act
+* **1974:** [[Nevada]] Passes [[Equal Rights Amendment]] * **1987:** [[Nevada]] Passes [[Nevada]] Gaming Control Act
 * **2019:** [[Nevada]] Passes [[Nevada]] Clean Energy Act
 
 **Important Court Cases:**

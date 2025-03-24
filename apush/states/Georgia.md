@@ -8,8 +8,7 @@
 * **1802:** [[Georgia]] acquires land from the Creek Indians
 * **1861:** [[Georgia]] secedes from the Union
 * **1865:** [[Georgia]] readmitted to the Union
-* **1955:** Martin Luther King, Jr. leads the Montgomery Bus Boycott
-* **1961:** [[Georgia]] ratifies the 24th Amendment, abolishing the poll tax
+* **1955:** Martin Luther King, Jr. leads the [[Montgomery Bus Boycott]] * **1961:** [[Georgia]] ratifies the 24th Amendment, abolishing the poll tax
 * **1972:** Atlanta hosts the Olympic Games
 
 **Important Legislation**
@@ -34,5 +33,5 @@
 **Impact on the Rest of the Country**
 
 * [[Georgia]] has been a major force in the American economy, particularly through its agriculture and manufacturing industries.
-* [[Georgia]]'s role in the Civil Rights Movement has had a profound impact on the nation's history and social policies.
+* [[Georgia]]'s role in the [[Civil Rights Movement]] has had a profound impact on the nation's history and social policies.
 * Atlanta has emerged as a global city and a major cultural hub in the Southeast.

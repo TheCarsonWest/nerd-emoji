@@ -12,8 +12,7 @@
 * **1911:** University of Chicago Law School founded
 * **1942:** Manhattan Project, which developed the atomic bomb, established at the University of Chicago
 * **1968:** Democratic National Convention held in Chicago, marked by violent protests
-* **1977:** [[Illinois]] becomes the first state to ratify the Equal Rights Amendment
-
+* **1977:** [[Illinois]] becomes the first state to ratify the [[Equal Rights Amendment]] 
 **Important Legislation:**
 
 * **1818:** [[Illinois]] Constitution abolished slavery
