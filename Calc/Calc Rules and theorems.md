@@ -8,3 +8,8 @@
 ## [[Extreme Value Theorem]]
 ## [[Rolles Theorem]]
 ## [[Fundamental Theorem of Calculus]]
+# [[Calc home]]
+
+# [[Calc Rules and theorems]]
+
+# [[Calc home]]

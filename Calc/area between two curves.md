@@ -90,4 +90,8 @@ Where $c$ and $d$ are the $y$-coordinates of the intersection points, and $f(y)$
 
 
 
-To find the intersection points of two curves
+To find the intersection points of two curves# [[Calc home]]
+
+# [[area between two curves]]
+
+# [[Calc home]]
