@@ -88,6 +88,6 @@ $$
 
 Where $c$ and $d$ are the $y$-coordinates of the intersection points, and $f(y)$ and $g(y)$ are the functions of $y$.  $f(y)$ is the "right" function and $g(y)$ is the "left" function.
 
-## [[Finding Intersection Points]]
+
 
 To find the intersection points of two curves
