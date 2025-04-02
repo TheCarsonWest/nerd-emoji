@@ -4,5 +4,8 @@
 ## [[Average of a function]]
 ## [[Movement functions with integrals]]
 # [[area between two curves]]
+# [[Volumes With Cross Sections]]
+# [[volumes of revolutions]]
+
 
 # [[Calc home]]
