@@ -1,40 +1,38 @@
-**[[Bill Clinton]] (42nd [[POTUS]], 1993-2001)**
+# [[POTUS]]
+# Bill Clinton: A Rundown
 
-**Political Affiliations:**
-* Democratic Party
+## Overview
 
-**Early Life and Education:**
-* Born William Jefferson Blythe III in Hope, [[Arkansas]] (1946)
-* Graduated from Georgetown University and Yale Law School
+William Jefferson Clinton, often referred to as Bill Clinton, served as the 42nd [[POTUS]] from 1993 to 2001. His presidency was marked by a period of economic prosperity and domestic policy initiatives, but also faced significant controversy and impeachment proceedings.
 
-**Political Career:**
-* Governor of [[Arkansas]] (1979-1981, 1983-1992)
-* [[POTUS]] (1993-2001)
+## Key Events and Policies
 
-**Major Events:**
+*   **1993 - Deficit Reduction:** Clinton's early focus was on reducing the federal budget deficit. He signed the [[Omnibus Budget Reconciliation Act of 1993]], which combined spending cuts and tax increases.
+*   **1993 - North American Free Trade Agreement (NAFTA):** Supported by Clinton, [[NAFTA]] aimed to eliminate trade barriers between the [[United States]], Canada, and Mexico. It proved to be controversial, with supporters claiming economic benefits and opponents raising concerns about job losses and environmental impacts.
+*   **1994 - Crime Bill:** The Violent Crime Control and Law Enforcement Act of 1994 was a comprehensive crime bill that increased funding for law enforcement, expanded prisons, and banned certain assault weapons. It's impacts are debated, with some crediting it for a decline in crime rates and others criticizing its contribution to mass incarceration.
+*   **1994 - Don't Ask, Don't Tell:** Faced with the issue of gays in the military, Clinton implemented the "Don't Ask, Don't Tell" policy. It allowed gay people to serve in the military as long as they kept their sexuality a secret. The policy was eventually repealed in 2011.
+*   **1996 - Welfare Reform:** The Personal Responsibility and Work Opportunity Act of 1996 dramatically reformed the welfare system. It placed time limits on welfare benefits, required recipients to work, and devolved greater control of welfare programs to the states. The long-term effects of this reform remain a subject of debate.
+*   **1998 - Lewinsky Scandal and Impeachment:** Clinton's presidency was significantly impacted by his affair with White House intern Monica Lewinsky. This led to impeachment proceedings in the House of Representatives on charges of perjury and obstruction of justice. He was acquitted by the Senate in 1999.
+*   **1999 - Kosovo Intervention:** Clinton authorized military intervention in Kosovo as part of a NATO effort to stop ethnic cleansing and human rights abuses by Serbian forces.
 
-* **Whitewater Scandal (1978-1998):** Clinton and his wife, Hillary Clinton, were accused of improper financial dealings related to a real estate investment.
-* **Impeachment (1998):** The Republican-controlled House of Representatives impeached Clinton on charges of perjury and obstruction of justice related to his affair with Monica Lewinsky. He was acquitted by the Senate in 1999.
-* **NATO Expansion (1999):** Clinton approved the expansion of [[NATO]] to include several Eastern European countries.
-* **Kosovo War (1999):** Clinton authorized [[NATO]] airstrikes against Serbia to stop violence against ethnic Albanians in Kosovo.
+## Important Legislation Signed
 
-**Important Legislation Signed:**
+*   **Omnibus Budget Reconciliation Act of 1993:** Addressed budget deficit through spending cuts and tax increases.
+*   **North American Free Trade Agreement (NAFTA) Implementation Act:** Implemented [[NAFTA]].
+*   **Violent Crime Control and Law Enforcement Act of 1994:** Addressed crime with increased funding for law enforcement and prisons.
+*   **Personal Responsibility and Work Opportunity Act of 1996:** Reformed the welfare system.
+*   **Defense of Marriage Act (DOMA) (1996):** Defined marriage as between one man and one woman for federal purposes (later ruled unconstitutional).
+*   **Gramm-Leach-Bliley Act (1999):** Repealed parts of the Glass-Steagall Act, leading to financial deregulation.
 
-* **Family and Medical Leave Act (1993):** Provided unpaid leave to employees for family or medical reasons.
-* **North American Free Trade Agreement (NAFTA) (1993):** Created a free trade zone between the [[United States]], Canada, and Mexico.
-* **Violent Crime Control and Law Enforcement Act (1994):** Imposed tougher penalties for crimes and funded more police officers.
-* **Personal Responsibility and Work Opportunity Reconciliation Act (1996):** Reformed welfare programs by limiting benefits and requiring work requirements.
+## Groups and Associations
 
-**Groups Affiliated With:**
+*   **[[Democrats]]:** Clinton was a prominent member of the [[Democrats]] Party.
+*   **New Democrat/Third Way:** He embraced a more centrist approach to Democratic politics known as the "New Democrat" or "Third Way."
 
-* Democratic National Committee
-* Council on Foreign Relations
-* Trilateral Commission
+## Impact on the Country
 
-**Impact on the Country:**
-
-* Oversaw a period of economic growth and low unemployment known as the "Clinton Boom."
-* Strengthened the [[United States]]' role in international affairs, particularly in promoting democracy and human rights.
-* Increased access to healthcare through the expansion of Medicaid and the creation of the State Children's Health Insurance Program (SCHIP).
-* Signed into law legislation that led to the welfare reform and mass incarceration of the 1990s and 2000s.
-# [[APUSH people]]
+*   **Economic Prosperity:** Clinton's presidency coincided with a period of significant economic growth, low unemployment, and a balanced budget.
+*   **Welfare Reform:** The lasting impacts of welfare reform are debated, with some arguing it reduced dependency on government assistance and others pointing to increased poverty and inequality.
+*   **Globalization:** Clinton's support for [[NAFTA]] and other trade agreements contributed to the ongoing process of globalization and its complex effects on the [[United States]] economy and society.
+*   **Political Polarization:** The impeachment proceedings and other controversies surrounding Clinton's presidency contributed to increasing political polarization in the [[United States]].
+*   **Social Issues:** Clinton's "Don't Ask, Don't Tell" policy, while intended as a compromise, faced criticism from both gay rights advocates and social conservatives.

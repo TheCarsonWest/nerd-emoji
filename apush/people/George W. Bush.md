@@ -1,46 +1,35 @@
-**[[George W]]. Bush**
+# [[POTUS]]
+# George W. Bush: AP US History Rundown
 
-**Background:**
+George W. Bush served as the 43rd [[POTUS]] from 2001 to 2009. His presidency was largely defined by the [[September 11th Terrorist Attacks|9/11 terrorist attacks]] and the subsequent "War on Terror."
 
-* Born July 6, 1946, in New Haven, [[Connecticut]]
-* Son of former President [[George H]]. W. Bush
-* Graduated from Yale University and [[Harvard]] Business School
+## Key Events and Associations:
 
-**Political Career:**
+*   **[[Election of 2000]]**: A highly contested election against Al Gore that was ultimately decided by the Supreme Court in *Bush v. Gore*.
+*   **[[September 11th Terrorist Attacks]] (9/11)**: Al-Qaeda terrorists attacked the [[United States]], leading to a significant shift in US foreign and domestic policy.
+*   **War in Afghanistan (2001-2021)**: Initiated in response to 9/11, with the goal of dismantling al-Qaeda and removing the Taliban regime from power.
+*   **Invasion of Iraq (2003)**: Launched under the premise that Iraq possessed [[Weapons of Mass Destruction (WMD)|WMDs]] and had links to terrorism.
+*   **Hurricane Katrina (2005)**: A major natural disaster that exposed weaknesses in disaster response and federal emergency management.
+*   **[[Great Recession]] (2008)**: A severe economic downturn that began in 2008 and had a significant impact on the global economy.
 
-* Elected Governor of [[Texas]] in 1994 and reelected in 1998
-* Elected [[POTUS]] in 2000 after a close and controversial election
-* Reelected in 2004
+## Important Legislation Signed:
 
-**Major Events:**
+*   **[[No Child Left Behind Act]] (2002)**: A comprehensive education reform bill that aimed to improve educational standards and accountability.
+*   **[[Patriot Act]] (2001)**: Passed in response to the 9/11 attacks, it expanded the surveillance powers of the government in the name of national security.
+*   **Medicare Part D (2003)**: Added a prescription drug benefit to [[Medicare and Medicaid]].
+*   **Economic Growth and Tax Relief Reconciliation Act of 2001 (Bush Tax Cuts)**: Significant tax cuts, primarily benefiting wealthier Americans.
+*   **American Recovery and Reinvestment Act of 2009**: A stimulus package enacted in response to the [[Great Recession]]; signed into law near the end of Bush's term, but formulated during it.
 
-* **September 11, 2001 Terrorist Attacks:** Launched the "War on Terror," including the invasion of Afghanistan and Iraq.
-* **No Child Left Behind Act (2001):** Aimed to improve education standards nationwide.
-* **USA PATRIOT Act (2001):** Expanded government surveillance powers in the name of national security.
-* **Medicare Prescription Drug, Improvement, and Modernization Act (2003):** Created a prescription drug benefit for Medicare beneficiaries.
+## Groups and Affiliations:
 
-**Foreign Policy:**
+*   **[[Republican Party]]**: A member of the [[Republican Party]]
+*   **"Compassionate Conservatism"**: A political philosophy that sought to combine conservative principles with social compassion.
+*   **Neo-Conservatives**: Individuals within the Bush administration who advocated for an assertive foreign policy and the promotion of democracy abroad.
 
-* Implemented the "Bush Doctrine," which advocated for preemptive military action against potential threats.
-* Invaded Iraq in 2003, claiming it possessed weapons of mass destruction (WMDs).
-* Enhanced security measures at airports and other transportation hubs.
+## Impact on the Country:
 
-**Domestic Policy:**
-
-* **Tax cuts:** Signed major tax cuts in 2001 and 2003, primarily benefiting wealthy Americans.
-* **Education reform:** Promoted charter schools and merit pay for teachers.
-* **Health care:** Proposed reforms but did not achieve significant legislation.
-
-**Groups and Affiliations:**
-
-* Republican Party
-* Council on Foreign Relations
-* Yale University
-* [[Harvard]] Business School
-
-**Impact:**
-
-* His presidency was largely defined by the transformative events of 9/11 and the subsequent wars in Afghanistan and Iraq.
-* His policies on education, taxation, and health care had significant impacts on American society.
-* His legacy remains controversial, with his supporters praising his leadership during times of crisis and his critics criticizing his foreign policy decisions and domestic policies.
-# [[APUSH people]]
+*   **Increased National Debt**: The wars in Afghanistan and Iraq, along with tax cuts, led to a significant increase in the national debt.
+*   **Enhanced Security Measures**: The 9/11 attacks resulted in increased security measures at airports, borders, and other public spaces.
+*   **Polarized Political Climate**: The Bush administration's policies and the wars in Afghanistan and Iraq led to a more polarized political climate in the [[United States]].
+*   **War on Terror**: The "War on Terror" reshaped US foreign policy and led to military interventions in multiple countries.
+*   **Housing Market Crisis**: Deregulation and lax oversight of the financial industry contributed to the [[Great Recession]] and a major housing market collapse.

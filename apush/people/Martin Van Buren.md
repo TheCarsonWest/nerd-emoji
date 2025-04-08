@@ -1,31 +1,33 @@
-**[[Martin Van Buren]] (1782-1862)**
+# [[POTUS]]
+# Martin Van Buren: AP US History Rundown
 
-**Events and Policies:**
+## Overview
 
-* **[[Election of 1828]]:** Van Buren, as [[Andrew Jackson]]'s running mate, helped secure Jackson's victory.
-* **Jacksonian Era:** Van Buren served as Jackson's Secretary of State from 1829-1831 and Vice President from 1833-1837.
-* **Specie Circular (1836):** As Treasury Secretary under Jackson, Van Buren issued the Specie Circular, which required the payment of public lands to be made in gold or silver, contributing to the Panic of 1837.
-* **Independent Treasury System (1840):** As President, Van Buren established the Independent Treasury System, separating government funds from private banks.
+Martin Van Buren (1782-1862) was the eighth [[POTUS]], serving from 1837 to 1841. A key figure in the development of the Democratic Party, his presidency was largely defined by the economic crisis known as the [[Panic of 1837]].
 
-**Important Legislation Signed:**
+## Key Events and Associations
 
-* Independent Treasury Act (1840)
+*   **[[Election of 1828]]**: Van Buren played a significant role in organizing Andrew Jackson's successful campaign, solidifying his position as a leading Democrat.
+*   **Secretary of State (1829-1831)**: Served under President [[Andrew Jackson]], further strengthening his political influence. He helped navigate the Eaton Affair and other challenges.
+*   **Vice President (1833-1837)**: Served as Jackson's Vice President during his second term.
+*   **[[Panic of 1837]]**: A major economic depression that began shortly after he took office and plagued his entire presidency. It was caused by a combination of factors, including Jackson's policies regarding the national bank and speculation in western lands.
+*   **Independent Treasury Act (1840)**: Established an independent treasury system to manage government funds, separating them from private banks.
+*   **Aroostook War (1838-1839)**: A border dispute between Maine and [[Great Britain]] (Canada) that Van Buren helped to resolve peacefully through negotiation.
+*   **Amistad Case (1839)**: Dealt with the legal and diplomatic ramifications of the *Amistad* slave ship rebellion.
 
-**Groups and Affiliations:**
+## Important Legislation and Actions
 
-* Democratic-Republican Party
-* "Albany Regency" ([[New York]] political faction)
+*   **Independent Treasury Act (1840)**: This was Van Buren's major legislative achievement. It created a system where the government kept its funds in its own vaults, rather than depositing them in private or state banks. This was intended to stabilize the economy and prevent speculation.
 
-**Impact on the Country:**
+## Groups and Affiliations
 
-* **Expansion of Democracy:** Van Buren supported universal white male suffrage and the expansion of democracy, aligning with Jackson's "common man" ideology.
-* **Economic Impact:** The Independent Treasury System helped stabilize the economy after the Panic of 1837.
-* **Political Leadership:** Van Buren was a skilled politician and served in various high-level positions, contributing to the development of the [[Democrats]].
-* **Slavery:** Van Buren was a moderate on slavery, believing it should be confined to the South.
+*   **[[Democrats]]**: Van Buren was a key architect of the Democratic Party, working with [[Andrew Jackson]] to build a national political organization.
+*   **Albany Regency**: A powerful political machine in New York State that Van Buren helped to establish and lead. It used patronage and organization to maintain control over state politics.
+*   **Free Soil Party (1848)**: He ran for president as a candidate for the Free Soil Party.
 
-**Additional Notes:**
+## Impact on the Country
 
-* Van Buren was the first native-born president to not speak English as a first language (Dutch).
-* He is known as the "Sage of Kinderhook" for his political wisdom and experience.
-* Van Buren lost his bid for reelection in 1840 to [[William Henry Harrison]], marking the end of the Jacksonian Era.
-# [[APUSH people]]
+*   **Development of the Democratic Party**: Van Buren's organizational skills and political acumen were crucial in shaping the Democratic Party into a modern political force.
+*   **Response to the Panic of 1837**: His response to the economic crisis was controversial and largely ineffective. While the Independent Treasury Act aimed to stabilize the financial system, it did little to alleviate the immediate suffering caused by the depression.
+*   **Preservation of Peace**: Successfully avoided war with [[Great Britain]] over the Aroostook War through diplomacy and negotiation.
+*   **Anti-Slavery Stance**: While not an abolitionist, Van Buren's later affiliation with the Free Soil Party demonstrated a growing concern over the expansion of slavery.

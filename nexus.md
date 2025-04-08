@@ -7,11 +7,9 @@ node_size: "100"
 
 # [[APHG Home]]
 # [[APUSH Home]]
-
 # [[APCHEM Home]]
-
 # [[Python 1 Home]]
-# [[AP English [[Language]] and Composition]]
+# [[AP English Language and Composition]]
 
 # [[Calc home]]
 

@@ -21,7 +21,7 @@
   "context": {
     "customInstructEnabled": true,
     "includeClipboard": true,
-    "customInstruct": "Title: {{title}}\n  \nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}",
+    "customInstruct": "Title: {{title}}\n  \t  \n{{tg_selection}}",
     "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
   },
   "requestTimeout": 300000,

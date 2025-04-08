@@ -1,6 +1,4 @@
-Explain Von Thunen's Model, explain products from each circle,
- and why the circle is where it is based on its land and trnasportation requirements
-
+# [[APHG Unit 5 Agriculture]]
 
 Okay, here's an explanation of Von Thunen's Model, focusing on the key aspects you've starred:
 

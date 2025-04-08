@@ -7,6 +7,7 @@
 ## [[Water as an Acid and Base]]
 # [[pH and pOH]]
 # [[Ionic product of water Kw]]
+# [[protonation and deprotonation]]
 **Definition:**
 
 * **Arrhenius Acid:** Produces $H^+$ ions (protons) in aqueous solution.  Example: $HCl \rightarrow H^+ + Cl^-$

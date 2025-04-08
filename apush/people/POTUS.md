@@ -1,3 +1,4 @@
+# [[APUSH people]]
 # Presidents
 
 - [[George Washington]] (1789–1797)
@@ -44,9 +45,8 @@
 - [[Bill Clinton]] (1993–2001)
 - [[George W. Bush]] (2001–2009)
 - [[Barack Obama]] (2009–2017)
-- [[Donald Trump]] (2017–2021)
+- [[Donald Trump]] (2017–2021, 2025-2029)
 - [[Joe Biden]] (2021–2025)
-- [[Donald Trump]] (2025-2029) (non-consecutive term)
 
 
 # [[APUSH people]]

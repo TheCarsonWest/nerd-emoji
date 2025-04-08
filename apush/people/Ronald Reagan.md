@@ -1,41 +1,38 @@
-**[[Ronald Reagan]] (1981-1989)**
+# [[POTUS]]
+# Ronald Reagan: AP [[United States]] History Rundown
 
-**Events Associated With:**
+Ronald Reagan (1911-2004) served as the 40th President of the [[United States]] from 1981 to 1989. A former actor and Governor of California, Reagan ushered in a conservative resurgence in American politics, marked by supply-side economics, a strong stance against the Soviet Union, and a renewed sense of national pride.
 
-* [[Cold War]] * Iran-Contra Affair
-* Reaganomics
-* Tax Reform Act of 1986
-* Strategic Arms Limitation Treaty (SALT II)
-* Fall of the Berlin Wall
+## Key Events and Associations:
 
-**Important Legislation Signed:**
+*   **Actor and Spokesperson:** Before entering politics, Reagan was a successful Hollywood actor, starring in numerous films. He later served as the spokesperson for General Electric, which exposed him to a wider audience and honed his communication skills.
+*   **Governor of California (1967-1975):** Reagan's governorship provided him with executive experience and a platform to promote his conservative ideology. He focused on cutting government spending, controlling welfare programs, and cracking down on student protests.
+*   **1980 Presidential Election:** Reagan defeated incumbent [[Jimmy Carter]] in a landslide victory, capitalizing on economic woes ([Stagflation]) and a perceived decline in American power and prestige.
+*   **[[Iran-Contra Affair]]:** A major scandal during Reagan's second term involving the secret sale of arms to Iran in exchange for the release of American hostages, with profits diverted to fund the Contras in Nicaragua. This damaged Reagan's reputation, though he maintained he was unaware of the illegal activities.
+*   **End of the [[Cold War]]:** Reagan's strong rhetoric and military buildup put pressure on the Soviet Union, contributing to its eventual collapse. He famously challenged Soviet leader Mikhail Gorbachev to "tear down this wall" (the Berlin Wall).
+*   **Assassination Attempt:** In 1981, Reagan survived an assassination attempt by John Hinckley Jr., which garnered him public sympathy and boosted his popularity.
 
-* **Economic Recovery Tax Act of 1981:** Introduced tax cuts, increased military spending, and implemented deregulation.
-* **Tax Reform Act of 1986:** Simplified the tax code, reduced tax rates, and eliminated loopholes.
-* **National Defense Authorization Act for Fiscal Year 1985:** Increased military spending to counter Soviet aggression.
+## Important Legislation and Policies:
 
-**Groups Associated With:**
+*   **[[Reaganomics]] (Supply-Side Economics):** Reagan's economic policy, also known as "supply-side economics" or "trickle-down economics," focused on cutting taxes, reducing government regulation, and controlling inflation.
+    *   **Economic Recovery Tax Act of 1981:** Significantly lowered income tax rates, aiming to stimulate economic growth by incentivizing investment and production.
+*   **Military Buildup:** Reagan oversaw a significant increase in military spending, particularly during the early years of his presidency, to challenge the Soviet Union and project American power.
+*   **Deregulation:** Reagan's administration pursued deregulation in various industries, believing it would foster competition and economic efficiency.
+*   **Appointment of Conservative Judges:** Reagan appointed several conservative judges to federal courts, including Sandra Day O'Connor, the first female Supreme Court Justice.
+*   **Immigration Reform and Control Act of 1986:** Granted amnesty to undocumented immigrants who had resided in the [[United States]] continuously since January 1, 1982, while also imposing sanctions on employers who knowingly hired undocumented workers.
 
-* Republican Party
-* Conservative Movement
-* National Rifle Association
-* Motion Picture Association of America
+## Groups and Affiliations:
 
-**Impact on the Country:**
+*   [[Republicans]]: Reagan was a staunch Republican and a key figure in the conservative movement.
+*   **Conservative Movement:** Reagan was a leading voice for conservative ideals, advocating for limited government, individual liberty, and traditional values.
+*   **[[Moral Majority]]:** Reagan enjoyed strong support from the Moral Majority, a politically active religious organization that advocated for conservative social policies.
+*   **Anti-Communists:** Reagan was a vocal opponent of communism and adopted a confrontational approach towards the Soviet Union.
 
-**Domestic Policy:**
+## Impact on the Country:
 
-* **Reaganomics:** Pursued economic growth through tax cuts, deregulation, and reduced government spending.
-* **Social Conservatism:** Appointed conservative judges to the Supreme Court, supported the Religious Right, and promoted abstinence-only education.
-* **War on Drugs:** Increased law enforcement efforts and imposed harsher penalties for drug offenses.
-
-**Foreign Policy:**
-
-* **Cold War:** Took a hard line against the Soviet Union, increased military spending, and supported anti-communist movements worldwide.
-* **Iran-Contra Affair:** Secretly sold arms to Iran and diverted profits to fund Nicaraguan rebels, violating US laws.
-* **Berlin Wall:** Challenged Soviet leader Mikhail Gorbachev to "tear down this wall," which symbolically represented the end of the Cold War.
-
-**Legacy:**
-
-Reagan is remembered as a polarizing figure who had a significant impact on American society and politics. He is credited with revitalizing the American economy, strengthening the military, and standing up to Soviet aggression. However, his policies also led to increased income inequality, the escalation of the War on Drugs, and the Iran-Contra scandal.
-# [[APUSH people]]
+*   **Conservative Resurgence:** Reagan's presidency marked a shift towards conservative politics and policies in the [[United States]].
+*   **Economic Transformation:** "[[Reaganomics]]" led to a period of economic growth but also increased income inequality.
+*   **End of the [[Cold War]]:** Reagan's assertive foreign policy and military buildup are credited with contributing to the collapse of the Soviet Union and the end of the [[Cold War]].
+*   **Increased National Pride:** Reagan's optimistic and patriotic rhetoric helped to restore a sense of national pride and confidence in America.
+*   **Growth of the National Debt:** Despite efforts to control government spending, the national debt grew significantly during Reagan's presidency due to tax cuts and increased military spending.
+*   **Shift in Political Landscape:** Reagan's success helped to solidify the Republican Party's dominance in American politics for much of the late 20th and early 21st centuries.

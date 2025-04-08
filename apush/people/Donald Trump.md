@@ -1,48 +1,36 @@
-**[[Donald Trump]]** (born June 14, 1946) served as the 45th [[POTUS]] from 2017 to 2021, and as the 47th [[POTUS]] from 2025 to 2029.
+# [[POTUS]]
+# Donald Trump: An AP [[United States]] History Rundown
 
-**Events Associated**
+Donald John Trump served as the 45th [[POTUS]] of the [[United States]], from 2017 to 2021. His presidency was marked by significant policy changes, controversies, and a distinctive communication style.
 
-* **2016 Presidential Election:** Defeated Democratic nominee Hillary Clinton in a surprise upset.
-* **Inauguration:** January 20, 2017
-* **Tax Cuts and Jobs Act of 2017:** Signed into law, significantly reducing corporate and individual taxes.
-* **First Travel Ban:** Implemented a 90-day ban on travel from several Muslim-majority countries.
-* **Withdrawal from the Trans-Pacific Partnership:** Announced the withdrawal of the [[United States]] from the trade agreement.
-* **Withdrawal from the [[Paris Agreement]]:** Withdrew the [[United States]] from the international climate change agreement.
-* **[[NAFTA]] Renegotiation:** Negotiated a new trade agreement with Mexico and Canada, known as the [[United States]]-Mexico-Canada Agreement (USMCA).
-* **Recognition of Jerusalem as Israel's Capital:** Recognized Jerusalem as the capital of Israel and promised to move the U.S. embassy there.
-* **COVID-19 Pandemic:** Declared a national emergency due to the COVID-19 pandemic in 2020.
-* **2021 Presidential Election:** Lost the election to Democratic nominee [[Joe Biden]].
-* Jan 6 2021:  'insurrection' 
-* **2024 Presidential Election**: Defeated [[Democrats]] selected candidate and Former Vice President Kamala Harris in a landslide
-	* Became the second president to serve two non-consecutive terms ([[Grover Cleveland]])
-	* cry harder liberals
+## Key Events and Associations:
 
+*   **2016 Presidential Election:** Trump, running as a [[Republicans]], defeated Hillary Clinton in a highly contested election. His campaign focused on issues such as immigration, trade, and national security.
+*   **"America First" Policy:** This overarching theme prioritized domestic concerns and national interests in trade, foreign policy, and immigration.
+*   **Appointment of Conservative Judges:** Trump appointed three Supreme Court justices: Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett, shifting the court's ideological balance to the right.
+*   **Withdrawal from International Agreements:** Trump withdrew the [[United States]] from the [[Paris Accords]] on climate change and the [[Iran nuclear deal]], citing their detrimental impact on the [[United States]].
+*   **Trade Wars:** Trump initiated trade disputes with several countries, including China, imposing tariffs on imported goods.
+*   **Impeachment:** Trump was impeached twice by the House of Representatives. The first impeachment, in 2019, related to his dealings with Ukraine. The second, in 2021, was for incitement of insurrection related to the January 6th Capitol attack. He was acquitted by the Senate both times.
+*   **COVID-19 Pandemic:** Trump's administration faced the challenge of the COVID-19 pandemic, with responses that were both praised and criticized.
 
-**Important Legislation Signed**
+## Important Legislation Signed:
 
-* **Tax Cuts and Jobs Act of 2017:** Lowered taxes for corporations and individuals.
-* **First Step Act:** Reformed the criminal justice system, reducing mandatory minimum sentences for nonviolent drug offenses.
-* **USMCA:** Replaced the North American Free Trade Agreement (NAFTA).
-* **Great American Outdoors Act:** Provided funding for national parks, wildlife refuges, and public lands.
-* **Coronavirus Aid, Relief, and Economic Security (CARES) Act:** Provided economic relief during the COVID-19 pandemic.
+*   **Tax Cuts and Jobs Act of 2017:** This legislation significantly reduced corporate and individual income taxes.
+*   **First Step Act (2018):** This bipartisan bill aimed at criminal justice reform, reducing sentences and providing opportunities for rehabilitation.
+*   **USMCA (United States-Mexico-Canada Agreement):** Replaced [[NAFTA]], modernizing trade relations between the three countries.
 
-**Groups Associated**
+## Groups and Affiliations:
 
-* **[[Republicans]] Party:** Member since 1987.
-	* formerly a democrat
-* **Trump Organization:** Family-owned real estate company.
-* **Trump Foundation:** Charitable foundation closed in 2018 after allegations of misuse of funds.
-* **Trump Media & Technology Group (TMTG):** Company that launched the social media platform Truth Social.
-	* Stock ticker DJT
+*   **[[Republicans]] Party:** Trump ran and governed as a [[Republicans]], but his policies and style often deviated from traditional Republican orthodoxy.
+*   **Conservative Movement:** He garnered support from many in the conservative movement due to his judicial appointments and stances on social issues.
+*   **Evangelical Christians:** Trump enjoyed strong support from evangelical Christians, particularly due to his conservative social policies and judicial selections.
 
-**Impact on the Country**
+## Impact on the Country:
 
-Trump's presidency was marked by:
-
-* Two failed impeachments
-* **Immigration Policy:** Imposed strict restrictions on immigration, resulting in the separation of families at the border.
-* **Trade Policy:** Adopted a protectionist trade policy, imposing tariffs on imported goods.
-* **Foreign Policy:** Pursued "America First" policies, withdrawing from international agreements and pursuing bilateral deals.
-* **Appointments:** Appointed judges to the federal judiciary, including two Supreme Court Justices.
-* **Economic Policy:** Implemented tax cuts and deregulation, leading to economic growth but also increasing the national debt.
-# [[APUSH people]]
+*   **Polarization:** Trump's presidency exacerbated political divisions in the [[United States]]. His rhetoric and policies often drew strong reactions from both supporters and opponents.
+*   **Economic Policies:** The Tax Cuts and Jobs Act had a significant impact on the economy, leading to debates about its effects on economic growth and income inequality.
+*   **Immigration:** Trump's administration implemented stricter immigration policies, including building a wall on the [[United States]]-Mexico border and implementing a travel ban on several Muslim-majority countries.
+*   **Judicial Appointments:** The appointment of numerous conservative judges at the federal level, including three Supreme Court justices, had a lasting impact on the judiciary.
+*   **Foreign Policy:** Trump's "America First" approach led to shifts in [[United States]] foreign policy, including strained relationships with some allies and a focus on bilateral agreements.
+*   **Social and Cultural Impact:** Trump's rhetoric and policies influenced public discourse on issues such as race, gender, and identity, contributing to ongoing debates about social justice and equality.
+*   **January 6th Capitol Attack:** The attack on the Capitol by Trump supporters seeking to overturn the results of the 2020 election had a profound impact on American democracy, leading to widespread condemnation and calls for accountability.

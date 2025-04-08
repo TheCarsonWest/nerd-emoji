@@ -1,30 +1,37 @@
-**[[Woodrow Wilson]]**
+# [[POTUS]]
+# Woodrow Wilson: A Rundown
 
-**Presidency:** 1913-1921
+## Overview
+Woodrow Wilson (1856-1924) was the 28th [[POTUS]], serving from 1913 to 1921. A leader of the [[Progressivism|Progressive Era]], he oversaw significant domestic reforms and led the [[United States]] during [[Allied Powers WWI|World War I]]. His vision for a peaceful post-war world, embodied in his [[Fourteen Points]] and the [[League of Nations]], profoundly shaped 20th-century international relations.
 
-**Major Events:**
+## Key Events and Associations
 
-* **World War I:** Led the [[United States]] into the war in 1917, aiming to "make the world safe for democracy."
-* **[[apush/ids/u6/Treaty of Versailles]]:** Negotiated the treaty ending World War I, which established the [[apush/ids/u6/League of Nations]].
-* **Russian Revolution:** Sent troops to intervene in the Russian [[Civil War]], opposing the Bolsheviks.
-* **[[apush/ids/u6/Fourteen Points]]:** Articulated a vision for a peaceful world based on self-determination, free trade, and international cooperation.
+*   **Election of 1912:** Wilson won the presidency after a split in the [[Republicans|Republican]] party between incumbent William Howard Taft and [[Teddy Roosevelt (as President)|Theodore Roosevelt]], who ran on the [[Bull Moose Party]] ticket.
+*   **"New Freedom" Domestic Policy:** Wilson's domestic agenda aimed at attacking what he termed the "triple wall of privilege": tariffs, banks, and trusts.
+*   **[[World War I]]:** Initially committed to neutrality, Wilson led the [[United States]] into [[Allied Powers WWI|World War I]] in 1917 following escalating German [[Unrestricted Submarine Warfare]] and the [[Zimmerman Telegram]].
+*   **The Fourteen Points:** In 1918, Wilson articulated his [[Fourteen Points]], a plan for post-war peace and a new world order.
+*   **[[Treaty of Versailles]] and the [[League of Nations]]:** Wilson advocated strongly for the [[League of Nations]] at the Paris Peace Conference in 1919, but the [[United States]] Senate ultimately rejected the [[Treaty of Versailles]] and membership in the [[League of Nations]].
 
-**Important Legislation Signed:**
+## Important Legislation Signed
 
-* **Federal Reserve Act (1913):** Established the Federal Reserve System, which manages the nation's money supply.
-* **Federal Trade Commission Act (1914):** Created the Federal Trade Commission to regulate unfair trade practices.
-* **[[Clayton Antitrust Act]] (1914):** Strengthened antitrust laws to prevent monopolies.
-* **Espionage Act (1917):** Limited free speech during wartime.
+*   **Underwood Tariff Act (1913):** Significantly lowered tariff rates, fulfilling a key campaign promise.
+*   **Federal Reserve Act (1913):** Established the Federal Reserve System, creating a more stable and flexible monetary system for the [[United States]]. [[Federal Reserve Act]]
+*   **[[Clayton Antitrust Act]] (1914):** Strengthened antitrust laws and protected labor unions from being classified as trusts.
+*   **Federal Trade Commission Act (1914):** Created the Federal Trade Commission (FTC) to investigate and prevent unfair business practices.
+*   **Keating-Owen Act (1916):** Prohibited the interstate sale of goods produced by factories employing children under 14; later declared unconstitutional by the Supreme Court.
+*   **Adamson Act (1916):** Established an eight-hour workday for railroad workers.
 
-**Groups:**
+## Groups and Affiliations
 
-* **[[Democrats]]:** Wilson was a prominent member of the [[Democrats]] and its leader during his presidency.
-* **Progressive Movement:** Wilson embraced progressive ideals, such as social justice, economic reform, and expanded government regulation.
-* **[[apush/ids/u6/League of Nations]]:** Wilson was a driving force behind the creation of the [[apush/ids/u6/League of Nations]], an international organization aimed at preventing war.
+*   **[[Democrats|Democratic Party]]:** Wilson was a staunch Democrat and progressive reformer.
+*   **Progressive Movement:** He embraced many goals of the [[Progressivism|Progressive Movement]], seeking to regulate business, protect consumers, and improve social conditions.
+*   **Academic Career:** Prior to entering politics, Wilson was a professor and president of Princeton University.
 
-**Impact on the Country:**
+## Impact on the Country
 
-* **Domestic Policies:** Wilson's progressive policies had a significant impact on the American economy and society, including the establishment of minimum wage laws, child labor laws, and expanded educational opportunities.
-* **Foreign Policy:** Wilson's idealism shaped American foreign policy, leading to the nation's involvement in World War I and the creation of the [[apush/ids/u6/League of Nations]].
-* **Legacy:** Wilson is remembered as a complex and influential figure. His domestic reforms and foreign policy initiatives left a lasting mark on American history, despite the setbacks encountered in his later years.
-# [[APUSH people]]
+*   **Economic Reforms:** The Federal Reserve Act and the [[Clayton Antitrust Act]] significantly reshaped the [[United States]] economy, increasing government oversight and regulation.
+*   **Progressive Reforms:** Wilson's administration advanced numerous [[Progressivism|Progressive]] causes, including lower tariffs, improved labor conditions, and greater consumer protection.
+*   **World War I Leadership:** Wilson's leadership during [[Allied Powers WWI|World War I]] transformed the [[United States]] into a major global power.
+*   **Vision for International Peace:** His [[Fourteen Points]] and advocacy for the [[League of Nations]] laid the groundwork for future international cooperation, even though the [[United States]] ultimately did not join the [[League of Nations]].
+*   **Increased Presidential Power:** Wilson expanded the role of the presidency through his active legislative agenda and wartime leadership, setting a precedent for future presidents.
+*   **Racial Segregation:** Wilson's record on race relations is controversial. While a [[Progressivism|Progressive]] in many respects, his administration oversaw the segregation of federal workplaces and he expressed views that were consistent with the racial biases of the time.

@@ -1,29 +1,28 @@
-**[[Calvin Coolidge]]**
+# [[POTUS]]
+# Calvin Coolidge: A Rundown
 
-**Overview:**
-[[Calvin Coolidge]] served as the 30th [[POTUS]] from 1923-1929. A Republican, he is known for his frugal policies, pro-business stance, and quiet demeanor.
+Calvin Coolidge, the 30th [[POTUS]], served from 1923 to 1929. Known as "Silent Cal," his presidency was marked by a commitment to limited government and fiscal conservatism during the prosperous [[Roaring 20s]].
 
-**Events Associated with Coolidge:**
+## Key Events and Associations:
 
-* **Boston Police Strike (1919):** As Governor of [[Massachusetts]], Coolidge supported the police during a strike and deployed the National Guard to break it up.
-* **Teapot Dome Scandal (1923-1924):** Coolidge's administration was investigated for corruption, but he was not personally implicated.
+*   **Becoming President:** Coolidge ascended to the presidency upon the sudden death of [[Warren G. Harding]] in August 1923. He was sworn in by his father, a notary public, in the middle of the night.
+*   **Election of 1924:** Coolidge won a landslide victory in the [[Election of 1924]], running on a platform of continued prosperity and "[[Rugged Individualism]]".
+*   **Roaring Twenties Prosperity:** Coolidge presided over a period of significant economic growth and consumerism. His policies aimed to foster a business-friendly environment.
+*   **Kellogg-Briand Pact (1928):** While not directly involved in its creation, Coolidge signed the Kellogg-Briand Pact, an international agreement that outlawed war. It was largely symbolic.
 
-**Important Legislation Signed:**
+## Important Legislation:
 
-* **Fordney-McCumber Tariff (1922):** Raised tariffs on imported goods to protect American businesses.
-* **Revenue Act of 1924:** Reduced taxes, primarily for wealthy Americans and corporations.
-* **Immigration Act of 1924:** Restricted immigration from Southern and Eastern Europe and Asia.
+*   **Revenue Acts of 1924 and 1926:** These acts significantly reduced income tax rates, especially for the wealthy. Coolidge and Secretary of the Treasury Andrew Mellon believed lower taxes would stimulate the economy. They are often credited with contributing to the rapid economic growth of the mid-1920s.
 
-**Groups Coolidge Was a Part Of:**
+## Groups and Affiliations:
 
-* **Republican Party**
-* **Freemasons**
+*   **[[Republicans]]:** Coolidge was a staunch Republican. He exemplified the conservative wing of the party, advocating for limited government spending and lower taxes.
+*   **Lawyer:** Coolidge was a successful Lawyer prior to his career in politics
 
-**Impact on the Country:**
+## Impact on the [[United States]]:
 
-* **Economic Prosperity:** Coolidge's policies promoted a period of economic growth and stability known as the "Coolidge Bull Market."
-* **Limited Government:** Coolidge believed in laissez-faire economics and limited government intervention in the economy.
-* **Conservative Values:** Coolidge promoted traditional conservative values, such as low taxes, a balanced budget, and a strong military.
-* **Silent Cal:** Coolidge was known for his taciturn nature and reluctance to speak publicly. This contributed to his image as a quiet and reserved leader.
-* **Political Legacy:** Coolidge's presidency is often viewed positively for its economic prosperity. However, his limited government approach and conservative policies have been criticized as exacerbating economic inequality and social problems.
-# [[APUSH people]]
+*   **Economic Growth:** Coolidge's policies fostered an environment of economic prosperity. The stock market boomed, and wages rose for many Americans. However, this prosperity was unevenly distributed, and agricultural problems persisted.
+*   **Reduced Government Debt:** Coolidge was committed to reducing the national debt, and he succeeded in lowering it during his presidency.
+*   **Laissez-Faire Economics:** Coolidge's belief in minimal government intervention in the economy is a hallmark of his presidency. This approach, while contributing to growth, also arguably contributed to the conditions that led to the [[Great Depression]].
+*   **"The business of America is business":** This famous quote encapsulates Coolidge's philosophy and the spirit of the [[Roaring 20s]]. It reflects his conviction that the government should support business and economic activity.
+*   **Legacy:** Coolidge is often viewed as a symbol of fiscal conservatism and limited government. While his policies are credited with fostering economic growth in the 1920s, some historians argue that they also contributed to the economic instability that led to the [[Stock Market Crash of 1929]] and the [[Great Depression]]. His emphasis on tax cuts and deregulation is still debated today.

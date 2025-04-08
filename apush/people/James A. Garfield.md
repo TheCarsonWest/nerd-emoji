@@ -1,35 +1,28 @@
-**[[James A]]. Garfield**
+# [[POTUS]]
+# James A. Garfield: A Rundown for AP [[United States]] History
 
-**Early Life and Career:**
+James A. Garfield was the 20th President of the [[United States]], serving only a few months in 1881 before his assassination. His life was one of impressive academic and military achievement, cut tragically short.
 
-* Born on November 19, 1831, in Moreland Hills, [[Ohio]]
-* Attended Hiram College and Western Reserve College
-* Served as a Union general in the [[Civil War]] 
-**Political Career:**
+## Events Associated With
 
-* Elected to the U.S. House of Representatives in 1863
-* Served as Speaker of the House from 1877 to 1879
-* Elected [[POTUS]] in 1880
+*   **[[Civil War]]**: Garfield served as a Union general during the [[Civil War]], participating in several key battles, including Chickamauga.
+*   **Credit Mobilier Scandal**: While Garfield was never directly implicated, his association with individuals involved in the scandal tarnished his reputation. The Credit Mobilier scandal was a major political scandal involving the Union Pacific Railroad and the Credit Mobilier of America construction company. It involved bribery of congressmen to cover up fraudulent activities.
+*   **Election of 1880**: Garfield won a close election against Democrat Winfield Scott Hancock. The election was highly contested, particularly concerning economic and racial issues.
+*   **Assassination**: Garfield's presidency was tragically cut short when he was shot by a disgruntled office seeker, Charles Guiteau, in July 1881. He died several weeks later from infection related to the wound.
 
-**Events Associated with Garfield:**
+## Important Legislation
 
-* Crédit Mobilier Scandal (1872)
-* Resumption Act (1875)
-* Star Route Scandal (1881)
+*   Garfield's short tenure meant that he signed relatively few pieces of legislation. However, he advocated for civil service reform and sought to reduce the national debt.
+*   **Revival of the Navy**: Garfield advocated to rebuild the outdated United States Navy
 
-**Important Legislation Signed:**
+## Groups Affiliations
 
-* Pendleton Civil Service Reform Act (1881)
+*   **[[Republicans]]**: Garfield was a staunch member of the [[Republican]] Party.
+*   **Radical [[Republicans]]**: Garfield was a member of the Radical [[Republicans]] during the [[Civil War]], advocating for the abolition of slavery and the protection of black civil rights.
+*   **Freemasons**: Garfield was a member of the Freemasons.
 
-**Groups He Was a Part Of:**
+## Impact on the Country
 
-* Republican Party
-* Grand Army of the Republic
-
-**Impact on the Country:**
-
-* Garfield's presidency was marked by his efforts to reform the civil service and reduce corruption in government.
-* He signed the Pendleton Civil Service Reform Act, which established a merit-based system for hiring federal employees.
-* However, his presidency was cut short when he was assassinated in 1881, only six months after taking office.
-* Garfield's assassination had a profound impact on the country, leading to increased calls for reform and the passage of the [[Pendleton Act]].
-# [[APUSH people]]
+*   **Civil Service Reform**: Garfield's assassination, fueled by the spoils system, galvanized public opinion in favor of civil service reform. His death ultimately led to the passage of the [[Pendleton Act]], which established a merit-based system for government jobs.
+*   **Symbol of Opportunity**: Garfield's rise from humble beginnings to the presidency represented the American ideal of upward mobility and opportunity. His life story inspired many.
+*   **Legacy of Potential**: Garfield's brief presidency left many wondering what he could have accomplished had he lived longer. His commitment to civil rights and reform suggests that he would have been a significant leader during a critical period in American history.
