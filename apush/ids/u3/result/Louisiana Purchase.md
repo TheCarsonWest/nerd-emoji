@@ -1,4 +1,4 @@
-# ID: [[Louisiana]] Purchase]] 
+# ID: [[Louisiana Purchase]] 
 ## When: April 30, 1803
 
 ## Who: 
