@@ -2,13 +2,16 @@
 node_size: "100"
 ---
 # See [[README]]
+# 2025-2026
+## [[AP Stats Home]]
 
-# [[APHG Home]]
-# [[APUSH Home]]
-# [[APCHEM Home]]
-# [[Python 1 Home]]
+# 2024-2025
+## [[APHG Home]]
+## [[APUSH Home]]
+## [[APCHEM Home]]
+## [[Python 1 Home]]
 
-# [[Calc home]]
+## [[Calc home]]
 
 ### [[arabic vocab lists]]
 
