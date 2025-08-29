@@ -2,10 +2,10 @@
 
 **1. Physical Characteristics:**
 
-* **Size:** Tiny!  Newborn [[kittens]] are typically under 6 inches long and weigh around 3.5 ounces. They grow rapidly, reaching about half their adult size by 6 weeks old.
+* **Size:** Tiny!  Newborn [[scripts/kittens]] are typically under 6 inches long and weigh around 3.5 ounces. They grow rapidly, reaching about half their adult size by 6 weeks old.
 * **Fur:** Soft, downy, and irresistible to touch! Kittens can be born with a variety of coat patterns and colors depending on their breed and parentage.
-* **Eyes:**  Startling blue! All [[kittens]] are born with blue eyes due to a lack of melanin. Their true eye color, which can range from green to gold to copper, will start to emerge around 3-8 weeks of age.
-* **Ears:** Relatively large and set low on the head, giving them that classic "kitten" look. They are highly mobile and help [[kittens]] pinpoint sounds. 
+* **Eyes:**  Startling blue! All [[scripts/kittens]] are born with blue eyes due to a lack of melanin. Their true eye color, which can range from green to gold to copper, will start to emerge around 3-8 weeks of age.
+* **Ears:** Relatively large and set low on the head, giving them that classic "kitten" look. They are highly mobile and help [[scripts/kittens]] pinpoint sounds. 
 * **Tail:**  Short and stubby compared to their adult proportions. Their tails are important for balance and communication.
 
 **2.  Developmental Stages:**
@@ -24,15 +24,15 @@
 
 **4. Caring for Kittens:**
 
-* **Nutrition:**  Mother's milk provides all necessary nutrients for the first few weeks.  Once weaned, [[kittens]] need a diet rich in protein and fat formulated specifically for their growing bodies. 
+* **Nutrition:**  Mother's milk provides all necessary nutrients for the first few weeks.  Once weaned, [[scripts/kittens]] need a diet rich in protein and fat formulated specifically for their growing bodies. 
 * **Litter Box Training:** Typically instinctive. Provide a shallow, easily accessible litter box and keep it clean. 
-* **Socialization and Enrichment:**  Essential for well-rounded adult cats.  Expose [[kittens]] to a variety of sights, sounds, and experiences, including gentle handling by different people. 
+* **Socialization and Enrichment:**  Essential for well-rounded adult cats.  Expose [[scripts/kittens]] to a variety of sights, sounds, and experiences, including gentle handling by different people. 
 * **Veterinary Care:**  Schedule regular checkups, vaccinations, and parasite prevention.  
 
 **5.  Why Kittens Are Cool:**
 
-* **Unparalleled Cuteness:**  From their tiny paws to their playful antics, [[kittens]] radiate an irresistible charm. 
-* **Endless Entertainment:** Watching [[kittens]] play is a joyful experience that never gets old. 
+* **Unparalleled Cuteness:**  From their tiny paws to their playful antics, [[scripts/kittens]] radiate an irresistible charm. 
+* **Endless Entertainment:** Watching [[scripts/kittens]] play is a joyful experience that never gets old. 
 * **Source of Comfort and Companionship:**  The bond between a kitten and their human can be incredibly rewarding. 
 
-In conclusion, [[kittens]] are more than just adorable fluffballs.  They are fascinating creatures with complex needs and behaviors. Understanding these aspects is key to providing them with the love and care they deserve,  ensuring they blossom into happy, healthy cats. 
+In conclusion, [[scripts/kittens]] are more than just adorable fluffballs.  They are fascinating creatures with complex needs and behaviors. Understanding these aspects is key to providing them with the love and care they deserve,  ensuring they blossom into happy, healthy cats. 
