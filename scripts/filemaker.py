@@ -37,14 +37,16 @@ def create_files(file_names, file_extension):
     i = 1
     for name in file_names:
         # Construct the file name with the given extension
-        file_name = f"{name}.{file_extension}"
+        print(name)
+        fixed_name = name.split(":")[1]
+        file_name = f"{fixed_name}.{file_extension}"
 
         # Generate the prompt with clear instructions and context
 
         # Generate the text using the prompt
         
         prompt = f"""
-Make a AP Statistics note page on topic {name} in markdown format:
+Make a AP Physics note page on topic {name} in markdown format:
 - make use of headings
 - You can use the markdown table format when writing tables.
 - Keep it around 300-600 words.
@@ -52,9 +54,9 @@ Make a AP Statistics note page on topic {name} in markdown format:
 - For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]]). The notes page for that will be generated solely off of its title, so make sure its specific enough.
 - There are already several notes pages on AP Statistics that you can link to. If you want to link to one of those pages, enclose the title in TWO brackets([[like this]]).
 - Here is a list of all the existing notes pages you can link to:
- {open("topics.txt", "r").read()}
+ {", ".join([x.split(":")[1] for x in open("topics.txt", "r").readlines()])}
         """
-        response ="# [[AP Stats Home]]\n"+ai_text(prompt,300) 
+        response =f"# [[AP Physics Home]]"+ai_text(prompt,300) 
 
 
         # Write the generated text to the file
