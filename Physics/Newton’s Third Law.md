@@ -11,9 +11,9 @@ When two objects interact, the force that object 1 exerts on object 2 is equal i
 
 Mathematically, if object A exerts a force $\vec{F}_{A \text{ on } B}$ on object B, then object B simultaneously exerts a force $\vec{F}_{B \text{ on } A}$ on object A, such that:
 
-$
+$$
 \vec{F}_{A \text{ on } B} = -\vec{F}_{B \text{ on } A}
-$
+$$
 
 **Key Points:**
 *   Forces always come in pairs. You cannot have a single, isolated force.

@@ -9,9 +9,9 @@ The force exerted by an ideal spring is directly proportional to the displacemen
 
 When a spring is stretched or compressed by a displacement $x$ from its natural length, the spring exerts a force $F_s$ given by:
 
-$
+$$
 \vec{F}_s = -k\vec{x}
-$
+$$
 
 Where:
 *   $\vec{F}_s$ is the **spring force** (in Newtons, N).

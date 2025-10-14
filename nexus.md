@@ -3,6 +3,7 @@ node_size: "100"
 ---
 # See [[README]]
 # 2025-2026
+# [[AP Physics Home]]
 ## [[AP Stats Home]]
 
 # 2024-2025

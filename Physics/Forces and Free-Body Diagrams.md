@@ -31,21 +31,21 @@ For more details on specific forces, see [[Gravitational Force]] and [[Spring Fo
 The **net force** ($\Sigma \vec{F}$ or $\vec{F}_{net}$) on an object is the vector sum of all individual forces acting on it. It determines the object's acceleration according to [[Newton’s Second Law]].
 
 Mathematically, if multiple forces $\vec{F_1}, \vec{F_2}, ..., \vec{F_n}$ act on an object:
-$
+$$
 \vec{F}_{net} = \sum \vec{F} = \vec{F_1} + \vec{F_2} + ... + \vec{F_n}
-$
+$$
 In component form, for 2D motion:
-$
+$$
 \sum F_x = F_{1x} + F_{2x} + ... + F_{nx}
-$
-$
+$$
+$$
 \sum F_y = F_{1y} + F_{2y} + ... + F_{ny}
-$
+$$
 The magnitude of the net force is $|\vec{F}_{net}| = \sqrt{(\sum F_x)^2 + (\sum F_y)^2}$.
 
 ## Free-Body Diagrams (FBDs)
 
-[[Free-Body Diagrams]] are essential tools in mechanics for visualizing all forces acting *on a single object*. They help simplify complex scenarios and apply Newton's Laws correctly.
+[[Forces and Free-Body Diagrams]] are essential tools in mechanics for visualizing all forces acting *on a single object*. They help simplify complex scenarios and apply Newton's Laws correctly.
 
 ### Steps to Draw a Free-Body Diagram:
 
