@@ -28,7 +28,7 @@ Elastic potential energy is the energy stored in an elastic material, such as a 
 
 ### 3.1 Formula for Elastic Potential Energy
 For an ideal spring with spring constant $k$ that is stretched or compressed by a displacement $x$ from its equilibrium position, the elastic potential energy is:
-$ U_s = \frac{1}{2}kx^2 $
+$U_s = \frac{1}{2}kx^2$
 Where:
 *   $k$ = spring constant (N/m), a measure of the spring's stiffness ([[Spring Forces]])
 *   $x$ = displacement from the spring's equilibrium position (m)
@@ -40,9 +40,8 @@ Potential energy is only defined for [[Conservative Forces]]. A force is conserv
 *   **Examples of Non-Conservative Forces:** Friction, air resistance. Work done by non-conservative forces results in a change in the total mechanical energy of a system.
 
 The work done by a conservative force is equal to the negative of the change in potential energy:
-$ W_c = -\Delta U $
-For instance, the work done by gravity $W_g = - (U_{g,f} - U_{g,i}) = U_{g,i} - U_{g,f}$.
-
+$$ W_c = -\Delta U $$
+For instance, the work done by gravity $$W_g = - (U_{g,f} - U_{g,i}) = U_{g,i} - U_{g,f}$$
 ## 5. Relationship to Work and Conservation of Energy
 
 Potential energy plays a crucial role in the [[Conservation of Energy]]. In systems where only conservative forces do work, the total mechanical energy ($E = K + U$) remains constant. When an object moves under the influence of conservative forces, potential energy can be converted into kinetic energy, and vice-versa, while the sum remains constant.

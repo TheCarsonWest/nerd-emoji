@@ -1,0 +1,22 @@
+- How did meet go
+- How did my meets go
+	- LC SC 
+	- Slow slow prelims(just how it is)
+	- Dead on my times in the 500
+	- Did really good in breastroke for some reaosn
+	- 
+- How has your practice been
+- How has my practice been
+	- been a grind
+	- getting up in volume
+	- Big 200 sets
+	- Thankgiving
+- I'm starting to get worried if this is gonna happen or not
+	- I need to know soon because deadlines are coming up
+	- Do i need to talk to scott about that
+	- You just give me a thumbs up and ill submit my  ED once I end the call because John hopkins is where I want to go
+	- Should we set up another call to talk about it
+- Next meets
+	- Meet this friday
+		- 500 free friday night
+		- 1650 sunday

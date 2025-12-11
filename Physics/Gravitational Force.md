@@ -13,9 +13,9 @@ Sir Isaac Newton formulated the Law of Universal Gravitation, which states that 
 
 The magnitude of the gravitational force ($F_g$) between two objects with masses $m_1$ and $m_2$, separated by a distance $r$, is given by:
 
-$
+$$
 F_g = \frac{G m_1 m_2}{r^2}
-$
+$$
 
 Where:
 *   $F_g$ is the magnitude of the gravitational force (in Newtons, N).
@@ -46,15 +46,15 @@ A **gravitational field** is a region of space around a mass in which another ma
 
 The gravitational field strength ($g$) at a point is defined as the gravitational force per unit mass at that point.
 
-$
+$$
 g = \frac{F_g}{m}
-$
+$$
 
 For an object of mass $m$ experiencing a force $F_g$ due to a larger mass $M$ (e.g., Earth), we can substitute Newton's Law of Universal Gravitation:
 
-$
+$$
 g = \frac{\frac{G M m}{r^2}}{m} = \frac{G M}{r^2}
-$
+$$
 
 *   Where $M$ is the mass of the larger object (e.g., Earth), and $r$ is the distance from the center of $M$ to the point where $g$ is being measured.
 *   The units of $g$ are N/kg, which is equivalent to m/s$^2$ (acceleration units).
