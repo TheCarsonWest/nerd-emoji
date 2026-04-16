@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics Notes: Topic 6.3 - Angular Momentum and Angular Impulse
 
 ## 1. Introduction to Angular Momentum
@@ -11,7 +11,7 @@ Angular momentum is a vector quantity. Its direction is determined by the right-
 
 ### 2.1 For a Point Particle
 
-For a point particle of mass $m$ with position vector $\vec{r}$ relative to an origin and linear momentum $\vec{p} = m\vec{v}$, its angular momentum $\vec{L}$ about that origin is defined as the cross product:
+For a point particle of mass$m$with position vector$\vec{r}$relative to an origin and linear momentum$\vec{p} = m\vec{v}$, its angular momentum$\vec{L}$about that origin is defined as the cross product:
 
 $
 \vec{L} = \vec{r} \times \vec{p} = \vec{r} \times (m\vec{v})
@@ -23,17 +23,17 @@ $
 L = r p \sin\theta = r (mv) \sin\theta
 $
 
-where $\theta$ is the angle between $\vec{r}$ and $\vec{p}$. If $\vec{r}$ and $\vec{p}$ are perpendicular, $L = r p = r m v$.
+where$\theta$is the angle between$\vec{r}$and$\vec{p}$. If$\vec{r}$and$\vec{p}$are perpendicular,$L = r p = r m v$.
 
 ### 2.2 For a Rigid Body
 
-For a rigid body rotating about a fixed axis with a moment of inertia $I$ and angular velocity $\vec{\omega}$, its angular momentum $\vec{L}$ is given by:
+For a rigid body rotating about a fixed axis with a moment of inertia$I$and angular velocity$\vec{\omega}$, its angular momentum$\vec{L}$is given by:
 
 $
 \vec{L} = I\vec{\omega}
 $
 
-In this case, the direction of $\vec{L}$ is along the axis of rotation, in the same direction as $\vec{\omega}$.
+In this case, the direction of$\vec{L}$is along the axis of rotation, in the same direction as$\vec{\omega}$.
 
 ### 2.3 Units of Angular Momentum
 
@@ -45,7 +45,7 @@ Analogous to how [[Change in Momentum and Impulse]] relates linear impulse to a 
 
 ### 3.1 Definition
 
-Angular impulse ($J_{\text{angular}}$) is the integral of the net external torque ($\vec{\tau}_{\text{net}}$) over a time interval $t$:
+Angular impulse ($J_{\text{angular}}$) is the integral of the net external torque ($\vec{\tau}_{\text{net}}$) over a time interval$t$:
 
 $
 \vec{J}_{\text{angular}} = \int_{t_1}^{t_2} \vec{\tau}_{\text{net}} \, dt
@@ -71,7 +71,7 @@ $
 \int_{t_1}^{t_2} \vec{\tau}_{\text{net}} \, dt = \Delta \vec{L}
 $
 
-This theorem is derived directly from [[Newton’s Second Law in Rotational Form]], $\vec{\tau}_{\text{net}} = \frac{d\vec{L}}{dt}$.
+This theorem is derived directly from [[Newton’s Second Law in Rotational Form]],$\vec{\tau}_{\text{net}} = \frac{d\vec{L}}{dt}$.
 
 ### 3.3 Units of Angular Impulse
 
@@ -81,11 +81,11 @@ The SI unit for angular impulse is Newton-meter-second (N·m·s), which is equiv
 
 | Concept         | Translational Analog | Rotational Analog     | Definition / Equation                                       |
 | :-------------- | :------------------- | :-------------------- | :---------------------------------------------------------- |
-| Momentum        | Linear Momentum ($p$) | Angular Momentum ($L$) | $L = I\omega$ (rigid body) or $L = r p \sin\theta$ (point) |
-| Impulse         | Linear Impulse ($J$)   | Angular Impulse ($J_{\text{angular}}$) | $J_{\text{angular}} = \tau_{\text{net}} \Delta t$            |
-| Impulse-Momentum Theorem | $\Delta p = J$       | $\Delta L = J_{\text{angular}}$ | $\Delta L = \tau_{\text{net}} \Delta t$                    |
-| Cause of Change | Net Force ($\vec{F}_{\text{net}}$) | Net Torque ($\vec{\tau}_{\text{net}}$) | $\tau_{\text{net}} = \frac{dL}{dt}$                       |
+| Momentum        | Linear Momentum ($p$) | Angular Momentum ($L$) |$L = I\omega$(rigid body) or$L = r p \sin\theta$(point) |
+| Impulse         | Linear Impulse ($J$)   | Angular Impulse ($J_{\text{angular}}$) |$J_{\text{angular}} = \tau_{\text{net}} \Delta t$           |
+| Impulse-Momentum Theorem |$\Delta p = J$      |$\Delta L = J_{\text{angular}}$|$\Delta L = \tau_{\text{net}} \Delta t$                   |
+| Cause of Change | Net Force ($\vec{F}_{\text{net}}$) | Net Torque ($\vec{\tau}_{\text{net}}$) |$\tau_{\text{net}} = \frac{dL}{dt}$                      |
 
 ## 5. [[Conservation of Angular Momentum]]
 
-An extremely important consequence of the Angular Impulse-Momentum Theorem is the **Conservation of Angular Momentum**. If the net external torque acting on a system is zero ($\vec{\tau}_{\text{net}} = 0$), then the angular impulse is zero, and thus the total angular momentum of the system remains constant ($\Delta \vec{L} = 0$, so $\vec{L}_i = \vec{L}_f$). This principle is fundamental to understanding the behavior of isolated rotating systems, such as planets orbiting stars, figure skaters spinning, or collapsing stars forming pulsars.
+An extremely important consequence of the Angular Impulse-Momentum Theorem is the **Conservation of Angular Momentum**. If the net external torque acting on a system is zero ($\vec{\tau}_{\text{net}} = 0$), then the angular impulse is zero, and thus the total angular momentum of the system remains constant ($\Delta \vec{L} = 0$, so$\vec{L}_i = \vec{L}_f$). This principle is fundamental to understanding the behavior of isolated rotating systems, such as planets orbiting stars, figure skaters spinning, or collapsing stars forming pulsars.

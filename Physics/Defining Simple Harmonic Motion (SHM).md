@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics 1: Topic 7.1 - Defining Simple Harmonic Motion (SHM)
 
 ## Introduction to Simple Harmonic Motion
@@ -16,19 +16,19 @@ For an object to undergo SHM, two primary conditions must be met:
 
 The defining characteristic of SHM is the nature of its restoring force. For an ideal system, this force adheres to **Hooke's Law**:
 
-$ F_{restoring} = -kx $
+$F_{restoring} = -kx$
 
 Where:
-*   $F_{restoring}$ is the restoring force.
-*   $k$ is the spring constant (or force constant), a measure of the stiffness of the spring/system. A larger $k$ means a stiffer system.
-*   $x$ is the displacement from the equilibrium position.
+*  $F_{restoring}$is the restoring force.
+*  $k$is the spring constant (or force constant), a measure of the stiffness of the spring/system. A larger$k$means a stiffer system.
+*  $x$is the displacement from the equilibrium position.
 *   The negative sign indicates that the restoring force is always directed opposite to the displacement, pushing or pulling the object back towards equilibrium.
 
-[[Spring Forces]] are a classic example of this restoring force, where $F_s = -kx$.
+[[Spring Forces]] are a classic example of this restoring force, where$F_s = -kx$.
 
 ### Equilibrium Position
 
-The **equilibrium position** (often denoted as $x=0$) is the point where the net force acting on the oscillating object is zero. When the object is at this position, it experiences no restoring force, and if undisturbed, it would remain at rest. However, in SHM, the object's inertia carries it past this point, causing the restoring force to reverse direction and pull it back.
+The **equilibrium position** (often denoted as$x=0$) is the point where the net force acting on the oscillating object is zero. When the object is at this position, it experiences no restoring force, and if undisturbed, it would remain at rest. However, in SHM, the object's inertia carries it past this point, causing the restoring force to reverse direction and pull it back.
 
 ### Amplitude, Period, and Frequency
 
@@ -36,7 +36,7 @@ While Topic 7.2 delves deeper into these, it's important to briefly define them 
 
 *   **Amplitude ($A$)**: The maximum displacement of the oscillating object from its equilibrium position. It is a scalar quantity and is always positive.
 *   **Period ($T$)**: The time it takes for one complete cycle of oscillation (e.g., from maximum displacement to the other maximum displacement and back to the starting maximum displacement). Measured in seconds (s).
-*   **Frequency ($f$)**: The number of complete cycles of oscillation per unit time. It is the reciprocal of the period ($f = 1/T$). Measured in Hertz (Hz), where $1 \text{ Hz} = 1 \text{ cycle/second}$.
+*   **Frequency ($f$)**: The number of complete cycles of oscillation per unit time. It is the reciprocal of the period ($f = 1/T$). Measured in Hertz (Hz), where$1 \text{ Hz} = 1 \text{ cycle/second}$.
 
 ## Conditions for SHM
 
@@ -44,9 +44,9 @@ The conditions for Simple Harmonic Motion can be summarized in the following tab
 
 | Condition                | Description                                                                     | Mathematical Representation (for a 1D system) |
 | :----------------------- | :------------------------------------------------------------------------------ | :-------------------------------------------- |
-| **Restoring Force**      | Force is proportional to displacement from equilibrium and acts opposite to it. | $F \propto -x$                                |
-| **Equilibrium Position** | A point where the net force on the object is zero.                              | $F_{net} = 0$ at $x=0$                        |
-| **Linearity**            | The restoring force-displacement relationship is linear.                        | $F = -kx$                                     |
+| **Restoring Force**      | Force is proportional to displacement from equilibrium and acts opposite to it. |$F \propto -x$                               |
+| **Equilibrium Position** | A point where the net force on the object is zero.                              |$F_{net} = 0$at$x=0$                       |
+| **Linearity**            | The restoring force-displacement relationship is linear.                        |$F = -kx$                                    |
 
 ## Examples of SHM
 

@@ -1,0 +1,50 @@
+## Experiment to determine the relationship between initial angular displacement and time of period
+- 
+- The bob was attached to a wire with negligible mass, and a knot was tied to secure it.
+- A lab stand had a hook attachment clamped towards the top, and another knot was created in the wire to attach it to the hook in order to form a pendulum. 
+- A meter stick was use to measure the lenght from the pivot point of the wire to the center of mass of the metal spherical bob
+	- The length was 0.395 m
+- The vernier photogate was taped in place, approximatley below the pivot point, so that it was in the trajectory of the swing.
+- a test run was done to make sure that for every time time the bob swung through the time was recorded on vernier logger pro
+- For each trial:
+	- The bob was brought to an arbitrary angle in the swing, always to the right in the reference frame of the experimenter.
+	- Its horizontal displacement was measured by raising a meterstick to the bob and recording the distance from the center of the bob to the center of the lab stand, where the pivot point was.(this was to be used in order to get the angle most accurately)
+	- An experimenter using the laptop with Vernier Logger Pro enabled the recording of sensor data, and the bob was released from being held at rest, attempting to give the bob an initial velocity of zero.
+	- The bob swung back and forth for two periods.
+	- Note that the photogate is crossed twice every period.
+	- The period of the trial was calculated by taking the difference from when the bob first blocked the photogate from the right, to the next time it blocked the photogate. The average of the first two period was recorded.
+## Experiment to determine the relationship between mass and time of period
+- Similar intinital setup to the angle trials(repeat things said previously), but instead of a metallic bob, a small pill bottle was attached to the wire.
+	- The measured distance of the length of the pendulum was now 0.441 meters
+- There was also a protractor taped to the pivot point of the pendulum 
+- Used a triple beam balance to find that the pill bottle was .0136 kilograms
+- The base of the bottle was removed from its cap(the part that was tied onto the pendulum) to add mass into it
+- For each trial
+	- A set amount of mass(leadshot) was added or subtracted from the pill bottle
+		- If the mass was added, an arbitrary amount of leadshot was funnled onto the triple beam balance and then had its mass measured, then it was funnelled into the pill bottle
+		- If mass was subtracted, some leadshot was poured from the pill bottle onto the balance and had its mass measure
+		- The final mass of the pill bottle and its contents were calculated based on how much was added or subtracted.
+	- The pill bottle was then re screwed into to the cap on the pendulum
+	- An experimenter using the laptop with Vernier Logger Pro enabled the recording of sensor data, and the pill bottle  was released from being held at rest, attempting to give the bob an initial velocity of zero.
+	- Note that the photogate is crossed twice every period.
+	- The period of the trial was calculated by taking the difference from when the bob first blocked the photogate from the right, to the next time it blocked the photogate. The average of the first two period was recorded.
+
+## Experiment to determine the relationship between pendulum length and time of period
+- The setup was similar to the other two
+	- Hook clamp on lab stand
+	- Metal bob(same mass as before)
+	- But this time, an extremely long string was used(approximately 2.5 meters was cut)
+	- The bob was tied to one end as per usual
+	- The photogate was taped to the ground below a table 
+- For each trial
+	- A looped knot was made on an arbitrary point on the string
+		- The clamp with the hook was vertically adjusted such that the bob would line up with the photogate
+		- After trial number 9, the lab stand apparatus was moved up to the nearby table to achieve greater pendelum lengths
+		- trials 13-15, the apparatus was placed on top of wooden blocks on the table to achieve even greater heights
+	- The loop was put on the hook
+	- The knot was tightened
+	- The bob was placed at rest below the pivot point
+	- The distance from the pivot point to the center of the bob was measured using a meter stick and recorded. 
+		- For trials greater than one meter, a second meter stick was stacked on top of the first one
+	- The bob brought back 20 degrees (an experimenter held a protractor to the pivot point to measure this) was released and allowed to swing for at least two periods while the data recorded
+	- recorded, foudn the avergae of two periods, same same

@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics Note Page: Topic 8.2 Pressure
 
 ## Introduction to Pressure
@@ -13,9 +13,9 @@ $
 P = \frac{F_\perp}{A}
 $
 
--   $F_\perp$: The component of force perpendicular to the surface (in Newtons, N).
--   $A$: The area over which the force is applied (in square meters, m$^2$).
--   $P$: Pressure (in Pascals, Pa).
+-  $F_\perp$: The component of force perpendicular to the surface (in Newtons, N).
+-  $A$: The area over which the force is applied (in square meters, m$^2$).
+-  $P$: Pressure (in Pascals, Pa).
 
 Pressure is a [[Scalars and Vectors in One Dimension|scalar]] quantity, meaning it has magnitude but no direction. However, the force creating the pressure always acts perpendicular to the surface.
 
@@ -34,11 +34,11 @@ Other common units include:
 
 | Unit Name | Equivalence to Pascal (approx.) |
 | :-------- | :------------------------------ |
-| Pascal (Pa) | $1 \text{ N/m}^2$               |
-| Atmosphere (atm) | $1.013 \times 10^5 \text{ Pa}$ |
-| Torr | $133.32 \text{ Pa}$             |
-| psi | $6894.76 \text{ Pa}$            |
-| Bar | $1 \times 10^5 \text{ Pa}$      |
+| Pascal (Pa) |$1 \text{ N/m}^2$              |
+| Atmosphere (atm) |$1.013 \times 10^5 \text{ Pa}$|
+| Torr |$133.32 \text{ Pa}$            |
+| psi |$6894.76 \text{ Pa}$           |
+| Bar |$1 \times 10^5 \text{ Pa}$     |
 
 ## Pressure in Fluids
 
@@ -53,21 +53,21 @@ The relationship between them is:
 $
 P_{abs} = P_{gauge} + P_{atm}
 $
-Where $P_{atm}$ is typically $1.013 \times 10^5 \text{ Pa}$ at sea level.
+Where$P_{atm}$is typically$1.013 \times 10^5 \text{ Pa}$at sea level.
 
 ### Pressure Variation with Depth in a Fluid
 
-For an incompressible fluid (density $\rho$ is constant) at rest under gravity, the pressure increases with depth. Consider a fluid column of height $h$. The pressure at a depth $h$ below the surface is given by:
+For an incompressible fluid (density$\rho$is constant) at rest under gravity, the pressure increases with depth. Consider a fluid column of height$h$. The pressure at a depth$h$below the surface is given by:
 
 $
 P = P_0 + \rho g h
 $
 
--   $P$: Pressure at depth $h$.
--   $P_0$: Pressure at the surface of the fluid (often atmospheric pressure if exposed to air).
--   $\rho$: Density of the fluid (in kg/m$^3$).
--   $g$: Acceleration due to gravity (approximately $9.8 \text{ m/s}^2$).
--   $h$: Depth below the surface (in meters).
+-  $P$: Pressure at depth$h$.
+-  $P_0$: Pressure at the surface of the fluid (often atmospheric pressure if exposed to air).
+-  $\rho$: Density of the fluid (in kg/m$^3$).
+-  $g$: Acceleration due to gravity (approximately$9.8 \text{ m/s}^2$).
+-  $h$: Depth below the surface (in meters).
 
 This equation shows that:
 1.  Pressure increases linearly with depth.
@@ -78,7 +78,7 @@ This equation shows that:
 
 Pascal's Principle states that a pressure change applied to an enclosed incompressible fluid is transmitted undiminished to every portion of the fluid and to the walls of the containing vessel. This principle is fundamental to hydraulic systems.
 
-If a force $F_1$ is applied to a small area $A_1$ in an enclosed fluid, it creates a pressure $P = F_1/A_1$. This pressure is transmitted throughout the fluid, meaning it exerts a force $F_2 = P A_2$ on a larger area $A_2$.
+If a force$F_1$is applied to a small area$A_1$in an enclosed fluid, it creates a pressure$P = F_1/A_1$. This pressure is transmitted throughout the fluid, meaning it exerts a force$F_2 = P A_2$on a larger area$A_2$.
 $
 \frac{F_1}{A_1} = \frac{F_2}{A_2}
 $

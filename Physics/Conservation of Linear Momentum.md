@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # 4.3: Conservation of Linear Momentum
 
 This note page expands on the fundamental principle of [[Conservation of Linear Momentum]], a crucial concept in AP Physics. It builds upon our understanding of [[Linear Momentum]] and [[Change in Momentum and Impulse]], detailing the conditions under which the total momentum of a system remains constant.
@@ -21,11 +21,11 @@ $
 $
 
 Where:
-*   $m_i$ is the mass of the $i$-th object.
-*   $\vec{v}_{i, initial}$ is the initial velocity of the $i$-th object.
-*   $\vec{v}_{i, final}$ is the final velocity of the $i$-th object.
+*  $m_i$is the mass of the$i$-th object.
+*  $\vec{v}_{i, initial}$is the initial velocity of the$i$-th object.
+*  $\vec{v}_{i, final}$is the final velocity of the$i$-th object.
 
-This equation holds true for each component (x, y, z) independently, meaning $\vec{P}_{x, initial} = \vec{P}_{x, final}$ and $\vec{P}_{y, initial} = \vec{P}_{y, final}$.
+This equation holds true for each component (x, y, z) independently, meaning$\vec{P}_{x, initial} = \vec{P}_{x, final}$and$\vec{P}_{y, initial} = \vec{P}_{y, final}$.
 
 ## II. Conditions for Momentum Conservation
 
@@ -58,11 +58,11 @@ An explosion is essentially the reverse of an inelastic collision where objects 
 $
 (m_{cannon} + m_{projectile}) \vec{v}_{initial} = m_{cannon} \vec{v}_{cannon, final} + m_{projectile} \vec{v}_{projectile, final}
 $
-If $\vec{v}_{initial} = 0$, then $0 = m_{cannon} \vec{v}_{cannon, final} + m_{projectile} \vec{v}_{projectile, final}$.
+If$\vec{v}_{initial} = 0$, then$0 = m_{cannon} \vec{v}_{cannon, final} + m_{projectile} \vec{v}_{projectile, final}$.
 
 ### C. Recoil
 Recoil is a direct application of momentum conservation, particularly evident when objects push off each other, like a gun firing a bullet or a rocket expelling exhaust. The momentum of the expelled mass (bullet, exhaust) in one direction is balanced by the momentum of the remaining object (gun, rocket) in the opposite direction.
 
 ## IV. Connection to Impulse
-Recall that [[Change in Momentum and Impulse]] is defined as $\vec{J} = \Delta \vec{P} = \vec{F}_{net} \Delta t$.
-If the net external force $\vec{F}_{net}$ acting on a system is zero, then the impulse $\vec{J}$ is zero. This implies that the change in momentum $\Delta \vec{P}$ is also zero, meaning the total momentum $\vec{P}$ remains constant. This reinforces the principle of momentum conservation.
+Recall that [[Change in Momentum and Impulse]] is defined as$\vec{J} = \Delta \vec{P} = \vec{F}_{net} \Delta t$.
+If the net external force$\vec{F}_{net}$acting on a system is zero, then the impulse$\vec{J}$is zero. This implies that the change in momentum$\Delta \vec{P}$is also zero, meaning the total momentum$\vec{P}$remains constant. This reinforces the principle of momentum conservation.

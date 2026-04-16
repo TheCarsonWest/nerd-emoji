@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics 1.3: Representing Motion
 
 Representing motion is fundamental to understanding how objects move. It involves describing an object's position, how that position changes over time, and the rate at which it changes. This topic lays the groundwork for analyzing more complex motion scenarios.
@@ -10,7 +10,7 @@ Representing motion is fundamental to understanding how objects move. It involve
 To describe motion, we use several essential quantities:
 
 ### Position ($x$)
-Position is the location of an object at a particular instant. It is a vector quantity, though in one dimension, we often use a single coordinate (e.g., $x$) relative to a chosen origin.
+Position is the location of an object at a particular instant. It is a vector quantity, though in one dimension, we often use a single coordinate (e.g.,$x$) relative to a chosen origin.
 
 ### Distance
 Distance is a scalar quantity representing the total path length traveled by an object. It does not consider direction.
@@ -20,7 +20,7 @@ Displacement is a vector quantity defined as the change in an object's position.
 $$
 \Delta x = x_f - x_i
 $$
-Where $x_f$ is the final position and $x_i$ is the initial position. Displacement can be positive, negative, or zero, depending on the direction and if the object returns to its starting point.
+Where$x_f$is the final position and$x_i$is the initial position. Displacement can be positive, negative, or zero, depending on the direction and if the object returns to its starting point.
 
 **[[Scalars and Vectors in One Dimension]]**: It's crucial to distinguish between scalar quantities (like distance and speed) and vector quantities (like position, displacement, and velocity) which have both magnitude and direction.
 
@@ -59,31 +59,31 @@ $$
 
 Motion can be effectively visualized and analyzed using graphs.
 
-### Position-Time Graphs ($x-t$ graphs)
+### Position-Time Graphs ($x-t$graphs)
 *   **Vertical Axis:** Position ($x$)
 *   **Horizontal Axis:** Time ($t$)
-*   **Slope:** The slope of an $x-t$ graph represents the object's **velocity**.
+*   **Slope:** The slope of an$x-t$graph represents the object's **velocity**.
     *   A straight line indicates constant velocity.
     *   A curved line indicates changing velocity (acceleration).
     *   A positive slope means positive velocity (moving in the positive direction).
     *   A negative slope means negative velocity (moving in the negative direction).
     *   A horizontal line (zero slope) means zero velocity (the object is at rest).
 
-### Velocity-Time Graphs ($v-t$ graphs)
+### Velocity-Time Graphs ($v-t$graphs)
 *   **Vertical Axis:** Velocity ($v$)
 *   **Horizontal Axis:** Time ($t$)
-*   **Slope:** The slope of a $v-t$ graph represents the object's **acceleration**.
-*   **Area Under the Curve:** The area between the $v-t$ graph and the time axis represents the object's **displacement**.
-    *   Area above the $t$-axis is positive displacement.
-    *   Area below the $t$-axis is negative displacement.
+*   **Slope:** The slope of a$v-t$graph represents the object's **acceleration**.
+*   **Area Under the Curve:** The area between the$v-t$graph and the time axis represents the object's **displacement**.
+    *   Area above the$t$-axis is positive displacement.
+    *   Area below the$t$-axis is negative displacement.
 
 Here's a summary of common motion scenarios on graphs:
 
 | Motion Type                        | Position-Time ($x-t$) Graph              | Velocity-Time ($v-t$) Graph            |
 | :--------------------------------- | :--------------------------------------- | :------------------------------------- |
-| **At Rest**                        | Horizontal line                          | Line on $t$-axis ($v=0$)               |
-| **Constant Positive Velocity**     | Upward sloping straight line             | Horizontal line above $t$-axis ($v>0$) |
-| **Constant Negative Velocity**     | Downward sloping straight line           | Horizontal line below $t$-axis ($v<0$) |
+| **At Rest**                        | Horizontal line                          | Line on$t$-axis ($v=0$)               |
+| **Constant Positive Velocity**     | Upward sloping straight line             | Horizontal line above$t$-axis ($v>0$) |
+| **Constant Negative Velocity**     | Downward sloping straight line           | Horizontal line below$t$-axis ($v<0$) |
 | **Constant Positive Acceleration** | Upward curving parabola (concave up)     | Upward sloping straight line ($a>0$)   |
 | **Constant Negative Acceleration** | Downward curving parabola (concave down) | Downward sloping straight line ($a<0$) |
 

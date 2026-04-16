@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics Notes: Topic 8.1 - Internal Structure and Density
 
 ## 1. Introduction to Density
@@ -12,9 +12,9 @@ $
 $
 
 Where:
-*   $\rho$ (rho) is the density.
-*   $m$ is the mass of the substance.
-*   $V$ is the volume occupied by the substance.
+*  $\rho$(rho) is the density.
+*  $m$is the mass of the substance.
+*  $V$is the volume occupied by the substance.
 
 ### 1.1 Units of Density
 
@@ -28,7 +28,7 @@ $
 
 Density is an intensive property, meaning it does not depend on the amount of substance present. However, it can be affected by external conditions:
 
-*   **Temperature**: Most substances expand when heated, increasing their volume and thus decreasing their density (assuming mass remains constant). Water is a notable exception around $4^\circ \text{C}$.
+*   **Temperature**: Most substances expand when heated, increasing their volume and thus decreasing their density (assuming mass remains constant). Water is a notable exception around$4^\circ \text{C}$.
 *   **Pressure**: Increasing pressure typically compresses a substance, decreasing its volume and thereby increasing its density. This effect is more pronounced in gases than in liquids or solids.
 *   **Phase**: The phase of a substance (solid, liquid, gas) significantly impacts its density. Solids are generally denser than liquids, which are much denser than gases for the same substance.
 
@@ -47,16 +47,16 @@ For example, consider iron (Fe) versus aluminum (Al). Iron atoms are heavier and
 
 ## 3. Specific Gravity
 
-Specific gravity (SG) is a dimensionless quantity that compares the density of a substance to the density of a reference substance, usually water at $4^\circ \text{C}$ (where its density is approximately $1000 \text{ kg/m}^3$ or $1 \text{ g/cm}^3$).
+Specific gravity (SG) is a dimensionless quantity that compares the density of a substance to the density of a reference substance, usually water at$4^\circ \text{C}$(where its density is approximately$1000 \text{ kg/m}^3$or$1 \text{ g/cm}^3$).
 
 $
 SG = \frac{\rho_{\text{substance}}}{\rho_{\text{water, } 4^\circ \text{C}}}
 $
 
 Specific gravity is useful because it directly indicates whether an object will float or sink in water:
-*   $SG < 1$: The substance is less dense than water and will float.
-*   $SG > 1$: The substance is denser than water and will sink.
-*   $SG = 1$: The substance has the same density as water and will be neutrally buoyant.
+*  $SG < 1$: The substance is less dense than water and will float.
+*  $SG > 1$: The substance is denser than water and will sink.
+*  $SG = 1$: The substance has the same density as water and will be neutrally buoyant.
 
 ### 3.1 Example Densities
 

@@ -10,7 +10,7 @@ def ai_text(p, think=-1):
     try:
         if think > 1:
             result = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-3.1-flash-lite-preview",
                 contents=p,
                 config=types.GenerateContentConfig(
                     thinking_config=types.ThinkingConfig(thinking_budget=think)
@@ -46,17 +46,19 @@ def create_files(file_names, file_extension):
         # Generate the text using the prompt
         
         prompt = f"""
-Make an infortmative AP Calculus BC note page on topic {name} in markdown format:
+Make an infortmative AP Physics C note page on topic {name} in markdown format:
 - make use of headings
 - You can use the markdown table format when writing tables.
 - Keep it around 300-600 words.
 - use the LaTeX equation library format when writing equations.($$Two dollar signs for block equations, these will take up their own line$$, $One dollar sign for an inline equation$
+    -Example: $E=mc^2$ for inline, and $$E=mc^2$$ for block
+    - DO NOT leave leading or trailing spaces in your equations, as this will cause rendering issues.
 - For any topic that you believe needs its own independent explanation, enclose it in TWO brackets([[like this]]). The notes page for that will be generated solely off of its title, so make sure its specific enough.
 - There are already several notes pages on AP Calc that you can link to. If you want to link to one of those pages, enclose the title in TWO brackets([[like this]]).
 - Here is a list of all the existing notes pages you can link to:
  {", ".join([x.split(":")[1] for x in open("topics.txt", "r").readlines()])}
         """
-        response =f"\n# [[Calc Home]]\n"+ai_text(prompt,300) 
+        response =f"\n# [[AP Physics C Home]]\n"+ai_text(prompt,500) 
 
 
         # Write the generated text to the file

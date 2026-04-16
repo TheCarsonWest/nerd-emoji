@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics 1: Topic 2.3 - Newton’s Third Law
 
 Newton's Third Law, often stated as "for every action, there is an equal and opposite reaction," is a fundamental principle describing the interaction between two objects. It is crucial for understanding how forces manifest in systems and for constructing accurate [[Free-Body Diagrams]].
@@ -9,7 +9,7 @@ Newton's Third Law, often stated as "for every action, there is an equal and opp
 
 When two objects interact, the force that object 1 exerts on object 2 is equal in magnitude and opposite in direction to the force that object 2 exerts on object 1.
 
-Mathematically, if object A exerts a force $\vec{F}_{A \text{ on } B}$ on object B, then object B simultaneously exerts a force $\vec{F}_{B \text{ on } A}$ on object A, such that:
+Mathematically, if object A exerts a force$\vec{F}_{A \text{ on } B}$on object B, then object B simultaneously exerts a force$\vec{F}_{B \text{ on } A}$on object A, such that:
 
 $$
 \vec{F}_{A \text{ on } B} = -\vec{F}_{B \text{ on } A}

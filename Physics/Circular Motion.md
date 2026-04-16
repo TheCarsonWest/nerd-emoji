@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics 1: Topic 2.9 - Circular Motion
 
 ## Introduction to Circular Motion
@@ -20,15 +20,15 @@ The magnitude of centripetal acceleration is given by:
 $a_c = \frac{v^2}{r}$
 
 Where:
-* $a_c$ is the centripetal acceleration (in m/s²)
-* $v$ is the tangential speed of the object (in m/s)
-* $r$ is the radius of the circular path (in m)
+*$a_c$is the centripetal acceleration (in m/s²)
+*$v$is the tangential speed of the object (in m/s)
+*$r$is the radius of the circular path (in m)
 
-Alternatively, using angular velocity $\omega$:
+Alternatively, using angular velocity$\omega$:
 
 $a_c = \omega^2 r$
 
-Where $\omega$ is the angular velocity (in rad/s). Recall that $v = \omega r$.
+Where$\omega$is the angular velocity (in rad/s). Recall that$v = \omega r$.
 
 ### Centripetal Force
 
@@ -39,38 +39,38 @@ The magnitude of centripetal force is:
 $F_c = m a_c = \frac{mv^2}{r}$
 
 Where:
-* $F_c$ is the centripetal force (in N)
-* $m$ is the mass of the object (in kg)
-* $v$ is the tangential speed (in m/s)
-* $r$ is the radius of the circular path (in m)
+*$F_c$is the centripetal force (in N)
+*$m$is the mass of the object (in kg)
+*$v$is the tangential speed (in m/s)
+*$r$is the radius of the circular path (in m)
 
 It's crucial to understand that "centripetal force" is not a new fundamental force, but rather a *role* played by existing forces (e.g., tension, friction, gravity, normal force). For instance, for a car turning a corner, friction provides the centripetal force. For a satellite orbiting Earth, [[Gravitational Force]] provides the centripetal force.
 
 ### Tangential Velocity
 
-The velocity of an object in circular motion is always tangent to the circular path at any given point. Its direction is constantly changing, even if its magnitude (speed) remains constant in UCM. The magnitude of tangential velocity $v$ is related to the period $T$ and frequency $f$:
+The velocity of an object in circular motion is always tangent to the circular path at any given point. Its direction is constantly changing, even if its magnitude (speed) remains constant in UCM. The magnitude of tangential velocity$v$is related to the period$T$and frequency$f$:
 
 $v = \frac{2\pi r}{T} = 2\pi r f$
 
 Where:
-* $T$ is the period (time for one full revolution, in s)
-* $f$ is the frequency (number of revolutions per second, in Hz or s⁻¹)
-* $r$ is the radius (in m)
+*$T$is the period (time for one full revolution, in s)
+*$f$is the frequency (number of revolutions per second, in Hz or s⁻¹)
+*$r$is the radius (in m)
 
 ## Applications of Circular Motion
 
 | Scenario                      | Force Providing Centripetal Force ($F_c$)       | Relevant Equations                             |
 | :---------------------------- | :---------------------------------------------- | :--------------------------------------------- |
-| Car turning on a flat road    | Static friction ($F_f$)                         | $F_f = \frac{mv^2}{r}$                         |
-| Object swung on a string      | Tension ($T_{string}$)                          | $T_{string} = \frac{mv^2}{r}$                  |
-| Satellite orbiting Earth      | Gravitational force ($F_g$)                     | $F_g = G \frac{M m}{r^2} = \frac{mv^2}{r}$     |
-| Loop-the-loop (at top)        | Normal force ($F_N$) + Gravitational force ($F_g$) | $F_N + F_g = \frac{mv^2}{r}$                   |
-| Loop-the-loop (at bottom)     | Normal force ($F_N$) - Gravitational force ($F_g$) | $F_N - F_g = \frac{mv^2}{r}$                   |
+| Car turning on a flat road    | Static friction ($F_f$)                         |$F_f = \frac{mv^2}{r}$                        |
+| Object swung on a string      | Tension ($T_{string}$)                          |$T_{string} = \frac{mv^2}{r}$                 |
+| Satellite orbiting Earth      | Gravitational force ($F_g$)                     |$F_g = G \frac{M m}{r^2} = \frac{mv^2}{r}$    |
+| Loop-the-loop (at top)        | Normal force ($F_N$) + Gravitational force ($F_g$) |$F_N + F_g = \frac{mv^2}{r}$                  |
+| Loop-the-loop (at bottom)     | Normal force ($F_N$) - Gravitational force ($F_g$) |$F_N - F_g = \frac{mv^2}{r}$                  |
 
 ### Solving Problems with Circular Motion
 
 1.  **Draw a [[Forces and Free-Body Diagrams|Free-Body Diagram]]:** Identify all forces acting on the object.
 2.  **Choose a Coordinate System:** Orient one axis (usually the y-axis) towards the center of the circular path. The other axis is tangential.
-3.  **Apply [[Newton’s Second Law]]:** Sum the forces in the radial direction and set them equal to $ma_c$.
-    $\Sigma F_{radial} = ma_c = \frac{mv^2}{r}$
+3.  **Apply [[Newton’s Second Law]]:** Sum the forces in the radial direction and set them equal to$ma_c$.
+   $\Sigma F_{radial} = ma_c = \frac{mv^2}{r}$
 4.  **Solve:** Use the resulting equation to find the unknown quantity. Remember that forces *causing* the circular motion are centripetal, not an extra force.

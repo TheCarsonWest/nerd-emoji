@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics: Topic 5.6 - Newton’s Second Law in Rotational Form
 
 ## Introduction: From Linear to Rotational Dynamics
@@ -18,9 +18,9 @@ $
 $
 
 Where:
-*   $\sum \tau$ (Sigma Tau) represents the **net torque** acting on the object. Torque is a rotational force, analogous to force in linear motion.
-*   $I$ represents the **rotational inertia** (also known as the moment of inertia) of the object. This is a measure of an object's resistance to changes in its rotational motion.
-*   $\alpha$ (alpha) represents the **angular acceleration** of the object. This is the rate of change of angular velocity.
+*  $\sum \tau$(Sigma Tau) represents the **net torque** acting on the object. Torque is a rotational force, analogous to force in linear motion.
+*  $I$represents the **rotational inertia** (also known as the moment of inertia) of the object. This is a measure of an object's resistance to changes in its rotational motion.
+*  $\alpha$(alpha) represents the **angular acceleration** of the object. This is the rate of change of angular velocity.
 
 ### Comparison to Linear Form
 
@@ -29,7 +29,7 @@ Where:
 | Force ($F$)          | Torque ($\tau$)          | N·m       |
 | Mass ($m$)           | Rotational Inertia ($I$) | kg·m²     |
 | Linear Acceleration ($a$) | Angular Acceleration ($\alpha$) | rad/s²    |
-| $\sum F = ma$        | $\sum \tau = I \alpha$   |           |
+|$\sum F = ma$       |$\sum \tau = I \alpha$  |           |
 
 This table highlights the direct parallels between linear and rotational dynamics, making it easier to apply the same problem-solving strategies.
 
@@ -43,19 +43,19 @@ $
 \tau = r F \sin \theta
 $
 
-Where $r$ is the lever arm, $F$ is the magnitude of the force, and $\theta$ is the angle between the force vector and the lever arm.
+Where$r$is the lever arm,$F$is the magnitude of the force, and$\theta$is the angle between the force vector and the lever arm.
 
 ### [[Rotational Inertia]] ($I$)
 
 Rotational inertia is a critical concept for understanding rotational dynamics. It's the rotational analogue of mass. Just as mass quantifies an object's resistance to linear acceleration, rotational inertia quantifies its resistance to angular acceleration.
 
-For a point mass $m$ at a distance $r$ from the axis of rotation, its rotational inertia is $I = mr^2$. For extended objects, it is the sum or integral of all the tiny mass elements multiplied by the square of their distances from the axis of rotation:
+For a point mass$m$at a distance$r$from the axis of rotation, its rotational inertia is$I = mr^2$. For extended objects, it is the sum or integral of all the tiny mass elements multiplied by the square of their distances from the axis of rotation:
 
 $
 I = \sum m_i r_i^2 \quad \text{or} \quad I = \int r^2 dm
 $
 
-The value of $I$ depends not only on the object's mass but also on how that mass is distributed relative to the axis of rotation. An object with more mass concentrated further from the axis will have a larger rotational inertia.
+The value of$I$depends not only on the object's mass but also on how that mass is distributed relative to the axis of rotation. An object with more mass concentrated further from the axis will have a larger rotational inertia.
 
 ### [[Angular Acceleration]] ($\alpha$)
 
@@ -70,6 +70,6 @@ When solving problems involving Newton's Second Law in Rotational Form, a system
 3.  **Choose an Axis of Rotation:** Select a convenient axis of rotation. Often, the pivot point or the center of mass is a good choice.
 4.  **Calculate Net Torque ($\sum \tau$):** For each force, determine the torque it produces about the chosen axis. Remember that torques causing counter-clockwise rotation are conventionally positive, and clockwise torques are negative. Sum these torques to find the net torque.
 5.  **Determine Rotational Inertia ($I$):** Use the appropriate formula for the object's geometry and mass distribution, relative to the chosen axis of rotation. (You might need to use the parallel-axis theorem if the axis of rotation is not through the center of mass.)
-6.  **Apply $\sum \tau = I \alpha$:** Substitute the calculated net torque and rotational inertia into the equation to solve for the angular acceleration ($\alpha$).
+6.  **Apply$\sum \tau = I \alpha$:** Substitute the calculated net torque and rotational inertia into the equation to solve for the angular acceleration ($\alpha$).
 
-This rotational form of Newton's Second Law is indispensable for analyzing systems like pulleys with mass, rolling objects (in conjunction with [[Rolling]]), and any scenario where objects undergo angular acceleration due to applied torques. It perfectly complements [[Rotational Equilibrium and Newton’s First Law in Rotational Form]], which deals with cases where $\sum \tau = 0$.
+This rotational form of Newton's Second Law is indispensable for analyzing systems like pulleys with mass, rolling objects (in conjunction with [[Rolling]]), and any scenario where objects undergo angular acceleration due to applied torques. It perfectly complements [[Rotational Equilibrium and Newton’s First Law in Rotational Form]], which deals with cases where$\sum \tau = 0$.

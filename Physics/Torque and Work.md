@@ -1,4 +1,4 @@
-# [[AP Physics Home]]
+# [[AP Physics 1 Home]]
 # AP Physics Note Page: Topic 6.2 - Torque and Work
 
 This page explores the concepts of torque and work in rotational motion, building upon their linear counterparts. Just as force causes linear acceleration, torque causes angular acceleration. Similarly, work done by a force can be extended to work done by a torque in rotational systems.
@@ -15,12 +15,12 @@ $
 \tau = r F \sin \theta
 $
 Where:
-- $\tau$ is the torque (N·m)
-- $r$ is the distance from the axis of rotation to the point where the force is applied (m)
-- $F$ is the magnitude of the force applied (N)
-- $\theta$ is the angle between the position vector $\vec{r}$ and the force vector $\vec{F}$
+-$\tau$is the torque (N·m)
+-$r$is the distance from the axis of rotation to the point where the force is applied (m)
+-$F$is the magnitude of the force applied (N)
+-$\theta$is the angle between the position vector$\vec{r}$and the force vector$\vec{F}$
 
-Alternatively, if $r_{\perp}$ is the lever arm, then:
+Alternatively, if$r_{\perp}$is the lever arm, then:
 $
 \tau = F r_{\perp}
 $
@@ -42,13 +42,13 @@ W = \tau \Delta\theta
 $
 
 Where:
-- $W$ is the work done (Joules, J)
-- $\tau$ is the constant net torque (N·m)
-- $\Delta\theta$ is the angular displacement (radians, rad)
+-$W$is the work done (Joules, J)
+-$\tau$is the constant net torque (N·m)
+-$\Delta\theta$is the angular displacement (radians, rad)
 
 **Important Notes:**
-- Angular displacement $\Delta\theta$ **must** be in radians for this formula to yield units of Joules.
-- If the torque is not constant, calculus is required to integrate $\tau$ with respect to $\theta$.
+- Angular displacement$\Delta\theta$**must** be in radians for this formula to yield units of Joules.
+- If the torque is not constant, calculus is required to integrate$\tau$with respect to$\theta$.
 
 ### 2.2. Work-Energy Theorem for Rotational Motion
 
@@ -59,11 +59,11 @@ W_{net} = \Delta K_{rot} = \frac{1}{2} I \omega_f^2 - \frac{1}{2} I \omega_i^2
 $
 
 Where:
-- $W_{net}$ is the net work done by all torques (J)
-- $\Delta K_{rot}$ is the change in [[Rotatinal Kinetic Energy]] (J)
-- $I$ is the moment of inertia (kg·m$^2$)
-- $\omega_f$ is the final angular speed (rad/s)
-- $\omega_i$ is the initial angular speed (rad/s)
+-$W_{net}$is the net work done by all torques (J)
+-$\Delta K_{rot}$is the change in [[Rotatinal Kinetic Energy]] (J)
+-$I$is the moment of inertia (kg·m$^2$)
+-$\omega_f$is the final angular speed (rad/s)
+-$\omega_i$is the initial angular speed (rad/s)
 
 This theorem is fundamental for relating the work done by torques to changes in an object's rotational motion.
 
@@ -76,17 +76,17 @@ P = \frac{dW}{dt} = \tau \frac{d\theta}{dt} = \tau \omega
 $
 
 Where:
-- $P$ is the power (Watts, W)
-- $\tau$ is the torque (N·m)
-- $\omega$ is the angular speed (rad/s)
+-$P$is the power (Watts, W)
+-$\tau$is the torque (N·m)
+-$\omega$is the angular speed (rad/s)
 
-This is analogous to the linear power formula $P = Fv$.
+This is analogous to the linear power formula$P = Fv$.
 
 ## 4. Relationship between Linear and Rotational Work
 
 The concepts of linear and rotational work are inherently linked. As discussed in [[Conneting Linear and Rotational Motion]], linear quantities can be related to their rotational counterparts.
 
-For a tangential force $F_t$ acting at a distance $r$ from the axis of rotation, undergoing a linear displacement $s = r\Delta\theta$:
+For a tangential force$F_t$acting at a distance$r$from the axis of rotation, undergoing a linear displacement$s = r\Delta\theta$:
 
 $
 W_{linear} = F_t s = F_t (r\Delta\theta) = (F_t r) \Delta\theta = \tau \Delta\theta = W_{rotational}
